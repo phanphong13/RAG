@@ -1,0 +1,14 @@
+langchain
+torch
+transformers
+sentence-transformers
+datasets
+faiss-cpu
+tiktoken 
+chromadb 
+pypdf 
+InstructorEmbedding
+accelerate 
+bitsandbytes 
+sentencepiece 
+Xformers
