@@ -1,0 +1,966 @@
+{
+  "title": "Jacksonville,_Florida",
+  "context": "Jacksonville is the largest city by population in the U.S. state of Florida, and the largest city by area in the contiguous United States. It is the county seat of Duval County, with which the city government consolidated in 1968. Consolidation gave Jacksonville its great size and placed most of its metropolitan population within the city limits; with an estimated population of 853,382 in 2014, it is the most populous city proper in Florida and the Southeast, and the 12th most populous in the United States. Jacksonville is the principal city in the Jacksonville metropolitan area, with a population of 1,345,596 in 2010.",
+  "qas": [
+    {
+      "question": "Which Florida city has the biggest population?",
+      "answer": "Jacksonville",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What was the population Jacksonville city as of 2010?",
+      "answer": "1,345,596",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Based on population alone, what is Jacksonville's ranking in the United States?",
+      "answer": "12th",
+      "llm_prediction": "the largest city by area in the contiguous united states"
+    },
+    {
+      "question": "In which county does Jacksonville reside?",
+      "answer": "Duval",
+      "llm_prediction": "duval"
+    },
+    {
+      "question": "What year did consolidation cause Jacksonville to become part of Duval County?",
+      "answer": "1968",
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "Which Florida city has a smallest population?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What County was Jacksonville the seat of prior to 1968?",
+      "answer": null,
+      "llm_prediction": "duval county"
+    },
+    {
+      "question": "What year did Jacksonville consolidate with Davis County?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "What is the largest metropolitan area in Florida and the Southeast?",
+      "answer": null,
+      "llm_prediction": "what is the largest metropolitan area in florida and the southeast? [SEP] jacksonville"
+    },
+    {
+      "question": "What city proper has a population of 1,345,596?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What river runs alongside Jacksonville?",
+      "answer": "St. Johns",
+      "llm_prediction": "river"
+    },
+    {
+      "question": "How far is Jacksonville from Miami?",
+      "answer": "340 miles",
+      "llm_prediction": "jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382 in 2014, it is the most populous city proper in florida and the southeast"
+    },
+    {
+      "question": "What is the name of the French colony established in 1564?",
+      "answer": "Fort Caroline",
+      "llm_prediction": "what is the name of the french colony established in 1564? [SEP] jacksonville"
+    },
+    {
+      "question": "Prior to the arrival of the French, the area now known as Jacksonville was previously inhabited by what people?",
+      "answer": "the Timucua",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What historical figure was Jacksonville named after?",
+      "answer": "Andrew Jackson",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What cities 340 km from Jacksonville?",
+      "answer": null,
+      "llm_prediction": "what cities"
+    },
+    {
+      "question": "In what year did the Timucue people inhabit the Jacksonville area?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "What British for was Jacksonville the site of?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states"
+    },
+    {
+      "question": "What grew at the narrow point in the river under Spanish rule?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What is the ranking of the military forces in Jacksonville?",
+      "answer": "third largest",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What sport attracts most tourists to Jacksonville?",
+      "answer": "golf",
+      "llm_prediction": "what sport"
+    },
+    {
+      "question": "How many naval bases are located in Jacksonville?",
+      "answer": "two",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are those from Jacksonville sometimes called?",
+      "answer": "\"Jacksonvillians\" or \"Jaxsons\"",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What has made Jacksonville a major military and civilian court since the 1900s?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "How many Marine bases are located in Jacksonville?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are people from Florida sometimes called?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Which port is United States's third-largest seaport?",
+      "answer": null,
+      "llm_prediction": "which port"
+    },
+    {
+      "question": "What are some of the minor factors in the local economy?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "The area where Jacksonville currently sits has been inhabited for how many years?",
+      "answer": "thousands",
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "Who discovered pottery found on Black Hammock Island?",
+      "answer": "a University of North Florida team",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What civilization did the pottery belong to?",
+      "answer": "Timucua",
+      "llm_prediction": "pottery"
+    },
+    {
+      "question": "What is the 16th century known as the start of?",
+      "answer": "the historical era",
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "What is the name of the village that once existed in what is now downtown Jacksonville?",
+      "answer": "Ossachite",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What area remained uninhabited for thousands of years? ",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What I lent to the team of northern University students discover pottery?",
+      "answer": null,
+      "llm_prediction": "pottery"
+    },
+    {
+      "question": "What to do university students find the dated sixteenth century?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "What area did the Mocama inhabit in 2500 BC?",
+      "answer": null,
+      "llm_prediction": "mocama"
+    },
+    {
+      "question": "Sauriwa is the earliest known name for what area?",
+      "answer": null,
+      "llm_prediction": "duval county"
+    },
+    {
+      "question": "Who mapped the St. Johns River in 1562?",
+      "answer": "Jean Ribault",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "For what nation did Ribault initially claim what is now Jacksonville?",
+      "answer": "France",
+      "llm_prediction": "duval county"
+    },
+    {
+      "question": "Who led the attack of the French colony in 1565?",
+      "answer": "Pedro Menéndez de Avilés",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What was Fort Caroline renamed to after the Spanish attack?",
+      "answer": "San Mateo",
+      "llm_prediction": "fort caroline"
+    },
+    {
+      "question": "Which fort was rebuilt in 1964?",
+      "answer": "Fort Caroline",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was the British explorer chartered the St. John's River?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Ribault erect the flag claiming the land for France?",
+      "answer": null,
+      "llm_prediction": "duval county"
+    },
+    {
+      "question": "Why did Pedro Menendez de Aviles called the St. John River the river of May?",
+      "answer": null,
+      "llm_prediction": "great size"
+    },
+    {
+      "question": "Who led the attack on Spain in 1565?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What year was Fort San Mateo reconstructed?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "After what event did the Spanish concede Florida to Britain?",
+      "answer": "French and Indian War",
+      "llm_prediction": "spanish concede florida to britain"
+    },
+    {
+      "question": "Soon after gaining Florida, what did the English do?",
+      "answer": "constructed the King's Road",
+      "llm_prediction": "great size"
+    },
+    {
+      "question": "Why the narrow part of St. John's River called Cowford?",
+      "answer": "cattle were brought across the river there.",
+      "llm_prediction": "why the narrow part of st. john ' s river called cowford"
+    },
+    {
+      "question": "Who gained control of Florida after the conclusion of the Revolutionary War?",
+      "answer": "Spain",
+      "llm_prediction": "who gained control of florida after the conclusion of the revolutionary war"
+    },
+    {
+      "question": "When was the Jacksonville town charter approved?",
+      "answer": "February 9, 1832",
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "When did the French construct Kings Road?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "What do French construct shortly before losing Florida?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "What town charter was approved in 1821?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Supplies from Jacksonville were in support of which faction in the Civil War?",
+      "answer": "Confederate",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the name of the battle that marked the first Confederate win in Florida?",
+      "answer": "The Skirmish of the Brick Church",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "After what battle did Union forces return to and occupy Jacksonville for the rest of the war?",
+      "answer": "Battle of Olustee",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What factors negatively impacted Jacksonville following the war?",
+      "answer": "Warfare and the long occupation",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was the battle that resulted from a Confederate cavalry unit attacking a Union expedition?",
+      "answer": "Battle of Cedar Creek",
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "Who did Jacksonville support with supplies during the Revolutionary war?",
+      "answer": null,
+      "llm_prediction": "who did jacksonville support with supplies during the revolutionary war? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382"
+    },
+    {
+      "question": "What was the name of the battle that marked the first Confederate loss in Florida?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "After what battle did Union forces leave Jacksonville for good?",
+      "answer": null,
+      "llm_prediction": "union"
+    },
+    {
+      "question": "What battle involve the Confederate Calvary in 1862?",
+      "answer": null,
+      "llm_prediction": "confederate calvary"
+    },
+    {
+      "question": "During what word was Jacksonville a key supply point for the North?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "During which period did Jacksonville become a popular destination for the rich?",
+      "answer": "Gilded Age",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which US President visited Jacksonville in 1888?",
+      "answer": "Grover Cleveland",
+      "llm_prediction": "us president"
+    },
+    {
+      "question": "What caused Jacksonville's tourism to become less desirable at the latter half of the 19th century?",
+      "answer": "yellow fever outbreaks",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What drew would-be Jacksonville tourists to other Florida destinations?",
+      "answer": "extension of the Florida East Coast Railway further south",
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "Other than the steamboat, what modern form of travel brought visitors to Florida?",
+      "answer": "railroad",
+      "llm_prediction": "steamboat, what modern form of travel brought visitors to florida? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382"
+    },
+    {
+      "question": "During what age was Jacksonville no longer a popular destination for the rich?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What Sen. visited Jacksonville in 1888?",
+      "answer": null,
+      "llm_prediction": "what sen."
+    },
+    {
+      "question": "What caused Jacksonville tourism to be less desirable during the 1900s?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Extensions of what drew Taurus to Jacksonville?",
+      "answer": null,
+      "llm_prediction": "taurus"
+    },
+    {
+      "question": "What modern forms of travel took visitors to other parts of Florida?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states"
+    },
+    {
+      "question": "What caused the spread of the Jacksonville fire in 1901?",
+      "answer": "Spanish moss",
+      "llm_prediction": "jacksonville fire"
+    },
+    {
+      "question": "How many buildings were razed by the Jacksonville fire?",
+      "answer": "over 2,000",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "In the wake of the Jacksonville fire, what did the Florida Governor do?",
+      "answer": "declare martial law",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the Jacksonville fire later known as?",
+      "answer": "Great Fire of 1901",
+      "llm_prediction": "jacksonville fire later known as? [SEP] jacksonville"
+    },
+    {
+      "question": "What slowed the spread of the Jacksonville fire in 1901?",
+      "answer": null,
+      "llm_prediction": "jacksonville fire"
+    },
+    {
+      "question": "When was the fire that destroyed 146 buildings in Jacksonville?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "What fire left 2000 people homeless?",
+      "answer": null,
+      "llm_prediction": "fire"
+    },
+    {
+      "question": "What was the largest urban fire in the United States?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What architect was prominent in Jacksonville prior to the fire?",
+      "answer": null,
+      "llm_prediction": "what architect was prominent in jacksonville prior to the fire? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382"
+    },
+    {
+      "question": "Who was drawn to Jacksonville in the 1910s?",
+      "answer": "New York–based filmmakers",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What type of movies were produced in Jacksonville's 30 studios?",
+      "answer": "silent film",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "Jacksonville's popularity for films earned it what title?",
+      "answer": "Winter Film Capital of the World",
+      "llm_prediction": "great size"
+    },
+    {
+      "question": "What brought the downfall of Jacksonville filmmaking?",
+      "answer": "Hollywood",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Is what industry was attracted to Jacksonville in the early nineteenth century?",
+      "answer": null,
+      "llm_prediction": "what industry was attracted to jacksonville in the early nineteenth century? [SEP] jacksonville is the largest city"
+    },
+    {
+      "question": "What other film city struggled as Jacksonville grew in popularity?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What was Hollywood known as?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What former studio in Jacksonville has been converted to a modern film Museum?",
+      "answer": null,
+      "llm_prediction": "what former studio in jacksonville has been converted to a modern film museum? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382"
+    },
+    {
+      "question": "What drove residents to quieter suburban housing?",
+      "answer": "highways",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What was the white population of Jacksonville as of 2010?",
+      "answer": "55.1%",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What term referred to middle class citizens leaving the suburbs?",
+      "answer": "\"white flight\"",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Who was responsible for the new building projects in Jacksonville?",
+      "answer": "Mayor W. Haydon Burns",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Jacksonville began to suffer and decline after what major world event?",
+      "answer": "World War II",
+      "llm_prediction": "the largest city by area in the contiguous united states"
+    },
+    {
+      "question": "What did Jacksonville suffer from following World War I?",
+      "answer": null,
+      "llm_prediction": "world war i"
+    },
+    {
+      "question": "Construction of what led residents to move from the suburbs?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "By how much did Jacksonville's Hispanic white population decline? Call",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What began to decline after World War I?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What was it called when Jacksonville's white population moved to the city?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What was the cause for the issues with city funding?",
+      "answer": "Much of the city's tax base dissipated",
+      "llm_prediction": "great size"
+    },
+    {
+      "question": "In what part of the city did residents suffer from a lack of city services?",
+      "answer": "unincorporated suburbs",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What was the proposed solution to Jacksonville's tax issues?",
+      "answer": "annexing outlying communities",
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "Who voted against Jacksonville's annexation?",
+      "answer": "Voters outside the city limits",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "What cause city funding to increase?",
+      "answer": null,
+      "llm_prediction": "consolidation"
+    },
+    {
+      "question": "Where were most municipal services concentrated at?",
+      "answer": null,
+      "llm_prediction": "where were most municipal services concentrated at? [SEP] jacksonville"
+    },
+    {
+      "question": "In what year was it suggested the Jacksonville stop annexing outlying communities?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "Who voted for Jacksonville's annexation?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How were most city officials elected in the 1960s?",
+      "answer": "old boy network",
+      "llm_prediction": "853, 382 in 2014, it is the most populous city proper in florida and the southeast, and the 12th most populous in the united states. jacksonville is the principal city"
+    },
+    {
+      "question": "How many city officials were indicted due to corruption?",
+      "answer": "11",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What political group began to gain support following the corruption scandal?",
+      "answer": "Jacksonville Consolidation",
+      "llm_prediction": "what political group began to gain support following the corruption scandal? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county"
+    },
+    {
+      "question": "What spurred increased support for government reform?",
+      "answer": "public high schools lost their accreditation",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "How are most city officials elected after the 1960s",
+      "answer": null,
+      "llm_prediction": "it is the most populous city proper in florida"
+    },
+    {
+      "question": "How many former city officials were investigated by the grand jury?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What political group begin to lose support following the corruption scandals?",
+      "answer": null,
+      "llm_prediction": "what political group begin to lose support following the corruption scandals? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county"
+    },
+    {
+      "question": "What happened when public high schools gained accreditation?",
+      "answer": null,
+      "llm_prediction": "consolidation gave jacksonville its great size"
+    },
+    {
+      "question": "What were the reasons not to consolidate the government?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the result of the 1967 referendum?",
+      "answer": "voters approved the plan",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Who was Jacksonville's mayor at the time of the consolidation?",
+      "answer": "Hans Tanzler",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "What was Jacksonville referred to as after the consolidation?",
+      "answer": "\"Bold New City of the South\"",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What was the name of the approved measure that helped cover the cost of major city projects?",
+      "answer": "Better Jacksonville Plan",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "How did the Better Jacksonville Plan generate money?",
+      "answer": "authorized a half-penny sales tax",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do voters reject in 1967",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382 in 2014, it is the most populous city proper in florida"
+    },
+    {
+      "question": "What was formed when the government merged in 1967?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Was services were not consolidated under the new government?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Jacksonville referred to before the consolidation?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "What is the land area of Jacksonville?",
+      "answer": "874.3 square miles",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What river separates Jacksonville?",
+      "answer": "The St. Johns River",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the river that is completely contained inside Jacksonville?",
+      "answer": "The Trout River",
+      "llm_prediction": "what is the name of the river that is completely contained inside jacksonville? [SEP] jacksonville is the largest city"
+    },
+    {
+      "question": "How much of Jacksonville is made up of water?",
+      "answer": "13.34%",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What town is surrounded by Jacksonville?",
+      "answer": "Baldwin",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "Was sitting is 874.3 km²?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What River surrounds Jacksonville?",
+      "answer": null,
+      "llm_prediction": "river"
+    },
+    {
+      "question": "What makes up 11.6% of Jacksonville?",
+      "answer": null,
+      "llm_prediction": "11. 6 % of jacksonville? [SEP] jacksonville"
+    },
+    {
+      "question": "What is the name of the river that lies completely outside of Jacksonville?",
+      "answer": null,
+      "llm_prediction": "what is the name of the river that lies completely outside of jacksonville? [SEP] jacksonville is the largest city"
+    },
+    {
+      "question": "What town surrounds Jacksonville?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What distinction does the Bank of America Tower hold?",
+      "answer": "tallest building in Downtown Jacksonville",
+      "llm_prediction": "the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size"
+    },
+    {
+      "question": "The Bank of America Tower was previously known as what?",
+      "answer": "Barnett Center",
+      "llm_prediction": "the bank of america tower"
+    },
+    {
+      "question": "How tall is the Bank of America Tower?",
+      "answer": "617 ft",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many floors are there in the building that was completed in 1967?",
+      "answer": "28",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What makes the Wells Fargo Center stand out?",
+      "answer": "its distinctive flared base",
+      "llm_prediction": "wells fargo center"
+    },
+    {
+      "question": "In the shortest building in downtown Jacksonville?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Building a 617 m tall?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What thirty-seven story building was built in 1972?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "How many stories does the Bank of America tower have?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What type of climate does Jacksonville have?",
+      "answer": "subtropical",
+      "llm_prediction": "what type of climate"
+    },
+    {
+      "question": "When does rain typically fall in Jacksonville?",
+      "answer": "May through September",
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "How is winter weather in Jacksonville described as?",
+      "answer": "mild",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Aside from being located on the coast, what contributes to Jacksonville's lack of cold weather?",
+      "answer": "low latitude",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Was city has a tropical climate?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What kind of winters does Jacksonville have along with hot and dry summers?",
+      "answer": null,
+      "llm_prediction": "hot and dry summers"
+    },
+    {
+      "question": "What is concentrated in the coldest months of the year?",
+      "answer": null,
+      "llm_prediction": "jacksonville is the largest city"
+    },
+    {
+      "question": "High altitude as well as what contributes to Jacksonville's lack of cold-weather question work",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Jacksonville's hottest recorded temperature?",
+      "answer": "104 °F",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What is a common occurrence during summer days?",
+      "answer": "thunderstorms",
+      "llm_prediction": "summer"
+    },
+    {
+      "question": "What else contributes to Jacksonville's summer storms other than land heating beside the water?",
+      "answer": "high humidity",
+      "llm_prediction": "853, 382 in 2014, it is the most populous city proper in florida and the southeast"
+    },
+    {
+      "question": "What is Jacksonville's hottest month on average?",
+      "answer": "July",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What is Jacksonville's highest recorded monthly temperature?",
+      "answer": null,
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "What kind of storms are common in the fall?",
+      "answer": null,
+      "llm_prediction": "what kind of storms"
+    },
+    {
+      "question": "Low humidity and what lead to Jacksonville's storms?",
+      "answer": null,
+      "llm_prediction": "low humidity"
+    },
+    {
+      "question": "My ways Jacksonville's coldest month on record?",
+      "answer": null,
+      "llm_prediction": "my ways jacksonville ' s coldest month on record? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968. consolidation gave jacksonville its great size and placed most of its metropolitan population within the city limits ; with an estimated population of 853, 382"
+    },
+    {
+      "question": "What storm had the most significant impact on Jacksonville?",
+      "answer": "Hurricane Dora",
+      "llm_prediction": "jacksonville"
+    },
+    {
+      "question": "How fast were the winds around St. Augustine in the 1964 hurricane?",
+      "answer": "110 mph",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What was the name of the storm that hit Jacksonville in May of 2012?",
+      "answer": "Tropical Storm Beryl",
+      "llm_prediction": "what was the name of the storm"
+    },
+    {
+      "question": "What is the scale used to measure the strength of hurricanes called?",
+      "answer": "Saffir-Simpson Scale",
+      "llm_prediction": "what is the scale used to measure the strength of hurricanes"
+    },
+    {
+      "question": "In what year did a tropical storm cause a four day loss of power to Jacksonville?",
+      "answer": "2008",
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "What hurricane had less effect on Jacksonville than other cities along the coast?",
+      "answer": null,
+      "llm_prediction": "what hurricane"
+    },
+    {
+      "question": "How high were the winds around St. Augustine during the 1871 hurricane?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What storm crisscrossed the state hitting Jacksonville in 1964?",
+      "answer": null,
+      "llm_prediction": "storm"
+    },
+    {
+      "question": "What P or was damaged during the 2008 tropical storm Fay?",
+      "answer": null,
+      "llm_prediction": "what p or"
+    },
+    {
+      "question": "Hurricane Dora caused a minor what?",
+      "answer": null,
+      "llm_prediction": "hurricane dora"
+    },
+    {
+      "question": "What ethnic group located in Jacksonville is ranked tenth largest?",
+      "answer": "Arab",
+      "llm_prediction": "what ethnic group"
+    },
+    {
+      "question": "How many residents were recorded in the 2010 census of Jacksonville?",
+      "answer": "821,784",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "Compared to the rest of Florida, how does Jacksonville's Filipino population rank?",
+      "answer": "largest",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What Jacksonville community is known for having heavy ties to the Navy?",
+      "answer": "Filipino",
+      "llm_prediction": "jacksonville community is known for having heavy ties to the navy? [SEP] jacksonville is the largest city"
+    },
+    {
+      "question": "In what city or the Arabs the twelve largest ethnic group?",
+      "answer": null,
+      "llm_prediction": "what city or the arabs the twelve largest ethnic group? [SEP] jacksonville"
+    },
+    {
+      "question": "In what year were there 366,233 people in Jacksonville?",
+      "answer": null,
+      "llm_prediction": "366, 233 people in jacksonville? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county, with which the city government consolidated in 1968"
+    },
+    {
+      "question": "Where else is there a smaller Filipino population that in Jacksonville?",
+      "answer": null,
+      "llm_prediction": "where else is there a smaller filipino population that in jacksonville? [SEP] jacksonville is the largest city by population in the u. s. state of florida, and the largest city by area in the contiguous united states. it is the county seat of duval county"
+    },
+    {
+      "question": "In what year were there 5751 Filipinos in Jacksonville",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "What military branch does much of Jacksonville's Arab population have ties to?",
+      "answer": null,
+      "llm_prediction": "military"
+    },
+    {
+      "question": "What portion of households in Jacksonville have only one person?",
+      "answer": "29.7%",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "How many of Jacksonville's city residents are younger than 18?",
+      "answer": "23.9%",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "Which gender is more populous across all groups in Jacksonville?",
+      "answer": "females",
+      "llm_prediction": "which gender"
+    },
+    {
+      "question": "How many men older than 18 are there for every 100 women?",
+      "answer": "91.3",
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "What year was 366,273 people in Jacksonville?",
+      "answer": null,
+      "llm_prediction": "1968"
+    },
+    {
+      "question": "How many of Jacksonville city's residents are older than eighteen?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "How many women older than eighteen are there for every 100 men?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    },
+    {
+      "question": "Where was the average household size was 3.21",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of married couples had children living with them?",
+      "answer": null,
+      "llm_prediction": "853, 382"
+    }
+  ]
+}

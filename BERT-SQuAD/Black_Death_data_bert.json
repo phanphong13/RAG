@@ -1,0 +1,1101 @@
+{
+  "title": "Black_Death",
+  "context": "The Black Death is thought to have originated in the arid plains of Central Asia, where it then travelled along the Silk Road, reaching Crimea by 1343. From there, it was most likely carried by Oriental rat fleas living on the black rats that were regular passengers on merchant ships. Spreading throughout the Mediterranean and Europe, the Black Death is estimated to have killed 30–60% of Europe's total population. In total, the plague reduced the world population from an estimated 450 million down to 350–375 million in the 14th century. The world population as a whole did not recover to pre-plague levels until the 17th century. The plague recurred occasionally in Europe until the 19th century.",
+  "qas": [
+    {
+      "question": "Where did the black death originate?",
+      "answer": "the arid plains of Central Asia",
+      "llm_prediction": "arid plains of central asia"
+    },
+    {
+      "question": "How did the black death make it to the Mediterranean and Europe?",
+      "answer": "merchant ships.",
+      "llm_prediction": "oriental rat fleas living on the black rats"
+    },
+    {
+      "question": "How much of the European population did the black death kill?",
+      "answer": "30–60% of Europe's total population",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "When did the world's population finally recover from the black death?",
+      "answer": "the 17th century",
+      "llm_prediction": "the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "For how long did the plague stick around?",
+      "answer": "until the 19th century",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "In what year did the Black Death originate in Central Asia?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "How did the Black Death travel down the Silk Road?",
+      "answer": null,
+      "llm_prediction": "carried by oriental rat fleas"
+    },
+    {
+      "question": "What percentage of people died of the Black Death in Central Asia?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What percentage of people died in Crimea of the Black Death?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "In what year did the Black Death reach the Mediterranean?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "What does it mean for a disease to be enzootic?",
+      "answer": "commonly present",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How old are the gravestones that reference the plague?",
+      "answer": "dating to 1338–39",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where do scientists think all of the plagues originated from?",
+      "answer": "China",
+      "llm_prediction": "plains of central asia"
+    },
+    {
+      "question": "When did the Chinese famine begin?",
+      "answer": "1331",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "How many did this epidemic in China kill?",
+      "answer": "an estimated 25 million",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "In what year did plague disease spread to Central Asia?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "In what year did the Mongol conquest of China begin?",
+      "answer": null,
+      "llm_prediction": "in what year did the mongol conquest of china begin? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "How many people lived in China in the 1300s?",
+      "answer": null,
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "In what country is Constantinople?",
+      "answer": null,
+      "llm_prediction": "the mediterranean and europe"
+    },
+    {
+      "question": "What is the term for a disease that is not commonly present?",
+      "answer": null,
+      "llm_prediction": "the black death"
+    },
+    {
+      "question": "Who introduced plague to Europe?",
+      "answer": "Genoese traders",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "Who did the army siege belong to?",
+      "answer": "Jani Beg",
+      "llm_prediction": "30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "What did the Mongol army throw in their catapults?",
+      "answer": "infected corpses",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did the genoese traders bring the plague?",
+      "answer": "Sicily",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What contributed to the severity of the plague?",
+      "answer": "war, famine, and weather",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "In what year did Jani Beg become leader of the Mongol army?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "In what year was Kaffa founded?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 %"
+    },
+    {
+      "question": "Who else besides Genoa traded with Kaffa?",
+      "answer": null,
+      "llm_prediction": "who else besides genoa traded with kaffa? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "To what city in Sicily did the Genoese traders flee to?",
+      "answer": null,
+      "llm_prediction": "what city in sicily did the genoese traders flee to? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Who's infected corpse was one of the ones catapulted over the walls of Kaffa by the Mongol army?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million"
+    },
+    {
+      "question": "Which direction did the disease first move in?",
+      "answer": "northwest across Europe",
+      "llm_prediction": "arid plains of central asia, where it then travelled along the silk road"
+    },
+    {
+      "question": "Which country was the last to receive the disease?",
+      "answer": "northwestern Russia",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "What types of European groups were able to avoid the plague?",
+      "answer": "parts of Europe that had smaller trade relations with their neighbours",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Where was the disease spreading between 1348 and 1350?",
+      "answer": "Germany and Scandinavia",
+      "llm_prediction": "the mediterranean and europe"
+    },
+    {
+      "question": "When did a plague-ridden ship land in Norway?",
+      "answer": "1349",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "In what month and year did the Black Death spread into France?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What country's ship landed at Oskoy?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did the Black Death spread into Iceland?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "Who did the Kingdom of Poland trade with?",
+      "answer": null,
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What was one of the countries that had isolated alpine villages?",
+      "answer": null,
+      "llm_prediction": "what was one of the countries that had isolated alpine villages? [SEP] the black death"
+    },
+    {
+      "question": "What effect did the plague have on the Middle East?",
+      "answer": "serious depopulation and permanent change in both economic and social structures",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "When had the plague reached Alexandria?",
+      "answer": "autumn 1347",
+      "llm_prediction": "1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "How did the plague infiltrate Alexandria?",
+      "answer": "y through the port's trade with Constantinople, and ports on the Black Sea",
+      "llm_prediction": "black rats"
+    },
+    {
+      "question": "Where did the residents of Antioch flee to?",
+      "answer": "The city's residents fled to the north",
+      "llm_prediction": "the mediterranean and europe"
+    },
+    {
+      "question": "In what year did the plague begin in the Middle East?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "Where did the residents of Antioch flee to due to the plague?",
+      "answer": null,
+      "llm_prediction": "the mediterranean and europe"
+    },
+    {
+      "question": "In what years did the infection spread to the people of Asia Minor?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "What was one of the cities that had a port on the Black Sea?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "In what country was Damascus?",
+      "answer": null,
+      "llm_prediction": "the mediterranean and europe"
+    },
+    {
+      "question": "Who claimed that the name Black Death first appeared in 1631?",
+      "answer": "Gasquet",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What is the Latin name for Black Death?",
+      "answer": "atra mors",
+      "llm_prediction": "black death? [SEP] the black death"
+    },
+    {
+      "question": "Who allegedly coined the name Black Death?",
+      "answer": "J.I. Pontanus",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "When did the name black death officially take root in England?",
+      "answer": "1823",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "Did the plague spread in Scandinavia or Germany first?",
+      "answer": "Scandinavia",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "In what year did the name \"black death\" spread into Germany?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "In what year did the Black Death spread into England?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what year was J.I. Pontanus born?",
+      "answer": null,
+      "llm_prediction": "in what year was j. i. pontanus born? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Scandinavia started calling the plague the Black Death in what year?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "What's the Latin name for Germany?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population."
+    },
+    {
+      "question": "What was the black death originally blamed on?",
+      "answer": "the heavens",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was the medical report written for?",
+      "answer": "the king of France",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What is the newer, more widely accepted theory behind the spread of the plague?",
+      "answer": "That the plague was caused by bad air",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the bad air theory officially known as?",
+      "answer": "Miasma theory",
+      "llm_prediction": "bad air theory"
+    },
+    {
+      "question": "In what city did the king of France live?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "What actually caused the plague?",
+      "answer": null,
+      "llm_prediction": "the black death"
+    },
+    {
+      "question": "In what year was the medical faculty in Paris established?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what year did medical knowledge begin to stagnate during the Middle Ages?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "What was considered responsible for the black death as well as the epidemic in southern China?",
+      "answer": "Yersinia pestis",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where and when did the investigation of the plague pathogen begin?",
+      "answer": "Hong Kong in 1894",
+      "llm_prediction": "plains of central asia"
+    },
+    {
+      "question": "Who was yersinia pestis named for?",
+      "answer": "French-Swiss bacteriologist Alexandre Yersin",
+      "llm_prediction": "yersinia pestis"
+    },
+    {
+      "question": "What did Paul-Louis Simond establish in 1898?",
+      "answer": "The mechanism by which Y. pestis was usually transmitted",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the bubonic plague mechanism reliant on?",
+      "answer": "two populations of rodents",
+      "llm_prediction": "the bubonic plague mechanism"
+    },
+    {
+      "question": "When did the Black Death spread into India?",
+      "answer": null,
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "In what year did Alexandre Yersin discover the Yersinia pestis?",
+      "answer": null,
+      "llm_prediction": "in what year did alexandre yersin discover the yersinia pestis? [SEP] the black death"
+    },
+    {
+      "question": "What nationality was Paul-Louis Simond?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Besides Alexandre Yersin who was another scientist that visited Hong Kong in 1894?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who named the pathogen Yersinia pestis?",
+      "answer": null,
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "Who wrote about the great pestilence in 1893?",
+      "answer": "Francis Aidan Gasquet",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What did Gasquet think the plague was?",
+      "answer": "some form of the ordinary Eastern or bubonic plague",
+      "llm_prediction": "killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "When did the second edition of Gasquet's book come out?",
+      "answer": "1908",
+      "llm_prediction": "17th century"
+    },
+    {
+      "question": "What did Gasquet's book blame the plague on?",
+      "answer": "rats and fleas",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What is another plague thought to have spread the same way?",
+      "answer": "the Justinian plague that was prevalent in the Eastern Roman Empire from 541 to 700 CE.",
+      "llm_prediction": "the black death"
+    },
+    {
+      "question": "When was Francis Aidan Gasquet born?",
+      "answer": null,
+      "llm_prediction": "francis aidan gasquet"
+    },
+    {
+      "question": "When did the bubonic plague begin in Europe?",
+      "answer": null,
+      "llm_prediction": "17th century. the plague recurred occasionally in europe until the 19th century"
+    },
+    {
+      "question": "What was the Justinian plague epidemic called?",
+      "answer": null,
+      "llm_prediction": "justinian plague"
+    },
+    {
+      "question": "In what year was the Eastern Roman Empire established?",
+      "answer": null,
+      "llm_prediction": "in what year was the eastern roman empire established? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "What is the mortality rate of the modern bubonic plague?",
+      "answer": "30–75%",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "How high do plague fevers run?",
+      "answer": "100–106 °F",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 %"
+    },
+    {
+      "question": "What percent of untreated victims of the plague die within 8 days?",
+      "answer": "80 percent",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the mortality rate of pneumonic plague?",
+      "answer": "90 to 95 percent",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What skin-related symptom appears from the pneumonic plague?",
+      "answer": "purple skin patches",
+      "llm_prediction": "pneumonic plague"
+    },
+    {
+      "question": "What color is the sputum of those suffering from septicemic plague sufferers?",
+      "answer": null,
+      "llm_prediction": "what color"
+    },
+    {
+      "question": "What temperature fever does one have suffering from pneumonic plague?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How high of a fever does someone suffering from septicemic plague have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How fast does septicemic kill most people left untreated?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How fast does pneumonic plague usually kill most people when left untreated?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "When did the Plos Pathogens paper come out?",
+      "answer": "In October 2010",
+      "llm_prediction": "17th century"
+    },
+    {
+      "question": "What was the Plos Pathogens paper about?",
+      "answer": "a new investigation into the role of Yersinia pestis in the Black Death",
+      "llm_prediction": "estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How did scientists assess the DNA/RNA of yersinia pestis? ",
+      "answer": "with Polymerase Chain Reaction (PCR)",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "Where did scientists find their Y. pestis sample? ",
+      "answer": "from the tooth sockets in human skeletons",
+      "llm_prediction": "the mediterranean and europe"
+    },
+    {
+      "question": "What does the plos pathogen paper claim?",
+      "answer": "unambiguously demonstrates that Y. pestis was the causative agent of the epidemic plague",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "In what year was PloS Pathogens first published?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what country is PloS Pathogens headquartered?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year were Polymerase Chain Reactions first used by researchers?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "What scientific journal in France published a prior analysis of the Black Death?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what month was Drancourt and Raoult's research published in 1998?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "What are clades?",
+      "answer": "genetic branches",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What strains of y. pestis were found in the mass graves?",
+      "answer": "Y. p. orientalis and Y. p. medievalis",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do the strains of y. pestis suggest abut the plague?",
+      "answer": "the plague may have entered Europe in two waves",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How and when did the first variant of y. pestis enter Europe?",
+      "answer": "through the port of Marseille around November 1347",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did the y. pestis reach England?",
+      "answer": "spring of 1349",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "In what year was Marseille founded?",
+      "answer": null,
+      "llm_prediction": "in what year was marseille founded? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what year did the second wave of the plague hit the Netherlands?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "What was one of the Hanseatic cities?",
+      "answer": null,
+      "llm_prediction": "one of the hanseatic cities? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "In what month in 1349 did the second wave of the plague reach England?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what country did the Y. p. orientalis genome originate?",
+      "answer": null,
+      "llm_prediction": "the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "What is the current status of the Haensch study?",
+      "answer": "confirmed and amended",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Where was the burial site used for testing located?",
+      "answer": "East Smithfield",
+      "llm_prediction": "plains of central asia"
+    },
+    {
+      "question": "What is thought to have happened to the y. pestis that caused the black death?",
+      "answer": "may no longer exist",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "When was the study on sequenced Y genomes published?",
+      "answer": "October 2011",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what year was the Haensch study released?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "Who wrote the study published in Nature in October 2011?",
+      "answer": null,
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What was Schuenemann's first name?",
+      "answer": null,
+      "llm_prediction": "schuenemann"
+    },
+    {
+      "question": "In what year were the Black Death victims in East Smithfield discovered?",
+      "answer": null,
+      "llm_prediction": "in what year were the black death victims in east smithfield discovered? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "Who challenged the plague theory first?",
+      "answer": "British bacteriologist J. F. D. Shrewsbury",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What did Shrewsbury note about the plague?",
+      "answer": "rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "What was Shrewsbury's conclusion?",
+      "answer": "contemporary accounts were exaggerations",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Graham Twigg publish in 1984?",
+      "answer": "the first major work to challenge the bubonic plague theory directly",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Who discussed Twigg's study in 2002?",
+      "answer": "Samuel K. Cohn, Jr.",
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "Who first came up with the bubonic plague theory?",
+      "answer": null,
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "What is Samuel K. Cohn Jr.'s career?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of scientist is David Herlihy?",
+      "answer": null,
+      "llm_prediction": "david herlihy"
+    },
+    {
+      "question": "Who came up with the term Black Death?",
+      "answer": null,
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "In what year did Samuel K. Cohn, Jr.  read Graham Twigg's major work?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century. the world population as a whole did not recover to pre - plague levels until the 17th century"
+    },
+    {
+      "question": "What is as important as identifying plague symptoms?",
+      "answer": "epidemiological account of the plague",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Why are researchers struggling to identify the history of the plague?",
+      "answer": "the lack of reliable statistics from this period",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How much do estimations of the population during the plague vary?",
+      "answer": "by over 100%",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where can population estimates be extrapolated from?",
+      "answer": "the clergy",
+      "llm_prediction": ""
+    },
+    {
+      "question": "During which years was no census taken?",
+      "answer": "between the time of publication of the Domesday Book and the year 1377",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what year did the plague begin in England?",
+      "answer": null,
+      "llm_prediction": "in what year did the plague begin in england? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas living on the black rats that were regular passengers on merchant ships. spreading throughout the mediterranean and europe, the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what year was the Domesday Book written?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "What is the Domesday Book about?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "In what year did the clergy enter England?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "Why might rats not be responsible for the plague?",
+      "answer": "the rat population was insufficient",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How significant was the transfer of disease through fleas?",
+      "answer": "of marginal significance",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why  might the temperature affect the theory of plague spreading?",
+      "answer": "temperatures that are too cold in northern Europe for the survival of fleas",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Was the bubonic plague spread faster or slower than modern bubonic plague?",
+      "answer": "the Black Death was much faster than that of modern bubonic plague",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many years could separate outbreaks of the black death?",
+      "answer": "5 to 15 years",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "In what century did modern bubonic plague strike Europe?",
+      "answer": null,
+      "llm_prediction": "14th"
+    },
+    {
+      "question": "Is the weather of southern Europe survivable for fleas?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How was the Black Death spread in Europe?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many years did it take for the Black Death to spread throughout Europe?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How long did it take to travel across Europe using primitive transport systems?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does Graham Twigg propose about the spread of disease?",
+      "answer": "a form of anthrax",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Norman Cantor's theory about the plague?",
+      "answer": "a combination of anthrax and other pandemics",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "Which diseases do many scientists believe contributed to plague pandemic?",
+      "answer": "typhus, smallpox and respiratory infections",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is septicemia? ",
+      "answer": "(a type of \"blood poisoning\"",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How many bodies did Public Health England exhume? ",
+      "answer": "25",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million"
+    },
+    {
+      "question": "What was Twigg's first name?",
+      "answer": null,
+      "llm_prediction": "twigg"
+    },
+    {
+      "question": "What type of scientist is Norman Cantor?",
+      "answer": null,
+      "llm_prediction": "norman cantor"
+    },
+    {
+      "question": "Who was one of the scientists for Public Health England in 2014?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was Scott and Duncan's research published?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "Who discovered Y. pestis?",
+      "answer": null,
+      "llm_prediction": "oriental rat fleas"
+    },
+    {
+      "question": "How much of the population in the Middle East died of the plague?",
+      "answer": "about a third.",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "How much of Paris' population was killed by the plague?",
+      "answer": "Half of Paris's population of 100,000 people",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What do isolated, spaced out graves of plague victims indicate?",
+      "answer": "at least some pre-planning and Christian burials",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How many people would die of plague in largely populated cities?",
+      "answer": "as much as 50%",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "Which areas were least vulnerable to disease?",
+      "answer": "most isolated areas",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 %"
+    },
+    {
+      "question": "How many people lived in Egypt at the start of the Black Death?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what country is Hamburg?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did the plague originate?",
+      "answer": null,
+      "llm_prediction": "arid plains of central asia"
+    },
+    {
+      "question": "What percentage of monks and priests died from the Black Death?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What percentage of people in isolated areas of Europe died from the Black Death?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "When did the plague return to Europe?",
+      "answer": "throughout the 14th to 17th centuries",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "What did Biraben say about the plague in Europe?",
+      "answer": "the plague was present somewhere in Europe in every year between 1346 and 1671.",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How many French people were lost to plague between 1628-31?",
+      "answer": "almost a million people",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Biraben's first name?",
+      "answer": null,
+      "llm_prediction": "biraben"
+    },
+    {
+      "question": "When did the First Pandemic end?",
+      "answer": null,
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "Where is Geoffrey Parker from?",
+      "answer": null,
+      "llm_prediction": "arid plains of central asia"
+    },
+    {
+      "question": "Where is Biraben from?",
+      "answer": null,
+      "llm_prediction": "arid plains of central asia"
+    },
+    {
+      "question": "How many people died from the Black Death in Northern  Africa?",
+      "answer": null,
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "What did historians do in the absence of census figures?",
+      "answer": "propose a range of preincident population figures from as high as 7 million to as low as 4 million",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did the black death technically subside?",
+      "answer": "By the end of 1350",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "How many people died in the outbreak of 1471?",
+      "answer": "10–15% of the population",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "When was the great plague of London?",
+      "answer": "1665",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "What percentage of the population of London died during the 1589 breakout of the Black Death?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of people died during the Great Plague of London in 1665?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "In what year did the Tudor era begin in England?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "What was the population of Europe in 1665?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What percentage of the population died in the 1625 outbreak of the Black Death?",
+      "answer": null,
+      "llm_prediction": "30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How many people died of plague in Paris in 1466?",
+      "answer": "40,000",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "The black plague ravaged Europe for three years followed by what country?",
+      "answer": "Russia",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many times did plague occur in Venice?",
+      "answer": "22 times between 1361 and 1528",
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "Which outbreak was associated with troops in the thirty years war?",
+      "answer": "the Italian Plague of 1629–1631",
+      "llm_prediction": "the black death"
+    },
+    {
+      "question": "When was the last plague outbreak?",
+      "answer": "The last plague outbreak ravaged Oslo in 1654.",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "What percentage of the population of Paris died of the plague in 1466?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "How many people lived in Oslo at the start of the plague outbreak in 1654?",
+      "answer": null,
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "What percentage of Venice residents died of the plague in 1361?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "Who did Italy fight during the Thirty Years War?",
+      "answer": null,
+      "llm_prediction": "30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How many people lived in Norway in 1348?",
+      "answer": null,
+      "llm_prediction": "30 – 60 % of europe ' s total population. in total, the plague reduced the world population from an estimated 450 million"
+    },
+    {
+      "question": "How many were killed by plague in Italy in the 17th century?",
+      "answer": "some 1.7 million victims",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "How many were killed by plague in Naples in 1656?",
+      "answer": "about half of Naples' 300,000 inhabitants",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "How many residents of Seville died of plague in 1649?",
+      "answer": "reduced the population of Seville by half",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "Who fought in the great Northern war?",
+      "answer": "Sweden v. Russia and allies",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was Europe's last major epidemic?",
+      "answer": "1720 in Marseille.",
+      "llm_prediction": "14th century"
+    },
+    {
+      "question": "In what country is Seville located?",
+      "answer": null,
+      "llm_prediction": "crimea"
+    },
+    {
+      "question": "What was one of the allies of Russia in the Great Northern War?",
+      "answer": null,
+      "llm_prediction": "what was one of the allies of russia in the great northern war? [SEP] the black death is thought to have originated in the arid plains of central asia, where it then travelled along the silk road, reaching crimea by 1343. from there, it was most likely carried by oriental rat fleas"
+    },
+    {
+      "question": "What percentage of the population of Spain died of the plague in the 17th century?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "What was the population of Stockholm?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "In what country is Marseille?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "During which years was the plague present in Islamic countries?",
+      "answer": "between 1500 and 1850",
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "How many people were lost in Algiers during 1620-21?",
+      "answer": "30 to 50 thousand inhabitants",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "How long did plague last in the Ottoman empire?",
+      "answer": "until the second quarter of the 19th century.",
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 % of europe ' s total population"
+    },
+    {
+      "question": "How many people, at most, have died of plague in Baghdad? ",
+      "answer": "two-thirds of its population",
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "In what year did the residents of Baghdad first become affected by the plague?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million down to 350 – 375 million in the 14th century"
+    },
+    {
+      "question": "How many people lived in Constantinople in 1701?",
+      "answer": null,
+      "llm_prediction": "30 – 60 %"
+    },
+    {
+      "question": "How many people died of the plague in Ottoman society in the 19th century?",
+      "answer": null,
+      "llm_prediction": "450 million"
+    },
+    {
+      "question": "How many times did the plague visit Baghdad?",
+      "answer": null,
+      "llm_prediction": "the black death is estimated to have killed 30 – 60 %"
+    },
+    {
+      "question": "How many times did the plague visit Ottoman society before the second quarter of the 19th century?",
+      "answer": null,
+      "llm_prediction": "the plague reduced the world population from an estimated 450 million"
+    }
+  ]
+}

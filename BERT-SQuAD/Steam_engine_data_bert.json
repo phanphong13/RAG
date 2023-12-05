@@ -1,0 +1,2226 @@
+{
+  "title": "Steam_engine",
+  "context": "Steam engines are external combustion engines, where the working fluid is separate from the combustion products. Non-combustion heat sources such as solar power, nuclear power or geothermal energy may be used. The ideal thermodynamic cycle used to analyze this process is called the Rankine cycle. In the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. When expanded through pistons or turbines, mechanical work is done. The reduced-pressure steam is then condensed and pumped back into the boiler.",
+  "qas": [
+    {
+      "question": "Along with geothermal and nuclear, what is a notable non-combustion heat source?",
+      "answer": "solar",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What ideal thermodynamic cycle analyzes the process by which steam engines work?",
+      "answer": "Rankine",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In the Rankine cycle, what does water turn into when heated?",
+      "answer": "steam",
+      "llm_prediction": "steam"
+    },
+    {
+      "question": "At what pressure is water heated in the Rankine cycle?",
+      "answer": "high",
+      "llm_prediction": "high pressure"
+    },
+    {
+      "question": "What types of engines are steam engines?",
+      "answer": "external combustion",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with geothermal and nuclear, what is a notable combustion heat source?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What ideal thermodynamic cycle analyzes the process by which solar engines work?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "In the Rankine cycle, what does nuclear power turn into when heated?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "At what pressure is nuclear power heated in the Rankine cycle?",
+      "answer": null,
+      "llm_prediction": "high pressure"
+    },
+    {
+      "question": "What types of engines are solar engines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the first true engine that was commercially successful?",
+      "answer": "atmospheric engine",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who was the inventor of the atmospheric engine?",
+      "answer": "Thomas Newcomen",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "About what year was the atmospheric engine invented?",
+      "answer": "1712",
+      "llm_prediction": "about what year was the atmospheric engine invented? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What was invented by Savery?",
+      "answer": "steam pump",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who conceptualized the piston?",
+      "answer": "Papin",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the first true vacuum that was commercially successful?",
+      "answer": null,
+      "llm_prediction": "what was the first true vacuum"
+    },
+    {
+      "question": "Who was the inventor of the vacuum?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "About what year was the vacuum engine developed?",
+      "answer": null,
+      "llm_prediction": "about what year was the vacuum engine developed? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What was invented in a storage reservoir?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who conceptualized the vacuum?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what country was a full-scale working railway steam locomotive first invented?",
+      "answer": "United Kingdom",
+      "llm_prediction": "in what country was a full - scale working railway steam locomotive first invented? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "On what date did the first railway trip in the world occur?",
+      "answer": "21 February 1804",
+      "llm_prediction": "on what date did the first railway trip"
+    },
+    {
+      "question": "Where did the world's first railway journey terminate?",
+      "answer": "Abercynon",
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what constituent country of the United Kingdom is Merthyr Tydfil located?",
+      "answer": "Wales",
+      "llm_prediction": "merthyr tydfil"
+    },
+    {
+      "question": "In what geographical portion of Wales is Abercynon located?",
+      "answer": "south",
+      "llm_prediction": "abercynon"
+    },
+    {
+      "question": "In what country was a full-scale working railway steam centre first invented?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "On what date did the first railway trip in England occur?",
+      "answer": null,
+      "llm_prediction": "on what date did the first railway trip"
+    },
+    {
+      "question": "Where did the England's first railway journey terminate?",
+      "answer": null,
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what constituent country of the United Kingdom is Trevithick located? ",
+      "answer": null,
+      "llm_prediction": "trevithick"
+    },
+    {
+      "question": "In what geographical portion of England is Abercynon located?",
+      "answer": null,
+      "llm_prediction": "geographical portion of england"
+    },
+    {
+      "question": "What device is used to recycle the boiler water in most steam engines?",
+      "answer": "water pump",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What types of pumps are typically used in industrial boilers?",
+      "answer": "multi-stage centrifugal",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what decade were injectors widely used in steam engines?",
+      "answer": "1850s",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is a notable application of injectors today?",
+      "answer": "steam locomotives",
+      "llm_prediction": "boiler"
+    },
+    {
+      "question": "What are injectors used to supply?",
+      "answer": "lower-pressure boiler feed water",
+      "llm_prediction": "injectors used to supply? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What device is used to recycle the boiler water in most jet engines?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What types of pumps are typically used in jet engines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what decade were injectors widely used in jet engines?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a notable application of jet engines today?",
+      "answer": null,
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What are jet engines used to supply?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many expansion stages are used by the triple expansion engine?",
+      "answer": "three",
+      "llm_prediction": "how many expansion stages"
+    },
+    {
+      "question": "What are engines using four expansion stages known as?",
+      "answer": "quadruple expansion engines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what century was the Yarrow-Schlick-Tweedy balancing system used?",
+      "answer": "19th",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What sort of engines utilized the Yarrow-Schlick-Tweedy balancing system?",
+      "answer": "marine triple expansion",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What class of ships is an example of large passenger liners?",
+      "answer": "Olympic",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "How many expansion stages are used by the crankshaft engine?",
+      "answer": null,
+      "llm_prediction": "how many expansion stages"
+    },
+    {
+      "question": "What are engines using four expansion cylinders known as?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what century was the Olympic balancing system used?",
+      "answer": null,
+      "llm_prediction": "in what century was the olympic balancing system used? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What sort of engines utilized the Olympic balancing system?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What class of ships is an example of small passenger liners?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with poppet valve gears, what type of gears utilized separate admission and exhaust valves to give ideal events?",
+      "answer": "Corliss",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Along with Stephenson and Walschaerts, what is an example of a simple motion?",
+      "answer": "Joy",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "How is lap provided by overlapping the admission side port?",
+      "answer": "lengthening rubbing surfaces of the valve",
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What type of gears, along with poppet valve gears, utilized separate admission and leakage cutoffs to give ideal events? ",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is an example of complicated exhaust, along with Stephenson and Walschaerts?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is lap provided by overlapping the stationary marketplace port?",
+      "answer": null,
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "When were attempts made to overcome stationary marketplaces?",
+      "answer": null,
+      "llm_prediction": "in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What are sometimes present in the boiler's firebox crown?",
+      "answer": "Lead fusible plugs",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What happens to the lead fusible plugs if the water level of the boiler drops?",
+      "answer": "melts",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What happens after the lead melts?",
+      "answer": "steam escapes",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "After the operators are warned by the escape of the steam, what may they then do?",
+      "answer": "manually suppress the fire",
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the escape of the steam unlikely to accomplish in all but the smallest boilers?",
+      "answer": "dampening the fire",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What are sometimes present in the plug's firebox crown?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What happens to the lead fusible plugs if the water level of the fire drops?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What happens after the firebox melts?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "After the operators are warned by the escape of the firebox, what may they then do?",
+      "answer": null,
+      "llm_prediction": "condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the escape of the firebox unlikely to accomplish in all but the smallest boilers?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "Who patented a steam engine in 1781?",
+      "answer": "James Watt",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What sort of motion did Watt's steam engine continuously produce?",
+      "answer": "rotary",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "How many horsepower was Watt's engine?",
+      "answer": "ten",
+      "llm_prediction": "how many horsepower"
+    },
+    {
+      "question": "As of what year were 10000 horsepower engines available?",
+      "answer": "1883",
+      "llm_prediction": "10000 horsepower engines available? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What was the steam engine an important component of?",
+      "answer": "Industrial Revolution",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who patented a steam engine in 1883?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What sort of motion did Newcomen's steam engine continuously produce?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "How many horsepower was Newcomen's engine?",
+      "answer": null,
+      "llm_prediction": "how many horsepower"
+    },
+    {
+      "question": "As of what year were 1700 horsepower engines available?",
+      "answer": null,
+      "llm_prediction": "1700"
+    },
+    {
+      "question": "What was the high pressure engine an important component of?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what century did the history of the steam engine begin?",
+      "answer": "first",
+      "llm_prediction": "in what century did the history of the steam engine begin? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "Who conceptualized the aeolipile?",
+      "answer": "Hero of Alexandria",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was Hero of Alexandria's nationality?",
+      "answer": "Greek",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who described a steam turbine in 1629?",
+      "answer": "Giovanni Branca",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?",
+      "answer": "1606",
+      "llm_prediction": "in what year did jeronimo de ayanz y beaumont patent a water pump for draining mines? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what century did the history of the steam digester begin?",
+      "answer": null,
+      "llm_prediction": "in what century did the history of the steam digester begin? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "Who conceptualized the piston?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was Hero of Ayanz's nationality?",
+      "answer": null,
+      "llm_prediction": "ayanz"
+    },
+    {
+      "question": "Who described a steam turbine in 1690?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year did Jeronimo de Ayanz y Beaumont patent a water pump for draining patients?",
+      "answer": null,
+      "llm_prediction": "in what year did jeronimo de ayanz y beaumont patent a water pump for draining patients? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What type of engines became widespread around the end of the 19th century?",
+      "answer": "compound",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What are the stages in a compound engine called?",
+      "answer": "expansions",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "In what field were double and triple expansion engines common?",
+      "answer": "shipping",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What product was notably shipped in vessels equipped with double and triple expansion engines?",
+      "answer": "coal",
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "Along with electric motors, what power sources overtook steam engines in the 20th century?",
+      "answer": "internal combustion engines",
+      "llm_prediction": "electric motors, what power sources overtook steam engines in the 20th century? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What type of engines became widespread around the end of the 20th century?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What are the stages in an efficiency engine called?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "In what field were double and triple expansion replacements common?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What product was notably shipped in vessels equipped with double and triple replacement engines?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "Along with electric motors, what power sources overtook expansion engines in the 20th century?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The use of what device represented the last major evolution of the steam engine?",
+      "answer": "steam turbines",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what part of the 19th century were steam turbines introduced?",
+      "answer": "late",
+      "llm_prediction": "19th century"
+    },
+    {
+      "question": "Above what horsepower are steam turbines usually more efficient than steam engines that use reciprocating pistons?",
+      "answer": "several hundred",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What percentage of electrical power in the United States is made by steam turbines?",
+      "answer": "90",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Most power of what sort is generated by steam turbines today?",
+      "answer": "electric",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What device's use represented the last major evolution of the generator?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what part of the 19th century where generators introduced? ",
+      "answer": null,
+      "llm_prediction": "19th century where generators introduced? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Above what horsepower are steam turbines usually more efficient than generators that use reciprocating pistons?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What percentage of electrical power in the United States is made by generators?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "What sort of power is generated by heat sources today?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the usual source of heat for boiling water in the steam engine?",
+      "answer": "burning combustible materials",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Aside from firebox, what is another name for the space in which combustible material is burned in the engine?",
+      "answer": "combustion chamber",
+      "llm_prediction": "firebox"
+    },
+    {
+      "question": "Along with nuclear, geothermal and internal combustion engine waste heat, what sort of energy might supply the heat for a steam engine?",
+      "answer": "solar",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of heating element is often used in toy steam engines?",
+      "answer": "electric",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the usual source of heat for boiling water in the industrial process?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What, aside from firebox, is another name for the space in which combustible material is burned in the electric heating element?",
+      "answer": null,
+      "llm_prediction": "firebox, is another name for the space in which combustible material is burned in the electric heating element? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What type of heating element is often used in toy chamber engines?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What sort of energy, along with nuclear, geothermal, and internal combustion waste heat, might supply the heat for a firebox?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of heating element is often used in closed space engines?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What instrument is used to examine steam engine performance?",
+      "answer": "steam engine indicator",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "What year saw the earliest recorded use of the steam engine indicator?",
+      "answer": "1851",
+      "llm_prediction": "what year saw the earliest recorded use of the steam engine indicator? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What company developed the most successful steam engine indicator?",
+      "answer": "Charles Porter",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who developed a successful steam engine indicator for Charles Porter?",
+      "answer": "Charles Richard",
+      "llm_prediction": "charles porter"
+    },
+    {
+      "question": "Where was the Charles Porter steam engine indicator shown?",
+      "answer": "London Exhibition",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What instrument is used to examine diagram performance?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "What year saw the earliest recorded use of steam engines?",
+      "answer": null,
+      "llm_prediction": "what year saw the earliest recorded use of steam engines? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What company developed the most successful steam engine?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who developed a successful steam engine for Charles Porter?",
+      "answer": null,
+      "llm_prediction": "charles porter"
+    },
+    {
+      "question": "Where was the Charles Porter steam engine shown?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "At what degree are the pistons of a two-cylinder compound connected to the cranks?",
+      "answer": "90",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In a 4-cylinder compound engine, what degree were the individual pistons balanced at?",
+      "answer": "180",
+      "llm_prediction": ""
+    },
+    {
+      "question": "At what angle were the groups of pistons set in relation to one another in a 4-cylinder compound?",
+      "answer": "90",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "At what degree are the pistons of a two-cylinder compound connected to the pistons?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In a 4-cylinder compound engine, what degree were the individual cranks balanced at",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "At what angle were the groups of pistons set in relation to one another in a 4-cylinder crank?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What happens when the double expansion crank is duplicated?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happens to railways in the first type of Vauclain compound?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is a term for the reversing of steam flow in a piston engine after each stroke?",
+      "answer": "counterflow",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "How many piston strokes occur in an engine cycle?",
+      "answer": "two",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many crank rotations are there in an engine cycle?",
+      "answer": "one",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many events occur in an engine cycle?",
+      "answer": "four",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "Along with admission, exhaust and compression, what is an event in the engine cycle?",
+      "answer": "expansion",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is a term for the reversing of steam flow in a compression engine after each stroke?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "How many piston strokes occur in an exhaust cycle?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many crank rotations are there in a cylinder cycle?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many events occur in a steam cycle?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What, along with admission, exhaust, and compression, is an event in the steam cycle?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the name of a uniflow engine that takes in steam in hot areas and exhausts it in cold?",
+      "answer": "Quasiturbine",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "The uniflow engine is an attempt to fix an issue that arises in what cycle?",
+      "answer": "counterflow",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "What part is added to the uniflow engine to resolve the issue in the counterflow cycle?",
+      "answer": "port",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is the name of a uniflow engine that takes in steam in hot areas and exhausts it in passing?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What cycle has an issue for which an expansion gradient attempts to fix?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What part is added to the expansion gradient to resolve the issue in the counterflow cycle?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "What attempt to remedy the difficulties arising from gradient performance?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the aim of the additional stroke?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What type of steam engine doesn't need valves to direct steam?",
+      "answer": "oscillating cylinder",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another term for the pivot mounting?",
+      "answer": "trunnion",
+      "llm_prediction": "pivot mounting"
+    },
+    {
+      "question": "Along with toys, where are oscillating cylinder steam engines typically used?",
+      "answer": "models",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Full size working engines on what vehicles sometimes use oscillating cylinder steam engines?",
+      "answer": "ships",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of steam engine doesn't need valves to direct engines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another term for the port face?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Where, along with toys, are oscillating cylinder port faces typically used?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "On what vehicles do full size working engines sometimes use oscillating cylinder rocks?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a variant of the simple expansion pivot mounting?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What happens to the working fluid in a closed loop system?",
+      "answer": "recycled continuously",
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What sort of system releases the exhaust steam into the atmosphere?",
+      "answer": "open loop",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What working fluid is used in a mercury vapor turbine?",
+      "answer": "Mercury",
+      "llm_prediction": "water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the typical working fluid in a steam engine?",
+      "answer": "water",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What happens to the working fluid in a chemistry system?",
+      "answer": null,
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What sort of system releases the exhaust steam into the boiler?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What working fluid is used in a mercury cycle?",
+      "answer": null,
+      "llm_prediction": "water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the typical working fluid in a vapor turbine?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can the working fluid in a boiler cycle operate as?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What limits the Rankine cycle's efficiency?",
+      "answer": "working fluid",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the turbine entry temperature of a steam turbine, in degrees Celsius?",
+      "answer": "565",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is  565 °C the creep limit of?",
+      "answer": "stainless steel",
+      "llm_prediction": "565 °c"
+    },
+    {
+      "question": "What is the approximate condenser temperature in a turbine?",
+      "answer": "30 °C",
+      "llm_prediction": "condenser temperature in a turbine? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is a turbine's theoretical Carnot efficiency?",
+      "answer": "63%",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What limits the Rankine cycle's temperatures?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What is the turbine entry temperature of a Rankine turbine, in degrees Celsius?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is 63 degrees celsius the creep limit of?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the approximate condenser temperature in stainless steel?",
+      "answer": null,
+      "llm_prediction": "condenser temperature in stainless steel? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is stainless steel's theoretical Carnot efficiency?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What devices have been credited as the moving force of the Industrial Revolution?",
+      "answer": "Steam engines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with road vehicles, locomotives and ships, on what vehicles were steam engines used during the Industrial Revolution?",
+      "answer": "steamboats",
+      "llm_prediction": "road vehicles"
+    },
+    {
+      "question": "What is an example of a steam-powered automobile?",
+      "answer": "Stanley Steamer",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with mills and mines, in what industrial locations did steam drive machines?",
+      "answer": "factories",
+      "llm_prediction": "mills and mines, in what industrial locations did steam drive machines? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What did the use of steam engines in farming lead to?",
+      "answer": "increase in the land available for cultivation",
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What devices have been credited as the moving force of cultivation?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with road vehicles, locomotives and ships, on what vehicles were steam engines used during cultivation?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is an example of a road vehicle?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with mills and mines, in what industrial locations did steam drive cultivation?",
+      "answer": null,
+      "llm_prediction": "industrial locations"
+    },
+    {
+      "question": "What did the use of motorcycles in farming lead to?",
+      "answer": null,
+      "llm_prediction": "mechanical work"
+    },
+    {
+      "question": "What was the name of the locomotive that debuted in 1808?",
+      "answer": "Catch Me Who Can",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who designed Salamanca?",
+      "answer": "Matthew Murray",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of locomotive was Salamanca?",
+      "answer": "twin-cylinder",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "On what railroad was Salamanca used?",
+      "answer": "Middleton Railway",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "For what railroad did Stephenson build a locomotive in 1825?",
+      "answer": "Stockton and Darlington",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the name of the locomotive that debuted in 1825?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who designed Salamanca?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of locomotive was Darlington?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "On what railroad was Darlington used?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "For what railroad did Murray build a locomotive in 1825?",
+      "answer": null,
+      "llm_prediction": "murray build a locomotive in 1825? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "Who patented a high-pressure compound engine in 1805?",
+      "answer": "Arthur Woolf",
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What nationality was Arthur Woolf?",
+      "answer": "British",
+      "llm_prediction": "non"
+    },
+    {
+      "question": "What is decreased by staging expansion across multiple cylinders?",
+      "answer": "torque variability",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What needs to be larger to get the same work out of lower pressure steam?",
+      "answer": "cylinder volume",
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "Who patented a high-pressure compound engine in 1804?",
+      "answer": null,
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What nationality was Arthur Smith?",
+      "answer": null,
+      "llm_prediction": "non"
+    },
+    {
+      "question": "What is decreased by staging expansion across one cylinder?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What needs to be larger to get the same work out of lower pressure cooling?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "Who patented the Woolf cooling cylinder?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What percentage of electricity was made by steam turbine in the 1990s?",
+      "answer": "90",
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "What marine engines were less efficient than steam turbines?",
+      "answer": "reciprocating steam engines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with diesel engines, what engines have overtaken steam engines for marine propulsion?",
+      "answer": "gas turbines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What engines were used throughout most of the 20th century to propel ships?",
+      "answer": "steam turbines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What gearing was used on steam turbine marine engines in the 20th century?",
+      "answer": "reduction",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What percentage of electricity was made by power plants in the 1990s?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What marine engines were less efficient than gas turbines?",
+      "answer": null,
+      "llm_prediction": "gas turbines? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What engines, along with diesel engines, have overtaken steam engines for gas propulsion?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What engines were used throughout most of the 20th century to propel power plants?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What gearing was used on steam turbine engines until the 1990s?",
+      "answer": null,
+      "llm_prediction": "what gearing"
+    },
+    {
+      "question": "What is the steam engine's thermodynamic basis?",
+      "answer": "Rankine cycle",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What happens to waste heat in the Rankine cycle?",
+      "answer": "removed in a condenser",
+      "llm_prediction": "the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what decade did the Rankine cycle create 90% of electric power?",
+      "answer": "1990s",
+      "llm_prediction": "in what decade did the rankine cycle create 90 % of electric power? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "Along with solar, coal and nuclear, what sort of plants notable use the Rankine process?",
+      "answer": "biomass",
+      "llm_prediction": "solar, coal and nuclear, what sort of plants notable use the rankine process? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What is William Rankine's nationality?",
+      "answer": "Scottish",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the exhaust's thermodynamic basis?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What happens to waste heat in the water?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what decade did the Rankine cycle create 90% of engine components?",
+      "answer": null,
+      "llm_prediction": "in what decade did the rankine cycle create 90 % of engine components? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What, along with solar, coal, and nuclear, uses the heat process?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is William Jones's nationality?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "How was the efficiency of a steam engine typically evaluated?",
+      "answer": "duty",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who invented the notion of a steam engine's duty?",
+      "answer": "Watt",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the weight of a bushel of coal in pounds?",
+      "answer": "94",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What was the ideal duty of a Newcomen engine?",
+      "answer": "7 million",
+      "llm_prediction": "the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What was the average duty of a low-pressure Watt engine?",
+      "answer": "17",
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "How was the efficiency of a concept engine typically evaluated?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who invented the notion of a concept engine's duty?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the weight of a bushel of engines in pounds?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What was the ideal duty of a concept engine?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work"
+    },
+    {
+      "question": "What was the average duty of a concept engine?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work"
+    },
+    {
+      "question": "What type of engines became popular for power generation after piston steam engines?",
+      "answer": "steam turbines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of steam engines produced most power up to the early 20th century?",
+      "answer": "Reciprocating piston",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of steam engine produces most electricity in the world today?",
+      "answer": "turbine",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with electric motors, what type of engines superseded piston steam engines?",
+      "answer": "internal combustion",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of engines became popular for power generation after electric engines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of electric engines produced most power up to the early 20th century?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What type of electric engine produces most electricity in the world today?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Along with electric motors, what type of engines superseded turbines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is continuing with energy levels far beyond the turn of the 20th century?",
+      "answer": null,
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who developed the first commercial steam powered device?",
+      "answer": "Thomas Savery",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the first steam powered device used commercially?",
+      "answer": "water pump",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year was the first commercial steam powered device invented?",
+      "answer": "1698",
+      "llm_prediction": "in what year was the first commercial steam powered device invented? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "Who notably improved the Savery water pump?",
+      "answer": "Bento de Moura Portugal",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who wrote of the Savery water pump in 1751's Philosophical Transactions?",
+      "answer": "John Smeaton",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who developed the first commercial engine powered device?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the first textile device used commercially?",
+      "answer": null,
+      "llm_prediction": "a boiler"
+    },
+    {
+      "question": "In what year was the first commercial textile device invented?",
+      "answer": null,
+      "llm_prediction": "in what year was the first commercial textile device invented? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who notably improved the Smeaton water pump?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who wrote of the Smeaton water pump in 1751's Philosophical Transactions?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who invented a high-pressure steam engine around 1800?",
+      "answer": "Richard Trevithick",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who created an engine using high pressure steam in 1801?",
+      "answer": "Oliver Evans",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year did Richard Trevithick patent his device?",
+      "answer": "1802",
+      "llm_prediction": "in what year did richard trevithick"
+    },
+    {
+      "question": "High pressure steam engines were small enough that they could be used in what application?",
+      "answer": "transport",
+      "llm_prediction": "mechanical work"
+    },
+    {
+      "question": "What were steam engines used as a source of?",
+      "answer": "power",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who invented a high-pressure power source around 1800?",
+      "answer": null,
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who created an engine using transport applications in 1801?",
+      "answer": null,
+      "llm_prediction": "the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what year did Oliver Evans patent his device?",
+      "answer": null,
+      "llm_prediction": "in what year did oliver evans"
+    },
+    {
+      "question": "High pressure power sources were small enough that they could be used in what application?",
+      "answer": null,
+      "llm_prediction": "mechanical work"
+    },
+    {
+      "question": "What were manufacturing techniques used as a source of?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What modern company has been notably working on a steam engine using modern materials?",
+      "answer": "Energiprojekt AB",
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Where is Energiprojekt AB based?",
+      "answer": "Sweden",
+      "llm_prediction": "energiprojekt ab based? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "How many cylinders does the Energiprojekt AB engine have?",
+      "answer": "5",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many pounds of steam per kilowatt hour does the Energiprojekt AB engine use?",
+      "answer": "8.8",
+      "llm_prediction": "how many pounds of steam per kilowatt hour does the energiprojekt ab engine use? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What percentage of a high pressure engine's efficiency has the Energiprojekt AB engine achieved?",
+      "answer": "27-30",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What modern company has been notably working on a combustion engine using modern materials?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Where are high-pressure engines based?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "How many cylinders does the compound engine have?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many pounds of steam per kilowatt hour does the internal combustion engine use?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What percentage of a high pressure engine's efficiency has the compound engine achieved?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What do power station steam turbines use as a cold sink in the absence of CHP?",
+      "answer": "surface condensers",
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "What device is a dry cooling tower similar to?",
+      "answer": "automobile radiator",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what sort of places are dry cooling towers used?",
+      "answer": "where water is costly",
+      "llm_prediction": "dry cooling towers used? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "An evaporative cooling tower is also referred to as what kind of cooling tower?",
+      "answer": "wet",
+      "llm_prediction": "evaporative"
+    },
+    {
+      "question": "About how many cubic meters of make-up water is used by a 700-megawatt coal-fired power plant for evaporative cooling hourly?",
+      "answer": "3600",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do power station steam turbines use as a cold sink in the absence of water?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "What device is energy removal similar to?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what sort of places are rivers used?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "A water cooling tower is also referred to as what kind of cooling tower?",
+      "answer": null,
+      "llm_prediction": "water"
+    },
+    {
+      "question": "About how many cubic meters of make-up water is used by a 700-megawatt water-fired power plant for evaporative cooling hourly?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Watt add to the steam engine in 1788?",
+      "answer": "centrifugal governor",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What was the name of Watt's partner?",
+      "answer": "Boulton",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Where was the centrifugal governor first observed by Boulton?",
+      "answer": "flour mill",
+      "llm_prediction": "boulton? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is an examine of work that a centrifugal governor-equipped steam engine wasn't suitable for?",
+      "answer": "cotton spinning",
+      "llm_prediction": "mechanical work"
+    },
+    {
+      "question": "What was the centrifugal governor incapable of doing?",
+      "answer": "hold a set speed",
+      "llm_prediction": "mechanical work"
+    },
+    {
+      "question": "What did Watt add to the steam engine in 19th century?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What was the name of Watt's boss?",
+      "answer": null,
+      "llm_prediction": "watt"
+    },
+    {
+      "question": "Where was the centrifugal governor first observed by Watt?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is an example of work that a centrifugal governor-equipped steam engine was suitable for?",
+      "answer": null,
+      "llm_prediction": "what is an example of work that a centrifugal governor - equipped steam engine was suitable for? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What were the centrifugal changes in load incapable of doing?",
+      "answer": null,
+      "llm_prediction": "mechanical work"
+    },
+    {
+      "question": "After what year was compounding frequently used in marine engines?",
+      "answer": "1880",
+      "llm_prediction": "after what year was compounding frequently used in marine engines? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Compounding was not popular in the construction of what machines?",
+      "answer": "railway locomotives",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was compounding seen as being in the locomotive construction industry?",
+      "answer": "complicated",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "After what year did compounding cease to be used in Britain?",
+      "answer": "1930",
+      "llm_prediction": "after"
+    },
+    {
+      "question": "Along with marine engines and industrial units, in what machines was compounding popular?",
+      "answer": "road engines",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "After what year was compounding frequently used in railway engines?",
+      "answer": null,
+      "llm_prediction": "after what year was compounding frequently used in railway engines? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Compounding was not popular in the loading of what machines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was compounding seen as being in the marine industry?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "After what year did marine locomotives cease to be used in Britain?",
+      "answer": null,
+      "llm_prediction": "after"
+    },
+    {
+      "question": "Along with marine engines and industrial units, in what machines were marine locomotives popular?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another term for shortening the admission event?",
+      "answer": "shortening the cutoff",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another term for excessive compression?",
+      "answer": "kick back",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What can the exhaust steam not fully do when the exhaust event is insufficiently long?",
+      "answer": "evacuate the cylinder",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Of what length are engine cycle events when the simplest valve gears are used?",
+      "answer": "fixed",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is another term for shortening the expansion event?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another term for excessive shortening?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What can the exhaust steam not fully do when the steam event is insufficiently long?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Of what length are engine cycle events when the simplest exhaust compression is used?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What do the simplest compression cylinders give during the engine cycle?",
+      "answer": null,
+      "llm_prediction": "what do the simplest compression cylinders give during the engine cycle? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who received the first steam engine patent?",
+      "answer": "Jerónimo de Ayanz y Beaumont",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the nationality of Jerónimo de Ayanz y Beaumont?",
+      "answer": "Spanish",
+      "llm_prediction": "jeronimo de ayanz y beaumont? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what year did Jerónimo de Ayanz y Beaumont receive a steam engine patent?",
+      "answer": "1606",
+      "llm_prediction": "in what year did jeronimo de ayanz y beaumont receive a steam engine patent? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "In what year did Savery patent his steam pump?",
+      "answer": "1698",
+      "llm_prediction": "in what year did savery"
+    },
+    {
+      "question": "In what year did Newcomen's engine pump in a mine?",
+      "answer": "1712",
+      "llm_prediction": "in what year did newcomen ' s engine pump in a mine? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who received the first chamber engine patent?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was the nationality of Thomas Newcomen?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year did Thomas Newcomen receive a steam engine patent?",
+      "answer": null,
+      "llm_prediction": "in what year did thomas newcomen"
+    },
+    {
+      "question": "In what year did Newcomen patent his steam pump?",
+      "answer": null,
+      "llm_prediction": "in what year did newcomen"
+    },
+    {
+      "question": "In what year did Savery's engine pump in a mine?",
+      "answer": null,
+      "llm_prediction": "in what year did savery ' s engine pump in a mine? [SEP] steam engines are external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is another term for rotors?",
+      "answer": "rotating discs",
+      "llm_prediction": "rotors? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "In a steam turbine, what are rotors mounted on?",
+      "answer": "drive shaft",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another way of referring to stators?",
+      "answer": "static discs",
+      "llm_prediction": "stators? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "What are stators attached to?",
+      "answer": "turbine casing",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In the United States, what is a usual turbine speed with 60 Hertz of power?",
+      "answer": "3600 revolutions per minute",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is another term for turbines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In a steam turbine, what are discs mounted on?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another way of referring to power systems?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What are rotors attaches to?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "IN the United States, what is a maximum potential with 60 Hertz of power?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is the power-to-weight ratio of a steam plant compared to that of an internal combustion engine?",
+      "answer": "lower",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Along with internal combustion engines, what machines have superseded steam in some areas?",
+      "answer": "electric motors",
+      "llm_prediction": "internal combustion engines"
+    },
+    {
+      "question": "What plants create most electric power?",
+      "answer": "steam turbine",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the name of the movement that seeks renewed use of steam power in the modern era?",
+      "answer": "Advanced Steam",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "Along with fuel sources, what concern has contributed to the development of the Advanced Steam movement?",
+      "answer": "pollution",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the power-to-weight ratio of a steam plant compared to that of a steam engine?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Along with internal combustion engines, what machines have superseded power in some areas?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What plants create most combustion power?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is the name of the movement that seeks renewed use of combustion power in the modern era?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "Along with fuel sources, what concern has contributed to the development of the combustion movement?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is an example of a rotary engine without pistons?",
+      "answer": "Wankel",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What parts of a conventional reciprocating steam engine could be replaced by a pistonless rotary engine?",
+      "answer": "cylinders and valve gear",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Along with wear, what development makes it difficult to seal the rotors in an engine that lacks pistons?",
+      "answer": "thermal expansion",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is an example of a rotary engine without leakage?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What parts of a conventional reciprocating steam engine could be replaced by a pistonless valve gear?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What development, along with wear, makes it difficult to seal the rotors in an engine that lacks steam? ",
+      "answer": null,
+      "llm_prediction": "water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is not a problem?",
+      "answer": null,
+      "llm_prediction": "non - combustion heat sources"
+    },
+    {
+      "question": "What is not based on a pistonless rotary engine?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "When did Watt finish the development of his improvements to Newcomen's engine?",
+      "answer": "1775",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What did Watt add to Newcomen's engine between 1763 and 1775?",
+      "answer": "condenser",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Compared to Smeaton's improvement on Newcomen's engine, how much coal did Watt's engine use?",
+      "answer": "half",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In addition to Watt, Boulton and Smeaton, whose engine was an atmosphere design?",
+      "answer": "Newcomen's",
+      "llm_prediction": "watt"
+    },
+    {
+      "question": "In an atmospheric engine, what does air pressure push against?",
+      "answer": "piston",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "When did Watt finish the development of his improvements to engine cylinders?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What did Newcomen add to Wat's engine between 1763 and 1775?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Compared to Smeaton's improvements on Newcomen's engine, how much steam did Watt's engine use?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In addition to Watt, Boulton, and Smeaton, whose engine was a partial condenser design?",
+      "answer": null,
+      "llm_prediction": "watt"
+    },
+    {
+      "question": "In a condenser engine, what does air pressure push against?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "How many mechanisms does a typical steam engine have to keep boiler pressure from getting too high?",
+      "answer": "two",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is restrained with a lever in the top of a boiler?",
+      "answer": "plug valve",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What type of valve is used by recent safety valves?",
+      "answer": "adjustable spring-loaded",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In an adjustable spring-loaded valve, what needs to be broken to allow an operator to tamper with it?",
+      "answer": "seal",
+      "llm_prediction": "water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Along with a desire for more steam pressure, what were early drivers looking to generate when they fastened safety valves down?",
+      "answer": "more power",
+      "llm_prediction": "non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "How many mechanisms does a typical steam engine have to keep spring weight from getting too high?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is restrained with a lever in the top of a driver?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What type of valve is used by recent springs?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In an adjustable power engine, what needs to be broken to allow an operator to tamper with it?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What, along with a desire for more steam pressure, were early drivers looking to generate when they fastened engines down?",
+      "answer": null,
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What was the ultimate development of the horizontal engine?",
+      "answer": "Corliss steam engine",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year was the Corliss engine patented?",
+      "answer": "1849",
+      "llm_prediction": "in what year was the corliss engine patented? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "How many valves did the Corliss engine use?",
+      "answer": "four",
+      "llm_prediction": "how many valves"
+    },
+    {
+      "question": "What award was given to Corliss?",
+      "answer": "Rumford medal",
+      "llm_prediction": "corliss"
+    },
+    {
+      "question": "How much less steam did the Corliss engine use compared to the Watt engine?",
+      "answer": "30%",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What was the ultimate development of the vertical engine?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In what year was the Rumford engine patented?",
+      "answer": null,
+      "llm_prediction": "in what year was the rumford engine"
+    },
+    {
+      "question": "How many valves did the Rumford engine use?",
+      "answer": null,
+      "llm_prediction": "how many valves"
+    },
+    {
+      "question": "What award was inspired by Corliss?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much less steam did the Rumford engine use compared to the Watt engine?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What scientific field's theory has received contributions from the steam engine?",
+      "answer": "thermodynamic",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who made experimental measurements on a model steam engine?",
+      "answer": "Watt",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was developed from Watt's measurements on a model steam engine?",
+      "answer": "condenser",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who confirmed Watt's discovery of latent heat?",
+      "answer": "Joseph Black",
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What concept, originally discovered by Black, was later discovered independently by Watt?",
+      "answer": "latent heat",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What scientific field's theory has received contributions from the Rankine engine?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "Who made experimental measurements on a model Rankine cycle?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What was developed from Watt's measurements on an atmospheric concept?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Who confirmed Watt's discovery of mechanical heat?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What concept, originally discovered by Watt, was later discovered independently by Black?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is a main advantage of the Rankine cycle?",
+      "answer": "during the compression stage relatively little work is required to drive the pump",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "During the compression stage of the Rankine cycle, what state is the working fluid in?",
+      "answer": "liquid",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "How much turbine power is consumed by the pump while the work fluid is condensed?",
+      "answer": "1% to 3%",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "What is the approximate turbine entry temperature of a gas turbine?",
+      "answer": "1500 °C",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is a main advantage of the efficiency cycle?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "During the compression stage of the efficiency cycle, what state is the working fluid in?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "How much temperature is consumed by the pump while the work fluid is condensed?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam"
+    },
+    {
+      "question": "What is the approximate turbine entry temperature of a pump turbine?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What results in the work required by the pump to consume only 0.5% of the turbine power?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is an example of a pump component?",
+      "answer": "injector",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In addition to recirculating water, what do condensers do?",
+      "answer": "recover the latent heat of vaporisation",
+      "llm_prediction": "condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What components raise steam temperature above its saturated vapor point?",
+      "answer": "superheaters",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another name for a coal supply bin?",
+      "answer": "bunker",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What mechanism moves coal from a bunker to the firebox?",
+      "answer": "stoking",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is an example of a firebox?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "IN addition to recirculating water, what do bunkers do?",
+      "answer": null,
+      "llm_prediction": "transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What components raise steam temperature above its saturated firebox point?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is another name for a firebox?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What mechanism moves coal from a firebox to a bunker?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "The frequent availability of what substance allowed land-based steam engines to exhaust a great deal of steam?",
+      "answer": "feed water",
+      "llm_prediction": "reduced - pressure"
+    },
+    {
+      "question": "People of what nationality invented the steam turbine?",
+      "answer": "British",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was an example of a type of warship that required high speed?",
+      "answer": "dreadnought battleships",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "Other than warships, what ships typically required high speeds?",
+      "answer": "ocean liners",
+      "llm_prediction": "warships, what ships typically required high speeds? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "In what year was HMS Dreadnought launched?",
+      "answer": "1905",
+      "llm_prediction": "in what year was hms dreadnought launched? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "The frequent availability of what substance allowed land-based steam engines to exhaust a great deal of battleships?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "People of what nationality invented the HMS Dreadnought?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was an example of a type of warship that required expansion engines?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What ships, other than warships, typically required expansion engines?",
+      "answer": null,
+      "llm_prediction": "warships, typically required expansion engines? [SEP] steam engines are external combustion engines"
+    },
+    {
+      "question": "In what year was World War I launched?",
+      "answer": null,
+      "llm_prediction": "in what year was world war i"
+    },
+    {
+      "question": "What do nuclear power plants heat to create electricity?",
+      "answer": "water",
+      "llm_prediction": "geothermal energy"
+    },
+    {
+      "question": "What does the steam generated by a nuclear power plant drive?",
+      "answer": "turbine",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "In a nuclear power plant, what is the steam turbine connected to?",
+      "answer": "electrical generator",
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What is it called when steam propels a turbo generator with electric motor propulsion?",
+      "answer": "turbo-electric transmission",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "Where were non-condensing direct-drive locomotives notably used for fast passenger trains?",
+      "answer": "Britain",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What do nuclear power plants heat to create steam turbines?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What does the steam generated by a auxiliary power drive?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What in a nuclear power plant is the diesel turbine connected to?",
+      "answer": null,
+      "llm_prediction": "the working fluid is separate from the combustion products"
+    },
+    {
+      "question": "What is it called when steam propels a turbo generator with diesel motor propulsion?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "Where were non-condensing direct-drive locomotives notably used for fast passenger ships?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the Rankine cycle sometimes called?",
+      "answer": "practical Carnot cycle",
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "Where does heat rejection occur in the Rankine cycle?",
+      "answer": "in the condenser",
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What does isobaric mean?",
+      "answer": "constant pressure",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is a term that means constant temperature?",
+      "answer": "isothermal",
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In the Rankine cycle, in what state is the working fluid received in the condenser?",
+      "answer": "liquid",
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What is the cycle condenser sometimes called?",
+      "answer": null,
+      "llm_prediction": "rankine cycle"
+    },
+    {
+      "question": "Where does heat rejection occur in the Rankine cycle?",
+      "answer": null,
+      "llm_prediction": "external combustion engines, where the working fluid is separate from the combustion products. non - combustion heat sources such as solar power, nuclear power or geothermal energy may be used. the ideal thermodynamic cycle used to analyze this process is called the rankine cycle. in the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. when expanded through pistons or turbines, mechanical work is done. the reduced - pressure steam is then condensed and pumped back into the boiler"
+    },
+    {
+      "question": "What does Carnot mean?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "What is a term that means constant energy?",
+      "answer": null,
+      "llm_prediction": "external combustion engines"
+    },
+    {
+      "question": "In the Rankine cycle, in what state is the working fluid received in the steam?",
+      "answer": null,
+      "llm_prediction": "reduced - pressure steam is then condensed and pumped back into the boiler"
+    }
+  ]
+}

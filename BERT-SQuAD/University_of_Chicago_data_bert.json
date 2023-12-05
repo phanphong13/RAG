@@ -1,0 +1,1786 @@
+{
+  "title": "University_of_Chicago",
+  "context": "The University of Chicago (UChicago, Chicago, or U of C) is a private research university in Chicago. The university, established in 1890, consists of The College, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools. Beyond the arts and sciences, Chicago is also well known for its professional schools, which include the Pritzker School of Medicine, the University of Chicago Booth School of Business, the Law School, the School of Social Service Administration, the Harris School of Public Policy Studies, the Graham School of Continuing Liberal and Professional Studies and the Divinity School. The university currently enrolls approximately 5,000 students in the College and around 15,000 students overall.",
+  "qas": [
+    {
+      "question": "What kind of university is the University of Chicago?",
+      "answer": "a private research university",
+      "llm_prediction": "private research university"
+    },
+    {
+      "question": "When was the University of Chicago established?",
+      "answer": "1890",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "How many professional schools does the University of Chicago have?",
+      "answer": "seven",
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "How many academic research divisions does the University of Chicago have?",
+      "answer": "four",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many students does the University of Chicago have enlisted?",
+      "answer": "5,000",
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "The city of Pritzker is home to which University?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Nearly 7,000 students are enrolled where?",
+      "answer": null,
+      "llm_prediction": "chicago"
+    },
+    {
+      "question": "What was established in 1809?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Other than UChicago or simply Chicago, what is another term for the University of Graham Business?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What types of other schools is the city of Harris well known for?",
+      "answer": null,
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "University of Chicago scholars played a major part in what development?",
+      "answer": "various academic disciplines",
+      "llm_prediction": "various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools"
+    },
+    {
+      "question": "Who helped develop the first man-made self-sustaining nuclear reaction?",
+      "answer": "Chicago's physics department",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Where is the first man-made self-sustaining nuclear reaction located?",
+      "answer": "beneath the university's Stagg Field",
+      "llm_prediction": "university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago"
+    },
+    {
+      "question": "What is the name of the largest university press in the U.S?",
+      "answer": "University of Chicago Press",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "In what year will the Barack Obama Presidential Center be finished?",
+      "answer": "2020",
+      "llm_prediction": "what year will the barack obama presidential center"
+    },
+    {
+      "question": "What development has the University of Biological Physics played a lead role in?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What world's first did the religion department help to develop?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Under which field did the world's first synthetically produced nuclear reaction occur?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name of the smallest university press in the US?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "The Stagg Presidential Center is set to be finished in what year?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What society founded the University of Chicago?",
+      "answer": "the American Baptist Education Society",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What person helped establish the school with a donation?",
+      "answer": "John D. Rockefeller",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who was the first president of the University of Chicago?",
+      "answer": "William Rainey Harper",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What year was the university's first president given his position? ",
+      "answer": "1891",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What year was the first class taught at the University of Chicago?",
+      "answer": "1892",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who is known as the poorest man in all history?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In what year was the University of Maynard incorporated?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what year did Robert Harper become the first president of the University?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what year did the U of C become one of 7 founding members of the Association of Chicago Universities?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what year were the last classes held in the university?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who donated property to the University of Chicago?",
+      "answer": "Marshall Field",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who helped pay for the university's first building structure? ",
+      "answer": "Silas B. Cobb",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What was the name of the first building built on campus grounds?",
+      "answer": "Cobb Lecture Hall",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "How much did Silas B. Cobb pledge to the university?",
+      "answer": "$100,000",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the donor who helped establish the Hutchinson Commons?",
+      "answer": "Charles L. Hutchinson",
+      "llm_prediction": "hutchinson commons? [SEP] the university of chicago"
+    },
+    {
+      "question": "In what year did the Walker Museum create and incorporate the U of C as a coed institution?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what year did Clay Bartlett donate land by Marshall Field?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who financed the original board of trustees?",
+      "answer": null,
+      "llm_prediction": "board of trustees"
+    },
+    {
+      "question": "George C. Walker served as trustee, treasurer and donor of what?",
+      "answer": null,
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "It was outlined that who's donations could only be used for buildings?",
+      "answer": null,
+      "llm_prediction": "who ' s donations could only be used for buildings? [SEP] the university of chicago"
+    },
+    {
+      "question": "In 1890, who did the university decide to team up with?",
+      "answer": "several regional colleges and universities",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What year did the university team up with Shimer College?",
+      "answer": "1896",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "The university agreed to grant a degree to any graduate of affiliate schoos that did what?",
+      "answer": "made a grade of A for all four years",
+      "llm_prediction": "grant a degree"
+    },
+    {
+      "question": "Who disliked the affiliate program?",
+      "answer": "passed",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In what year did the affiliate program end?",
+      "answer": "1910",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what decade did the U of C affiliate with numerous national colleges?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Shimer University is located in which Illinois city?",
+      "answer": null,
+      "llm_prediction": "shimer university is located in which illinois city? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago"
+    },
+    {
+      "question": "To what schools did the U of C agree to provide books and supplies free of charge?",
+      "answer": null,
+      "llm_prediction": "seven professional schools"
+    },
+    {
+      "question": "In what year did the U of C associate with Kalamazoo College, located in Mount Carroll?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who was the university's 5th president?",
+      "answer": "Robert Maynard Hutchins",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "In what year was the university's 5th president granted his position?",
+      "answer": "1929",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "How long did the 5th president's tenure last?",
+      "answer": "24-year tenure",
+      "llm_prediction": "the university currently enrolls approximately 5, 000 students in the college and around 15, 000 students overall"
+    },
+    {
+      "question": "Why did the 5th president of the university decide to get rid of the football program?",
+      "answer": "to emphasize academics over athletics",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the name given to the undergraduate college's liberal-arts curriculum?",
+      "answer": "the Common Core",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In what year did the fourth president, Robert Maynard Hutchins take office?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What did the university undergo during Hutchins 33 year tenure?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why did Hutchins eliminate hospitals from the university?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Hutchins propose a plan to combine the U of C with Common Core?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "During who's tenure was the University of Chicago Hospitals system destroyed?",
+      "answer": null,
+      "llm_prediction": "university of chicago hospitals system destroyed? [SEP] the university of chicago"
+    },
+    {
+      "question": "In what year did the university first see a drop in applications?",
+      "answer": "1950s",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Why did the university see a drop in applicants? ",
+      "answer": "a result of increasing crime and poverty",
+      "llm_prediction": "private research university in chicago"
+    },
+    {
+      "question": "When were Shimer College students allowed to transfer to the University of Chicago?",
+      "answer": "after their second year",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "The urban renewal project was intended to help the residents of what neighborhood?",
+      "answer": "Hyde Park",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the early entrant program do for potential students?",
+      "answer": "allowed very young students to attend college",
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "During which decade was there an increase in student applications?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Why did student applications increase during the 1950s?",
+      "answer": null,
+      "llm_prediction": "private research university"
+    },
+    {
+      "question": "What happened to the number of student applications during the 1920s?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Student enrollment increased as a result of increased crime and poverty in which neighborhood?",
+      "answer": null,
+      "llm_prediction": "chicago"
+    },
+    {
+      "question": "Like the University of Hyde Park, what did Shimer College and 10 other schools adopt?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did student decide to occupy the president's office?",
+      "answer": "1962",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What made the student decide to occupy the president's office in protest?",
+      "answer": "the university's off-campus rental policies.",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "In what year was the Kalven Report issued?",
+      "answer": "1967",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "How many pages was the Kalven Report statement?",
+      "answer": "a two-page statement",
+      "llm_prediction": "how many pages"
+    },
+    {
+      "question": "What policy did the Kelven Report contain?",
+      "answer": "social and political action",
+      "llm_prediction": "interdisciplinary committees"
+    },
+    {
+      "question": "During which decade did the university experience student rest?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who was the vice president in 1962?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who's office did students occupy in a protest over rental policies in 1965?",
+      "answer": null,
+      "llm_prediction": "who ' s office did students occupy in a protest over rental policies in 1965? [SEP] the university of chicago"
+    },
+    {
+      "question": "In what year was the Darfur Report issued?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "The three page Kalven Report was issued in which year?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When did the university decide to start multimillion-dollar expansion projects?",
+      "answer": "mid-2000s",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What institute did the university announced to everyone in 2008?",
+      "answer": "Milton Friedman Institute",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "How much did the Milton Friedman Institute roughly cost?",
+      "answer": "around $200 million",
+      "llm_prediction": "15, 000"
+    },
+    {
+      "question": "What buildings held the Milton Friedman Institute?",
+      "answer": "the Chicago Theological Seminary",
+      "llm_prediction": "milton friedman institute? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago. the university, established in 1890, consists of the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools"
+    },
+    {
+      "question": "Who decide to make a very large donation to the university's Booth School of Business?",
+      "answer": "David G. Booth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In which decade did the university begin several thousand dollar expansion projects?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When were plans for the Harris Friedman Institute announced?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Planned to occupy the Chicago Business Booth, how much is the Milton Friedman Institute estimated to cost?",
+      "answer": null,
+      "llm_prediction": "15, 000 students overall"
+    },
+    {
+      "question": "Who donated a half billion dollars to the university's Booth School of Business?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In what year did Pearson Friedman donate $300 million to the Booth School of Business?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What are the first buildings the university built knows as today?",
+      "answer": "the Main Quadrangles",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "How many quadrangles does the Main Quadrangles have?",
+      "answer": "six",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "Who helped designed the Main Quadrangles?",
+      "answer": "Cobb, Shepley, Rutan and Coolidge, Holabird & Roche,",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The Mitchell Tower is designed to look like what Oxford tower?",
+      "answer": "Oxford's Magdalen Tower",
+      "llm_prediction": "mitchell tower"
+    },
+    {
+      "question": "Hutchinson Hall was designed to look like what Oxford hall?",
+      "answer": "Christ Church Hall",
+      "llm_prediction": "hutchinson hall"
+    },
+    {
+      "question": "The first buildings of the University of Oxford are known as what?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who were the Main Gothics designed by?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The second buildings of the U of C are known as what?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "The Main Quadrangles were a piece of a master plan conceived by how many Oxford University trustees?",
+      "answer": null,
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "During what decade did the campus start to look more modern?",
+      "answer": "the 1940s",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who was assigned to design a second master plan?",
+      "answer": "Eero Saarinen",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What administration did Ludwig Mies van der Rohe designa buiding?",
+      "answer": "School of Social Service Administration",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What public policy school found it's home in the building that Ludwig Mies van der Rohe designed?",
+      "answer": "Harris School of Public Policy Studies",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "When was the Gerald Ratner Athletics Center constructed?",
+      "answer": "2003",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "After which decade did modern styles give way to Gothic styles on campus?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what year was Owings contracted to develop a second master plan?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What was Eero Saarinen contracted to develop in 2011?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "The third master plan led to the construction of buildings where?",
+      "answer": null,
+      "llm_prediction": "chicago"
+    },
+    {
+      "question": "In which year was the Gerald Palevsky Athletic Commons developed?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What other locations can the Booth School of Business be found?",
+      "answer": "Singapore, London, and the downtown Streeterville neighborhood of Chicago",
+      "llm_prediction": "locations can the booth school of business be found? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago. the university, established in 1890, consists of the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools. beyond the arts and sciences"
+    },
+    {
+      "question": "The Center in Paris is located near what river?",
+      "answer": "Seine",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The university established a center in Beijing in what year?",
+      "answer": "2010",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "The university's center in Beijing is located next to what school's campus?",
+      "answer": "Renmin University",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What year did the university open a center in Hong Kong?",
+      "answer": "2015",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Where does the Paris School Of Business have campuses?",
+      "answer": null,
+      "llm_prediction": "paris school of business have campuses? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago"
+    },
+    {
+      "question": "Which campus is located on the right banks of the Seine?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Which campus hosts graduate only student programs and is located on the banks of the Seine?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "In what year were the oldest additions in New Delhi opened?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what year were the oldest additions in Hong Kong opened?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Who runs the University of Chicago?",
+      "answer": "a board of trustees",
+      "llm_prediction": "private research university in chicago. the university, established in 1890, consists of the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools. beyond the arts and sciences, chicago is also well known for its professional schools, which include the pritzker school of medicine, the university of chicago booth school of business"
+    },
+    {
+      "question": "How many people belong to the university's Board of Trustees?",
+      "answer": "50",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many Vice Presidents are in the Board of Trustees?",
+      "answer": "fourteen",
+      "llm_prediction": "15, 000"
+    },
+    {
+      "question": "What is the name of the Chairman of the Board of Trustees?",
+      "answer": "Andrew Alper",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who took Isaacs place as Provost in 2016?",
+      "answer": "Robert Zimmer",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who governs the University of Zimmer?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Board of Presidents oversee?",
+      "answer": null,
+      "llm_prediction": "interdisciplinary committees organized into four academic research divisions and seven professional schools"
+    },
+    {
+      "question": "Along with managing student laboratories, what else does the Board of Trustees do?",
+      "answer": null,
+      "llm_prediction": "managing student laboratories"
+    },
+    {
+      "question": "Which body is composed of 2009 members?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Diermeier was replaced as Provost by who?",
+      "answer": null,
+      "llm_prediction": "diermeier"
+    },
+    {
+      "question": "Who is the university accredited by?",
+      "answer": "The Higher Learning Commission",
+      "llm_prediction": "u of c"
+    },
+    {
+      "question": "The academic body of the university is made up of how many divisions of graduate?",
+      "answer": "four",
+      "llm_prediction": "four"
+    },
+    {
+      "question": "The academic body of the university is made up of how many professional schools?",
+      "answer": "seven",
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "How many divisions of graduate research does the University of Higher Learning consist of?",
+      "answer": null,
+      "llm_prediction": "the college, various graduate programs"
+    },
+    {
+      "question": "How many professional schools does the University of Higher Learning consist of?",
+      "answer": null,
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "The U of C has ties to several dependent institutions, including?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "By which Commission is the University of Chicago Press accredited?",
+      "answer": null,
+      "llm_prediction": "u of c"
+    },
+    {
+      "question": "What do the academic bodies of the University of Chicago Medical Center consist of?",
+      "answer": null,
+      "llm_prediction": "the college, various graduate programs"
+    },
+    {
+      "question": "How many academic majors does the university grant in total?",
+      "answer": "50",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many academic minors does the university grant in total?",
+      "answer": "28",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many divisions make up the academics of the university?",
+      "answer": "five",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What division offers more then one branch of studies that don't fit in with the other four?",
+      "answer": "the New Collegiate Division",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "The College grants Bachelor of Science/Arts degrees in 28 majors and how many minors?",
+      "answer": null,
+      "llm_prediction": "28"
+    },
+    {
+      "question": "The College grants Bachelor of Science/Arts degrees in 50 minors and how many majors?",
+      "answer": null,
+      "llm_prediction": "50"
+    },
+    {
+      "question": "Which University's College grants academic majors in 30 subject areas?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Which University's College grants academic minors in 50 subject areas?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "The college's University is divided into how many divisions?",
+      "answer": null,
+      "llm_prediction": "four"
+    },
+    {
+      "question": "What is the name of the university's core curriculum?",
+      "answer": "the Common Core",
+      "llm_prediction": "what is the name of the university ' s core curriculum? [SEP] the university of chicago"
+    },
+    {
+      "question": "During 2012-2013, how many student were able to take the Core classes at a single time?",
+      "answer": "17",
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "UChicago claims to have what kind of learning experience compared to other universities? ",
+      "answer": "the most rigorous, intense",
+      "llm_prediction": "what kind of learning experience compared to other universities? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university"
+    },
+    {
+      "question": "What guide states the Univeristy of Chicago is known for their heavy workload and academic difficulty?",
+      "answer": "Uni in the USA",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are undergraduates required to take to satisfy the Chicago Core curriculum?",
+      "answer": null,
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "During what time frame were the core classes limited to only 15 students?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "As of 2017, how many courses are required under Core?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Other than requiring 17 classes, what else is required under Core as of 2013-2014?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What are graduate courses at the U of C known for?",
+      "answer": null,
+      "llm_prediction": "various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools"
+    },
+    {
+      "question": "What is the name of the private day school for K-12 students the university runs?",
+      "answer": "University of Chicago Laboratory Schools",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name of the residential treatment program the university runs?",
+      "answer": "the Sonia Shankman Orthogenic School",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "How many public charter schools does the university run?",
+      "answer": "four",
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "What does the Urban Education Institute help run?",
+      "answer": "four public charter schools",
+      "llm_prediction": "the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools"
+    },
+    {
+      "question": "Where is the Hyde Park Day School located?",
+      "answer": "the University of Chicago campus",
+      "llm_prediction": "hyde park day school located? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago"
+    },
+    {
+      "question": "Apart from its mathematics and postgraduate schools, what else doe the university run?",
+      "answer": null,
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "What is the name for the public day school and day care for K-12 students?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What has the U of C maintained since 1938?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name for the social science program used in urban primary and secondary schools?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which is the largest university press in the South Side?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "The University of Chicago Library system has how many libraries in total?",
+      "answer": "six",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How man volumes does the The University of Chicago Library system hold?",
+      "answer": "9.8 million",
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "What is the name given to the university's main library?",
+      "answer": "the Regenstein Library",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In what year was the Joe and Rika Mansueto Library constructed?",
+      "answer": "2011",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "How many volumes does the John Crerar Library roughly hold?",
+      "answer": "more than 1.3 million",
+      "llm_prediction": "how many volumes"
+    },
+    {
+      "question": "Which University's library system consists of 12 libraries?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Which University's library system has over 10 millionvolumes?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Which University ranks having the 9th most number of volumes in the US?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "In what year was the D'Angelo and Rika Library built?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "How many research institutes does the university run on campus?",
+      "answer": "12",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many research centers does the university run on campus?",
+      "answer": "113",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the museum and research center for Near Eastern studies, that is owned by the university?",
+      "answer": "the Oriental Institute",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What lab does the university have a joint stake in? ",
+      "answer": "Fermilab",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Where is the Apache Point Observatory located?",
+      "answer": "Sunspot, New Mexico",
+      "llm_prediction": "chicago"
+    },
+    {
+      "question": "Aside from 113 research institutes, how many research centers does the U of C operate?",
+      "answer": null,
+      "llm_prediction": "113"
+    },
+    {
+      "question": "Aside from 12 research centers, how many research institutes does the U of C operate?",
+      "answer": null,
+      "llm_prediction": "12"
+    },
+    {
+      "question": "Which institute is a center for Near Western studies?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In which Illinois city is the Marine Biological Laboratory located?",
+      "answer": null,
+      "llm_prediction": "chicago"
+    },
+    {
+      "question": "On which Woods Hole campus is the National Opinion Research Center located?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What role in economics did the university play a major part in?",
+      "answer": "shaping ideas about the free market",
+      "llm_prediction": "economics"
+    },
+    {
+      "question": "What was the name of the first self-sustained man-made nuclear reaction?",
+      "answer": "Chicago Pile-1",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What was the name of the experiment that tested how life originated?",
+      "answer": "Miller–Urey experiment",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "When was REM sleep discovered?",
+      "answer": "1953",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Why was the Kleitman-Aserinsky experiment conducted?",
+      "answer": null,
+      "llm_prediction": "the kleitman - aserinsky experiment"
+    },
+    {
+      "question": "When was the Miller-Urey experiment conducted?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What kind of sleep was discovered at the U of C in 1947?",
+      "answer": null,
+      "llm_prediction": "what kind of sleep"
+    },
+    {
+      "question": "What was the experiment that tested early life on Mars called?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What gave way to the Chicago school of psychology?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Since what year did the university offer a doctorate in music composition?",
+      "answer": "1933",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Since what year did the university offer a doctorate in Cinema & Media studies?",
+      "answer": "2000",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When did the university start having a bachelor's degree program in Cinema & Media studies?",
+      "answer": "1996",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When did the university start having a bachelor's degree program in theater & performance studies?",
+      "answer": "2002",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "Around roughly how many students enroll yearly in creative and performing arts classes?",
+      "answer": "Several thousand",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What doctorate program has been offered since 1996?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "The university has masters programs in visual arts, music and what other subjects?",
+      "answer": null,
+      "llm_prediction": "visual arts, music"
+    },
+    {
+      "question": "The university has bachelor programs in fine arts in visual arts and what other subject?",
+      "answer": null,
+      "llm_prediction": "fine arts in visual arts"
+    },
+    {
+      "question": "What type of requirement does the College's common core require?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "In what year did the Williams and Logan Center open?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In the fall quarter of 2014, how many students signed up for the college?",
+      "answer": "5,792",
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "In the fall quarter of 2014, how many students signed up for the university's four graduate divisions?",
+      "answer": "3,468",
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "In the fall quarter of 2014, how many students signed up for the university's professional schools?",
+      "answer": "5,984",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In the fall quarter of 2014, how many students signed up for the university's  in total?",
+      "answer": "15,244",
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "Who made up 19% of the student body in the 2012 Spring Quarter? ",
+      "answer": "international students",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "How many students enrolled at the College during the spring of 2014?",
+      "answer": null,
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "The University enrolled 3,468 students in the College  and how many in it's graduate divisions?",
+      "answer": null,
+      "llm_prediction": "3, 468 students in the college and how many in it ' s graduate divisions? [SEP] the university of chicago"
+    },
+    {
+      "question": "How many students did the University enroll in its five graduate divisions in 2014?",
+      "answer": null,
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "The University enrolled 5,984 students in the College  and how many in its professional schools?",
+      "answer": null,
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "What year did the College have the highest acceptance rate in its history?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "The Maroons are apart of what association?",
+      "answer": "the University Athletic Association",
+      "llm_prediction": "u of c"
+    },
+    {
+      "question": "The Maroons compete in what league division?",
+      "answer": "NCAA's Division III",
+      "llm_prediction": "the maroons"
+    },
+    {
+      "question": "The university was a founding force behind what conference?",
+      "answer": "the Big Ten Conference",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What player first won the Heisman Trophy for the university?",
+      "answer": "Jay Berwanger",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Why did the university eventually leave the conference?",
+      "answer": "Robert Maynard Hutchins de-emphasized varsity athletics",
+      "llm_prediction": "private research university in chicago"
+    },
+    {
+      "question": "What kind of member what the University to the Big Twelve Conference?",
+      "answer": null,
+      "llm_prediction": "private research university"
+    },
+    {
+      "question": "When did the University reach the Sweet Seventeen?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When did Robert Hutchins become the first Heisman Trophy winner?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When did Jay Berwanger win the Maynard Trophy?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what did the President re-emphasize athletics at the university?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Roughly how many clubs are ran at the university?",
+      "answer": "over 400",
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "What is the name of the organization in charge of running the clubs at the university?",
+      "answer": "Recognized Student Organizations",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What club won 118 tournaments and 15 national championships?",
+      "answer": "the University of Chicago College Bowl Team",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name of the country's longest continuously running student film society?",
+      "answer": "Doc Films",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name of the student improvisational theater troupe?",
+      "answer": "Off-Off Campus",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "How many clubs do the students at the University of Model United Nations run?",
+      "answer": null,
+      "llm_prediction": "seven"
+    },
+    {
+      "question": "What are the over 118 clubs run by students at the U of C called collectively?",
+      "answer": null,
+      "llm_prediction": "the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools"
+    },
+    {
+      "question": "When was the RSO Nations team the top ranked in North America?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "When was the Model United Nations team ranked second in North America?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "During what years was the Model United Nations team ranked first in South America?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who makes up the Student Government?",
+      "answer": "graduate and undergraduate students",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who leads the Student Government?",
+      "answer": "an Executive Committee",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "How many vice presidents are on the Student Board?",
+      "answer": "two",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Roughly how much is the Student Government's budget?",
+      "answer": "greater than $2 million",
+      "llm_prediction": "roughly how much is the student government ' s budget? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago. the university, established in 1890, consists of the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools. beyond the arts and sciences, chicago is also well known for its professional schools, which include the pritzker school of medicine, the university of chicago booth school of business, the law school, the school of social service administration, the harris school of public policy studies, the graham school of continuing liberal and professional studies and the divinity school. the university currently enrolls approximately 5, 000 students in the college and around 15, 000 students overall"
+    },
+    {
+      "question": "What organizations are funded by the student government?",
+      "answer": null,
+      "llm_prediction": "interdisciplinary committees"
+    },
+    {
+      "question": "The Chicago government is made up of what type of students?",
+      "answer": null,
+      "llm_prediction": "5, 000"
+    },
+    {
+      "question": "Who are members of the sports club elected to represent?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "The student government is led by the president and chaired by who?",
+      "answer": null,
+      "llm_prediction": "the president"
+    },
+    {
+      "question": "What is the annual budget for the Scavenger Hunt?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many fraternities are apart of the university?",
+      "answer": "fifteen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many sororities are apart of the university?",
+      "answer": "seven",
+      "llm_prediction": "15, 000"
+    },
+    {
+      "question": "What is the name of the co-ed community service fraternity?",
+      "answer": "Alpha Phi Omega",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "How many sororities belong to the National Panhellenic Conference?",
+      "answer": "Alpha Phi Omega",
+      "llm_prediction": "how many sororities belong to the national panhellenic conference? [SEP] the university of chicago"
+    },
+    {
+      "question": "How many fraternities form the University of Chicago Interfraternity Council?",
+      "answer": "ten",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Along with 15 sororities, how many fraternities does the U of C have?",
+      "answer": null,
+      "llm_prediction": "15"
+    },
+    {
+      "question": "Along with 7 fraternities, how many sororities does the U of C have?",
+      "answer": null,
+      "llm_prediction": "7"
+    },
+    {
+      "question": "What are ten of the sororities members of?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do four of the fraternities form?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "In what year did Alpha Phi Omega estimate that about 10% of students participated in sororities/fraternities?",
+      "answer": null,
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "In what month is the university's scavenger hunt?",
+      "answer": "May",
+      "llm_prediction": "month"
+    },
+    {
+      "question": "In what year did the scavenger hunt begin?",
+      "answer": "1987",
+      "llm_prediction": "1890"
+    },
+    {
+      "question": "What does FOTA stand for?",
+      "answer": "Festival of the Arts",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the winter festival held in January that is based on fitness? ",
+      "answer": "Kuviasungnerk/Kangeiko",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name of the university's summer festival?",
+      "answer": "Summer Breeze",
+      "llm_prediction": "what is the name of the university ' s summer festival? [SEP] the university of chicago"
+    },
+    {
+      "question": "What has the university held since 1963 where large teams find items from a list?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What has been held since 1987, taking over the campus for 7-10 days with exhibitions?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is held ever February at the university?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What is the university's winter carnival and concert called?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Which debate has been organized by the U of C since 1987?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What Microsoft CEO is also an alumni of the University of Chicago?",
+      "answer": "Satya Nadella",
+      "llm_prediction": "what microsoft ceo is also an alumni of the university of chicago? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who was the founder of the Oracle Corporation?",
+      "answer": "Larry Ellison",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is the third riches man in America?",
+      "answer": "Larry Ellison",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What Goldman Sachs CEO is also an alumni of the University of Chicago?",
+      "answer": "Jon Corzine",
+      "llm_prediction": "goldman sachs"
+    },
+    {
+      "question": "Who founded McKinsey & Company?",
+      "answer": "James O. McKinsey",
+      "llm_prediction": "mckinsey & company? [SEP] the university of chicago ( uchicago, chicago, or u of c ) is a private research university in chicago. the university, established in 1890, consists of the college, various graduate programs, interdisciplinary committees organized into four academic research divisions and seven professional schools. beyond the arts and sciences, chicago is also well known for its professional schools, which include the pritzker school of medicine, the university of chicago booth school of business"
+    },
+    {
+      "question": "Who is the founder of Microsoft and the third richest man in America?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is the CEO of Microsoft and also served as Governor in NJ?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is the founder of the Chicago Cubs and author of the first management accounting text book?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is the chairman of Microsoft as well as the NBA commissioner?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who serves as Microsoft and MF Global CEO?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is the founder of modern community organizing?",
+      "answer": "Saul Alinsky",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What alumni was also Obama's campaign adviser?",
+      "answer": "David Axelrod",
+      "llm_prediction": "obama"
+    },
+    {
+      "question": "What alumni was also an Attorney General and a federal judge?",
+      "answer": "Robert Bork",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What alumni is also the Governor of the Bank of Japan?",
+      "answer": "Masaaki Shirakawa",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What prohibition agent was also an alumni at the university?",
+      "answer": "Eliot Ness",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who is the Attorney General and Obama Campaign advisor?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who serves as Attorney General as well as top political advisor to the President?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is the 12th Prime Minister of Poland?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who is the Governor of the Bank of Justice?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who is the first Japanese Senator?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What alumni member also write the bestseller Before I Fall?",
+      "answer": "Lauren Oliver",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What is the name of the Pulitzer Prize novelist who was also a university alumni? ",
+      "answer": "Philip Roth",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What alumni wrote \"The Closing of the American Mind\"?",
+      "answer": "Allan Bloom",
+      "llm_prediction": "what alumni wrote \" the closing of the american mind \"? [SEP] the university of chicago"
+    },
+    {
+      "question": "What alumni wrote \"The Good War\"?",
+      "answer": "Studs Terkel",
+      "llm_prediction": "what alumni wrote \" the good war \"? [SEP] the university of chicago"
+    },
+    {
+      "question": "What is the name of the American writer and satirist who is also a university alumni?",
+      "answer": "Kurt Vonnegut",
+      "llm_prediction": "what is the name of the american writer and satirist who is also a university alumni? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who won the Pullitzer Prize as well as the Nobel Prize?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who wrote the American Times bestselling book titled \"The Closing of the American Mind\"?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who wrote \"The American War\"?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who wrote the book titled \"Before I Fall\" which was a University bestseller?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who wrote \"The closing of the Good War\"?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What minimalist composer is also a university graduate?",
+      "answer": "Philip Glass",
+      "llm_prediction": "minimalist composer"
+    },
+    {
+      "question": "What is the name of the Bungie Inc. founder who is also a university graduate?",
+      "answer": "Alex Seropian",
+      "llm_prediction": "what is the name of the bungie inc. founder who is also a university graduate? [SEP] the university of chicago"
+    },
+    {
+      "question": "What video game series did Alex Seropian make?",
+      "answer": "Halo",
+      "llm_prediction": "various graduate programs"
+    },
+    {
+      "question": "What American actor is also a university graduate?",
+      "answer": "Ed Asner",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What comedian is also a university graduate? ",
+      "answer": "Mike Nichols",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is the Bungie founder and developer of the dance video game?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is an actor and also Serial host?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who is an award winning photographer and writer?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who directed Life Itself?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What astronomers is also a university alumni member?",
+      "answer": "Carl Sagan",
+      "llm_prediction": "what astronomers"
+    },
+    {
+      "question": "What NASA astronaut is also a university alumni member?",
+      "answer": "John M. Grunsfeld",
+      "llm_prediction": "nasa astronaut"
+    },
+    {
+      "question": "What popular environmentalist is also a university alumni member?",
+      "answer": "David Suzuki,",
+      "llm_prediction": "popular environmentalist is also a university alumni member? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who developed the lithium-ion battery?",
+      "answer": "John B. Goodenough",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What geochemist developed the uranium-lead dating method into lead-lead dating?",
+      "answer": "Clair Cameron Patterson",
+      "llm_prediction": "what geochemist developed the uranium - lead dating method into lead - lead dating? [SEP] the university of chicago"
+    },
+    {
+      "question": "What astronomer is a Hamming Code alumni?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What DNA astronaut is also a U of C alumni?",
+      "answer": null,
+      "llm_prediction": "dna astronaut"
+    },
+    {
+      "question": "Who was the developer of the Hamming battery?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who developed the lithium ion battery which let to lead-lead dating?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What Nobel Memorial Prize in Economic Sciences winner is also a university alumni member?",
+      "answer": "Milton Friedman",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What British Prime minister advisor is also a university alumni member?",
+      "answer": "George Stigler",
+      "llm_prediction": "prime minister advisor is also a university alumni member? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who was the first American to win the Nobel Memorial Prize in Economic Sciences?",
+      "answer": "Paul Samuelson",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What university alumni member was known for his work on portfolio theory?",
+      "answer": "Eugene Fama",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Which Nobel Memorial Prize in British Sciences is an alumni?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What US Prime Minister is an alumni?",
+      "answer": null,
+      "llm_prediction": "us prime minister"
+    },
+    {
+      "question": "Who is known for working on portfolio capture theory?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Name the British economist, theorist and philosopher who is also an author and alumni?",
+      "answer": null,
+      "llm_prediction": "the british economist, theorist and philosopher who is also an author and alumni? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who was responsible for the ancient interpretation of organizational decision making?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "What anthropologists are also university alumni members?",
+      "answer": "David Graeber and Donald Johanson",
+      "llm_prediction": "anthropologists"
+    },
+    {
+      "question": "What chess grandmaster is also a university alumni?",
+      "answer": "Samuel Reshevsky",
+      "llm_prediction": "chess grandmaster"
+    },
+    {
+      "question": "What conservative international relations scholar is also a university alumni?",
+      "answer": "Samuel P. Huntington",
+      "llm_prediction": "international relations scholar is also a university alumni? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who are best known for uncovering the fossil of John B Watson?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who did John B Watson and David Graeber discover a fossil of?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "The male fossil known as Lucy was discovered by who?",
+      "answer": null,
+      "llm_prediction": "lucy"
+    },
+    {
+      "question": "Who is the White House Coordinator of Security Planning and also an anthropologist?",
+      "answer": null,
+      "llm_prediction": "who is the white house coordinator of security planning and also an anthropologist? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who established the psychological school of conservative international relations?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who calculated the speed of light?",
+      "answer": "A. A. Michelson",
+      "llm_prediction": "u of c"
+    },
+    {
+      "question": "Who discovered the Compton Effect?",
+      "answer": "Arthur H. Compton",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who invented the first nuclear reactor?",
+      "answer": "Enrico Fermi",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is also known at the father of the hydrogen bomb?",
+      "answer": "Edward Teller",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who was the second female Nobel laureate ?",
+      "answer": "Maria Goeppert-Mayer",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is known for calculating the speed of nuclear reactions?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who discovered the AA Michelson effect?",
+      "answer": null,
+      "llm_prediction": "aa michelson"
+    },
+    {
+      "question": "Who is known for inventing the first elementary charge calculator?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who is known as the father of the hydrogen atom?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who was the first female laureate winner?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "What Egyptologist was also apart of the university's faculty?",
+      "answer": "James Henry Breasted",
+      "llm_prediction": "what egyptologist was also apart of the university ' s faculty? [SEP] the university of chicago"
+    },
+    {
+      "question": "What mathematician was also apart of the university's faculty?",
+      "answer": "Alberto Calderón",
+      "llm_prediction": "what mathematician"
+    },
+    {
+      "question": "What meteorologist was also apart of the university's faculty?",
+      "answer": "Ted Fujita",
+      "llm_prediction": "what meteorologist was also apart of the university ' s faculty? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who developed the actinide concept?",
+      "answer": "Yuan T. Lee",
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "What cancer researchers were also apart of the university's faculty?",
+      "answer": "Charles Brenton Huggins and Janet Rowley",
+      "llm_prediction": "cancer researchers"
+    },
+    {
+      "question": "Who is a Nobel prize winning prior novelist?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is the founder of T. Seaborg and Co.?",
+      "answer": null,
+      "llm_prediction": "t. seaborg and co.? [SEP] the university of chicago"
+    },
+    {
+      "question": "Who is the developer of the McKinsey concept?",
+      "answer": null,
+      "llm_prediction": "mckinsey"
+    },
+    {
+      "question": "What Nobel Prize researchers are former faculty members?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was a political philosopher, mathematician, author and also former faculty member?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Hank Paulson is the former Chairman and CEO of what banking firm?",
+      "answer": "Goldman Sachs",
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who is the governor of India's central bank?",
+      "answer": "Raghuram Rajan",
+      "llm_prediction": "who is the governor of india ' s central bank? [SEP] the university of chicago"
+    },
+    {
+      "question": "What Shakespeare scholar is currently on the university's faculty?",
+      "answer": "David Bevington",
+      "llm_prediction": "what shakespeare scholar"
+    },
+    {
+      "question": "What well known political scientists are currently on the university's faculty?",
+      "answer": "John Mearsheimer and Robert Pape",
+      "llm_prediction": "well known political scientists"
+    },
+    {
+      "question": "What paleontologists are currently on the university's faculty?",
+      "answer": "Neil Shubin and Paul Sereno",
+      "llm_prediction": "paleontologists"
+    },
+    {
+      "question": "Who is the current CEO and chairmen of Goldman Sachs?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is the current Chairman of President Barack Obama's Council of Economic Advisors?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who governs Nobel Prize central bank?",
+      "answer": null,
+      "llm_prediction": "university of chicago"
+    },
+    {
+      "question": "Who wrote Freakonomics and is also an anthropologist?",
+      "answer": null,
+      "llm_prediction": "the university of chicago"
+    },
+    {
+      "question": "Who is the 75th United States Secretary of the Treasury?",
+      "answer": null,
+      "llm_prediction": ""
+    }
+  ]
+}

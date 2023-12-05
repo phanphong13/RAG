@@ -1,0 +1,1816 @@
+{
+  "title": "Geology",
+  "context": "There are three major types of rock: igneous, sedimentary, and metamorphic. The rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma. When a rock crystallizes from melt (magma and/or lava), it is an igneous rock. This rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock due to heat and pressure that change the mineral content of the rock which gives it a characteristic fabric. The sedimentary rock can then be subsequently turned into a metamorphic rock due to heat and pressure and is then weathered, eroded, deposited, and lithified, ultimately becoming a sedimentary rock. Sedimentary rock may also be re-eroded and redeposited, and metamorphic rock may also undergo additional metamorphism. All three types of rocks may be re-melted; when this happens, a new magma is formed, from which an igneous rock may once again crystallize.",
+  "qas": [
+    {
+      "question": "An igneous rock is a rock that crystallizes from what?",
+      "answer": "melt (magma and/or lava)",
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "Sedimentary rock can be turned into which of the three types of rock?",
+      "answer": "metamorphic rock",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "When the three types of rock are re-melted what is formed? ",
+      "answer": "new magma",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What are the three major types of rock? ",
+      "answer": "igneous, sedimentary, and metamorphic",
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What changes the mineral content of a rock?",
+      "answer": "heat and pressure",
+      "llm_prediction": "the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma. when a rock crystallizes from melt"
+    },
+    {
+      "question": "What are three types of crystallization?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic. the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma. when a rock crystallizes from melt ( magma and / or lava"
+    },
+    {
+      "question": "What is an important concept in crystallization?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What kind of mineral crystallizes from erosion?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What changes the way a mineral is deposited?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "What happens when three types of minerals are re-deposited and change their characteristics?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What illustrates the relationships between rock and crystal?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "Which type of rock cannot be re-melted?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "How is a rock lithified?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What does heat prevent from changing in the crystallization process?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What gives sedimentary rock its characteristic fabric?",
+      "answer": null,
+      "llm_prediction": "heat and pressure"
+    },
+    {
+      "question": "What was the most important discovery that led to the understanding that Earth's lithosphere is separated into tectonic plates?",
+      "answer": "seafloor spreading",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Which parts of the Earth are included in the lithosphere? ",
+      "answer": "the crust and rigid uppermost portion of the upper mantle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another word for the Earth's upper mantle?",
+      "answer": "asthenosphere",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Plate tectonics can be seen as the intimate coupling between rigid plates on the surface of the Earth and what? ",
+      "answer": "the convecting mantle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what decade was seafloor spreading discovered? ",
+      "answer": "the 1960s",
+      "llm_prediction": "in what decade was seafloor spreading discovered? [SEP] there are three major types of rock : igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "When was the most important discovery about thermal boundaries made?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another word for seafloor spreading?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What direction do sea currents and seafloor spreading always move in?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "What is involved in sea current coupling?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is another term for sea currents?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What are the different tectonic plates called?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why do oceanic plates and mantle convection currents move in opposite directions?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the lower thermal boundary layer called?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "When was the lithosphere discovered?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What are the lithosphere and asthenosphere called when coupled together?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the area called where two plates move apart?",
+      "answer": "divergent boundaries",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What is the area called where one plate subducts under another?",
+      "answer": "convergent boundaries",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What type of fault boundary is defined by having widespread powerful earthquakes, as in the state of California?",
+      "answer": "Transform boundaries",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Whose theory was the theory of continental drift?",
+      "answer": "Alfred Wegener",
+      "llm_prediction": "magma"
+    },
+    {
+      "question": "The lithosphere moves over which mantle n the theory of plate tectonics?",
+      "answer": "the convecting mantle",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What did the theory regarding the San Andreas fault do?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "What were mid ocean ridges and high regions of geologic features called?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What happened as a result of hydrothermal vents and underwater volcanoes that are transform boundaries?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What keeps the theory of transform boundaries going?",
+      "answer": null,
+      "llm_prediction": "the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma. when a rock crystallizes from melt"
+    },
+    {
+      "question": "Who discovered plate tectonics?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Why was Wegener's theory important for understanding the lithosphere?",
+      "answer": null,
+      "llm_prediction": "heat and pressure"
+    },
+    {
+      "question": "Where in the ocean are volcano arcs located?",
+      "answer": null,
+      "llm_prediction": "in the ocean"
+    },
+    {
+      "question": "What is the mechanism for plate tectonics?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What happens when one plate touches another?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What types of waves do seismologists use to image the interior of the Earth?",
+      "answer": "seismic waves",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "In the layered model of the Earth, the outermost layer is what? ",
+      "answer": "crust",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "In the layered model of the Earth, the mantle has two layers below it. What are they? ",
+      "answer": "the outer core and inner core",
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "In the layered model of the Earth there are seismic discontinuities in which layer? ",
+      "answer": "the mantle",
+      "llm_prediction": "magma"
+    },
+    {
+      "question": "Recently a more detailed model of the Earth was developed. Seismologists were able to create this using images of what from the interior of the Earth? ",
+      "answer": "wave speeds",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do seismologists use to map the Earth's crust?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What was not able to see through the dense solid core of the Earth?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "By how many kilometers are shear waves separated when measuring the crust?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What have CT scans lead to for doctors and their patients?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "In the layered Earth model, what is the inner core separated by?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is the outer core called?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What is the size of the mantle?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "How quickly to wave speeds inside the earth move?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "Why is the second timeline needed? ",
+      "answer": "second scale shows the most recent eon with an expanded scale",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Which timeline is further expanded in the fourth scale?",
+      "answer": "Quaternary",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the latest epoch?",
+      "answer": "The Holocene",
+      "llm_prediction": "sedimentary rock"
+    },
+    {
+      "question": "The Pleistocene epoch takes place during which period?",
+      "answer": "the Quaternary period",
+      "llm_prediction": "pleistocene epoch"
+    },
+    {
+      "question": "What does the second timeline compress?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What has the first timeline added to the timeline to expand it?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Why is the most recent era expanded in the first scale?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Where is the Holocene further expanded since it is very short with short epochs?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Why is the Holocene not shown clearly on the first timeline?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What is the largest eon?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which timeline is the most accurate?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "How many epochs are there?",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What does the fourth scale compress?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is the name of the epoch expanded in the second scale?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What principle relates to the formation of faults and the age of the sequences through which they cut? ",
+      "answer": "The principle of cross-cutting relationships",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "When rock formations are found on top of a fault that have not been cut, then they must be older or younger than the fault?",
+      "answer": "younger than the fault",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Finding what helps to determine if a fault is a normal fault or a thrust fault? ",
+      "answer": "the key bed",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Rocks on top of a fault that are cut are always older or younger than the fault itself?",
+      "answer": "older than the fault",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What principle helps find the difference between a normal or thrust fault?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are key beds younger than?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What needs to be found to find out if rocks are related?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is the age of key beds if they are related to a fault and not cut?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What does cutting a key bed help an older rock form?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is the key bed?",
+      "answer": null,
+      "llm_prediction": "melt ( magma and / or lava"
+    },
+    {
+      "question": "What principle helps define the key bed?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "Why are cut rocks on top of a fault younger than the fault?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "What is a thrust fault?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can you say about a fault that penetrates the top rocks but not the lower formations?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What foreign bodies, which are older than the rocks themselves, occur igneous rocks?",
+      "answer": "xenoliths",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Xenoliths are picked up by what and deposited into the matrix of igneous rocks? ",
+      "answer": "magma or lava flows",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is another word for inclusions in sedimentary rocks? ",
+      "answer": "clasts",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What is the principle that states that with sedimentary rocks, inclusions must be older than the formation that contains them?",
+      "answer": "The principle of inclusions and components",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What is something that is often torn up and included in sedimentary rock?",
+      "answer": "gravel",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do matrix components show about how magma flows?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "Where is the gravel from that is found in xenoliths?",
+      "answer": null,
+      "llm_prediction": "xenoliths"
+    },
+    {
+      "question": "What happens to the gravel found in xenoliths?",
+      "answer": null,
+      "llm_prediction": "redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is another word for xenoliths?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "How old is a lava flow after it cools?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Why do igneous rocks use gravel?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock due to heat and pressure"
+    },
+    {
+      "question": "What are xenoliths made out of?",
+      "answer": null,
+      "llm_prediction": "xenoliths"
+    },
+    {
+      "question": "What says that formations must be older than the inclusions inside them?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is the matrix?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What is another name a formation? ",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Which principle is based on the appearance of fossils in sedimentary rocks?",
+      "answer": "The principle of faunal succession",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Whose principles were the principle of faunal succession built upon?",
+      "answer": "William Smith",
+      "llm_prediction": "magma"
+    },
+    {
+      "question": "The fact that not all fossils may be found globally at the same time causes the principle to become what?",
+      "answer": "complex",
+      "llm_prediction": "metamorphic rock"
+    },
+    {
+      "question": "The presence or absence of what can be used to determine the relative age of the formations in which they are found? ",
+      "answer": "organisms",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "The principle of faunal succession was developed 100 years before whose theory of evolution?",
+      "answer": "Charles Darwin",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where can sedimentary rock not be found at the same time?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is the theory of evolution based on?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "What can changes in habitat be used to provide about formations?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "How much time after Charles Darwin, did William Smith develop the principles of succession?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What is one uncertainty about the theory of evolution that makes it complex?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "When was Charles Darwin's theory of evolution published?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Who wrote the principles of faunal succession?",
+      "answer": null,
+      "llm_prediction": "magma"
+    },
+    {
+      "question": "Why is the theory of evolution so complex?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "Why is it easy to use an organism's absence to show the age of a formation?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "The principles of succession are dependent on what thought?",
+      "answer": null,
+      "llm_prediction": "principles of succession"
+    },
+    {
+      "question": "When was the ability to use radioactive isotopes to date rock formations developed?",
+      "answer": "At the beginning of the 20th century",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What type of correlation was used previously to help date rock formations?",
+      "answer": "stratigraphic correlation",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "It is now possible to convert old relative ages into what type of ages using isotopic dating?",
+      "answer": "absolute ages",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Previous to isotopic dating sections of rocks had to be dated using fossils and stratigraphic correlation relative to what? ",
+      "answer": "to one another",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When dating rocks, what is the absolute isotopic date applied to?",
+      "answer": "fossil sequences",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "How did the advancement of using fossils help geological science in the early 20th century?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What did using fossils help change for scientists?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "When was the ability to use fossils to date isotope formations developed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has it now become possible to do when dating isotopes while using fossils?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What can scientists apply relative rock sections to to find isotopes?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "When did geologists stop using isotopes?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes"
+    },
+    {
+      "question": "When did geologists beginning comparing fossils to each other?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt"
+    },
+    {
+      "question": "What did stratigraphic correlation replace?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "Absolute ages had to be converted into what?",
+      "answer": null,
+      "llm_prediction": "sedimentary rock"
+    },
+    {
+      "question": "What are fossil sequences applied to?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What techniques can be used to determine paleotopography?",
+      "answer": "Thermochemical techniques",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?",
+      "answer": "particular closure temperature",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What type of ratios are used in geochronologic and thermochronologic studies?",
+      "answer": "isotope ratios of radioactive elements",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "How can you find the absolute age of sedimentary rock units which do not contain radioactive isotopes?",
+      "answer": "Dating of lava and volcanic ash layers found within a stratigraphic sequence",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are crystal lattices measured in?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one thing measuring in crystal lattices shows in ash layers?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is one thing ash layers can be used to determine in a crystal lattice?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What does pluton emplacement give after a stratigraphic sequence is measured in minerals?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What studies use pluton emplacement?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the crystal lattice made out of?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "What does paleotopography study?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic. the rock cycle"
+    },
+    {
+      "question": "What is the point that radiometric isotopes begin diffusing called?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What cannot be used to find the age of pluton emplacement?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What determines the temperature profile outside of the crust?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Rock units become thicker and shorten when placed under this type of compression. ",
+      "answer": "horizontal compression",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Where do thrust faults form?",
+      "answer": "In the shallow crust",
+      "llm_prediction": "melt ( magma and / or lava"
+    },
+    {
+      "question": "When rock folds deep in the Earth it can fold one of two ways, when it buckles upwards it creates what? ",
+      "answer": "antiforms",
+      "llm_prediction": "metamorphic rock"
+    },
+    {
+      "question": "When rock folds deep in the Earth it can fold one of two ways, when it buckles downwards it creates what? ",
+      "answer": "synforms",
+      "llm_prediction": "metamorphic rock"
+    },
+    {
+      "question": "If the tops of the rock units within the folds remain pointing upwards, they are called what? ",
+      "answer": "anticlines and synclines",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What happens when syncline is horizontally compressed?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What are two ways that mud doesn't change in volume?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happens because younger rock is deeper?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What happens deeper in the Earth where brittle deformation occurrs?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What are two types of faults that happen in the shallow crust?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What kind of unit tends to change its volume?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What principle states that rocks deeper in the layer tend to be younger?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What behaviour causes rocks deeper in the earth to fault instead of folding?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "What happens to rock units under vertical pressure?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What are buckles facing downwards in a fault called?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "This causes the rock unit as a whole to become longer and thinner. ",
+      "answer": "Extension",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Stretched rocks that pinch into lenses are known by what word? ",
+      "answer": "boudins",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Where can the entire sedimentary sequence of the Grand Canyon be seen in less than the length of a meter?",
+      "answer": "within the Maria Fold and Thrust Belt",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Rocks that are a depth where they are ductilely stretched are also often what?",
+      "answer": "metamorphosed",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What causes rock extension?",
+      "answer": "normal faulting and through the ductile stretching and thinning",
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "What is another word for thinning rocks in French?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Where can lower rocks of the Grand Canyon be seen?",
+      "answer": null,
+      "llm_prediction": "grand canyon"
+    },
+    {
+      "question": "What happens to sediment layers that are also thinning?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does extension do to sediment that is less than a meter long?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How does sediment make rock fall?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes"
+    },
+    {
+      "question": "What places younger units above older units?",
+      "answer": null,
+      "llm_prediction": "magma and / or lava"
+    },
+    {
+      "question": "How long is a boudin?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "How long is the Maria Fold?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Where does extension occur?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "What was the stretched sequence in the Grand Canyon named?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another word for long, planar igneous intrusions?",
+      "answer": "Dikes",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Where do dikes form?",
+      "answer": "in areas that are being actively deformed",
+      "llm_prediction": "melt ( magma and / or lava"
+    },
+    {
+      "question": "What type of gradients are formed by faulting and other deformational processes?",
+      "answer": "topographic gradients",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What activity maintains topographic gradients?",
+      "answer": "Continual motion along the fault",
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "What events are often associated with volcanism and igneous activity?",
+      "answer": "Deformational events",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are two ways lava tubes are added during deformation?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "During what process are lava tubes expanded?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "What two types of activity are associated with the Canadian shield?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What does motion along dike swarms maintain?",
+      "answer": null,
+      "llm_prediction": "sedimentary rock, or be turned into a metamorphic rock due to heat and pressure that change the mineral content of the rock which gives it a characteristic fabric"
+    },
+    {
+      "question": "What does continuous motion along dike swarms create for sediment to be deposited?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What causes hillslopes and channels to erode?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The creation of topographic gradients causes what?",
+      "answer": null,
+      "llm_prediction": "topographic gradients"
+    },
+    {
+      "question": "What causes the topographic gradients to collapse?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "What is another name for a deformational event?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What is another name for a dike swarm?",
+      "answer": null,
+      "llm_prediction": "dike swarm"
+    },
+    {
+      "question": "The Hawaiian Islands are made up almost entirely of what?",
+      "answer": "layered basaltic lava flows",
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What is the oldest known rock in the world?",
+      "answer": "Acasta gneiss",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What type of rock is found at the Grand Canyon?",
+      "answer": "sedimentary rocks",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "The rocks at the Grand Canyon have been in place since when?",
+      "answer": "Cambrian time",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Where is the oldest known rock in the world located?",
+      "answer": "Slave craton in northwestern Canada",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is Hawaii made of that has existed since Cambrian time?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What has happened to sedimentary, volcanic and intrusive rock in the Grand Canyon?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What has happened to the the rock in the Grand Canyon that is the oldest rock in the world?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What is hard to find about the origin of Grand Canyon rock unless analyzed in a lab?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What area in northwestern Canada has almost-undeformed stacks of sedimentary rock?",
+      "answer": null,
+      "llm_prediction": "northwestern canada"
+    },
+    {
+      "question": "What is the youngest rock to metamorphosize?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How long have the intrusive rocks in the southwestern US been around?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is the Grand Canyon not an example of?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is complex about the layering of the Hawaiian islands?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What was formed after the undeformed units were deposited?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What is petrology?",
+      "answer": "the study of rocks",
+      "llm_prediction": "petrology"
+    },
+    {
+      "question": "What is stratigraphy?",
+      "answer": "the study of sedimentary layers",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is structural geology?",
+      "answer": "the study of positions of rock units and their deformation",
+      "llm_prediction": "structural geology"
+    },
+    {
+      "question": " What modern formations do geologists study?",
+      "answer": "modern soils",
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What do scientists use to determine the process of river movement?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is another word for the study of past and current life?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What method studies the positions of glaciers and their subsurface?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are sedimentary layers used to investigate?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are biogeochemical pathways used to decipher?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do Geologists use to study processes outside of the earth?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are used in non-typical investigations?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What are biogeochemical pathways?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What do geologists use to investigate the surface?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What ancient property do geologists study?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do petrologists use electron microprobes in the laboratory for?",
+      "answer": "identifying rocks",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What properties are analyzed with a conoscopic lens by petrologists? ",
+      "answer": "birefringence, pleochroism, twinning, and interference properties",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Stable and radioactive isotope studies provide insight into what?",
+      "answer": "geochemical evolution of rock units",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "Petrologists identify rock samples in the field and where else? ",
+      "answer": "the laboratory",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What type of microscope is used by petrologists?",
+      "answer": "petrographic microscope",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where is cross-polarized light identified by petrologists?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are two methods for identifying plane-polarized light in the lab?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What equipment is used to identify individual crystals?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What properties are there in crystals?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is used to view the properties of crystals?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What do unstable isotope studies indicate?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What does optical microscopy identify about individual locations?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What kind of rock samples are analyzed by an electron microprobe?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What methods do petrologists use to examine rocks out in the field?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What lens is used to identify chemical composition?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic. the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma"
+    },
+    {
+      "question": "How else can petrologists understand the pressures at which different mineral phases appear?",
+      "answer": "pressure physical experiments",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "How else can petrologists understand the temperature at which different mineral phases appear?",
+      "answer": "physical experiments",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Data from physical experiments can be extrapolated to the field to understand what processes? ",
+      "answer": "metamorphic processes",
+      "llm_prediction": "when a rock crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock due to heat and pressure that change the mineral content of the rock which gives it a characteristic fabric. the sedimentary rock can then be subsequently turned into a metamorphic rock due to heat and pressure"
+    },
+    {
+      "question": "What do petrologists use to understand magma chamber crystallization?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What experiments are used to understand how magma flows?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How does the flow of magma change?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded"
+    },
+    {
+      "question": "What else can magma flows be used to understand?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What can experiments be used to explain beside magma crystallization?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What does the magma chamber evolution explain?",
+      "answer": null,
+      "llm_prediction": "crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock due to heat and pressure that change the mineral content of the rock which gives it a characteristic fabric"
+    },
+    {
+      "question": "What processes occur above the earth?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "How do physical experiments explain fluid inclusion data?",
+      "answer": null,
+      "llm_prediction": "physical experiments"
+    },
+    {
+      "question": "Research regarding metamorphic processes helps explain what about pressure?",
+      "answer": null,
+      "llm_prediction": "pressure"
+    },
+    {
+      "question": "What type of geologists give information about strain within the crystalline structure of the rocks?",
+      "answer": "Structural geologists",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "How do structural geologists observe the fabric within the rocks?",
+      "answer": "microscopic analysis of oriented thin sections",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded"
+    },
+    {
+      "question": "In order to better understand the orientations of faults and folds, structural geologists do what with measurements of geological structures?",
+      "answer": "plot and combine",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What kind of experiments of rock deformation do structural geologists perform?",
+      "answer": "analog and numerical experiments",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "In what setting do structural geologists reconstruct the crystalline structure of rocks?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What experiments are used to reconstruct rock fabric? ",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "Why do geologists plot crystals under a microscope?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What information does history of rock deformation give about crystal structure?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do structural geologists do with measurements of fabric in crystals?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "What does the orientation of the thin sections tell geologists?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "How do geologists identify the measurements of a geological structure?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What does the deformation of a rock tell geologists?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock due to heat and pressure that change the mineral content of the rock which gives it a characteristic fabric"
+    },
+    {
+      "question": "What experiment can be performed on large settings that cannot be on small settings?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What instrument is used to perform analogy and numerical experiments?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Zones in which mountains are built along convergent tectonic plate boundaries are called what?",
+      "answer": "orogenic wedges",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are among the most well known experiments in structural geology? ",
+      "answer": "those involving orogenic wedges",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Horizontal layers of what are pulled along a surface into a back stop in analog versions of orogenic wedge experiments?",
+      "answer": "sand",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What does critically tapered mean? ",
+      "answer": "all angles remain the same",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "Which is more sophisticated, numericals model or an analog models of orogenic wedges? ",
+      "answer": "Numerical models",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do orogenic wedges work in the same way as?",
+      "answer": null,
+      "llm_prediction": "orogenic wedges"
+    },
+    {
+      "question": "What are analog models often considered as compared to orogenic wedges?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do analog models include in the pathway for metamorphism?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "How do studies give information about tectonic plate boundaries?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded"
+    },
+    {
+      "question": "What are some of the most well known experiments in patterns of faulting?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are layers of sand pulled out of?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "How are analog models different than numerical models?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "What are horizontal layers of sand called?",
+      "answer": null,
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What do studies on metamorphism through pressure help clarify?",
+      "answer": null,
+      "llm_prediction": "metamorphism"
+    },
+    {
+      "question": "What does an analog model have that a numerical model doesn not?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "The analysis of stratigraphic sections such as drill cores is done by who?",
+      "answer": "stratigraphers",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What type of surveys show the location of stratigraphic units in the subsurface?",
+      "answer": "geophysical surveys",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What can be combined with geophysical data to produce a better view of the subsurface?",
+      "answer": "well logs",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What tool do stratigraphers use to see their data in three dimensions?",
+      "answer": "computer programs",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Stratigraphers try to locate areas for what types of extraction? ",
+      "answer": "water, coal, and hydrocarbon extraction",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do computers analyze in the lab?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What is an example of what is analyzed by computers in the lab?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do drill cores show about water location?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What can drill cores and ancient processes be combined to show?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What do computers use coal to reconstruct?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What are taken from the laboratory into the field?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What shows the location of drill cores?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What computer program allows stratigraphers to view the subsurface in three dimensions?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What are well logs?",
+      "answer": null,
+      "llm_prediction": "magma and / or lava"
+    },
+    {
+      "question": "What are ancient processes used to do?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes"
+    },
+    {
+      "question": "Who analyzes rock samples from drill cores in the lab? ",
+      "answer": "biostratigraphers",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who dates rocks, precisely, within the stratigraphic section?",
+      "answer": "Geochronologists",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Why is it important to precisely date rocks within the stratigraphic section? ",
+      "answer": "provide better absolute bounds on the timing and rates of deposition",
+      "llm_prediction": "heat and pressure"
+    },
+    {
+      "question": "What types of scientists looks for signs of magnetic reversals in igneous rocks within the drill cores?",
+      "answer": "Magnetic stratigraphers",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What do geochronologists analyze fossils from drill cores for?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What do outcrop samples help magnetic stratigraphers to date?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do biostratigraphers want to understand about past climate?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do magnetic straitigraphers precisely date?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What do geochronologists look for in drill cores?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What are found in fossils?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "What helps scientists to date fossils?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "What do Magnetic stratigraphers use isotopes to study?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Where is the stratigraphic section?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of studies do Geochronologists perform?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Fielding H. Garrison believes that the science of geology can be traced to where?",
+      "answer": "Persia",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Living from 973–1048 CE he was one of the earliest Persian geologists, what was his name?",
+      "answer": "Abu al-Rayhan al-Biruni",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "In China, this person inferred that the land was formed by erosion of the mountains and by silt deposition, what was his name?",
+      "answer": "Shen Kuo",
+      "llm_prediction": ""
+    },
+    {
+      "question": "This person proposed explanations for the origins of earthquakes and the formation of mountains, what was his name?",
+      "answer": "Ibn Sina",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What prompted Shen Kuo to believe the land was formed by erosion of the mountains?",
+      "answer": "his observation of fossil animal shells",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Where did Ibna Sina believe the origin of geology science was?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "One of the earliest writings on India written by Fielding H. Garrison hypothesized what?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What literature did Fielding H. Garrison draw from that wasn't destroyed by Muslims?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "What did Ibn Sina, who lived from 1031-1095 base his hypothesis for land formation on?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "How did Fielding H. Garrison believe land was formed?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded"
+    },
+    {
+      "question": "Where is Fielding H. Garrison from?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What was Shen Kuo's religion?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic. the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma"
+    },
+    {
+      "question": "When was Greek and Indian literature destroyed by conquests?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes"
+    },
+    {
+      "question": "What did Abu al-Rayhan al-Biruni base his writings on?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "When was Garrison born?",
+      "answer": null,
+      "llm_prediction": "melt"
+    },
+    {
+      "question": "Who is viewed as the first modern geologist?",
+      "answer": "James Hutton",
+      "llm_prediction": "igneous, sedimentary, and metamorphic. the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma"
+    },
+    {
+      "question": "In 1785 James Hutton presented what paper to the Royal Society of Edinburgh?",
+      "answer": "Theory of the Earth",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "James Hutton published a 2 volume version of his theories in what year?",
+      "answer": "1795",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What was the main idea of James Hutton's paper?",
+      "answer": "Earth must be much older than had previously been supposed",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "When was James Hutton born?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the Royal Society of Edinburgh founded?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What did the Royal Society of Edinburgh present in 1785?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What was the theory the Royal Society presented?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "Why did the Royal Society think the Earth was older than previously thought?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was James Hutton born?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the Royal Society of Edinburgh formed?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt"
+    },
+    {
+      "question": "Why did Hutton believe the earth needed to be much younger than previously believed?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "Who was the first geologist?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Hutton die?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes"
+    },
+    {
+      "question": "Who produced the first geological map of the U.S.?",
+      "answer": "William Maclure",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "In what year was the first geological map of the U.S. produced?",
+      "answer": "1809",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "In what year did William Maclure begin the process of creating the first geological map of the U.S.?",
+      "answer": "1807",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "To whom did William Maclure submit the map?",
+      "answer": "the American Philosophical Society",
+      "llm_prediction": "william maclure"
+    },
+    {
+      "question": "What was the memoir entitled which was submitted to the American Philosophical Society?",
+      "answer": "Observations on the Geology of the United States explanatory of a Geological Map",
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "When was the American Philosophical Society created?",
+      "answer": null,
+      "llm_prediction": "when a rock crystallizes from melt ( magma and / or lava ), it is an igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What did the American Philosophical Society produce in 1809?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What did William Smith cross about 50 times?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic. the rock cycle is an important concept in geology which illustrates the relationships between these three types of rock, and magma. when a rock crystallizes from melt ( magma and / or lava"
+    },
+    {
+      "question": "What memoir did William Smith write that was published in the Society's Transactions?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What did William Smith do in the US?",
+      "answer": null,
+      "llm_prediction": "crystallizes"
+    },
+    {
+      "question": "When was the first geological map of the entire earth created?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "How many times did Maclure cross the Union states?",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "Who published William Smith's geological map?",
+      "answer": null,
+      "llm_prediction": "william smith"
+    },
+    {
+      "question": "When did the American Philosophical Society enlist Maclure to make the geological survey?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "How many years later was Maclure's memoir published after the map?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "First published by Sir Charles Lyell in 1830 this book was called what? ",
+      "answer": "Principles of Geology",
+      "llm_prediction": "igneous"
+    },
+    {
+      "question": "What doctrine did the doctrine of the Principles of Geology successfully promote?",
+      "answer": "uniformitarianism",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which theory states that slow geological processes are still occurring today, and have occurred throughout Earth's history?",
+      "answer": "uniformitarianism",
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock, or be turned into a metamorphic rock"
+    },
+    {
+      "question": "Which theory states that Earth's features remained unchanged after forming in one single catastrophic event?",
+      "answer": "catastrophism",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which famous evolutionist was influenced by the book Principles of Geology?",
+      "answer": "Charles Darwin",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Charles Darwin publish in 1830?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What did Charles Darwin successfully promote?",
+      "answer": null,
+      "llm_prediction": "the rock cycle"
+    },
+    {
+      "question": "What does catastrophism believe is still occurring today?",
+      "answer": null,
+      "llm_prediction": "igneous rock. this rock can be weathered and eroded, and then redeposited and lithified into a sedimentary rock"
+    },
+    {
+      "question": "What did people think about catastrophism during Charles Darwin's time?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What did Hutton believe was formed in one catastrophic event?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    },
+    {
+      "question": "What book did Darwin publish in 1830?",
+      "answer": null,
+      "llm_prediction": "darwin"
+    },
+    {
+      "question": "What idea by Charles Lyell was widely accepted at the time of publication?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was Sir Charles Lyell born?",
+      "answer": null,
+      "llm_prediction": "igneous, sedimentary, and metamorphic"
+    },
+    {
+      "question": "Whom was Charles Lyell influenced by?",
+      "answer": null,
+      "llm_prediction": "charles lyell"
+    },
+    {
+      "question": "Lyell's book failed to publicize what view?",
+      "answer": null,
+      "llm_prediction": "igneous rock"
+    }
+  ]
+}

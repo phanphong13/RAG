@@ -1,0 +1,2096 @@
+{
+  "title": "Computational_complexity_theory",
+  "context": "Computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. A computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps, such as an algorithm.",
+  "qas": [
+    {
+      "question": "What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?",
+      "answer": "Computational complexity theory",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "By what main attribute are computational problems classified utilizing computational complexity theory? ",
+      "answer": "inherent difficulty",
+      "llm_prediction": "inherent difficulty"
+    },
+    {
+      "question": "What is the term for a task that generally lends itself to being solved by a computer?",
+      "answer": "computational problems",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is computational complexity principle?",
+      "answer": null,
+      "llm_prediction": "a branch of the theory of computation"
+    },
+    {
+      "question": "What branch of theoretical computer class deals with broadly classifying computational problems by difficulty and class of relationship?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is understood to be a task that is in principle not amendable to being solved by a computer?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": " What cannot be solved by mechanical application of mathematical steps?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is a manual application of mathematical steps?",
+      "answer": null,
+      "llm_prediction": "an algorithm"
+    },
+    {
+      "question": "What measure of a computational problem broadly defines the inherent difficulty of the solution?",
+      "answer": "if its solution requires significant resources",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?",
+      "answer": "mathematical models of computation",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are two basic primary resources used to guage complexity?",
+      "answer": "time and storage",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What unit is measured to determine circuit complexity?",
+      "answer": "number of gates in a circuit",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What practical role does defining the complexity of problems play in everyday computing?",
+      "answer": "determine the practical limits on what computers can and cannot do",
+      "llm_prediction": "the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What measure of computational problem broadly defines the inherent simplicity of the solution?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What method is not used to intuitively assess or quantify the amount of resources required to solve a computational problem??",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are three basic primary resources used to gauge complexity?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What unit is measured to determine circuit simplicity?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What number is used in perpendicular computing?",
+      "answer": null,
+      "llm_prediction": "what number is used in perpendicular computing? [SEP] computational complexity theory"
+    },
+    {
+      "question": "What two fields of theoretical computer science closely mirror computational complexity theory?",
+      "answer": "analysis of algorithms and computability theory",
+      "llm_prediction": "two fields of theoretical computer science"
+    },
+    {
+      "question": "What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?",
+      "answer": "analysis of algorithms",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?  ",
+      "answer": "computational complexity theory",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?",
+      "answer": "computability theory",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are two fields of theoretical computer science that closely mirror computational simplicity theory?",
+      "answer": null,
+      "llm_prediction": "two fields of theoretical computer science that closely mirror computational simplicity theory? [SEP] computational complexity theory"
+    },
+    {
+      "question": "What is not the key distinction between analysis of algorithms and computational complexity theory?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the process of analyzing the amount of resources needed by a particular algorithm to solve a hypothesis?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the process that asks a more specific question about all possible algorithms that could not be used to solve the same problem?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What process classifies problems that can and cannot be solved with approximately unlimited resources?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the name given to the input string of a computational problem?",
+      "answer": "problem instance",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved? ",
+      "answer": "the problem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Is a problem instance typically characterized as abstract or concrete?",
+      "answer": "concrete",
+      "llm_prediction": "abstract"
+    },
+    {
+      "question": "What is another name for any given measure of input associated with a problem?",
+      "answer": "instances",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the general term used to describe the output to any given input in a problem instance?",
+      "answer": "solution",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What can be viewed as a limited collection of instances together with a solution for every instance?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the name given to the input string of a computational solution?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What term refers to the concrete question to be solved?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the output corresponding to the given question?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is a particular measure input associated with the a theory?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?",
+      "answer": "2000",
+      "llm_prediction": "traveling salesman problem seek to classify a route between the 15 largest cities in germany? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?",
+      "answer": "round trip through all sites in Milan",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does computational complexity theory most specifically seek to answer? ",
+      "answer": "computational problems",
+      "llm_prediction": "their inherent difficulty"
+    },
+    {
+      "question": "How many miles does the traveling salesman problem seek to classify a route between the 15 smallest cities in Germany?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the qualitative answer to this particular problem instance?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is one example of an instance that the qualitative answer to the traveling salesman fails to answer?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does computational simplicity theory most specifically seek to answer?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In a computational problem, what can be described as a string over an alphabet?",
+      "answer": "problem instance",
+      "llm_prediction": "a string over an alphabet? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the name of the alphabet is most commonly used in a problem instance?",
+      "answer": "binary alphabet",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is another term for the string of a problem instance?",
+      "answer": "bitstrings",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "In the encoding of mathematical objects, what is the way in which integers are commonly expressed?",
+      "answer": "binary notation",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is one way in which graphs can be encoded? ",
+      "answer": "adjacency matrices",
+      "llm_prediction": "mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is a string over a Greek number when considering a computational problem?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the name of the alphabet that is rarely used in a problem instance?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is another term for the the string of a problem question?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is represented by non-binary notation in the encoding of mathematical objects?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How can graphs be encoded indirectly?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What kind of problems are one of the main topics studied in computational complexity theory?",
+      "answer": "Decision problems",
+      "llm_prediction": "what kind of problems are one of the main topics studied in computational complexity theory? [SEP] computational complexity theory"
+    },
+    {
+      "question": "What are the two simple word responses to a decision problem?",
+      "answer": "yes or no",
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other"
+    },
+    {
+      "question": "What are the two integer responses to a decision problem?",
+      "answer": "1 or 0",
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What will the output be for a member of the language of a decision problem?",
+      "answer": "yes",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What answer denotes that an algorithm has accepted an input string?",
+      "answer": "yes",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What kind of solutions are one of the central objects of study in computational complexity theory?",
+      "answer": null,
+      "llm_prediction": "what kind of solutions"
+    },
+    {
+      "question": "What is a typical type of computational problem whose answer is either yer or no?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What can be viewed as an informal language where the language instances whose input is yes?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What are the three integer responses to a decision problem?",
+      "answer": null,
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other"
+    },
+    {
+      "question": "What answer denotes that a solution has accepted an input string?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What kind of graph is an example of an input used in a decision problem?",
+      "answer": "arbitrary graph",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the term for the set of all connected graphs related to this decision problem?",
+      "answer": "formal language",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What encoding decision needs to be made in order to determine an exact definition of the formal language?",
+      "answer": "how graphs are encoded as binary strings",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What type of graph is an example of an output used in a decision problem?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the term for the set of all unconnected graphs related to this decision problem?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What encoding decision needs to be made in order to determine an inaccurate definition of the formal language? ",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How does one obtain an indefinite definition of this language?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "A function problem is an example of what?",
+      "answer": "a computational problem",
+      "llm_prediction": "theory of computation"
+    },
+    {
+      "question": "How many outputs are expected for each input in a function problem?",
+      "answer": "a single output",
+      "llm_prediction": "how many outputs"
+    },
+    {
+      "question": "The traveling salesman problem is an example of what type of problem?",
+      "answer": "A function problem",
+      "llm_prediction": "the traveling salesman problem"
+    },
+    {
+      "question": "In addition to the traveling salesman problem, what is another example of a function problem?",
+      "answer": "the integer factorization problem",
+      "llm_prediction": "traveling salesman problem"
+    },
+    {
+      "question": "Is the output of a functional problem typically characterized by a simple or complex answer?",
+      "answer": "complex",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is a computational solution where a single input is expected for every input?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is expected where a computational problems offers multiple outputs are expected for every input?",
+      "answer": null,
+      "llm_prediction": "multiple outputs"
+    },
+    {
+      "question": "What is a function solution an example of?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are other irrelevant examples of a function problem>",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Is the output of a functional solution typically characterized by a simple or complex answer?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "How can function problems typically be restated?",
+      "answer": "decision problems",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "If two integers are multiplied and output a value, what is this expression set called?",
+      "answer": "set of triples",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What can not be restated as decision problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the expression set called where three integers are multiplied?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What corresponds to solving the problem of multiplying three numbers/",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is a commonly used measurement used to determine the complexity of a computational problem?",
+      "answer": "how much time the best algorithm requires to solve the problem",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is one variable on which the running time may be contingent?",
+      "answer": "the instance",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How is the time needed to obtain the solution to a problem calculated?",
+      "answer": "as a function of the size of the instance",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "In what unit is the size of the input measured?",
+      "answer": "bits",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?",
+      "answer": "an increase in the input size",
+      "llm_prediction": "each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How does one measure the simplicity of a computational problem?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is one variable which the running of time be not be contingent?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is the time needed to obtain the question to a problem calculated?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is  interested in how algorithms scale with a decrease in the input size?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How is time not required to solve a problem calculated?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?",
+      "answer": "Cobham's thesis",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "If input size is is equal to n, what can respectively be assumed is the function of n?",
+      "answer": "the time taken",
+      "llm_prediction": "input size is is equal to n, what can respectively be assumed is the function of n? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What term corresponds to the maximum measurement of time across all functions of n? ",
+      "answer": "worst-case time complexity",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How is worst-case time complexity written as an expression?",
+      "answer": "T(n)",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Assuming that T represents a polynomial in T(n), what is the term given to the corresponding algorithm?",
+      "answer": "polynomial time algorithm",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How is time taken expressed as a function of x?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Whose hypothesis states the the solution to a problem is solvable with reasonable resources assuming it allows for monoinomial time algorithm?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What term corresponds to the minimum measurement of the time across all functions of n?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How is best-case time complexity written as an expression?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is the term given to the corresponding algorithm assuming that T represents a mononominal in T(n)?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the term for a mathematical model that theoretically represents a general computing machine?",
+      "answer": "A Turing machine",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "It is generally assumed that a Turing machine can solve anything capable of also being solved using what?",
+      "answer": "an algorithm",
+      "llm_prediction": "mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is the most commonplace model utilized in complexity theory?",
+      "answer": "the Turing machine",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does a Turing machine handle on a strip of tape?",
+      "answer": "symbols",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What a scientific model of a general computing machine?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is a scientific device that manipulates symbols contained on a strip of tape?",
+      "answer": null,
+      "llm_prediction": "an algorithm"
+    },
+    {
+      "question": "What are intended as a practical computing technology?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is a scientific experiment that can solve a problem by algorithms?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is generally considered to be the most basic iteration of a Turing machine?",
+      "answer": "A deterministic Turing machine",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What fixed set of factors determine the actions of a deterministic Turing machine",
+      "answer": "rules",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the term used to identify a deterministic Turing machine that has additional random bits?",
+      "answer": "A probabilistic Turing machine",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What type of Turing machine is capable of multiple actions and extends into a variety of computational paths?",
+      "answer": "A non-deterministic Turing machine",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the term given to algorithms that utilize random bits?",
+      "answer": "randomized algorithms",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What uses a flexible set of rules to determine its future actions?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is a deterministic Turing machine with an extra supply of random ribbons?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does not often help algorithms solve problems more efficiently?",
+      "answer": null,
+      "llm_prediction": "mechanical application of mathematical steps"
+    },
+    {
+      "question": "Which machine allows the machine to have multiple possible past actions from a given state?",
+      "answer": null,
+      "llm_prediction": "which machine allows the machine to have multiple possible past actions from a given state? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How is one way that one should not view non-determinism?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Turing machines are commonly employed to define what? ",
+      "answer": "complexity classes",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are two factors that directly effect how powerful a Turing machine may or may not be?",
+      "answer": "time or space",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "In the determination of complexity classes, what are two examples of types of Turing machines?",
+      "answer": "probabilistic Turing machines, non-deterministic Turing machines",
+      "llm_prediction": "two examples of types of turing machines? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What are many types of Turing machines not used for?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are three factors that directly effect how powerful a Turing machine may or may not be?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What machines are not equally powerful in principle?",
+      "answer": null,
+      "llm_prediction": "machines are not equally powerful in principle? [SEP] computational complexity theory"
+    },
+    {
+      "question": "What may not be more powerful than others when the resources of time or space of considered?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?",
+      "answer": "random access machines",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",
+      "answer": "computational power",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What two resources commonly consumed by alternate models are typically known to vary?",
+      "answer": "time and memory",
+      "llm_prediction": "two resources commonly consumed by alternate models are typically known to vary? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What commonality do alternate machine models, such as random access machines, share with Turing machines?",
+      "answer": "the machines operate deterministically",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is not an example of a machine model that deviates from a generally accepted multi-tape Turing machine?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What measurement is affected by conversion between machine models?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What two resources are uncommonly consumed by alternate models and are typically known to vary?",
+      "answer": null,
+      "llm_prediction": "two resources are uncommonly consumed by alternate models"
+    },
+    {
+      "question": "What do all these models not have in common?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of Turing machine can be characterized by checking multiple possibilities at the same time?",
+      "answer": "non-deterministic",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What often affects or facilitates ease of analysis in computational problems?",
+      "answer": "unusual resources",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "A non-deterministic Turing machine has the ability to capture what facet of useful analysis?",
+      "answer": "mathematical models",
+      "llm_prediction": "the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?",
+      "answer": "time",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is harder to analyze in terms of more unusual resources?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What type of machine is a computational model that is not allowed to branch out to check many different possibilities at once?",
+      "answer": null,
+      "llm_prediction": "what type of machine is a computational model that is not allowed to branch out to check many different possibilities at once? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What has a lot to do with how we physically want to compute algorithms?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What machine's branching does not exactly capture many of the mathematical models we want to analyze?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the least critical resource in the analysis of computational problems associated with non-deterministic Turing machines?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "The time required to output an answer on a deterministic Turing machine is expressed as what?",
+      "answer": "state transitions",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Complexity theory classifies problems based on what primary attribute?",
+      "answer": "difficulty",
+      "llm_prediction": "inherent difficulty"
+    },
+    {
+      "question": "What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?",
+      "answer": "DTIME(f(n))",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?",
+      "answer": "time",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is not used for a precise definition of what it means to solve a problem using a given amount of time and space?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How is Turing machine M said not to operate?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is the expression used to identify any given series of solutions capable of being solved within time on a deterministic Turing machine?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the least critical resource measured in assessing the determination of a Turing machine's ability to solve any given set of problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How can decision problem B be solved in time x(f)?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Time and space are both examples of what type of resource?",
+      "answer": "complexity resources",
+      "llm_prediction": "time and space"
+    },
+    {
+      "question": "A complexity resource can also be described as what other type of resource?",
+      "answer": "computational resource",
+      "llm_prediction": "a complexity resource can also be described as what other type of resource? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps, such as an algorithm"
+    },
+    {
+      "question": "What is typically used to broadly define complexity measures?",
+      "answer": "Blum complexity axioms",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Communication complexity is an example of what type of measure?",
+      "answer": "Complexity measures",
+      "llm_prediction": "computation"
+    },
+    {
+      "question": "Decision tree is an example of what type of measure?",
+      "answer": "Complexity measures",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation"
+    },
+    {
+      "question": "What can not be made for space requirements?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are the least well known complexity resources?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems"
+    },
+    {
+      "question": "How are complexity measures generally not defined?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty"
+    },
+    {
+      "question": "What are other complexity measures not used in complexity theory?",
+      "answer": null,
+      "llm_prediction": "their inherent difficulty"
+    },
+    {
+      "question": "What type of measure is communication complexity not an example of?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are the three primary expressions used to represent case complexity?",
+      "answer": "best, worst and average",
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other"
+    },
+    {
+      "question": "Case complexity likelihoods provide variable probabilities of what general measure? ",
+      "answer": "complexity measure",
+      "llm_prediction": "case complexity likelihoods provide variable probabilities of what general measure? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is one common example of a critical complexity measure?",
+      "answer": "time",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Case complexities provide three likelihoods of what differing variable that remains the same size? ",
+      "answer": "inputs",
+      "llm_prediction": "case complexities provide three likelihoods of what differing variable that remains the same size? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What are the three secondary expressions used to represent case complexity? ",
+      "answer": null,
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other"
+    },
+    {
+      "question": "What three different ways are used to measure space complexity?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is one not common example of a critical complexity measure?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What differing variable remains the same size when providing the four likelihoods of case complexities?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What provides a solution to a list of integers provided as input that ned to be sorted?",
+      "answer": "deterministic sorting algorithm quicksort",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "When extensive time is required to sort integers, this represents what case complexity?",
+      "answer": "worst-case",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the expression used to denote a worst case complexity as expressed by time taken?",
+      "answer": "O(n2)",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does not solve the problem of sorting a list of integers that is given as the input?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What does the deterministic parting algorithm quicksort do?",
+      "answer": null,
+      "llm_prediction": "the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What case complexity is represented when limited time is required to sort integers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the expression not used to denote worst case complexity as expressed by time taken?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What case complexity is represented when each pivoting divides the list in thirds, also needing O(n log n) time?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ",
+      "answer": "the most efficient algorithm",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The analysis of a specific algorithm is typically assigned to what field of computational science?",
+      "answer": "analysis of algorithms",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Which bound of time is more difficult to establish?",
+      "answer": "lower bounds",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "A specific algorithm demonstrating T(n) represents what measure of time complexity?",
+      "answer": "upper bound",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ",
+      "answer": "all possible algorithms",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How does one note classify the computation time (or similar resources)?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is usually taken as the best case complexity, unless specified otherwise?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What does not fall under the field of analysis of algorithms>",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "When does one not need to show only that there is a particular algorithm running time at mons T(nO?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is easy about proving lower bounds?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What expression is generally used to convey upper or lower bounds?",
+      "answer": "big O notation",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does a big O notation hide?",
+      "answer": "constant factors and smaller terms",
+      "llm_prediction": "relating those classes to each other"
+    },
+    {
+      "question": "How would one write T(n) = 7n2 + 15n + 40 in big O notation? ",
+      "answer": "T(n) = O(n2)",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Big O notation provides autonomy to upper and lower bounds with relationship to what? ",
+      "answer": "the computational model",
+      "llm_prediction": "a computer"
+    },
+    {
+      "question": "What is usually not stated using the big O notation?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does not hide constant factors or smaller terms?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What makes the bounds dependent of the specific details of the computational model?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How would one abbreviate T(n)=8n2 + 16n = 40 in big O notatation?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What has complicated definitions that prevent classification into a framework?",
+      "answer": "complexity classes",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Complexity classes are generally classified into what?",
+      "answer": "framework",
+      "llm_prediction": "classes"
+    },
+    {
+      "question": "Difficulty in establishing a framework for complexity classes can be caused by what variable?",
+      "answer": "complicated definitions",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What fits the framework of complexity classes?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What has uncomplicated definitions that prevent classification into a framework?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are complexity classes generally not classified into?",
+      "answer": null,
+      "llm_prediction": "classes"
+    },
+    {
+      "question": "What variable is easy to establish in a framework for complexity classes?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?",
+      "answer": "chosen machine model",
+      "llm_prediction": "a computer"
+    },
+    {
+      "question": "A multi-tape Turing machine requires what type of time for a solution?",
+      "answer": "linear time",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "A language solved in quadratic time implies the use of what type of Turing machine?",
+      "answer": "single-tape Turing machines",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ",
+      "answer": "Cobham-Edmonds thesis",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?",
+      "answer": "complexity class P",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does not often yield complexity classes that depend on the chosen machine model?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What does not frequently produce complexity classes that have concrete bounding of computation time?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What can not be solved in linear time on multi-tape Turing machine?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is not a binary string?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What thesis specifies that a trinomial relationship exists within time complexities in a computational model?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are two examples of measurements are bound within algorithms to establish complexity classes?",
+      "answer": "time or space",
+      "llm_prediction": "two examples of measurements are bound within algorithms to establish complexity classes? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What function is used by algorithms to define measurements like time or space?",
+      "answer": "bounding",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Bounding of time and space or similar measurements is often used by algorithms to define what?",
+      "answer": "complexity classes",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What cannot be defined by bounding the time or space used the the algorithm?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What are three examples of measurement that are bound within algorithms to establish complexity classes?",
+      "answer": null,
+      "llm_prediction": "three examples of measurement that are bound within algorithms to establish complexity classes? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What function is used by algorithms to define measurements like time and numbers?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is often used by algorithms to measure bounding of space and atmosphere measurements?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?",
+      "answer": "BPP, ZPP and RP",
+      "llm_prediction": "three examples of complexity classes associated with definitions established by probabilistic turing machines? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "AC and NC are complexity classes typically associated with what type of circuit?",
+      "answer": "Boolean",
+      "llm_prediction": ""
+    },
+    {
+      "question": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+      "answer": "quantum",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps, such as an algorithm"
+    },
+    {
+      "question": "What is the expression used to represent a complexity class of counting problems?",
+      "answer": "#P",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "IP and AM are most commonly defined by what type of proof system?",
+      "answer": "Interactive",
+      "llm_prediction": "mechanical application of mathematical steps"
+    },
+    {
+      "question": "What are the other four important complexity classes?",
+      "answer": null,
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other"
+    },
+    {
+      "question": "What machine does not define BPP, ZPP, and RP?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What machine does not define BQP or QMA?",
+      "answer": null,
+      "llm_prediction": "a computer"
+    },
+    {
+      "question": "What is least important complexity class of counting problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What system not often define classes like IP and AM/",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+      "answer": "computation time",
+      "llm_prediction": "what is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed? [SEP] computational complexity theory"
+    },
+    {
+      "question": "In what expression can one expect to find DTIME(n)",
+      "answer": "DTIME(n2)",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What theorems are responsible for determining questions of time and space requirements?",
+      "answer": "time and space hierarchy theorems",
+      "llm_prediction": "theorems are responsible for determining questions of time and space requirements? [SEP] computational complexity theory"
+    },
+    {
+      "question": "Resources are constrained by hierarchy theorems to produce what?",
+      "answer": "a proper hierarchy on the classes defined",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?",
+      "answer": "quantitative statements",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is not an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+      "answer": null,
+      "llm_prediction": "what is not an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed? [SEP] computational complexity theory"
+    },
+    {
+      "question": "What does not define a bigger set of problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What expression does not usually contain DTIME(n)?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does not induce a proper hierarchy on the classes defined by constraining the respective resources?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What kind of statement is not made in an effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the foundation for separation results within complexity classes?",
+      "answer": "time and space hierarchy theorems",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is responsible for constraining P according to the time hierarchy theorem?",
+      "answer": "EXPTIME",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Within what variable is L constrained according to the space hierarchy theorem?",
+      "answer": "PSPACE",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What does not form the basis for most separation results of complexity classes?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What does the past time and space hierarchy theorems form the basis of?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is not strictly contained in EXPTIME?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is not strictly contained in PSPACE?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What concept is frequently used to define complexity classes?",
+      "answer": "reduction",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Reduction essentially takes one problem and converts into what?",
+      "answer": "another problem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",
+      "answer": "reduces",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What are two examples of different types of reduction?",
+      "answer": "Karp reductions and Levin reductions",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "Polynomial time reductions are an example of what?",
+      "answer": "the bound on the complexity of reductions",
+      "llm_prediction": "theory of computation"
+    },
+    {
+      "question": "What are many complexity classes not defined by?",
+      "answer": null,
+      "llm_prediction": "a computer"
+    },
+    {
+      "question": "What is defined by using the theorem of reduction?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is a transformation of two problems into on three problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What captures the formal notion of a problem being at lease as difficult as another problem?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are the six types of reductions?",
+      "answer": null,
+      "llm_prediction": "six types of reductions? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other"
+    },
+    {
+      "question": "What is the most frequently employed type of reduction?",
+      "answer": "polynomial-time reduction",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What equates to a squared integer according to polynomial time reduction?",
+      "answer": "multiplying two integers",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What measurement of time is used in polynomial time reduction?",
+      "answer": "polynomial time",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ",
+      "answer": "input",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "According to polynomial time reduction squaring can ultimately be logically reduced to what?",
+      "answer": "multiplication",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the least used type of reduction?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the meaning of polynomial-space reduction?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What can the problem of dividing an integer be reduced to?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What does one not need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is more difficult that multiplication?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "The complexity of problems often depends on what?",
+      "answer": "the type of reduction being used",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What would create a conflict between a problem X and problem C within the context of reduction? ",
+      "answer": "if every problem in C can be reduced to X",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "An algorithm for X which reduces to C would us to do what?",
+      "answer": "solve any problem in C",
+      "llm_prediction": "solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "A problem set that that is hard for the expression NP can also be stated how?",
+      "answer": "NP-hard",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What does the complexity of problems not often depend on?",
+      "answer": null,
+      "llm_prediction": "their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What would not create a conflict between a problem X and problem C within the context of reduction?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What problem in C is harder than X?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is a problem set that is hard for expression QP be stated?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "The hardest problems in NP can be analogously written as what class of problems?",
+      "answer": "NP-complete",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "NP complete problems contain the lowest likelihood of being located in what problem class?",
+      "answer": "NP",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis Π2 to  Π1, what conclusion can be drawn for Π1?",
+      "answer": "there is no known polynomial-time solution",
+      "llm_prediction": "the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",
+      "answer": "NP",
+      "llm_prediction": "a computer"
+    },
+    {
+      "question": "What happens if a problem X is in C, and soft for C?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the softest problem in C?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is class contains the the least difficult problems in NP?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What would indicate that there is a known polynomial-time solution for Ii1?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What complexity class is characterized by a computational tasks and efficient algorithms?",
+      "answer": "P",
+      "llm_prediction": "what complexity class"
+    },
+    {
+      "question": "What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?",
+      "answer": "Cobham–Edmonds thesis",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What complexity class is commonly characterized by unknown algorithms to enhance solvability?",
+      "answer": "NP",
+      "llm_prediction": "what complexity class is commonly characterized by unknown algorithms to enhance solvability? [SEP] computational complexity theory"
+    },
+    {
+      "question": "What is an example of a problem that rests within the NP complexity class?",
+      "answer": "Boolean satisfiability problem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "In what theoretical machine is it confirmed that a problem in P belies membership in the NP class?",
+      "answer": "Turing machines",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is often seen as a scientific abstraction modeling those computational tasks that admit an efficient algorithm?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What theory is the Cobham-Edward thesis?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What complexity class is not commonly characterized by unknown algorithms to enhance solubility?",
+      "answer": null,
+      "llm_prediction": "what complexity class"
+    },
+    {
+      "question": "What is an example of a problem that rests within the NP simplicity class?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What ,theoretical machine did not confirm that a problem in P belies membership in the NX class?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?",
+      "answer": "more efficient solutions",
+      "llm_prediction": "the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is a particular problem in biology that would benefit from determining that P = NP?",
+      "answer": "protein structure prediction",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the prize offered for finding a solution to P=NP?",
+      "answer": "$1,000,000",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is one of the least important open questions in theoretical computer science?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What effect would happen if P is ultimately proven to not equal NP ?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is a particular problem in chemistry that would benefit from determining that P = NP?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What problem was proposed by Clay Mathematics Institute at the Alpha Prize Problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What was the prize for finding a solution to P=NP at the the Alpha Prize Problems?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who demonstrated that P= NP implies problems not present in P or NP-complete?",
+      "answer": "Ladner",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the name for a problem that meets Ladner's assertion?",
+      "answer": "NP-intermediate problems",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ",
+      "answer": "graph isomorphism problem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Who showed that if P=NQ then there exists problems in NQ that are neither P nor NQ-complete?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the name a a problem that meets Ladder's assertion?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is not example of an NP-intermediate problem not known to exist in P or NP-complete?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are four examples of problems believed to be NP=intermediate?",
+      "answer": null,
+      "llm_prediction": "four"
+    },
+    {
+      "question": "What is the problem attributed to defining if two finite graphs are isomorphic?",
+      "answer": "The graph isomorphism problem",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What class is most commonly not ascribed to the graph isomorphism problem in spite of definitive determination?",
+      "answer": "NP-complete",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What finite hierarchy implies that the graph isomorphism problem is NP-complete? ",
+      "answer": "polynomial time hierarchy",
+      "llm_prediction": "graph isomorphism problem"
+    },
+    {
+      "question": "To what level would the polynomial time hierarchy collapse if graph isomorphism is NP-complete?",
+      "answer": "second level",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?",
+      "answer": "Laszlo Babai and Eugene Luks",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is the graph isolation problem? ",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the problem attributed to defining if three finite graphs are isomorphic?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is an important solved problem in complexity theory?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What infinite hierarchy implies that the graph isomorphism problem s NQ-complete?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What would the polynomial hierarchy collapse if graph isomorphism is NQ-complete?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What computational problem is commonly associated with prime factorization?",
+      "answer": "The integer factorization problem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "The integer factorization problem essentially seeks to determine if the value of of an input is less than what variable? ",
+      "answer": "k",
+      "llm_prediction": "input"
+    },
+    {
+      "question": "That there currently exists no known integer factorization problem underpins what commonly used system?",
+      "answer": "modern cryptographic systems",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the most well-known algorithm associated with the integer factorization problem?",
+      "answer": "the general number field sieve",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the integer practice problem?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What computational problem is not commonly associated with prime factorization?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What problem is phrased on deciding whether the input has a factor more than k?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What problem would have polynomial time hierarchy that would collapse to its second level?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the least well known algorithm associated with the the integer factorization problem?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the unproven assumption generally ascribed to the value of complexity classes?",
+      "answer": "suspected to be unequal",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is an expression that can be used to illustrate the suspected inequality of complexity classes?",
+      "answer": "P ⊆ NP ⊆ PP ⊆ PSPACE",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Where can the complexity classes RP, BPP, PP, BQP, MA, and PH be located?",
+      "answer": "between P and PSPACE",
+      "llm_prediction": "where can the complexity classes rp, bpp, pp, bqp, ma, and ph be located? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?",
+      "answer": "Proving that any of these classes are unequal",
+      "llm_prediction": "what evidence between and among complexity classes would signify a theoretical watershed for complexity theory? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the proven assumption generally ascribed to the value of complexity classes?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is an expression that caan be used to illustrate the suspected in equality of complexity classes?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Where can complexity classes RPP, BPP, PPP, BQP, MA, and PH be located?",
+      "answer": null,
+      "llm_prediction": "where can complexity classes rpp, bpp, ppp, bqp, ma, and ph be located? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is impossible for the complexity classes RP, BPP, PP, BQP, MA, and PH?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What would not be a major breakthrough in complexity theory?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "In what complexity class do complement problems of NP problems exist?",
+      "answer": "co-NP",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How do the yes/no answers of a complement problem of NP appear?",
+      "answer": "reversed",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is commonly believed to be the value relationship between P and co-NP",
+      "answer": "not equal",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What implication can be derived for P and NP if P and co-NP are established to be unequal?",
+      "answer": "P is not equal to NP",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What complexity class do incompatible problems of NP problems exist?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "How do the yes/no answers of an incompatible problem of of APPEAR?",
+      "answer": null,
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is not commonly believed to be the value relationship between P and co-NP?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What implication can not be derived for P and NP is P and co-NP are established to be unequal?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What variable is associated with all problems solved within logarithmic space?",
+      "answer": "L",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Though unkown, what are the most commonly ascribed attributes of L in relation to P",
+      "answer": "strictly contained in P or equal to P",
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What lies between L and P that prevents a definitive determination of the relationship between L and P?",
+      "answer": "complexity classes",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What are two complexity classes between L and P?",
+      "answer": "NL and NC",
+      "llm_prediction": "l and p"
+    },
+    {
+      "question": "What is unknown about the complexity classes between L and P that further prevents determining the value relationship between L and P?",
+      "answer": "if they are distinct or equal classes",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What variable is not associated with all problems solved within logarithmic space?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What are the least commonly ascribed attributes of L in relation to P?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What does not lie between L and P that allows a definitive determination of the relationship between L and P?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What are three complexity classes between L and P?",
+      "answer": null,
+      "llm_prediction": "l and p"
+    },
+    {
+      "question": "What is known about the complexity between L and P that prevents determining the value between L and P?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?",
+      "answer": "intractable problems",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+      "answer": "exponential-time algorithms",
+      "llm_prediction": "mechanical application of mathematical steps"
+    },
+    {
+      "question": "If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",
+      "answer": "NP-complete problems",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What are problems that cannot be solved in theory, but which in practice take too long for their solutions to be useful?",
+      "answer": null,
+      "llm_prediction": "problems that cannot be solved in theory, but which in practice take too long for their solutions to be useful? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "When are problems that have polynomial-tome solutions in complexity theory?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What states that only problems that cannot be solved in polynomial time can be feasibly computed on some computational device?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "When would a program not be useful for very small instances and in that sense the intractability of a problem is somewhat independent of technological progress?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What algorithm is always practical?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What eponymous variation of arithmetic presents a decision problem not evidenced in P?",
+      "answer": "Presburger arithmetic",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Despite the Presburger problem, and in view of intractability, what has been done to establish solutions in reasonable periods of time?",
+      "answer": "algorithms have been written",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is an example of a problem to which effective algorithms have provided a solution in spite of the intractability associated with the breadth of sizes?",
+      "answer": "NP-complete knapsack problem",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "How quickly can an algorithm solve an NP-complete knapsack problem?",
+      "answer": "in less than quadratic time",
+      "llm_prediction": "by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What is the example of another problem characterized by large instances that is routinely solved by SAT handlers employing efficient algorithms?",
+      "answer": "NP-complete Boolean satisfiability problem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What unknown variation of arithmetic presents a decision problem not evidenced in P?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What has not been done to establish solutions in reasonable period of time?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What can not solve the NP-complete knapsack problem over a wide range of sizes in less than quadratic time?",
+      "answer": null,
+      "llm_prediction": "a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What do SAT solvers not usually handle when testing?",
+      "answer": null,
+      "llm_prediction": "mechanical application of mathematical steps"
+    },
+    {
+      "question": "What tactic did researchers employ to offset the former deficit of work surrounding the complexity of algorithmic problems?",
+      "answer": "foundations were laid out",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who was the most influential researcher among those grappling with the deficit of work surrounding the complexity posed by algorithmic problems?",
+      "answer": "Alan Turing",
+      "llm_prediction": "algorithmic problems? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What theoretical device is attributed to Alan Turing?",
+      "answer": "Turing machines",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "In what year was the Alan Turing's definitional model of a computing device received?",
+      "answer": "1936",
+      "llm_prediction": "in what year was the alan turing"
+    },
+    {
+      "question": "In the most basic sense what did a Turing machine emulate?",
+      "answer": "a computer",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What were laid out by various companies?",
+      "answer": null,
+      "llm_prediction": "problems"
+    },
+    {
+      "question": "What tactic did companies employ to offset the former deficit of work surrounding the complexity of algorithmic problems?",
+      "answer": null,
+      "llm_prediction": "task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who was the least influential researcher working on the complexity posed by algorithmic problems?",
+      "answer": null,
+      "llm_prediction": "algorithmic problems? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What device did Alan Turning invent in 1974?",
+      "answer": null,
+      "llm_prediction": "a computer"
+    },
+    {
+      "question": "What was the Turning calculator a robust and flexible simplification of?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What paper is commonly considered the bellwether ushering in systematic studies computational complexity?",
+      "answer": "On the Computational Complexity of Algorithms",
+      "llm_prediction": "the bellwether"
+    },
+    {
+      "question": "What individuals were responsible for authoring \"On the Computational Complexity of Algorithms\"?",
+      "answer": "Juris Hartmanis and Richard Stearns",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was Hatmanis and Stearn's seminal work in computational complexity received? ",
+      "answer": "1965",
+      "llm_prediction": "in what year was hatmanis and stearn ' s seminal work in computational complexity received? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What complex measurements were defined by \"On the Computational Complexity of Algorithms\"?",
+      "answer": "time and space",
+      "llm_prediction": "complex measurements"
+    },
+    {
+      "question": "In what year did Edmond's characterize a \"good\" algorithm?",
+      "answer": "1965",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What seminal paper is commonly considered the beginning of sociology studies?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "Who wrote \"On the Computational Complexity of Science\"?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What seminal paper was written by Juris Hartmanis and Richard Stearns in 1975?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What simple measurements were defined by \"On the Computational Complexity of Algorithms\"?",
+      "answer": null,
+      "llm_prediction": "simple measurements"
+    },
+    {
+      "question": "Who provided a definition of linear bounded automata in 1960?",
+      "answer": "John Myhill",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Raymond Sullivan publish a study of rudimentary sets?",
+      "answer": "1961",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "In 1962, who was responsible for the authorship of a paper published on real time-computations?",
+      "answer": "Hisao Yamada",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who wrote later papers studying problems solvable by Turning machines?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who provided a definition of linear bounded automata in 1970?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What year did Dick Sullivan publish a study on rudimentary sets?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who wrote a paper on real time computations in 1973?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was pioneer and studied specific complexity measure in 1948?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the concrete choice typically assumed by most complexity-theoretic theorems?",
+      "answer": "input encoding",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "In the effort of maintaining a level of abstraction, what choice is typically left independent?",
+      "answer": "encoding",
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What can not be achieved by ensuring different representations can transformed into each other efficiently?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What is the abstract choice typically assumed by most complexity-theoretic theorems?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "What does not regularly use input coding as its concrete choice?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What choice is typically left dependent in an effort to maintain a level of abstraction?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who is responsible for axiomatic complexity theory?",
+      "answer": "Manuel Blum",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What theorem was implicated by Manuel Blum's axioms?",
+      "answer": "speed-up theorem",
+      "llm_prediction": "computational complexity theory"
+    },
+    {
+      "question": "What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?",
+      "answer": "\"Reducibility Among Combinatorial Problems\"",
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",
+      "answer": "21",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who developed an axiomatic complexity theory based on his axioms in 1974?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who is responsible for the so-called, speed-up theorem n 1974?",
+      "answer": null,
+      "llm_prediction": "speed - up theorem n 1974? [SEP] computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who proved that these exist practical relevant problems that are NP-complete in 1961?",
+      "answer": null,
+      "llm_prediction": "a computational problem is understood to be a task that is in principle amenable to being solved by a computer"
+    },
+    {
+      "question": "Who wrote the paper \"Reductibility Among Combinatorial Problems\" in 1974?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps"
+    },
+    {
+      "question": "What book featured 25 diverse comninatorial and graph theoretical problems each famous for its computational intractability?",
+      "answer": null,
+      "llm_prediction": "computational complexity theory"
+    }
+  ]
+}

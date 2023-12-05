@@ -1,0 +1,2581 @@
+{
+  "title": "Economic_inequality",
+  "context": "A study by the World Institute for Development Economics Research at United Nations University reports that the richest 1% of adults alone owned 40% of global assets in the year 2000. The three richest people in the world possess more financial assets than the lowest 48 nations combined. The combined wealth of the \"10 million dollar millionaires\" grew to nearly $41 trillion in 2008. A January 2014 report by Oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50% of the world's population, or about 3.5 billion people. According to a Los Angeles Times analysis of the report, the wealthiest 1% owns 46% of the world's wealth; the 85 richest people, a small part of the wealthiest 1%, own about 0.7% of the human population's wealth, which is the same as the bottom half of the population. More recently, in January 2015, Oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. An October 2014 study by Credit Suisse also claims that the top 1% now own nearly half of the world's wealth and that the accelerating disparity could trigger a recession. In October 2015, Credit Suisse published a study which shows global inequality continues to increase, and that half of the world's wealth is now in the hands of those in the top percentile, whose assets each exceed $759,900. A 2016 report by Oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. Oxfam's claims have however been questioned on the basis of the methodology used: by using net wealth (adding up assets and subtracting debts), the Oxfam report, for instance, finds that there are more poor people in the United States and Western Europe than in China (due to a greater tendency to take on debts).[unreliable source?][unreliable source?] Anthony Shorrocks, the lead author of the Credit Suisse report which is one of the sources of Oxfam's data, considers the criticism about debt to be a \"silly argument\" and \"a non-issue . . . a diversion.\"",
+  "qas": [
+    {
+      "question": "What percentage of global assets does the richest 1% of people have?",
+      "answer": "40%",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "According to Oxfam, the 85 richest people have wealth equal to how many average people?",
+      "answer": "about 3.5 billion people",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In order to be considered in the top percentile, a person would need to amass how much money each year?",
+      "answer": "$759,900",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has caused Oxfam's findings to be questioned?",
+      "answer": "the methodology used",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why does Oxfam and Credit Suisse believe their findings are being doubted?",
+      "answer": "a diversion",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What percent of the global assets in 2000 were owned by just 1% of adults?",
+      "answer": "40%",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do the three richest people in the world posses more of than the lowest 48 nations together?",
+      "answer": "financial assets",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report"
+    },
+    {
+      "question": "How much was the combined wealth of the \"10 Million dollar millionaires\" in 2008?",
+      "answer": "nearly $41 trillion",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much of the global wealth will the wealthiest 1 percent own by 2016?",
+      "answer": "half",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Why are there more poor people in the United States and Europe than China?",
+      "answer": "greater tendency to take on debts",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What percentage of global assets does the richest 10% of people have?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "According to Oxfam, the 58 richest people have wealth equal to how many average people?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In order to be considered in the bottom percentile, a person would need to amass how much money each year?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has caused Oxfam's findings to not be questioned?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Why does Oxfam and Credit Suisse believe their findings are being accepted?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How many Americans are richer than more than half of all citizens?",
+      "answer": "400",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What publication printed that the wealthiest 1% have more money than those in the bottom 90%?",
+      "answer": "New York Times",
+      "llm_prediction": "a los angeles times"
+    },
+    {
+      "question": "What is considered as a potential advantage for wealth for some Americans?",
+      "answer": "Inherited wealth",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What did the richest 400 Americans have as children that helped them be successful adults?",
+      "answer": "grew up in substantial privilege",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do the top 400 richest Americans have more of than half of all Americans combined?",
+      "answer": "wealth",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who owns more wealth than the bottom 90 percent of people in the U.S.?",
+      "answer": "richest 1 percent",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What may explain why some Americans who've become rich may have had a head start?",
+      "answer": "Inherited wealth",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How many of the richest 400 Americans grew up in substantial privilege?",
+      "answer": "over 60 percent",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What Institute published findings in September 2012 regarding the Forbes richest 400 Americans?",
+      "answer": "Institute for Policy Studies",
+      "llm_prediction": "los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015, oxfam"
+    },
+    {
+      "question": "How many Americans are richer than less than half of all citizens?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What publication printed that the wealthiest 1% have more money than those in the bottom 99%?",
+      "answer": null,
+      "llm_prediction": "a los angeles times"
+    },
+    {
+      "question": "What is considered as a potential disadvantage for wealth for some Americans?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What did the richest 40 Americans have as children that helped them be successful adults?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do the top 400 richest Americans have less of than half of all Americans combined?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What philosophy of thought  addresses wealth inequality?",
+      "answer": "Neoclassical economics",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is income inequality attributed to?",
+      "answer": "differences in value added by labor, capital and land",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What impacts distribution of wealth when evaluating labor?",
+      "answer": "different classifications of workers",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the term that describes the difference between what higher paid and lower paid professionals earn?",
+      "answer": "productivity gap",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How is income determined in a market with variously skilled workers?",
+      "answer": "marginal value added of each economic actor",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What did Neoclassical economics view the inequality in the distribution of income as being from?",
+      "answer": "differences in value added by labor, capital and land",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is distribution of income from labor due to the differences of?",
+      "answer": "value added by different classifications of workers",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does the marginal value added by an economic actor determine?",
+      "answer": "wages and profits",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are examples of economic actors?",
+      "answer": "worker, capitalist/business owner, landlord",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "In a market economy, what is inequality a reflection of?",
+      "answer": "productivity gap between highly-paid professions and lower-paid professions",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What philosophy of thought addresses wealth equality?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is income inequality not attributed to?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth"
+    },
+    {
+      "question": "What impacts distribution of wealth when not evaluating labor?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the term that describes the indifference between what higher paid and lower paid professionals earn?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How is income determined in a market with variously unskilled workers?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What pushes businesses to increase pressures on workers?",
+      "answer": "reduce costs and maximize profits",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What impact does workers working harder have on productivity of a business?",
+      "answer": "less workers are required",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When less workers are required, what happens to the job market?",
+      "answer": "increasing unemployment",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What impact does higher worker productivity and leveled pay have on higher earners?",
+      "answer": "rising levels of property income",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What do capitalist firms substitute equipment for in a Marxian analysis?",
+      "answer": "labor inputs",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Why do firms substitute equipment for workers?",
+      "answer": "reduce costs and maximize profits",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth"
+    },
+    {
+      "question": "What trend increases the organic composition of capital over the long term?",
+      "answer": "substitute capital equipment",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does the substitution of equipment for labor raise for workers?",
+      "answer": "productivity",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What type of wages does mechanization and automation lead to?",
+      "answer": "stagnant",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What pushes businesses to decrease pressures on workers?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What impact does workers working less have on productivity of a business?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When more workers are required, what happens to the job market?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What impact does higher worker productivity and leveled pay have on lower earners?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What don't capitalist firms substitute equipment for in a Marxian analysis?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is controled by the market and economy?",
+      "answer": "workers wages",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Under what law is value of a worker determined?",
+      "answer": "supply and demand",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happens when business underpays their workers?",
+      "answer": "business is chronically understaffed",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How do competing businesses attract workers?",
+      "answer": "offering a higher wage",
+      "llm_prediction": "by using net wealth"
+    },
+    {
+      "question": "How is income inequality generally viewed by workers?",
+      "answer": "unfair",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What controls wages in a purely capitalist mode of production?",
+      "answer": "the market",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do wages work in the same way as for any other good?",
+      "answer": "prices",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What can be considered as a function of market price of skill?",
+      "answer": "wages",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What can concentrate wealth, pass environmental costs on to society and abuse both workers and consumers?",
+      "answer": "markets",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What type of outcomes can even stable markets lead to?",
+      "answer": "unfair",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is uncontroled by the market and economy?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What happens when business overpays their workers?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Under what law is value of a worker undetermined?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How do competing businesses repel workers?",
+      "answer": null,
+      "llm_prediction": "by using net wealth"
+    },
+    {
+      "question": "How isn't income inequality generally viewed by workers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has the tendency to increase wages in a field or job position?",
+      "answer": "Competition amongst workers",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When there are many workers competing for a few jobs its considered as what?",
+      "answer": "low demand",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the potential earnings for a job where there are few skilled workers but many available positions?",
+      "answer": "high wages",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can lead to higher wages for members of labor organizations?",
+      "answer": "collective bargaining, political influence, or corruption",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who works to get workers higher compensation?",
+      "answer": "Professional and labor organizations",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does many workers willing to work for a lot of time competing for a job that only requires a few workers result in?",
+      "answer": "low wage",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What drives down wages in a job with many workers willing to work a lot?",
+      "answer": "competition between workers",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why does competition among workers drive down wages?",
+      "answer": "expendable nature of the worker",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth"
+    },
+    {
+      "question": "What type of wages result from jobs where there is low supply but high demand?",
+      "answer": "high",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "While competition between workers drives down wages for jobs with a high supply of worker, whose competition drives wages up for the inverse?",
+      "answer": "employers",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has the tendency to decrease wages in a field or job position?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When there are many workers competing for a many jobs its considered as what?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the potential earnings for a job where there are many skilled workers but many available positions?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can lead to lower wages for members of labor organizations?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who works to get workers lower compensation?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What increases with the increase of income inequality?",
+      "answer": "entrepreneurship rates",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Survivial is at the heart of what concept for workers?",
+      "answer": "Necessity-based entrepreneurship",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What type of motivators are food and shelter considered?",
+      "answer": "push",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What type of motivators are achievement and self determination considered?",
+      "answer": "pull",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What type of entrepreneurship leads to advancements in technology?",
+      "answer": "opportunity-based entrepreneurship",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What increases entrepreneurship rates at the individual level?",
+      "answer": "higher economic inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the increased rates of self-employment based on?",
+      "answer": "necessity",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Survival needs such as income for food and shelter motivates what type of entrepreneurship? ",
+      "answer": "Necessity-based",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What motivation is opportunity-based entrepreneurship driven by?",
+      "answer": "achievement-oriented",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What type of impact does opportunity-based entrepreneurship tend to have on economic growth?",
+      "answer": "positive",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What decreases with the increase of income inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Survivial isn't at the heart of what concept for workers?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What type of motivators aren't food and shelter considered?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What type of motivators are achievement and outside determination considered?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What type of entrepreneurship leads to a regression in technology?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is it called when the tax rate and base amount increase simultaneously?",
+      "answer": "progressive tax",
+      "llm_prediction": "credit suisse"
+    },
+    {
+      "question": "What tax rate has a direct relationship with income inequality?",
+      "answer": "top tax rate",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can work to even the distribution of wealth?",
+      "answer": "social spending",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What system has an impact on income inequality?",
+      "answer": "tax system",
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "In a progressive tax, what increases as the taxable base amount increases?",
+      "answer": "the tax rate",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What will have a direct impact of inequality in a system that uses a progressive tax?",
+      "answer": "level of the top tax rate",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can result in more equal distribution of income?",
+      "answer": "steeper tax",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What index is an indicator of the effects of taxes applied to social spending?",
+      "answer": "the Gini index",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is it called when the tax rate and base amount decrease simultaneously?",
+      "answer": null,
+      "llm_prediction": "credit suisse"
+    },
+    {
+      "question": "What tax rate has an indirect relationship with income inequality?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can't work to even the distribution of wealth?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What system has no impact on income inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "In a progressive tax, what increases as the taxable base amount decreases?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is key to getting the skills needed for high demand jobs?",
+      "answer": "access to education",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What do people with lower income have less access to?",
+      "answer": "optional education",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does less education lead to when working?",
+      "answer": "lower wages",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who has limited productive potential when faced with less access to education?",
+      "answer": "poor",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are those with lower incomes less likely to have in order to prepare for the future?",
+      "answer": "savings and investment",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is an important factor contributing to inequality for individuals?",
+      "answer": "access to education",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does education in an area where there is high demand for workers tend to create?",
+      "answer": "high wages",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What type of wages do people unable to afford an education receive?",
+      "answer": "lower",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does lack of education lead directly to?",
+      "answer": "lower incomes",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What helps to unleash the productivity ability of the poor?",
+      "answer": "education",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is key to getting the skills needed for low demand jobs?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What do people with higher income have less access to?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does more education lead to when working?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who has limited productive potential when faced with more access to education?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are those with lower incomes more likely to have in order to prepare for the future?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What did Standard & Poor recommend to speed economy recovery?",
+      "answer": "increasing access to education",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much potential economic growth could the United States amass if everyone went through more schooling?",
+      "answer": "$105 billion",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the United States at risk for because of the recession of 2008?",
+      "answer": "boom-and-bust cycles",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who concluded that the rising income inequality gap was not getting better?",
+      "answer": "Standard & Poor",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When did economists reach a conclusion with the S&P's rating agency?",
+      "answer": "2014",
+      "llm_prediction": "january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015"
+    },
+    {
+      "question": "When the recovery between the widening gap between the richest citizens and rest of the nation slow?",
+      "answer": "2008-2009",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What did S&P recommend to somewhat remedy the wealth gap?",
+      "answer": "increasing access to education",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "If the average U.S. worker were to complete an additional year of school, what amount of growth would be generated over 5 years?",
+      "answer": "$105 billion",
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report"
+    },
+    {
+      "question": "What does wealth disparity make the economy more prone to?",
+      "answer": "boom-and-bust cycles",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What did Standard & Poor recommend to slow economy recovery?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much potential economic growth could the United States amass if everyone went through less schooling?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the United States at risk for because of the recession of 2000?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who concluded that the rising income inequality gap was getting better?",
+      "answer": null,
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "When did economists reach a conclusion without the S&P's rating agency?",
+      "answer": null,
+      "llm_prediction": "january 2014"
+    },
+    {
+      "question": "When did the high school education movement occur?",
+      "answer": "1910–1940",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What impact did the high school education movement have on the presence of skilled workers?",
+      "answer": "increase",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What impact did the high school education movement have on the wages of skilled workers?",
+      "answer": "decrease",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What impacts gender inequality in wages?",
+      "answer": "gender inequality in education",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What contributed to the decreased inequality between trained and untrained workers?",
+      "answer": "period of compression",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When was the mass high school education movement?",
+      "answer": "from 1910–1940",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the increase in skilled workers lead to?",
+      "answer": "a decrease in the price of skilled labor",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How did the education during the high school education movement differ from the subsequent high school education?",
+      "answer": "designed to equip students with necessary skill sets to be able to perform at work",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is very important for the growth of the economy?",
+      "answer": "Education",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can result in creating a poverty trap?",
+      "answer": "gender inequality in education",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "When did the middle school education movement occur?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What impact did the high school education movement have on the presence of unskilled workers?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What impact did the high school education movement have on the wages of unskilled workers?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What doesn't impact gender inequality in wages?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What contributed to the increased inequality between trained and untrained workers?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What types of organizations are on a decline in the US which adversely effects economic mobility?",
+      "answer": "unions",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Which set of countries have higher economic mobility than the United States?",
+      "answer": "continental European countries",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Under which policy are labor unions encouraged?",
+      "answer": "continental European liberalism",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth"
+    },
+    {
+      "question": "How much support is there for the US approach to economic development?",
+      "answer": "little",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is economic liberalism one of the causes of?",
+      "answer": "economic inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does the U.S. economic and social model have substantial levels of?",
+      "answer": "social exclusion",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What organization is John Schmitt and Ben Zipperer members of?",
+      "answer": "CEPR",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much support does evidence provide for the view that labor-market flexibility improves labor-market outcomes?",
+      "answer": "little",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What level of economic mobility does the U.S. economy have compared to European countries?",
+      "answer": "lower",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What types of organizations are on a decline in the US which adversely effects economic immobility?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which set of countries have lower economic mobility than the United States?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Under which policy are labor unions discouraged?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth"
+    },
+    {
+      "question": "How much support is there for the UN approach to economic development?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is economic liberalism not one of the causes of?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What country has low income inequality and high presence of unions?",
+      "answer": "Scandinavia",
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "What do weak labor movement correlate with?",
+      "answer": "high inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What has had a negative impact on the labor markets in the US?",
+      "answer": "decline of organized labor",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has presented problems to the US economy more than other nations?",
+      "answer": "technological changes and globalization",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the profession of Jake Rosenfield?",
+      "answer": "Sociologist",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What college is Jake Rosenfield associated with?",
+      "answer": "University of Washington",
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "What does Rosenfield feel plays the most significant role in expanding the income gap?",
+      "answer": "decline of organized labor",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What rate of unionization do Scandinavian nations have?",
+      "answer": "high",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does high inequality go hand-in-hand with?",
+      "answer": "weak labor movements",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What country has low income inequality and low presence of unions?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do strong labor movement correlate with?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What has had a negative impact on the labor markets in the UN?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has presented problems to the UN economy more than other nations?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What isn't the profession of Jake Rosenfield?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What effect does trade with poorer countries have on the workers in richer countries?",
+      "answer": "reduced wages",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What effect does trade with richer countries have on the workers in poorer countries?",
+      "answer": "increased wages",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has a bigger impact on the United States' economy more than trade?",
+      "answer": "technological innovation",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has replaced lower skilled workers in the United States?",
+      "answer": "machine labor",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What scale does trade liberalization shift economic inequality from?",
+      "answer": "global",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When rich countries trade with poor countries, whose wages increase?",
+      "answer": "workers in the poor countries",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does Paul Krugmen think has had an observable effect on inequality in the U.S.?",
+      "answer": "trade liberalisation",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorro"
+    },
+    {
+      "question": "Compared to other causes, the effect of trade on inequality in America is what?",
+      "answer": "minor",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What has technological innovation and automation replaced low-skilled jobs with?",
+      "answer": "machine labor",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What effect does trade with poorer countries have on the workers in poorer countries?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has a smaller impact on the United States' economy more than trade?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has replaced higher skilled workers in the United States?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What scale doesn't trade liberalization shift economic inequality from?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the income inequality gap between genders in Botswana?",
+      "answer": "53%",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the gender income inequality in Bahrain?",
+      "answer": "-40%",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is attributed to the income inequality in the United States?",
+      "answer": "less willing to travel or relocate",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who does the wage gap between genders provide an advantage?",
+      "answer": "males",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "In many countries, what kind of pay gap is there?",
+      "answer": "Gender",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who does a gender pay gap tend to favor?",
+      "answer": "males in the labor market",
+      "llm_prediction": "the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015, oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "What gender is less willing to travel or relocate for work?",
+      "answer": "women",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who is the author of the book, \"Knowledge and Decisions\"?",
+      "answer": "Thomas Sowell",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What does a U.S. census report state that even after other factors there still exists this between earnings of men and women?",
+      "answer": "a difference",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What isn't the income inequality gap between genders in Botswana?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What isn't the gender income inequality in Bahrain?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is attributed to the income inequality in the United Nations?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who does the wage gap between genders provide a disadvantage?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "In many countries, what kind of pay gap isn't there?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What types of programs help to redistribute wealth?",
+      "answer": "social welfare",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the level of inequality in underdeveloped countries?",
+      "answer": "relatively equal",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What introduces inequality to a country?",
+      "answer": "more capital",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What leads to lower income inequality?",
+      "answer": "redistribution mechanisms",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What profession does Simon Kuznets have?",
+      "answer": "Economist",
+      "llm_prediction": "what profession does simon kuznets have? [SEP] a study by the world institute for development economics"
+    },
+    {
+      "question": "What did Kuznets argue resulted from stages of development?",
+      "answer": "levels of economic inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does a country acquire as it develops?",
+      "answer": "more capital",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do the owners of more capital end up having?",
+      "answer": "more wealth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do redistribution mechanisms lead to?",
+      "answer": "lower levels of inequality",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What types of programs don't help to redistribute wealth?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the level of inequality in overdeveloped countries?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What doesn't introduce inequality to a country?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What leads to higher income inequality?",
+      "answer": null,
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What profession doesn't Simon Kuznets have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "During what time period did income inequality decrease in the United States?",
+      "answer": "1910 to 1940",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When did income inequality begin to increase in the US?",
+      "answer": "1970s",
+      "llm_prediction": "january 2014"
+    },
+    {
+      "question": "In what sector are jobs beginning to increase?",
+      "answer": "service",
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "In what sector are jobs beginning to decrease?",
+      "answer": "manufacturing",
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "Who plotted the relationships between levels of income and inequality?",
+      "answer": "Kuznets",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a a developing economy's level of inequality bulging out called?",
+      "answer": "Kuznets curve",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has recent testing of Kuznets theory with superior data show it to be?",
+      "answer": "very weak",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does Kuznets' curve predict about income inequality given time?",
+      "answer": "eventually decrease",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What may be possible for multiple Kuznets' cycles to be in at any given time?",
+      "answer": "effect",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "During what time period did income inequality increase in the United States?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When did income inequality begin to decrease in the US?",
+      "answer": null,
+      "llm_prediction": "january 2014"
+    },
+    {
+      "question": "In what sector are jobs beginning to decrease?",
+      "answer": null,
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "In what sector are jobs beginning to increase?",
+      "answer": null,
+      "llm_prediction": "oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam"
+    },
+    {
+      "question": "Who never plotted the relationships between levels of income and inequality?",
+      "answer": null,
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What process attributes new wealth to those that already have it?",
+      "answer": "Wealth concentration",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",
+      "answer": "means to invest",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has the highest impact on wealth accumulation and the resulting income inequality?",
+      "answer": "greater return of capital",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What tends to lead to more money?",
+      "answer": "larger fortunes",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Where does newly created wealth concentrate? ",
+      "answer": "the possession of already-wealthy individuals",
+      "llm_prediction": "united nations university reports that the richest 1 % of adults alone owned 40 % of global assets in the year 2000. the three richest people in the world possess more financial assets than the lowest 48 nations combined. the combined wealth of the \" 10 million dollar millionaires \" grew to nearly $ 41 trillion in 2008. a january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015, oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who is best able to leverage the accumulation of wealth?",
+      "answer": "those who already hold wealth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can significantly contribute to the continuing inequality in a society over time?",
+      "answer": "wealth condensation",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who wrote the book \"Capital in the Twenty-First Century\"?",
+      "answer": "Thomas Piketty",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What do larger fortunes generate?",
+      "answer": "higher returns",
+      "llm_prediction": "a los angeles times"
+    },
+    {
+      "question": "What process attributes old wealth to those that already have it?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "According to the wealth concentration theory, what disadvantage do the wealthy have in accumulating new wealth?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has the lowest impact on wealth accumulation and the resulting income inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What tends to lead to less money?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Where does oldly created wealth concentrate? ",
+      "answer": null,
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "What career does Joseph Stiglitz have?",
+      "answer": "Economist",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What forces should serve as a brake on wealth concentration?",
+      "answer": "market",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of skills does the market bid up compensation for?",
+      "answer": "rare and desired",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is used by certain wealthy groups to obtain policies financially beneficial for them?",
+      "answer": "political power generated by wealth",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Income not from the creation of wealth but by grabbing a larger share of it is know to economists by what term?",
+      "answer": "rent-seeking",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorro"
+    },
+    {
+      "question": "What career doesn't Joseph Stiglitz have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What forces shouldn't serve as a brake on wealth concentration?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What type of skills does the market bid down compensation for?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is used by certain unwealthy groups to obtain policies financially beneficial for them?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Income not from the creation of wealth but by grabbing a smaller share of it is know to economists by what term?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorro"
+    },
+    {
+      "question": "Higher rates of health and social problems are just two of examples of effects from what?",
+      "answer": "inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why does a lower level of economic growth occur due to high-end consumption?",
+      "answer": "human capital is neglected",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is lower in countries with more inequality for the top 21 industrialized countries?",
+      "answer": "life expectancy",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is a lower rate of social goods an effect of?",
+      "answer": "inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "In U.S. states, what happens to the life expectancy in less economically equal ones?",
+      "answer": "life expectancy is lower",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Lower rates of health and social problems are just two of examples of effects from what?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why does a higher level of economic growth occur due to high-end consumption?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is higher in countries with more inequality for the top 21 industrialized countries?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is a higher rate of social goods an effect of?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "In U.S. states, what happens to the life expectancy in more economically equal ones?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What year did Robert J. Shiller win an Economics Nobel prize?",
+      "answer": "2013",
+      "llm_prediction": "2014"
+    },
+    {
+      "question": "What is the most important problem in the United States and elsewhere?",
+      "answer": "rising inequality",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Persistent unemployment has what effect on long-term economic growth?",
+      "answer": "negative",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What's one factor in eroding self-esteem?",
+      "answer": "Unemployment",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Policies which reduce the inequality associated effects of unemployment support what type of growth?",
+      "answer": "economic",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What year did Robert J. Shiller lose an Economics Nobel prize?",
+      "answer": null,
+      "llm_prediction": "2014"
+    },
+    {
+      "question": "What is the least important problem in the United States and elsewhere?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What's one factor in increasing self-esteem?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Persistent unemployment has what effect on short-term economic growth?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Policies which reduce the inequality associated effects of unemployment hurt what type of growth?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What nationality are researchers Richard G. Wilkinson and Kate Pickett?",
+      "answer": "British",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What rates of health and social problems are in countries with high inequality?",
+      "answer": "higher",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How are the rates of social goods in countries with higher inequality?",
+      "answer": "lower",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Health problems were lower in places with higher levels of what?",
+      "answer": "equality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How many developed countries did British researchers use to gather statistics from?",
+      "answer": "23",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What nationality aren't researchers Richard G. Wilkinson and Kate Pickett?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What rates of health and social problems are in countries with low inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How are the rates of social goods in countries with lower inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Health problems were higher in places with higher levels of what?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How many undeveloped countries did British researchers use to gather statistics from?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What did higher material living standards lead to for most of human history?",
+      "answer": "better health and longer lives",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Where does the pattern of higher income-longer lives still hold true?",
+      "answer": "poorer countries",
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "What increases rapidly as per capita income increases?",
+      "answer": "life expectancy",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who lives no longer on average than Greeks and New Zealanders?",
+      "answer": "Americans",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How are incomes distributed in Sweden?",
+      "answer": "more equally",
+      "llm_prediction": "net wealth"
+    },
+    {
+      "question": "What did lower material living standards lead to for most of human history?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Where does the pattern of lower income-longer lives still hold true?",
+      "answer": null,
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "What decreases rapidly as per capita income increases?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who lives longer on average than Greeks and New Zealanders?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How aren't incomes distributed in Sweden?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What characteristic in recent years has been strongly tied with health in developed countries?",
+      "answer": "income inequality",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who created an index of health and social problems?",
+      "answer": "authors Richard Wilkinson and Kate Pickett",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How many factors of health and social problems did Wilkinson and PIckett identify?",
+      "answer": "nine",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Where are health and social problems most common?",
+      "answer": "among states in the US with larger income inequalities",
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "What does child well-being in rich countries correlate most to?",
+      "answer": "greater equality",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What characteristic in recent years has been weakly tied with health in developed countries?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Who rejected an index of health and social problems?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How many factors of health and social problems did Wilkinson and PIckett not identify?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Where are health and social problems least common?",
+      "answer": null,
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "What does child well-being in poor countries correlate most to?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has crime rate been show to be correlated with in a society?",
+      "answer": "inequality",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is almost identical across all nations and jurisdictions?",
+      "answer": "homicides",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Over how many studies have shown that violence is more common in societies with income differences?",
+      "answer": "fifty",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How much of a difference in homicide rates are related to inequality?",
+      "answer": "tenfold",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is it estimated that about half of all variation in homicide rates can be accounted for by?",
+      "answer": "differences in the amount of inequality",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What has crime rate been shown not to be correlated with in a society?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is never identical across all nations and jurisdictions?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Over how many studies have shown that violence is less common in societies with income differences?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How much of a difference in homicide rates aren't related to inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is it estimated that about a third of all variation in homicide rates can be accounted for by?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the utilitarian principle seek for the greatest number of people?",
+      "answer": "the greatest good",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "An adobe that provides less utility to one person than another is an example of reduced what?",
+      "answer": "distributive efficiency",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "A dollar spent by a poor person is likely to provide what for them?",
+      "answer": "a great deal of utility",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What the marginal utility of wealth per income per person do as that person becomes richer?",
+      "answer": "decreases",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What will a society with more equality have?",
+      "answer": "higher aggregate utility",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does the utilitarian principle seek for the lowest number of people?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "An adobe that provides more utility to one person than another is an example of reduced what?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "A dollar spent by a rich person is likely to provide what for them?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What the marginal utility of wealth per income per person do as that person becomes poorer?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What will a society with less equality have?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do conservative researchers fell should be a measure of inequality?",
+      "answer": "consumption",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What political leaning does the Cato Institute have?",
+      "answer": "libertarian",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "When was consumption inequality lower than it had been in 1986?",
+      "answer": "2001",
+      "llm_prediction": "january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015"
+    },
+    {
+      "question": "Who wrote \"The Hidden Prosperity of the Poor\"?",
+      "answer": "Thomas B. Edsall",
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What is Thomas B. Edsall's profession?",
+      "answer": "journalist",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do conservative researchers feel shouldn't be a measure of inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What political leaning does the Cato Institute not have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was consumption inequality lower than it had been in 1968?",
+      "answer": null,
+      "llm_prediction": "january 2014"
+    },
+    {
+      "question": "Who never wrote \"The Hidden Prosperity of the Poor\"?",
+      "answer": null,
+      "llm_prediction": "anthony shorrocks"
+    },
+    {
+      "question": "What isn't Thomas B. Edsall's profession?",
+      "answer": null,
+      "llm_prediction": "what isn ' t thomas b. edsall ' s profession? [SEP] a study by the world institute for development economics"
+    },
+    {
+      "question": "What is Raghuram Rajan's career?",
+      "answer": "economist",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does Rajan feel has created deep financial fault lines?",
+      "answer": "systematic economic inequalities",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the most recent example of financial fault lines? ",
+      "answer": "the Financial crisis of 2007–08",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does political pressure push to extend to compensate for stagnating purchasing power?",
+      "answer": "easier credit",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What has given the American economy a tendency to go \"from bubble to bubble\"?",
+      "answer": "easier credit",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What isn't Raghuram Rajan's career?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does Rajan feel hasn't created deep financial fault lines?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the oldest example of financial fault lines? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What doesn't political pressure push to extend to compensate for stagnating purchasing power?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What hasn't given the American economy a tendency to go \"from bubble to bubble\"?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is negatively correlated to the duration of economic growth?",
+      "answer": "inequality in wealth and income",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do high levels of inequality  prevent beyond economic prosperity?",
+      "answer": "quality of a country's institutions",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happens to the GDP growth of a country if the income share of the top 20 percent increases, according to IMF staff economists? ",
+      "answer": "declines",
+      "llm_prediction": "oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015, oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession. in october 2015, credit suisse published a study which shows global inequality continues to increase, and that half of the world ' s wealth is now in the hands of those in the top percentile, whose assets each exceed $ 759, 900. a 2016 report by oxfam claims that the 62 wealthiest individuals own as much wealth as the poorer half of the global population combined. oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report"
+    },
+    {
+      "question": "What does an increase in the income share of the bottom 20 percent of people of a society result in?",
+      "answer": "higher GDP growth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who matters the most for economic growth?",
+      "answer": "The poor and the middle class",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is positively correlated to the duration of economic growth?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do low levels of inequality prevent beyond economic prosperity?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happens to the GDP growth of a country if the income share of the top 20 percent decreases, according to IMF staff economists? ",
+      "answer": null,
+      "llm_prediction": "oxfam report"
+    },
+    {
+      "question": "What does an decrease in the income share of the bottom 20 percent of people of a society result in?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who matters the least for economic growth?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What do David Castlles-Quintana and Vicente Royuela do for a living?",
+      "answer": "economists",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does increasing inequality harm?",
+      "answer": "economic growth",
+      "llm_prediction": "increasing inequality harm? [SEP] a study by the world institute for development economics research at united nations university reports that the richest 1 % of adults alone owned 40 % of global assets in the year 2000. the three richest people in the world possess more financial assets than the lowest 48 nations combined. the combined wealth of the \" 10 million dollar millionaires \" grew to nearly $ 41 trillion in 2008. a january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times"
+    },
+    {
+      "question": "What was persistent unemployment have a negative effect on?",
+      "answer": "subsequent long-run economic growth",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why does unemployment harm growth?",
+      "answer": "because it is a waste of resources",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Policies which try to control unemployment support economic growth because they reduce what?",
+      "answer": "inequality-associated effects",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What don't David Castlles-Quintana and Vicente Royuela do for a living?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does decreasing inequality harm?",
+      "answer": null,
+      "llm_prediction": "the accelerating disparity could trigger a recession"
+    },
+    {
+      "question": "What was persistent unemployment have a positive effect on?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why does unemployment help growth?",
+      "answer": null,
+      "llm_prediction": "unemployment help growth? [SEP] a study by the world institute for development economics research at united nations university reports that the richest 1 % of adults alone owned 40 % of global assets in the year 2000. the three richest people in the world possess more financial assets than the lowest 48 nations combined. the combined wealth of the \" 10 million dollar millionaires \" grew to nearly $ 41 trillion in 2008. a january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times"
+    },
+    {
+      "question": "Policies which try to control unemployment support economic growth because they increase what?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What did Stiglitz present in 2009 regarding global inequality?",
+      "answer": "evidence",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How does inequality prevent growth?",
+      "answer": "by limiting aggregate demand",
+      "llm_prediction": "by using net wealth"
+    },
+    {
+      "question": "What are both Branko Milanovic and Joseph Stiglitz?",
+      "answer": "Economist",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has been the main reason for the shift to the view that income inequality harms growth?",
+      "answer": "increasing importance of human capital in development",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What has become the secret to economic growth?",
+      "answer": "widespread education",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What did Stiglitz present in 2008 regarding global inequality?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How does inequality help growth?",
+      "answer": null,
+      "llm_prediction": "by using net wealth"
+    },
+    {
+      "question": "What aren't both Branko Milanovic and Joseph Stiglitz?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What has been the main reason for the shift to the view that income inequality helps growth?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "When did Galor and Zeria show new information about inequality?",
+      "answer": "1993",
+      "llm_prediction": "january 2014"
+    },
+    {
+      "question": "Inequality in the presence of credit market imperfections has what kind of effect on human capital formation?",
+      "answer": "detrimental",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What did a 1996 study by Perotti examine?",
+      "answer": "channels through which inequality may affect economic growth",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is inequality associated with higher levels of?",
+      "answer": "redistributive taxation",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do extremely unequal societies tend to be?",
+      "answer": "politically and socially unstable",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "When did Galor and Zeria show old information about inequality?",
+      "answer": null,
+      "llm_prediction": "january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015"
+    },
+    {
+      "question": "nequality in the presence of credit market perfections has what kind of effect on human capital formation?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report"
+    },
+    {
+      "question": "What did a 1969 study by Perotti examine?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is inequality associated with lower levels of?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do extremely equal societies tend to be?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What institution does Robert Barro hail from?",
+      "answer": "Harvard",
+      "llm_prediction": "united nations university"
+    },
+    {
+      "question": "Barro found there is little relation between income inequality and rates of what?",
+      "answer": "growth and investment",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does high levels of inequality do to growth in poor countries?",
+      "answer": "reduce",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does high levels of inequality do for economic growth in richer countries?",
+      "answer": "encourage",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When was a study conducted of Swedish counties?",
+      "answer": "between 1960 and 2000",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What institution doesn't Robert Barro hail from?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Barro found there is much relation between income inequality and rates of what?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does high levels of inequality do to growth in rich countries?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does low levels of inequality do for economic growth in richer countries?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When wasn't a study conducted of Swedish counties?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What have studies on income inequality sometimes found evidence confirming?",
+      "answer": "Kuznets curve hypothesis",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The Kuznets curve says with economic development, inequality will decrease after what?",
+      "answer": "first increases",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who challenges the notion of the Kuznets curve hypothesis?",
+      "answer": "Thomas Piketty",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What's Thomas Piketty's job?",
+      "answer": "Economist",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does Piketty feel was the biggest factors in reducing inequality between 1914 to 1945?",
+      "answer": "wars and \"violent economic and political shocks\"",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What haven't studies on income inequality sometimes found evidence confirming?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "The Kuznets curve says with economic development, inequality will increase after what?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who accepts the notion of the Kuznets curve hypothesis?",
+      "answer": null,
+      "llm_prediction": "oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015, oxfam"
+    },
+    {
+      "question": "What isn't Thomas Piketty's job?",
+      "answer": null,
+      "llm_prediction": "credit suisse"
+    },
+    {
+      "question": "What does Piketty feel was the biggest factors in reducing inequality between 1941 to 1945?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "When were theories developed suggesting inequality may have some positive effect on economic development?",
+      "answer": "the 1970s",
+      "llm_prediction": "january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015"
+    },
+    {
+      "question": "According to a 1955 review, what were savings by the wealthy thought to offset?",
+      "answer": "reduced consumer demand",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does a 2013 report on Nigeria suggest it's growth has done?",
+      "answer": "risen with increased income inequality",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How long does it take for the effects to manifest as changes to economic growth?",
+      "answer": "several years",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are longer growth spells associated with?",
+      "answer": "more equality in the income distribution",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When were theories developed suggesting inequality may have some negative effect on economic development?",
+      "answer": null,
+      "llm_prediction": "january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015"
+    },
+    {
+      "question": "According to a 1954 review, what were savings by the wealthy thought to offset?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does a 2003 report on Nigeria suggest it's growth has done?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How long doesn't it take for the effects to manifest as changes to economic growth?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are shorter growth spells associated with?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What needs to be made to ensure poorer members of society can participate in economic growth?",
+      "answer": "special efforts",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can the growth elasticity of poverty depend on?",
+      "answer": "existing level of inequality",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does it take a country with high inequality longer to achieve?",
+      "answer": "reduction",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What was Ban Ki-Moon the Secretary General of?",
+      "answer": "the United Nations",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What isn't economic growth sufficient for progress on?",
+      "answer": "reducing poverty",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What needs to be made to ensure richer members of society can participate in economic growth?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can the growth elasticity of poverty not depend on?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What doesn't it take a country with high inequality longer to achieve?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What was Ban Ki-Moon not the Secretary General of?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What isn't economic growth insufficient for progress on?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is held outside the formal legal ownership registration system in many developing countries?",
+      "answer": "much land and housing",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How is unregistered property held in informal form?",
+      "answer": "through various associations and other arrangements",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Excessive bureaucratic red tape is one of the reasons for what type of ownership?",
+      "answer": "extra-legal",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "In some countries over how many steps can it take to build on government land?",
+      "answer": "200",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can it sometimes take up to 14 years to get permission to build on?",
+      "answer": "government land",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is held inside the formal legal ownership registration system in many developing countries?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How is registered property held in informal form?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Excessive bureaucratic red tape isn't one of the reasons for what type of ownership?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "In all countries over how many steps can it take to build on government land?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can it sometimes take up to 41 years to get permission to build on?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do a number of researchers think a shortage of is caused in part by income inequality?",
+      "answer": "a shortage of affordable housing",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What decreased in number between 1984 and 1991?",
+      "answer": "quality rental units",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why did the demand for rentals decrease?",
+      "answer": "demand for higher quality housing increased",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What drove increased rental prices in East New York?",
+      "answer": "residents willing to pay higher market rate for housing",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What combined with ricing prices to make it difficult or impossible for poor people to keep pace?",
+      "answer": "ad valorem property tax policy",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What do a number of researchers think a shortage of isn't caused in part by income inequality?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What decreased in number between 1948 and 1991?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why did the demand for rentals increase?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth"
+    },
+    {
+      "question": "What drove decreased rental prices in East New York?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What combined with lowering prices to make it difficult or impossible for poor people to keep pace?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How are the certain costs which are difficult to avoid shared?",
+      "answer": "by everyone",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are those with lower incomes often unable to manage?",
+      "answer": "their finances",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the term when middle income earners aspire to obtain the same standards of living as people wealthier than themselves?",
+      "answer": "aspirational consumption",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one method of achieving aspirational consumption?",
+      "answer": "taking on debt",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When people take on debt, it leads potentially to what?",
+      "answer": "economic instability",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How are the certain costs which are easy to avoid shared?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What are those with higher incomes often unable to manage?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the term when top income earners aspire to obtain the same standards of living as people wealthier than themselves?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one method of achieving perspirational consumption?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When people get rid of debt, it leads potentially to what?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When economic inequality is smaller, more waste and pollution is?",
+      "answer": "created",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What would be lower if there were fewer people?",
+      "answer": "emissions per person",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does the current high level of population have a large impact on?",
+      "answer": "environmental degradation",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How could human inequality be addressed without resulting in an increase of environmental damage?",
+      "answer": "If (as WWF argued), population levels would start to drop to a sustainable level",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When political inequality is smaller, more waste and pollution is?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What would be higher if there were fewer people?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does the current low level of population have a large impact on?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "When economic inequality is larger, more waste and pollution is?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "How could human inequality be addressed without resulting in an decrease of environmental damage?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the vast disparities in wealth attributed to by Socialists?",
+      "answer": "private ownership of the means of production",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What does private ownership create a situation of?",
+      "answer": "a small portion of the population lives off unearned property income",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What type of income is the vast majority of the population dependent on?",
+      "answer": "wage or salary",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How do socialists think the means of production should be owned?",
+      "answer": "socially",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What would income differentials be if individual contributions were relevant to the social product?",
+      "answer": "reflective",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the vast disparities in wealth not attributed to by Socialists?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What doesn't private ownership create a situation of?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of income is the vast majority of the population not dependent on?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How do socialists think the means of production shouldn't be owned?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What would income differentials be if individual contributions weren't relevant to the social product?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Who argues that the government redistributes wealth by force?",
+      "answer": "Robert Nozick",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the usual form of the government's wealth redistribution? ",
+      "answer": "taxation",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "In an ideal moral society, what would all citizens be free from?",
+      "answer": "force",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How were some modern economic inequalities created?",
+      "answer": "forceful taking of property",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When are inequalities in wealth justified, according to John Rawls?",
+      "answer": "when they improve society as a whole",
+      "llm_prediction": "january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015"
+    },
+    {
+      "question": "Who argues that the government redistributes wealth by peace?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the unusual form of the government's wealth redistribution? ",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "In an ideal moral society, what would no citizens be free from?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "How were some modern economic inequalities destroyed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When aren't inequalities in wealth justified, according to John Rawls?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What does the capabilities approach look at poverty as a form of?",
+      "answer": "capability deprivation",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "In the capabilities approach, grow and income are considered a means to an end rather than what?",
+      "answer": "the end itself",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What is the goal of the capabilities approach?",
+      "answer": "to “wid[en] people’s choices and the level of their achieved well-being”",
+      "llm_prediction": "what is the goal of the capabilities approach? [SEP] a study by the world institute for development economics research at united nations university reports that the richest 1 % of adults alone owned 40 % of global assets in the year 2000. the three richest people in the world possess more financial assets than the lowest 48 nations combined. the combined wealth of the \" 10 million dollar millionaires \" grew to nearly $ 41 trillion in 2008. a january 2014 report by oxfam claims that the 85 wealthiest individuals in the world have a combined wealth equal to that of the bottom 50 % of the world ' s population, or about 3. 5 billion people. according to a los angeles times analysis of the report, the wealthiest 1 % owns 46 % of the world ' s wealth ; the 85 richest people, a small part of the wealthiest 1 %, own about 0. 7 % of the human population ' s wealth, which is the same as the bottom half of the population. more recently, in january 2015, oxfam reported that the wealthiest 1 percent will own more than half of the global wealth by 2016. an october 2014 study by credit suisse also claims that the top 1 % now own nearly half of the world ' s wealth and that the accelerating disparity could trigger a recession"
+    },
+    {
+      "question": "How would the capabilities approach achieve it's goal?",
+      "answer": "through increasing functionings",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the definition of agency as it relates to capabilities? ",
+      "answer": "the ability to pursue valued goals",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What doesn't the capabilities approach look at poverty as a form of?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "In the capabilities approach, grow and income aren't considered a means to an end rather than what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the goal of the incapabilities approach?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How wouldn't the capabilities approach achieve it's goal?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What is the definition of agency as it unrelates to incapabilities? ",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What happens when a person's capabilities aer lowered, as it relates to their income?",
+      "answer": "deprived of earning as much",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can and old, ill man not do?",
+      "answer": "earn as much as a healthy young man",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What issues may prevent women from working outside the home or receiving education?",
+      "answer": "gender roles and customs",
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "Why would rampant violence prevent people from going to work?",
+      "answer": "for fear of their lives",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can people work towards if they aren't denied their functionings, capabilities and agency?",
+      "answer": "a better relevant income.",
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What happens when a person's capabilities aer raised, as it relates to their income?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What can and old, ill man do?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "What issues can't prevent women from working outside the home or receiving education?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    },
+    {
+      "question": "Why wouldn't rampant violence prevent people from going to work?",
+      "answer": null,
+      "llm_prediction": "oxfam ' s claims have however been questioned on the basis of the methodology used : by using net wealth ( adding up assets and subtracting debts ), the oxfam report, for instance, finds that there are more poor people in the united states and western europe than in china ( due to a greater tendency to take on debts ). [ unreliable source? ] [ unreliable source? ] anthony shorrocks"
+    },
+    {
+      "question": "What can people work towards if they are denied their functionings, capabilities and agency?",
+      "answer": null,
+      "llm_prediction": "oxfam"
+    }
+  ]
+}

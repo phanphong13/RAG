@@ -1,0 +1,1206 @@
+{
+  "title": "Private_school",
+  "context": "Private schools, also known as independent schools, non-governmental, or nonstate schools, are not administered by local, state or national governments; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public (government) funding; at some private schools students may be able to get a scholarship, which makes the cost cheaper, depending on a talent the student may have (e.g. sport scholarship, art scholarship, academic scholarship), financial need, or tax credit scholarships that might be available.",
+  "qas": [
+    {
+      "question": "Along with non-governmental and nonstate schools, what is another name for private schools?",
+      "answer": "independent",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "Along with sport and art, what is a type of talent scholarship?",
+      "answer": "academic",
+      "llm_prediction": "sport scholarship, art scholarship"
+    },
+    {
+      "question": "Rather than taxation, what are private schools largely funded by?",
+      "answer": "tuition",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What right do private schools have that public schools don't?",
+      "answer": "to select their students",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another name for a public school?",
+      "answer": null,
+      "llm_prediction": "government"
+    },
+    {
+      "question": "What kind of taxation funds private schools?",
+      "answer": null,
+      "llm_prediction": "public ( government ) funding"
+    },
+    {
+      "question": "What can help a student get a scholarship for a public school?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are two reasons a student would be able to get a scholarship for a public school?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "What are public schools allowed to do to retain talented students?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is the yearly cost of some notable prep schools in New England?",
+      "answer": "$45,000",
+      "llm_prediction": "charging their students tuition"
+    },
+    {
+      "question": "What are private schools that charge no tuition called?",
+      "answer": "'tuition-free",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "Along with Canada and the United Kingdom, what country generally doesn't refer to universities as private schools?",
+      "answer": "Australia",
+      "llm_prediction": "canada"
+    },
+    {
+      "question": "What region does use the term 'private schools' to refer to universities?",
+      "answer": "North America",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much does it cost yearly to go to a UK university?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the term private school restricted to in the US?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When is the term private school never used in the US?",
+      "answer": null,
+      "llm_prediction": "never"
+    },
+    {
+      "question": "What are schools called that don't charge tuition in Austraila?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What term does the UK, Australia and Canada always use when referring to universities?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What is another term for year 12 of education?",
+      "answer": "lower sixth",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What is another term used for year 13?",
+      "answer": "upper sixth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another term for university-preparatory schools?",
+      "answer": "prep schools",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "Along with location, endowment and the willingness of parents to pay, what factor influences private school tuition?",
+      "answer": "peer tuitions",
+      "llm_prediction": "mandatory taxation"
+    },
+    {
+      "question": "Who receives higher salaries at private schools that charge higher tuition?",
+      "answer": "teachers",
+      "llm_prediction": "local, state or national governments"
+    },
+    {
+      "question": "What is another term used for library?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship"
+    },
+    {
+      "question": "What is  another term used for science lab?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What is the tuititon used for at military academies?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What ameneties are available when you are enrolled at a military academy?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "What religion's schools does the term 'parochial schools' generally refer to?",
+      "answer": "Roman Catholic",
+      "llm_prediction": "what religion ' s schools does the term ' parochial schools ' generally refer to? [SEP] private schools, also known as independent schools"
+    },
+    {
+      "question": "Along with Muslims, Jews and Protestant Christians, what religious group notably operates private schools?",
+      "answer": "Orthodox Christians",
+      "llm_prediction": "what religious group"
+    },
+    {
+      "question": "What type of education is sometimes present at religious schools in addition to the secular curriculum?",
+      "answer": "religious",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What category are schools put into that maintain a line between academics and religion?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What do all Roman Catholic schools teach?",
+      "answer": null,
+      "llm_prediction": "sport"
+    },
+    {
+      "question": "Why were Roman Catholic schools founded?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What method do Muslim run schools use in their curriculum?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "What power is available to Australian private schools but generally not present in public schools?",
+      "answer": "expulsion",
+      "llm_prediction": "they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is an example of an article of uniform clothing typically present in Australian private schools?",
+      "answer": "blazer",
+      "llm_prediction": "what is an example of an article of uniform clothing typically present in australian private schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is the comparison in price between Australian private schools versus public?",
+      "answer": "more expensive",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What kind of status comes with going to a public school in Australia?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "How well are teachers paid in public schools in Australia?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What kind of education is offered in public schools in Australia?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What tool do they use in public school to maintain discipline?",
+      "answer": null,
+      "llm_prediction": "government ) funding"
+    },
+    {
+      "question": "What part of a uniform must you wear if you go to public school in Australia?",
+      "answer": null,
+      "llm_prediction": "what part of a uniform"
+    },
+    {
+      "question": "Along with the Anglican Church and Uniting Church, what religious denomination operates private schools in Australia?",
+      "answer": "Presbyterian",
+      "llm_prediction": "anglican church and uniting church, what religious denomination operates private schools in australia? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What denomination operates St Joseph's College?",
+      "answer": "Catholic",
+      "llm_prediction": "independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "Where is St Aloysius' College located?",
+      "answer": "Sydney",
+      "llm_prediction": "where is st aloysius ' college located? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "Who attends Loreto Normanhurst?",
+      "answer": "girls",
+      "llm_prediction": "students"
+    },
+    {
+      "question": "What denomination insists that students must also be a member of the founding church?",
+      "answer": null,
+      "llm_prediction": "private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What category do all Catholic schools fall into?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "Where is St. Gregory's College located?",
+      "answer": null,
+      "llm_prediction": "where is st. gregory ' s college located? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What three churches have colleges in Sydney?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "What do all grammar schools insist their students have in order to attend?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What article of the Grundgesetz grants the right to make private schools?",
+      "answer": "7",
+      "llm_prediction": "grundgesetz"
+    },
+    {
+      "question": "The prospect of what event compelled the protection of German private schools?",
+      "answer": "second Gleichschaltung",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of German students attended private schools in 2008?",
+      "answer": "7.8",
+      "llm_prediction": "what percentage of german students attended private schools in 2008? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What was the percentage of Germans attending private high schools in 2008?",
+      "answer": "11.1",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In 1992, what percentage of East German students attended private schools?",
+      "answer": "0.5",
+      "llm_prediction": "what percentage of east german students attended private schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In what article does it give Gleichschaltung the right to create private schools?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "When can the right to create private schools be taken away in other countries?",
+      "answer": null,
+      "llm_prediction": "they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "Why was the protection of private schools implemented in 1992?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of students in Grundgesetz attended private schools in 2008?",
+      "answer": null,
+      "llm_prediction": "what percentage of students in grundgesetz attended private schools in 2008? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What percentage of students attended private schools in Grundgesetz in 1992?",
+      "answer": null,
+      "llm_prediction": "what percentage of students attended private schools in grundgesetz in 1992? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is the German term for segregating students based on their parents' wealth?",
+      "answer": "Sonderungsverbot",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What do Germans call private schools?",
+      "answer": "Ersatzschulen",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "How does the level of tuition in German private schools compare to private schools in other Western European countries?",
+      "answer": "very low",
+      "llm_prediction": "funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "Who runs the Sonderungsverbot?",
+      "answer": null,
+      "llm_prediction": "local, state or national governments"
+    },
+    {
+      "question": "What kind of school is a Sonderungsverbot?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What kind of diploma is given when graduating from a Sonderungsverbot?",
+      "answer": null,
+      "llm_prediction": "what kind of diploma is given when graduating from a sonderungsverbot? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What do Sonderungsverbot not have when trying to operate without regulation?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What kind of tuition is charged if you enroll in a Sonderungsverbot?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What are private secondary schools in Germany called?",
+      "answer": "Ergänzungsschulen",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What types of schools are most ergänzungsschulen?",
+      "answer": "vocational",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "How are ergänzungsschulen funded?",
+      "answer": "tuition",
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "Along with private individuals and organizations, what groups sometimes runs ergänzungsschulen?",
+      "answer": "religious",
+      "llm_prediction": "what groups"
+    },
+    {
+      "question": "What are public schools called in Germany?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What are most public schools not a part of?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What do public schools operate outside of in Germany?",
+      "answer": null,
+      "llm_prediction": "government"
+    },
+    {
+      "question": "How are public schools funded?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "What group will rarely run a public school?",
+      "answer": null,
+      "llm_prediction": "government"
+    },
+    {
+      "question": "What is the term for an Indian private school?",
+      "answer": "independent",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "Along with the CISCE and NENBSE, what is a notable Examination Board in multiple Indian states?",
+      "answer": "CBSE",
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "How many Examination Boards exist in India?",
+      "answer": "30",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What body in India provides policy directions to schools?",
+      "answer": "union government",
+      "llm_prediction": "government"
+    },
+    {
+      "question": "What are government schools also called in India?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What two categories can a government school be put into in India?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "What do the CBSE and the CISCe both have the power to govern?",
+      "answer": null,
+      "llm_prediction": "they retain the right to select their students"
+    },
+    {
+      "question": "How many independent schools are in India?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "For what certificate does the legislature conduct examinations?",
+      "answer": null,
+      "llm_prediction": "scholarship"
+    },
+    {
+      "question": "Along with trusts, what other non-profits are allowed to run schools in India?",
+      "answer": "societies",
+      "llm_prediction": "nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What country has the most illiterate adults in the world?",
+      "answer": "India",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the full name of the ASER?",
+      "answer": "Annual Status of Education Report",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the purpose of the ASER?",
+      "answer": "evaluates learning levels in rural India",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In private schools, what language are classes taught in?",
+      "answer": "English",
+      "llm_prediction": "language"
+    },
+    {
+      "question": "Who can legally teach English in India?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do government schools have to do to be able to teach English?",
+      "answer": null,
+      "llm_prediction": "charging their students tuition"
+    },
+    {
+      "question": "What is happening to the number of government schools in rural India?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What did the ASER report show about how people feel about private schools?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does poor academic achievement lead to according to critics?",
+      "answer": null,
+      "llm_prediction": "cost cheaper"
+    },
+    {
+      "question": "What is the Irish term for private schools?",
+      "answer": "scoil phríobháideach",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "How do private schools in Ireland differ from most?",
+      "answer": "teacher's salaries are paid by the State",
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "What is the typical annual cost for an Irish private school?",
+      "answer": "€5,000",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "Along with the Congregation of Christian Brothers, what is a notable religious group that runs fee-paying schools in Ireland?",
+      "answer": "Society of Jesus",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What might the fees to attend an Irish boarding school rise to?",
+      "answer": "€25,000 per year",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the Irish term for school fees?",
+      "answer": null,
+      "llm_prediction": "public ( government ) funding"
+    },
+    {
+      "question": "How do private schools in the rest of the world differ from Ireland?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "How are school fees in the rest of the world compared to Ireland?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "What certificates must private schools worldwide work towards?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the average private school fee worldwide?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In what year did Malaysia receive its independence?",
+      "answer": "1957",
+      "llm_prediction": "in what year did malaysia receive its independence? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What language is used in Chinese primary schools in Malaysia?",
+      "answer": "Chinese",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What language is used in Chinese secondary schools in Malaysia?",
+      "answer": "English",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the post-independence government school system in Malaysia?",
+      "answer": "National School",
+      "llm_prediction": ""
+    },
+    {
+      "question": "As a result of a compromise, about how many Chinese schools became National Type schools?",
+      "answer": "60",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In what year did China institute English-medium schools?",
+      "answer": null,
+      "llm_prediction": "in what year did china institute english - medium schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "How many people protested the school assimilation program in Malaysia?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happened to schools after Chinese independence in 1957?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What type of schools would they have in China as a compromise after Chinese independence?",
+      "answer": null,
+      "llm_prediction": "private schools, also known as independent schools"
+    },
+    {
+      "question": "Who did the lands belong to in China after the school compromise?",
+      "answer": null,
+      "llm_prediction": "local, state or national governments"
+    },
+    {
+      "question": "What is a term for schools that receive government assistance?",
+      "answer": "aided",
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "How are 'un-aided' schools different from 'aided' schools?",
+      "answer": "fully funded by private parties",
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "Where is Galaxy Public School located?",
+      "answer": "Kathmandu",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In Nepalese private schools, what is the primary language of instruction?",
+      "answer": "English",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "In addition to English, what language is also often taught in Nepalese private schools?",
+      "answer": "Nepali",
+      "llm_prediction": "english"
+    },
+    {
+      "question": "What type of familiy sends their children to preschool?",
+      "answer": null,
+      "llm_prediction": "familiy"
+    },
+    {
+      "question": "What is the standard of living for most families in Kathmandu?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What name is typically associated with preschool?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship"
+    },
+    {
+      "question": "What are boarding schools that teach English called?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What group fully funds preschool?",
+      "answer": null,
+      "llm_prediction": "government"
+    },
+    {
+      "question": "How many private schools existed in New Zealand in April 2014?",
+      "answer": "88",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In April 2014, how many New Zealand students attended private schools?",
+      "answer": "28,000",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of New Zealand students attended private schools in April 2014?",
+      "answer": "3.7",
+      "llm_prediction": "what percentage of new zealand students attended private schools in april 2014? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What religion's schools were integrated into New Zealand public schools between 1979 and 1984?",
+      "answer": "Catholic",
+      "llm_prediction": "what religion"
+    },
+    {
+      "question": "What city, along with Hamilton, Wellington and Christchurch, is one of the largest in New Zealand?",
+      "answer": "Auckland",
+      "llm_prediction": "what city, along with hamilton, wellington and christchurch"
+    },
+    {
+      "question": "As of 1970, how many private schools were in New Zealand?",
+      "answer": null,
+      "llm_prediction": "they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "How many private school students were there in 1979?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How much of the student population went to private schools in 1984?",
+      "answer": null,
+      "llm_prediction": "they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What has happened to private school numbers since 2014?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "Why have private schools been in decline since 2014?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What denomination is the Diocesan School for Girls in Auckland affiliated with?",
+      "answer": "Anglican",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where is Samuel Marsden Collegiate School located?",
+      "answer": "Wellington",
+      "llm_prediction": "where is samuel marsden collegiate school"
+    },
+    {
+      "question": "What denomination is associated with Saint Kentigern College?",
+      "answer": "Presbyterian",
+      "llm_prediction": "saint kentigern college? [SEP] private schools, also known as independent schools"
+    },
+    {
+      "question": "In what city is Rangi Ruru Girls' School?",
+      "answer": "Christchurch",
+      "llm_prediction": "rangi ruru girls ' school? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What group operates St Dominic's College in Wanganui?",
+      "answer": "Society of St Pius X",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is St Andrew's College run?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "What is operated by Academic Colleges Group in Wanganui?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "What Catholic society in Wanganui is affiliated with Academic Colleges Group?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship"
+    },
+    {
+      "question": "What denomination are the schools run by Academic Colleges Group?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "How many affiliates are connected to the ACG New Zealand International College?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "What percentage of Filipino primary school students are in private schools?",
+      "answer": "7.5",
+      "llm_prediction": "what percentage of filipino primary school students are in private schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In the Philippines, what percentage of secondary school students attend private schools?",
+      "answer": "32",
+      "llm_prediction": "what percentage of secondary school students attend private schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What percentage of Filipino tertiary education takes place in private schools?",
+      "answer": "80",
+      "llm_prediction": "what percentage of filipino tertiary education takes place in private schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In what month and year was the revised Manual of Regulations for Private Schools released?",
+      "answer": "August 1992",
+      "llm_prediction": "in what month and year was the revised manual of regulations for private schools released? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "Along with English and mathematics, what subject replaced values education for fourth year students?",
+      "answer": "natural science",
+      "llm_prediction": "mathematics"
+    },
+    {
+      "question": "What percentage of students enroll in public primary school in the Philippines?",
+      "answer": null,
+      "llm_prediction": "what percentage of students enroll in public primary school in the philippines? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is lower in public schools rather than private ones?",
+      "answer": null,
+      "llm_prediction": "what is lower in public schools rather than private ones? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation"
+    },
+    {
+      "question": "What have government regulations given public schools recently?",
+      "answer": null,
+      "llm_prediction": "mandatory taxation"
+    },
+    {
+      "question": "When did the Philippines start teaching English at the primary level in public school?",
+      "answer": null,
+      "llm_prediction": "government ) funding"
+    },
+    {
+      "question": "What is the name of the scheme that provides tuition and fee assistance to students due to excess enrollment?",
+      "answer": "Education Service Contracting",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What stipend do students enrolled in priority courses receive?",
+      "answer": "Tuition Fee Supplement",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What aid is available to underprivileged students seeking to attend a private university?",
+      "answer": "Private Education Student Financial Assistance",
+      "llm_prediction": "what aid is available to underprivileged students seeking to attend a private university? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "Why would students be turned away from non-degree programmes?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How does The Tuition Fee Suppliment help high school students?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What does The Private Education Student Financial Assistance help current high school students who are turned away do?",
+      "answer": null,
+      "llm_prediction": "they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What program provides financial assistance for tuition and fees for a college or technical education?",
+      "answer": null,
+      "llm_prediction": "private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What does the government provide for students turned away from priority courses?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What South African law recognized two types of schools?",
+      "answer": "South African Schools Act",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was the South African Schools Act passed?",
+      "answer": "1996",
+      "llm_prediction": "in what year was the south african schools act"
+    },
+    {
+      "question": "Along with public schools, what type of school was recognized under the South African Schools Act?",
+      "answer": "independent",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In South Africa, along with privately governed schools, what schools are classified as independent?",
+      "answer": "traditional private",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what century did missionaries notably establish church schools in South Africa?",
+      "answer": "nineteenth",
+      "llm_prediction": "in what century did missionaries notably establish church schools in south africa? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In what century was apartheid abolished?",
+      "answer": null,
+      "llm_prediction": "in"
+    },
+    {
+      "question": "What did missionaries cause to become law in 1996?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "How did Africa becoming independent change the laws about missionaries coming to Africa?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "In what century was South Africa established as a country?",
+      "answer": null,
+      "llm_prediction": "in what century"
+    },
+    {
+      "question": "What has happened to the public education sector when managed by the government?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "After apartheid, what types of schools are referred to as \"Model C\" schools?",
+      "answer": "government schools formerly reserved for white children",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "How do academic results in former Model C schools compare to other schools?",
+      "answer": "better",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "How do the fees at former Model C schools compare to those at other schools?",
+      "answer": "higher",
+      "llm_prediction": "by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "What school option were parents of minority children given to convert to?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was abolished during the apartheid era?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What term is used for schools who accept only black children?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What kind of acedemic results do schools that only accept black children produce?",
+      "answer": null,
+      "llm_prediction": "acedemic results do schools that only accept black children produce? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What do only white children have to pay when they go to school?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "As of 2008, about what percentage of Swedish students attended private schools?",
+      "answer": "10",
+      "llm_prediction": "what percentage of swedish students attended private schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "About many students attend Kunskapsskolan schools?",
+      "answer": "10,000",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many people work for Kunskapsskolan schools?",
+      "answer": "700",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the English translation of Kunskapsskolan?",
+      "answer": "The Knowledge School",
+      "llm_prediction": "kunskapsskolan? [SEP] private schools, also known as independent schools"
+    },
+    {
+      "question": "What school model is Sweden notable for?",
+      "answer": "voucher",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Swedish students were enrolled in public school in 2008?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "How many people have worked with Barack Obama who are from Sweden?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "What is the Swedish word for school voucher?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What opportunity did Barack Obama support for Swedish children?",
+      "answer": null,
+      "llm_prediction": "students may be able to get a scholarship"
+    },
+    {
+      "question": "How many school vouchers were issued by Sweden in 2008?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Up to what age do students in the United Kingdom attend preparatory schools?",
+      "answer": "13",
+      "llm_prediction": "up to what age do students in the united kingdom attend preparatory schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What schools do preparatory schools prepare British children to attend?",
+      "answer": "public",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of British children are educated at GSCE level in fee-paying schools?",
+      "answer": "9",
+      "llm_prediction": "what percentage of british children are educated at gsce level in fee - paying schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "At A-level, what percentage of British students attend fee-paying schools?",
+      "answer": "13",
+      "llm_prediction": "what percentage of british students attend fee - paying schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is the upper range of annual fees for non-boarding students in British public schools?",
+      "answer": "£21,000",
+      "llm_prediction": "charging their students tuition"
+    },
+    {
+      "question": "Who do preparatory schools in Scotland prepare to enter public schools?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of children educated in Scotland are at independent schools?",
+      "answer": null,
+      "llm_prediction": "what percentage of children educated in scotland are at independent schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "At what level are 13% of children in Scottish independent schools?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What type of school is becoming less common in Scotland?",
+      "answer": null,
+      "llm_prediction": "independent schools"
+    },
+    {
+      "question": "What is the highest range a student would pay when boarding  in a Scottish school?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What court case desegregated schools in the United States?",
+      "answer": "Brown v. Board of Education of Topeka",
+      "llm_prediction": "desegregated schools in the united states? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What is a derogatory term for the Christian academies that arose in the wake of school desegregation?",
+      "answer": "segregation academies",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what part of the United States did many students migrate to Christian academies during the desegregation period?",
+      "answer": "South",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the primary race of students attending Christian academies after the Brown decision?",
+      "answer": "white",
+      "llm_prediction": ""
+    },
+    {
+      "question": "School desegregation in the United States led to an increased number of students of what ethnicity in public schools?",
+      "answer": "African-American",
+      "llm_prediction": "government"
+    },
+    {
+      "question": "What court case desegregated schools in 1970?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How quickly were Christian academies supposed to be segregated?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What was organized by local families before the Supreme Court case went to court?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What kind of curriculum did public schools focus on for white students?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Numbers of what race of students increased in public schools before 1954?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "Along with tuition, scholarships, vouchers, donations and grants, where does funding for private schools come from?",
+      "answer": "endowments",
+      "llm_prediction": "not administered by local, state or national governments"
+    },
+    {
+      "question": "What amendment to the United States Constitution governs government funding of religious schools?",
+      "answer": "First",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What state constitutional amendments make reference to the government funding religious schools?",
+      "answer": "Blaine",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Granting what status would allow private non-religious schools in the US to receive public funds?",
+      "answer": "charter",
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "What body would determine that funding for course content is forbidden?",
+      "answer": null,
+      "llm_prediction": "local, state or national governments"
+    },
+    {
+      "question": "What is course content funding subject to?",
+      "answer": null,
+      "llm_prediction": "mandatory taxation"
+    },
+    {
+      "question": "Why would course content funding be restricted by the courts?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can be interpreted by individuals to determine if funding for course content is forbidden?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is course content provided to a private school?",
+      "answer": null,
+      "llm_prediction": "by charging their students tuition"
+    },
+    {
+      "question": "What was the first US state to have compulsory education?",
+      "answer": "Massachusetts",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Massachusetts first require children to be educated in schools?",
+      "answer": "1852",
+      "llm_prediction": "in what year did massachusetts first require children to be educated in schools? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments ; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "In what year was Wisconsin v. Yoder decided at the Supreme Court?",
+      "answer": "1972",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the citation for the Pierce v. Society of Sisters case?",
+      "answer": "268 U.S. 510",
+      "llm_prediction": "pierce v. society of sisters"
+    },
+    {
+      "question": "Who was the opposing party in the Runyon case?",
+      "answer": "McCrary",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What became compulsory in Massachusetts in 1976?",
+      "answer": null,
+      "llm_prediction": "sport scholarship, art scholarship, academic scholarship"
+    },
+    {
+      "question": "What was the first state to have set educational standards?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Educators support educational choice as long as what happens?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "Who was part of the case with Wisconsin in 1976?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What other person was involved in the case with Runyon in 1972?",
+      "answer": null,
+      "llm_prediction": "runyon"
+    },
+    {
+      "question": "About how much did a New York City day school cost annually in 2012?",
+      "answer": "$40,000",
+      "llm_prediction": "charging their students tuition"
+    },
+    {
+      "question": "What would a parent have to pay to send their child to a boarding school in 2012?",
+      "answer": "$50,000",
+      "llm_prediction": "charging their students tuition"
+    },
+    {
+      "question": "What notable private school has an endowment of several hundred million dollars?",
+      "answer": "Groton School",
+      "llm_prediction": "private school has an endowment of several hundred million dollars? [SEP] private schools, also known as independent schools"
+    },
+    {
+      "question": "In addition to endowments and tuition, how do boarding schools cover their operating costs?",
+      "answer": "fundraising",
+      "llm_prediction": "by charging their students tuition, rather than relying on mandatory taxation through public ( government ) funding"
+    },
+    {
+      "question": "How much did the Groton School charge per student for tuition in 2012?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    },
+    {
+      "question": "Where do most students at the Groton School come from?",
+      "answer": null,
+      "llm_prediction": "groton school come from? [SEP] private schools, also known as independent schools, non - governmental, or nonstate schools, are not administered by local, state or national governments"
+    },
+    {
+      "question": "How many applicants does the Groton School have each year?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what city is the Groton School located?",
+      "answer": null,
+      "llm_prediction": "groton"
+    },
+    {
+      "question": "What were the operating expenses of the Groton School in 2012?",
+      "answer": null,
+      "llm_prediction": "funded in whole or in part by charging their students tuition"
+    }
+  ]
+}

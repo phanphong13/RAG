@@ -1,0 +1,1166 @@
+{
+  "title": "Construction",
+  "context": "Construction is the process of constructing a building or infrastructure. Construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. Construction as an industry comprises six to nine percent of the gross domestic product of developed countries. Construction starts with planning,[citation needed] design, and financing and continues until the project is built and ready for use.",
+  "qas": [
+    {
+      "question": "What is the process of constructing a building or infrastructure?",
+      "answer": "Construction",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What typically involves mass production of similar items without a designated purchaser?",
+      "answer": "manufacturing",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What percentile of gross domestic product is construction comprised of?",
+      "answer": "six to nine percent",
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "What three things are needed for construction to take place?",
+      "answer": "planning,[citation needed] design, and financing",
+      "llm_prediction": "design, and financing"
+    },
+    {
+      "question": "Construction takes place on location for who?",
+      "answer": "a known client",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "What involves limited production with a designated purchase? ",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What usually takes place on location for an unknown client?",
+      "answer": null,
+      "llm_prediction": "construction typically takes place on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What does comprise 69 percent of?",
+      "answer": null,
+      "llm_prediction": "gross domestic product of developed countries"
+    },
+    {
+      "question": "What three things are recommended before construction begins?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "Where does manufacturing take place?",
+      "answer": null,
+      "llm_prediction": "on location for a known client"
+    },
+    {
+      "question": "How much of a developed countries GDP does manufacturing comprise?",
+      "answer": null,
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "What involves mass production of similar items without designated planning?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "How long does the process of manufacturing continue?",
+      "answer": null,
+      "llm_prediction": "until the project is built and ready for use"
+    },
+    {
+      "question": "What three things do you need for manufacturing to happen?",
+      "answer": null,
+      "llm_prediction": "design, and financing"
+    },
+    {
+      "question": "Who normally manages a construction job?",
+      "answer": "An architect",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "Who normally supervises a construction job?",
+      "answer": "a construction manager, design engineer, construction engineer or project manager",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is essential for the successful execution of a project?",
+      "answer": "effective planning",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "The largest construction projects are known as what?",
+      "answer": "megaprojects",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Zoning requirements, environmental impact, budgeting, and logistics are things who should consider?",
+      "answer": "Those involved with the design and execution of the infrastructure",
+      "llm_prediction": "construction is the process of constructing a building or infrastructure. construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What is primarily and independent effort?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does a constuction engineer manage?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the term for any large construction project?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is seldom considered by those involved with the design and execution of infatructure?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What requires collaboration across zoning requirements?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "Who normally manages the environmental impact of the job?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who normally supervises inconvenience to the public?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the largest infrastructure in question referred to?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What is necessary for successfully completing  bidding on a project?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are the three sectors of construction?",
+      "answer": "buildings, infrastructure and industrial",
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "Building construction is usually further divided into what categories?",
+      "answer": "residential and non-residential",
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "Infrastructure is often called what?",
+      "answer": "heavy/highway, heavy civil or heavy engineering",
+      "llm_prediction": "infrastructure"
+    },
+    {
+      "question": "Large public works, dams, bridges, highways, water/wastewater and utility distribution are under what construction sector?",
+      "answer": "Infrastructure",
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "Refineries, process chemical, power generation, mills and manufacturing plants are under what sector of construction?",
+      "answer": "Industrial",
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "What are buildings, stuctures and industrial?",
+      "answer": null,
+      "llm_prediction": "buildings, stuctures and industrial? [SEP] construction is the process of constructing a building or infrastructure. construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What type of constuction is eivided into private and public buildings?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What sector includes large public works but not utility distribution?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What sector include utility distribution and refineries?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What three sectors of public works are there?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "How is utility distribution further divided?",
+      "answer": null,
+      "llm_prediction": "financing"
+    },
+    {
+      "question": "What are refineries often called?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are some examples of markets?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "What can residential and non-residential also be broken into?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is Engineering News-Record?",
+      "answer": "a trade magazine for the construction industry",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What compiles and reports on data about the size of design and construction companies?",
+      "answer": "ENR",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "In what year did ENR compile data in nine market segments?",
+      "answer": "2014",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "ENR used data on what to rank Top 400 firms as heavy contractors?",
+      "answer": "transportation, sewer, hazardous waste and water",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is a trade magazine for design industry?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who reports on the size of havy equipment and construction coompanies?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What US companies are compiled in the Top-250",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "How are the largest global firms picked for the Top-40 list?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What did ENR compile in 2004?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is a magazine for design companies?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do global firms report on for the construction industry?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is one thing that market segments publish?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does  a list of top 250 transportation markets published show?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "In what year did the largest companies in the US compile data on nine market segments?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are the three construction subsectors?",
+      "answer": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "There are other categories for what?",
+      "answer": "construction service firms (e.g., engineering, architecture) and construction managers",
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "What has a classification system for construction companies?",
+      "answer": "The Standard Industrial Classification and the newer North American Industry Classification System",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are construction managers?",
+      "answer": "firms engaged in managing construction projects without assuming direct financial responsibility for completion of the construction project",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are the three building subsectors?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "What Classification system is newer than the North American Industry Classification System?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who has a classification system for all North American companies?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who manages construction projects and assumes financial responsibility for completing them?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What systems classify trade contractors?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "How are the differences in engineering  recognized?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What three construction subsectors are firms managing construction projects divided into?",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What does heavy and civil engineering construction not do when managing projects?",
+      "answer": null,
+      "llm_prediction": "without a designated purchaser"
+    },
+    {
+      "question": "Who has a system for companies that have financial responsibility of completing a project?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the process of adding structure to real property or construction of buildings?",
+      "answer": "Building construction",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "The majority of building construction jobs are what?",
+      "answer": "small renovations",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who acts as laborer, paymaster, and design team for a renovation project?",
+      "answer": "the owner of the property",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are some examples of undesirable end results of a project?",
+      "answer": "structural collapse, cost overruns, and/or litigation",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do those in the field do to ensure a positive outcome?",
+      "answer": "make detailed plans and maintain careful oversight",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do new homes comprise the majority of?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are common outcomes of a project?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "What do people with experience not need to do?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does the forman act as besides paymaster?",
+      "answer": null,
+      "llm_prediction": "an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What do common elements often act as?",
+      "answer": null,
+      "llm_prediction": "an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What is the process of adding detailed plans and careful oversight?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are most detailed plans in construction?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What elements make up a room edition?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are some examples of legal considerations for an addition?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Residential construction practices, technologies, and resources must conform to what?",
+      "answer": "local building authority regulations and codes of practice",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What generally dictates the construction materials used?",
+      "answer": "Materials readily available in the area",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Residential construction can generate what is not carefully planned?",
+      "answer": "a lot of waste",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Site conditions, local regulations, economies of scale and the availability of skilled tradespeople all affect what?",
+      "answer": "Cost of construction",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What must local regulations conform to?",
+      "answer": null,
+      "llm_prediction": "financing"
+    },
+    {
+      "question": "What do custom designed homes dictate in the area?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are some conditions that make the availability of skilled tradespeople vary?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What effect do technologies and resources generate?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What needs to happen to prevent building authority regulations?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "New techniques of building construction are being researched, made possible by advances in what?",
+      "answer": "3D printing technology",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Building printing is making it possible to flexibly construct small commercial buildings and private habitations in what amount of time?",
+      "answer": "around 20 hours",
+      "llm_prediction": "typically takes place on location for a known client"
+    },
+    {
+      "question": "Dutch architect Janjaap Ruijssenaars's performative architecture 3D-printed building is scheduled to be built when?",
+      "answer": "Working versions of 3D-printing building technology are already printing",
+      "llm_prediction": "until the project is built and ready for use"
+    },
+    {
+      "question": "Working versions of 3D-printing building technology are already printing how much building material per hour?",
+      "answer": "2 metres (6 ft 7 in)",
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "What is Janjaap Ruijssenaar going to build in 2013?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What makes research in built-in plumbing possible?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is flexible construction similar to?",
+      "answer": null,
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "How long does it take to build electrical facilities?",
+      "answer": null,
+      "llm_prediction": "six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "As of 2014 how quickly is building material being printed?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Construction involves the translation of what?",
+      "answer": "designs into reality",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "A formal design team may be assembled to do what?",
+      "answer": "plan the physical proceedings, and to integrate those proceedings with the other parts",
+      "llm_prediction": "planning, [ citation needed ] design, and financing and continues until the project is built and ready for use"
+    },
+    {
+      "question": "The design team is most commonly employed by who?",
+      "answer": "the property owner",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "Who provides the bill of quantities?",
+      "answer": "a quantity surveyor",
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "The owner typically awards a contract to who?",
+      "answer": "the most cost efficient bidder",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "What does a quantity surveyor do with a design? ",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What group prepares the bid for work?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who does the owner award  a bill of quantities to?",
+      "answer": null,
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "What  are construction companies asked to plan?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "The modern trend in design is toward integration of what?",
+      "answer": "previously separated specialties",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Even in large firms, architects, interior designers, engineers, developers, construction managers, and general contractors were more likely to be what?",
+      "answer": "entirely separate companies",
+      "llm_prediction": "on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "In modern times, firms may offer themselves as what for a construction project?",
+      "answer": "\"one-stop shopping\"",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What kind of contract is given when the contractor is given a performance specification and must undertake the project from design to construction, while adhering to the performance specifications?",
+      "answer": "\"design build\" contract",
+      "llm_prediction": "what kind of contract"
+    },
+    {
+      "question": "What is the trend in skills among architects?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What types of employees does and interior design firm usually have?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do engineers offer themselves as for a project?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is a description of an associated company contract?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What groups were previously considered to be integrated?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "What project structures assist the owner in integration?",
+      "answer": "design-build, partnering and construction management",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "These project structures allow the owner to integrate the services of who throughout the design and construction?",
+      "answer": "architects, interior designers, engineers and constructors",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Many construction companies are now placing more emphasis on what?",
+      "answer": "establishing relationships with other necessary participants through the design-build process",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do partnering and construction management emphasize for the design-build process?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What helps the owner in design and construction?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who's services do construction services integrate through design and construction?",
+      "answer": null,
+      "llm_prediction": "construction services integrate through design and construction? [SEP] construction is the process of constructing a building or infrastructure. construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What helps the interior designers during integration?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Because of integration what are growing beyond services of architects?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What can construction projects suffer from?",
+      "answer": "preventable financial problems",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What is an underbid?",
+      "answer": "when builders ask for too little money to complete the project",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "When do cash flow problems exist?",
+      "answer": "when the present amount of funding cannot cover the current costs for labour and materials",
+      "llm_prediction": "until the project is built and ready for use"
+    },
+    {
+      "question": "What financial issue is notoriously prevalent in the construction field?",
+      "answer": "Fraud",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What can a contingency plan suffer from?",
+      "answer": null,
+      "llm_prediction": "financing"
+    },
+    {
+      "question": "What issue is common in the financial planning field?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one reason a labour problem happens and can't be funded?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What guarantees a solid cash flow is in place before a project to assure its completion?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What describes when a builder doesn't ask for adequate safeguards?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "Who are likely participants in creating an overall plan for the financial management of the building construction project?",
+      "answer": "Mortgage bankers, accountants, and cost engineers",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "The presence of who is highly likely even in small projects?",
+      "answer": "the mortgage banker",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who studies the expected monetary flow over the life of the project and to monitor the payouts throughout the process?",
+      "answer": "Accountants",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who applies expertise to relate the work and materials involved to a proper valuation?",
+      "answer": "Cost engineers and estimators",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Cost overruns with government projects have occurred when the contractor did what?",
+      "answer": "identified change orders or project changes that increased costs",
+      "llm_prediction": "planning, [ citation needed ] design, and financing and continues until the project is built and ready for use"
+    },
+    {
+      "question": "What do mortgage bankers study regarding the project?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is eliminated after the equity in the property?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Proper valuations happened in a government project because of what by the owner?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who's presence is likely in the initial bid?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is an obvious source for cost engineers?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What must a project adhere to?",
+      "answer": "zoning and building code requirements",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "Constructing a project that fails to adhere to codes does not benefit whom?",
+      "answer": "the owner",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "What is malum in se considerations?",
+      "answer": "the desire to prevent things that are indisputably bad",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are malum prohibitum considerations?",
+      "answer": "things that are a matter of custom or expectation",
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "Who may seek changes or exemptions in the law that governs the land where the building will be built?",
+      "answer": "An attorney",
+      "llm_prediction": "a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What must an attorney adhere to?",
+      "answer": null,
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "Who doesn't benefit when a project doesn't follow a residential district?",
+      "answer": null,
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "What do exemptions come from that prevent bad things?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is one way an attorney tries to get a business district changed?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does a custom or expectation do to affect a building before its built?",
+      "answer": null,
+      "llm_prediction": "does a custom or expectation do to affect a building before its built? [SEP] construction is the process of constructing a building or infrastructure. construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning, [ citation needed ] design, and financing and continues until the project is built and ready for use"
+    },
+    {
+      "question": "What is a complex net of contracts and other legal obligations?",
+      "answer": "A construction project",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the exchange of a set of obligations between two or more parties?",
+      "answer": "A contract",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does the time element in construction mean?",
+      "answer": "that a delay costs money, and in cases of bottlenecks, the delay can be extremely expensive",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Contracts must be designed to ensure what?",
+      "answer": "that each side is capable of performing the obligations set out",
+      "llm_prediction": "ready for use"
+    },
+    {
+      "question": "What leads to confusion and collapse?",
+      "answer": "poorly drafted contracts",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What is a net of projects and other legal exchanges?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the time element in construction between two or more parties?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "When there is a side that agrees to a lot for a little what happens to the cost?",
+      "answer": null,
+      "llm_prediction": "six to nine percent of the gross domestic product of developed countries. construction starts with planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "How must expectations be formed to keep costs down?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do bad time elements lead to?",
+      "answer": null,
+      "llm_prediction": "financing and continues until the project is built and ready for use"
+    },
+    {
+      "question": "A growing number of new forms of procurement involves what?",
+      "answer": "relationship contracting where the emphasis is on a co-operative relationship",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is PPP?",
+      "answer": "Public-Private Partnering",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is a PPP also known as?",
+      "answer": "private finance initiatives (PFIs)",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Focus on what is to ameliorate the many problems that arise from the often highly competitive and adversarial practices within the construction industry.",
+      "answer": "co-operation",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does the focus on forms of procurement try to prevent?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What relationship do finance initiatives involve?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who is the emphasis on when there is a private finance initiative?",
+      "answer": null,
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "What is an example of adversarial practices that involve partnering?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What forms of procurement happen within the construction industry?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "In the most common construction procurement, who acts as the project coordinator?",
+      "answer": "the architect or engineer",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Whose role is to design the works, prepare the specifications and produce construction drawings, administer the contract, tender the works, and manage the works from inception to completion",
+      "answer": "the project coordinator",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "There are direct contractual links between who?",
+      "answer": "the architect's client and the main contractor",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "Any subcontractor has a direct contractual relationship with who?",
+      "answer": "the main contractor",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "The procedure continues until what?",
+      "answer": "the building is ready to occupy.",
+      "llm_prediction": "ready for use"
+    },
+    {
+      "question": "What continues until the building is well established and recognized?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "With common construction procurement, what does the main contractor act as?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are three things the role of the main contractor is?",
+      "answer": null,
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "How are the client and subcontractor linked?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the relationship between the architect and the subcontractor?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who produces a list of requirements for a project, giving an overall view of the project's goals?",
+      "answer": "The owner",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who presents different ideas about how to accomplish goals?",
+      "answer": "D&B contractors",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who selects and hires the best ideas and appropriate contractors?",
+      "answer": "The owner",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who is usually working together?",
+      "answer": "a consortium of several contractors",
+      "llm_prediction": "a known client"
+    },
+    {
+      "question": "What happens as they build phase 1?",
+      "answer": "they design phase 2",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does the contractor produce to let everyone see the project's goals?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does the owner produce to show how to attain the goals?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Before they hire a contractor, what do the D&B contractors also do about a project?",
+      "answer": null,
+      "llm_prediction": "continues until the project is built and ready for use"
+    },
+    {
+      "question": "Who is usually hired for a design-bid-build contract?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What happens in a phase 2 contract?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "Who is required to verify and have existing utility lines marked?",
+      "answer": "contractors",
+      "llm_prediction": "a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "Having existing utility lines marked lessens the likelihood of what?",
+      "answer": "damage",
+      "llm_prediction": "ready for use"
+    },
+    {
+      "question": "What are some existing facilities?",
+      "answer": "electrical, water, sewage, phone, and cable facilities",
+      "llm_prediction": "planning, [ citation needed ] design, and financing"
+    },
+    {
+      "question": "Who inspects the building periodically to ensure that the construction adheres to the approved plans and the local building code?",
+      "answer": "the municipal building inspector",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is issued once construction is complete and a final inspection has been passed?",
+      "answer": "an occupancy permit",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What happens before the foundation is dug and when a final inspection is passed?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do building inspectors do about utility lines?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What does digging a foundation prevent damage to?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do contractors look to ensure during building construction?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What do contractors inspect during building construction?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the annual construction industry revenue in 2014?",
+      "answer": "$960 billion",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "How much revenue is private?",
+      "answer": "$680 billion",
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "How many firms were existing in 2005?",
+      "answer": "667,000 firms",
+      "llm_prediction": "six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "The average contractor hired how many employees?",
+      "answer": "fewer than 10 employees",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many women were employed in construction in 2011?",
+      "answer": "828,000",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What was the unemployment rate as of 2011?",
+      "answer": null,
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "According to 1 million contractors  what was the annual revenue in 2014?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "In 2005 how many employees were employed by the government?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "How many firms were there in 2011?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "In the US how many contractors were employed in construction as of 2011?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the average construction salary in the Middle East?",
+      "answer": "£42,090",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is the average construction salary in the UK?",
+      "answer": "£26,719",
+      "llm_prediction": "six to nine percent"
+    },
+    {
+      "question": "Where have some workers made more than $100,000?",
+      "answer": "US/Canada",
+      "llm_prediction": "on location for a known client. construction as an industry comprises six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "In 2010 what did the average earning for a professional show?",
+      "answer": null,
+      "llm_prediction": "six to nine percent of the gross domestic product of developed countries"
+    },
+    {
+      "question": "What do construction workers with 14 years of experience earn in the Middle East?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What to architects in the US/Canada earn yearly?",
+      "answer": null,
+      "llm_prediction": "financing"
+    },
+    {
+      "question": "What do job types and levels of experience show in the results?",
+      "answer": null,
+      "llm_prediction": "financing and continues until the project is built and ready for use"
+    },
+    {
+      "question": "What is not due to the average earning for a professional?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is one of the most dangerous occupations in the world?",
+      "answer": "Construction",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What is the most common cause of injury on site?",
+      "answer": "Falls",
+      "llm_prediction": "construction"
+    },
+    {
+      "question": "What are other major fatality causes?",
+      "answer": "electrocution, transportation accidents, and trench cave-ins",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What can curtail the risk of occupational injuries in the construction industry?",
+      "answer": "Proper safety equipment such as harnesses and guardrails and procedures such as securing ladders and inspecting scaffolding",
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What is one of the most common occupations in the world?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "In the EU in 2009, what was the fatal injury rate among construction workers?",
+      "answer": null,
+      "llm_prediction": "six to nine percent of the gross domestic product of developed countries. construction starts with planning"
+    },
+    {
+      "question": "What is one thing that can prevent non-fatal injuries?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What procedures can lower the injury rate among construction workers in the EU?",
+      "answer": null,
+      "llm_prediction": "planning"
+    },
+    {
+      "question": "What are other common causes of fatalities in dangerous occupations in the world?",
+      "answer": null,
+      "llm_prediction": "planning"
+    }
+  ]
+}

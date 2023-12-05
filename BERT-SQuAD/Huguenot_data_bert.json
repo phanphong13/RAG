@@ -1,0 +1,2126 @@
+{
+  "title": "Huguenot",
+  "context": "Huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of France, about one-eighth the number of French Catholics. As Huguenots gained influence and more openly displayed their faith, Catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the French crown. A series of religious conflicts followed, known as the Wars of Religion, fought intermittently from 1562 to 1598. The wars finally ended with the granting of the Edict of Nantes, which granted the Huguenots substantial religious, political and military autonomy.",
+  "qas": [
+    {
+      "question": "Where was France's Huguenot population largely centered?",
+      "answer": "the southern and central parts of France",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What was the proportion of Huguenots to Catholics at their peak?",
+      "answer": "about one-eighth the number",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "When were the Wars of Religion fought?",
+      "answer": "from 1562 to 1598",
+      "llm_prediction": "1562 to 1598"
+    },
+    {
+      "question": "What treaty ended the Wars of Religion?",
+      "answer": "the Edict of Nantes",
+      "llm_prediction": "edict of nantes"
+    },
+    {
+      "question": "What did this agreement do?",
+      "answer": "granted the Huguenots substantial religious, political and military autonomy",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "When did the Huguenot movement start?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Where were French Catholics concentrated in France?",
+      "answer": null,
+      "llm_prediction": "the southern and central parts of france"
+    },
+    {
+      "question": "Who initially started the Wars of Religion?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "How many Huguenots were there in 1598?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many French Catholics were there in 1598?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "The term Huguenot was originally meant to confer?",
+      "answer": "derision",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The term may be related to what politician from Switzerland?",
+      "answer": "Besançon Hugues",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What Swiss city was the center of the Calvinist movement?",
+      "answer": "Geneva",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What name was given to the plot to usurp power from the French House of Guise?",
+      "answer": "Amboise plot",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did this attempt take place?",
+      "answer": "1560",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Swiss politician Besancon Hugues born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What does Huisgenoten translate to in French?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which city was John Calvin born in?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "What religion was John Calvin?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did the House of Guise gain influence?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What helped spread Protestantism in France?",
+      "answer": "availability of the Bible in vernacular languages",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "When did the first French language bible appear?",
+      "answer": "Around 1294",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who translated this version of the scriptures?",
+      "answer": "Guyard de Moulin",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "An illustrated, paraphrased version of this appeared when?",
+      "answer": "1487",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Jean De Rely's illustrated French-language scriptures were first published in what city?",
+      "answer": "Paris",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "In what year did the Protestant Reformation arrive in France?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what country did the Protestant Reformation get its start?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what year did the Reformed church of France get established?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Where was the Roman Catholic Priest Guyard de Moulin from?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "Where was Jean de Rely from?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What were the towns granted to the Huguenots in 1598 collectively called?",
+      "answer": "villes de sûreté",
+      "llm_prediction": "towns granted to the huguenots"
+    },
+    {
+      "question": "What was the most important of these cities or towns?",
+      "answer": "Montpellier",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "France laid siege to Montpellier in what year?",
+      "answer": "1622",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What proclamation officially ended limited Huguenot autonomy?",
+      "answer": "Edict of Alès",
+      "llm_prediction": "edict of nantes"
+    },
+    {
+      "question": "When was this proclamation issued?",
+      "answer": "1629",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What was the result in Montpellier of the Edict of Ales in 1629?",
+      "answer": null,
+      "llm_prediction": "catholic hostility"
+    },
+    {
+      "question": "What does \"villes de surete\" translate to in English?",
+      "answer": null,
+      "llm_prediction": "openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "How many miles is Montpellier from Paris?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what year did Protestant rule in Montpellier effectively collapse?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was a royal citadel built by Catholics in Montpellier?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Where did the first Huguenot colonists settle?",
+      "answer": "at the Cape of Good Hope",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What modern city is located on the original Huguenot colony?",
+      "answer": "Cape Town",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was the first Huguenot to arrive at the Cape of Good Hope?",
+      "answer": "Maria de la Queillerie",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "What trading company helped settle Huguenots near the Cape?",
+      "answer": "Dutch East India Company",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "The number of new Huguenot colonists declined after what year?",
+      "answer": "1700",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Francois Villion born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What was Maria de la Quellerie's fathers name?",
+      "answer": null,
+      "llm_prediction": "maria de la quellerie"
+    },
+    {
+      "question": "How many ships with Hugeunot's aboard had sailed to Cape of Good Hope in 1671?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What city was Jan van Riebeeck from?",
+      "answer": null,
+      "llm_prediction": "jan van riebeeck from? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What did Jan van Riebeeck's father do for a living?",
+      "answer": null,
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "When did Huguenots colonize in North America?",
+      "answer": "1624",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who led the North American Huguenot colonial expedition?",
+      "answer": "Jessé de Forest",
+      "llm_prediction": "french catholics."
+    },
+    {
+      "question": "What was the name of the first Huguenot church in the New World?",
+      "answer": "L'Église française à la Nouvelle-Amsterdam",
+      "llm_prediction": "first huguenot church"
+    },
+    {
+      "question": "By what name is that first Huguenot church known today?",
+      "answer": "L'Eglise du Saint-Esprit",
+      "llm_prediction": "first huguenot"
+    },
+    {
+      "question": "The Huguenots were the first Europeans to live in what modern New York borough?",
+      "answer": "Brooklyn",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what part of the now US was New France?",
+      "answer": null,
+      "llm_prediction": "southern and central parts of france"
+    },
+    {
+      "question": "In what year did the Boschwick neighborhood officially change its name to Bushwick?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Where did Jesse de Forest sale from to arrive in North America?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "Besides Nova Scotia what was another British colony in North America?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did New Netherland split into New York and New Jersey?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What southern city did the Huguenots settle near?",
+      "answer": "Charleston, South Carolina",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "Where in South Carolina did Huguenot nobility settle?",
+      "answer": "the Charleston Orange district",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "When did the Huguenots secure the right to own land in the Baronies?",
+      "answer": "1697",
+      "llm_prediction": "1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion, fought intermittently from 1562 to 1598"
+    },
+    {
+      "question": "From whom did the Huguenots in South Carolina purchase land from?",
+      "answer": "the British Landgrave Edmund Bellinger",
+      "llm_prediction": "french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown"
+    },
+    {
+      "question": "Charleston settler Elie Prioleau was from what French town?",
+      "answer": "Pons",
+      "llm_prediction": "elie prioleau"
+    },
+    {
+      "question": "What French city was Alexander Pepin originally from?",
+      "answer": null,
+      "llm_prediction": "french city was alexander pepin originally from? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What English city was Edmund Bellinger from?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what year did Rev. Elie Prioleau become the pastor of the first Huguenot church in Charleston, South Carolina?",
+      "answer": null,
+      "llm_prediction": "1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics"
+    },
+    {
+      "question": "In what year did Edmund Bohun of the Humphrey de Bohun line of French royalty move to North America?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Charleston, North Carolina founded?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who was Louis XIV's main rival?",
+      "answer": "William III of Orange",
+      "llm_prediction": "louis xiv"
+    },
+    {
+      "question": "William would eventually gain what throne?",
+      "answer": "King of England",
+      "llm_prediction": "influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown"
+    },
+    {
+      "question": "What coalition rose up to oppose Louis XIV's France?",
+      "answer": "League of Augsburg",
+      "llm_prediction": "what coalition"
+    },
+    {
+      "question": "With what European country did the Huguenots feel kinship for emigration to?",
+      "answer": "Dutch Republic",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did France and the Dutch fight in the 17th century?",
+      "answer": "1672",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did William III become King of England?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What language did William III primarily speak?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What did most people in the League of Augsburg speak as their first language?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "In what year did King Louis XIV of France take the throne?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What proclamation abolished protestantism in France?",
+      "answer": "Edict of Fontainebleau",
+      "llm_prediction": "edict of nantes"
+    },
+    {
+      "question": "When was this edict declared?",
+      "answer": "1685",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Which French kind issued this declaration?",
+      "answer": "Louis XIV",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Huguenots fled France by the 1700s?",
+      "answer": "500,000",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what decade did Louis XIV start his reign?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many Huguenots were there in France in 1685?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Who had issued the Edict of Nantes?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "How many Huguenots were in France in the early 18th century?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What group specifically opposed the Huguenots?",
+      "answer": "Catholic Church in France",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What event was the worst example of Huguenot persecution?",
+      "answer": "St. Bartholomew's Day massacre",
+      "llm_prediction": "huguenot persecution? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "How many Huguenots were killed during this purge?",
+      "answer": "5,000 to 30,000",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How did the Huguenots defend themselves?",
+      "answer": "their own militia",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What was a non-religious reason for the massacre?",
+      "answer": "some of the Huguenots were nobles trying to establish separate centers of power in southern France",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "How many French Catholics died during the Bartholomew's Day massacre?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many French nobles were Huguenots?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many French Catholics died after the Huguenots retaliated?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots were there in Northern France during this time?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What were the civil wars caused by the Huguenots called?",
+      "answer": "Huguenot rebellions",
+      "llm_prediction": "civil wars"
+    },
+    {
+      "question": "Where did these uprisings take place?",
+      "answer": "southwestern France",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "When did these rebellions take place?",
+      "answer": "between 1621 and 1629",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What King and former Huguenot looked out for the welfare of the group?",
+      "answer": "Henry IV",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "Which successor to Henry resumed persecution of the Huguenots?",
+      "answer": "Louis XIII",
+      "llm_prediction": "henry"
+    },
+    {
+      "question": "When was the second Huguenot rebellion?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Louis XIII crowned?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What nationality was Louis XIII originally?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "What was one of the nationalities that the Huguenots established diplomatic contacts with?",
+      "answer": null,
+      "llm_prediction": "what was one of the nationalities that the huguenots established diplomatic contacts with? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What religion were most Italians during the 1620s?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many protestants live in France today?",
+      "answer": "one million",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What percentage of France's population is protestant today?",
+      "answer": "2%",
+      "llm_prediction": "one - eighth"
+    },
+    {
+      "question": "What northern province in France has a large protestant population?",
+      "answer": "Alsace",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the southern region where protestants are concentrated?",
+      "answer": "Cévennes",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What country currently has a group who call themselves Huguenots?",
+      "answer": "Australia",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "How many regard themselves as Huguenots today outside of France?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many people live in the Alsace region of France?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Where are there the fewest Protestants in France?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What percentage of people in Australia regard themselves as Huguenots?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": " How many Protestants are there in the Cevennes mountain region?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What city north of New York was settled by Huguenots?",
+      "answer": "New Rochelle",
+      "llm_prediction": "new york"
+    },
+    {
+      "question": "What town in upstate New York was settled by Huguenots?",
+      "answer": "New Paltz",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What Huguenot area is designated as a historical landmark?",
+      "answer": "\"Huguenot Street Historic District\" in New Paltz",
+      "llm_prediction": "what huguenot area is designated as a historical landmark? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith"
+    },
+    {
+      "question": "What is located within this district?",
+      "answer": "the oldest street in the United States of America",
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "In what borough is there a neighborhood called Huguenot?",
+      "answer": "Staten Island",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "How far is New Paltz from New York?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "How far is New Rochelle from New Paltz?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "How long is the south shore of Staten Island?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did most of the Huguenots decide to live?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "Where did the fewest Huguenots stay?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What country initially received the largest number of Huguenot refugees?",
+      "answer": "the Dutch Republic",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "How many refugees emigrated to the Dutch Republic?",
+      "answer": "an estimated total of 75,000 to 100,000 people",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What was the population of the Dutch Republic before this emigration?",
+      "answer": "ca. 2 million",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What two areas in the Republic were first to grant rights to the Huguenots?",
+      "answer": "Amsterdam and the area of West Frisia",
+      "llm_prediction": "the southern and central parts of france"
+    },
+    {
+      "question": "What declaration predicated the emigration of Huguenot refugees?",
+      "answer": "the revocation of the Edict of Nantes",
+      "llm_prediction": "edict of nantes"
+    },
+    {
+      "question": "How many Huguenots lived in West Frisia in 1705?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots lived in Amsterdam in 1705?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what year was the Edict of Nantes revoked?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many clergymen were there in the Dutch Republic before the influx of Huguenots?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what country is the Cevennes?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "Where was the Gate of King Hugo?",
+      "answer": "Tours",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "By what other name was the Gate known?",
+      "answer": "Huguon",
+      "llm_prediction": "wars of religion"
+    },
+    {
+      "question": "Who allegedly haunted the gate?",
+      "answer": "the ghost of le roi Huguet",
+      "llm_prediction": ""
+    },
+    {
+      "question": "By what name were the \"supposedly reformed\" known?",
+      "answer": "prétendus réformés",
+      "llm_prediction": "supposedly reformed \" known? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "What time of day did these reformed supposedly gather to engage in Huguenot rituals?",
+      "answer": "night",
+      "llm_prediction": "two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics"
+    },
+    {
+      "question": "In what year was Huguon built?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did King Hugo die?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did le roi Huguet die?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Reguier de la Plancha born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was The Cape Monthly first published?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Where did Huguenots and Walloons settle in England?",
+      "answer": "Canterbury",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What house was the site of a weaving school in Canterbury?",
+      "answer": "The Weavers",
+      "llm_prediction": "a weaving school"
+    },
+    {
+      "question": "What social construct did Huguenot refugees in Canterbury practice?",
+      "answer": "economic separation",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What other English towns were sites of Huguenot settlement?",
+      "answer": "Kent, particularly Sandwich, Faversham and Maidstone",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What is located on the site of The Weaving House currently?",
+      "answer": "a restaurant",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the The Weavers converted into a restaurant?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In which English town did the most Huguenots live?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "In which English town did the most Walloons live?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What was one occupation of the native English?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "Which English town had the largest refugee church?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What Irish cities had Huguenot mayors in the 1600s and 1700s?",
+      "answer": "Dublin, Cork, Youghal and Waterford",
+      "llm_prediction": ""
+    },
+    {
+      "question": "French Church Street is in what Irish town?",
+      "answer": "Cork City",
+      "llm_prediction": "french church street"
+    },
+    {
+      "question": "Where is D'Olier Street?",
+      "answer": "Dublin",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "D'Olier Street is named after whom?",
+      "answer": "a High Sheriff and one of the founders of the Bank of Ireland",
+      "llm_prediction": "d ' olier street is named after whom? [SEP] huguenot"
+    },
+    {
+      "question": "The French church in Portarlington was built when?",
+      "answer": "1696",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what Irish city can few signs remain to be seen of the Huguenots?",
+      "answer": null,
+      "llm_prediction": "what irish city can few signs remain to be seen of the huguenots? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "In what year was D'Olier Street built in Dublin?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was French Church Street built in Cork?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "The Huguenot District was named in Cork in what year?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What was D'olier's first name?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What is the common term for the loss of key members of French society to Huguenot emigration?",
+      "answer": "brain drain",
+      "llm_prediction": "the wars of religion"
+    },
+    {
+      "question": "What was the name of France's primary colony in the New World?",
+      "answer": "New France",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What persons were not allowed to settle in New France?",
+      "answer": "non-Catholics",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The French and Indian War was the New World aspect of what European conflict?",
+      "answer": "Seven Years' War",
+      "llm_prediction": "french and indian war"
+    },
+    {
+      "question": "When did the British defeat New France?",
+      "answer": "1759-60",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did the French and Indian War begin?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What people weren't allowed to settle in British colonies?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "In what year did the first Huguenots arrive in the British colonies?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who won the Seven Years' War?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What was Henry IV known as before taking the throne?",
+      "answer": "Henry of Navarre",
+      "llm_prediction": "henry iv"
+    },
+    {
+      "question": "When did Henry issue the Edict of Nantes?",
+      "answer": "1598",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What did the Edict do for Huguenots in France?",
+      "answer": "granted the Protestants equality with Catholics",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "The edict protected Catholics by discouraging what?",
+      "answer": "the founding of new Protestant churches",
+      "llm_prediction": "catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "What religion did Henry renounce upon ascending the throne?",
+      "answer": "Protestantism",
+      "llm_prediction": "catholic"
+    },
+    {
+      "question": "In what year was Henry of Navarre born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Henry of Navarre made Henry IV?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did the warfare in France between Protestants and Catholics get it start?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What did the Edict of Nantes encourage in Catholic-controlled areas of France?",
+      "answer": null,
+      "llm_prediction": "catholic hostility"
+    },
+    {
+      "question": "What was required of Huguenot children after the Edict was revoked?",
+      "answer": "education of children as Catholics",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "How did the revocation restrict Huguenot travel?",
+      "answer": "prohibited emigration",
+      "llm_prediction": "openly"
+    },
+    {
+      "question": "How many Huguenots emigrated to North America as colonists?",
+      "answer": "Four thousand",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What were Huguenots who stayed in France eventually known as?",
+      "answer": "\"new converts\"",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "Besides Britain and North America, where else did Huguenot refugees settle?",
+      "answer": "Holland, Prussia, and South Africa",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "How many French people fled to Prussia?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Besides England who else were particularly welcoming to those fleeing France?",
+      "answer": null,
+      "llm_prediction": "who else were particularly welcoming to those fleeing france? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What country was very well known for offering a Protestant education?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "How many of those fleeing France went on to become doctors?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots chose to stay in France?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What were the first two destinations of Huguenot emigres?",
+      "answer": "Switzerland and the Netherlands",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "When was the French colony in modern day Brazil founded?",
+      "answer": "1555",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What was the Brazilian French colony called?",
+      "answer": "France Antarctique",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "In what year was Fort Coligny destroyed?",
+      "answer": "1560",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "By what document did the Huguenots confess their faith to the Portuguese in Brazil?",
+      "answer": "the Guanabara Confession of Faith",
+      "llm_prediction": "edict of nantes"
+    },
+    {
+      "question": "How many Huguenots were part of the group that founded France Antarctique in 1555?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what year was Fort Coligny built?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many were in the first wave of Huguenot's fleeing to Switzerland?",
+      "answer": null,
+      "llm_prediction": "two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics"
+    },
+    {
+      "question": "How many Huguenot's did the Portuguese kill for being Protestant in Guanabara?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Families with French names in South Africa speak what language today?",
+      "answer": "Afrikaans",
+      "llm_prediction": "french"
+    },
+    {
+      "question": "What South African industry descended from Huguenot settlers?",
+      "answer": "wine industry",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where can one find the formerly Huguenot farms in South Africa?",
+      "answer": "Western Cape province",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What characteristic identifies the French ancestry of some South Africans?",
+      "answer": "surnames",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What prominent South African family had a vineyard in France?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What South African family had the largest vineyard in France?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What prominent South African family distilled brandy and were Huguenots?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What Huguenot French family had the largest brandy distilling business in South Africa?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What Revolutionary War midnight rider was a Huguenot descendant?",
+      "answer": "Paul Revere",
+      "llm_prediction": "midnight rider"
+    },
+    {
+      "question": "What signer of the Articles of Confederation was descended from Huguenots?",
+      "answer": "Henry Laurens",
+      "llm_prediction": "what signer of the articles of confederation was descended from huguenots? [SEP] huguenot"
+    },
+    {
+      "question": "In what city is the last Huguenot congregation in the US?",
+      "answer": "Charleston, South Carolina",
+      "llm_prediction": "what city is the last huguenot congregation in the us? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What church in Virginia is maintained by Huguenots as a historic shrine?",
+      "answer": "Manakin Episcopal Church",
+      "llm_prediction": "what church"
+    },
+    {
+      "question": "In what state is the largest Huguenot Society located?",
+      "answer": "Texas",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what year was the Articles of Confederation for South Carolina signed?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was the Huguenot Society for America founded?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What is the Huguenot church in Charleston, South Carolina named?",
+      "answer": null,
+      "llm_prediction": "huguenot church"
+    },
+    {
+      "question": "Who owned the Cuckoo Tavern?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what state was the Cuckoo Tavern?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "What industry was centered in Bedfordshire?",
+      "answer": "lace",
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "What style of lace is erroneously believed by some to have Huguenot influence?",
+      "answer": "'Bucks Point'",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What reference is there to Huguenot lacemakers in the 19th century?",
+      "answer": "twenty-five widows who settled in Dover",
+      "llm_prediction": "two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility"
+    },
+    {
+      "question": "When did Mechlin lace develop?",
+      "answer": "first half of the eighteenth century",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many immigrant lacemakers were there in Bedfordshire?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what era was \"Bucks Point\" lace making developed?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many Huguenots settled in Bedfordshire?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What was Dover the main British center of at the time?",
+      "answer": null,
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What were the two Huguenot neighborhoods created in Berlin?",
+      "answer": "Dorotheenstadt and Friedrichstadt",
+      "llm_prediction": "two huguenot neighborhoods"
+    },
+    {
+      "question": "What portion of Berlin's population spoke French by 1700?",
+      "answer": "one-fifth",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Why did Berlin Huguenots switch to German from French in their services?",
+      "answer": "in protest against the occupation of Prussia by Napoleon",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What years did this occupation take place?",
+      "answer": "1806-07",
+      "llm_prediction": "1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion, fought intermittently from 1562 to 1598"
+    },
+    {
+      "question": "What other Northern European cities had Huguenot congregations?",
+      "answer": "Fredericia (Denmark), Berlin, Stockholm, Hamburg, Frankfurt, Helsinki, and Emden",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Napoleon come to power in France?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What neighborhood did Huguenots establish in Stockholm?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "What neighborhood did Huguenots create in Hamburg?",
+      "answer": null,
+      "llm_prediction": "hamburg? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "When did Huguenots first arrive in Helsinki?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How much of Helsinki's population spoke French as of 1700?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which central European country had a Calvinist ruler?",
+      "answer": "Prussia",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "After Huguenots fled France, their last remaining bastion was where?",
+      "answer": "Cévennes",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What did the 18th century Huguenot group call themselves?",
+      "answer": "Camisards",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Against whom did the Camisards rise up to fight?",
+      "answer": "the Catholic Church in the region",
+      "llm_prediction": "camisards"
+    },
+    {
+      "question": "French troops put down the Camisard uprisings between what years?",
+      "answer": "1702 and 1709",
+      "llm_prediction": "1562 to 1598"
+    },
+    {
+      "question": "In what year did Frederick William of Prussia become the Great Elector?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many Huguenots fled to England?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many people did Prussia lose due to war?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "When did the fighting stop in Prussia?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did the Camisards organize as a regional group in southern France?",
+      "answer": null,
+      "llm_prediction": "1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion, fought intermittently from 1562 to 1598"
+    },
+    {
+      "question": "There was a 16th century Huguenot settlement near what modern day Florida city?",
+      "answer": "Jacksonville",
+      "llm_prediction": "modern day florida city"
+    },
+    {
+      "question": "Who was the leader who established the colony at Florida?",
+      "answer": "Jean Ribault",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What was the name of the Florida Huguenot colony?",
+      "answer": "Fort Caroline",
+      "llm_prediction": "florida huguenot colony"
+    },
+    {
+      "question": "Which army attacked and destroyed this colony?",
+      "answer": "Spanish",
+      "llm_prediction": "army"
+    },
+    {
+      "question": "When was the colony destroyed?",
+      "answer": "1565",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Jean Ribault born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many Huguenots did Pedro Menendez have murdered  at  St Augustine?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots were there in Fort Caroline?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "From where had the Norman Huguenots sailed in order to arrive at Fort Caroline?",
+      "answer": null,
+      "llm_prediction": "fort caroline? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What was the name of the first Huguenot outpost in South Carolina?",
+      "answer": "Charlesfort",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What present-day area was this settlement near?",
+      "answer": "Parris Island",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "Which Spanish officer established the settlement at St. Augustine?",
+      "answer": "Pedro Menéndez de Avilés",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "When did Ribault first establish a settlement in South Carolina?",
+      "answer": "1562",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What European event caused the Huguenots to abandon Charlesfort?",
+      "answer": "The Wars of Religion",
+      "llm_prediction": "the wars of religion"
+    },
+    {
+      "question": "In what year did the Wars of Religion start?",
+      "answer": null,
+      "llm_prediction": "1562 to 1598"
+    },
+    {
+      "question": "In what year was Rene Goulaine de Laudonniere born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Pedro Menendez de Aviles born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did Rene Goulaine de Laudonniere leave his position as a lieutenant for Jean Ribault?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did the French Huguenots abandon their first North American outpost?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what English colony were Huguenot settlers promised land?",
+      "answer": "Virginia",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what area of this British colony were Huguenot land grants?",
+      "answer": "Lower Norfolk County",
+      "llm_prediction": "the southern and central parts of france"
+    },
+    {
+      "question": "What town was actually granted to the Huguenots on arrival?",
+      "answer": "Manakin Town",
+      "llm_prediction": "what town"
+    },
+    {
+      "question": "How many settlers original settled in Manakintown?",
+      "answer": "390",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "When were these settlers naturalized as English colonists?",
+      "answer": "12 May 1705",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many French Huguenots eventually moved to Missouri from Manakin Town?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many French Huguenots in Manakin Town ended up moving to Kentucky?",
+      "answer": null,
+      "llm_prediction": "two"
+    },
+    {
+      "question": "How many French Huguenot residents of Manakin Town actually live outside the town on farms?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what century was the Huguenot Memorial Bridge built?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year had Manakin Town first been abandoned?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "When was the Dutch Revolt?",
+      "answer": "1568–1609",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who did the Dutch fight in the Dutch Revolt?",
+      "answer": "Spain",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What Dutch document condemned the Spanish Inquisition?",
+      "answer": "\"Apologie\"",
+      "llm_prediction": "spanish inquisition"
+    },
+    {
+      "question": "What leader led the Dutch Revolt and wrote Apologie?",
+      "answer": "William the Silent",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What was the Dutch leader's religious affiliation?",
+      "answer": "Calvinist",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "In what year did William the Silent issue his \"Apologie\"?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What nationality was Pierre L'Oyseleur?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what colony was the town of Delft?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "In what year did Huguenots begin to settle in South Africa?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who was William the Silent's father?",
+      "answer": null,
+      "llm_prediction": "william the silent"
+    },
+    {
+      "question": "What English law made that country more welcoming to Huguenots?",
+      "answer": "Foreign Protestants Naturalization Act",
+      "llm_prediction": "english law"
+    },
+    {
+      "question": "When was this naturalization act passed?",
+      "answer": "1708",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "About how many Walloons and Huguenots emigrated to England and Ireland in this era?",
+      "answer": "50,000",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was the famous Huguenot theologian and writer in London?",
+      "answer": "Andrew Lortie",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What Catholic Church liturgical belief did Lortie criticize openly?",
+      "answer": "the doctrine of transubstantiation",
+      "llm_prediction": "faith"
+    },
+    {
+      "question": "How many Huguenots fled to England after the Foreign Protestants Naturalization Act was passed?",
+      "answer": null,
+      "llm_prediction": "two"
+    },
+    {
+      "question": "How many Protestant Walloons fled to England before the Foreign Protestants Naturalization Act was passed?",
+      "answer": null,
+      "llm_prediction": "two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics"
+    },
+    {
+      "question": "Where was Andrew Lortie originally from?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "In what year was Andrew Lortie born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many Protestant Walloons and Huguenots continued on through England and ended up in Ireland?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What war in Ireland featured Huguenot regiments?",
+      "answer": "Williamite war",
+      "llm_prediction": "wars of religion"
+    },
+    {
+      "question": "Under which leader did the Huguenots fight in this conflict?",
+      "answer": "William of Orange",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "Which Irish cities had large Huguenot enclaves?",
+      "answer": "Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal",
+      "llm_prediction": "southern and central parts of france"
+    },
+    {
+      "question": "Huguenots in Killeshandra and County Cavan expanded what agricultural industry?",
+      "answer": "flax cultivation",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What textile industry did the Huguenots contribute to in Ireland?",
+      "answer": "Irish linen industry",
+      "llm_prediction": "textile"
+    },
+    {
+      "question": "In what era was the Williamite war in Ireland?",
+      "answer": null,
+      "llm_prediction": "williamite war"
+    },
+    {
+      "question": "Where was the biggest settlement of Huguenots in Ireland?",
+      "answer": null,
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "Where was the smallest settlement of Huguenots in Ireland among major cities?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the Huguenots who settled in Dublin contribute?",
+      "answer": null,
+      "llm_prediction": "about one - eighth the number of french catholics"
+    },
+    {
+      "question": "What did the Huguenots who settled in Cork contribute?",
+      "answer": null,
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "Which noble helped establish the Huguenot settlement in Saarland?",
+      "answer": "Prince Louis de Condé",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "Which Count did the Prince strike an arrangement with?",
+      "answer": "Count Ludwig von Nassau-Saarbrücken",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What industry did the nobleman establish with this settlement?",
+      "answer": "glass-making",
+      "llm_prediction": "wars of religion"
+    },
+    {
+      "question": "In what era did some members of this community emigrate to the US?",
+      "answer": "1890s",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was the agreement to allow the Saarland settlement reached?",
+      "answer": "1604",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Prince Louis de Conde born?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was Ludwig von Nassau-Saarbrucken made a Count?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who was Count Ludwig von Nassau-Saarbucken's father?",
+      "answer": null,
+      "llm_prediction": "count ludwig von nassau - saarbucken"
+    },
+    {
+      "question": "In what year did Huguenots first move to present-day Saarland?",
+      "answer": null,
+      "llm_prediction": "1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion, fought intermittently from 1562 to 1598"
+    },
+    {
+      "question": "What two member nations of the Holy Roman Empire received Huguenot refugees?",
+      "answer": "Electorate of Brandenburg and Electorate of the Palatinate",
+      "llm_prediction": "two member nations of the holy roman empire"
+    },
+    {
+      "question": "What general religious belief did the nations that received Huguenot refugees have in common?",
+      "answer": "Protestant",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What area in South Africa accepted Huguenot colonists?",
+      "answer": "Dutch Cape Colony",
+      "llm_prediction": "south africa accepted huguenot colonists? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What area in modern-day Canada received Huguenot immigrants?",
+      "answer": "Quebec",
+      "llm_prediction": "canada"
+    },
+    {
+      "question": "What made emigration to these colonies attractive?",
+      "answer": "they were accepted and allowed to worship freely",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What nation did the most Huguenots flee to from France?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "To what nation did the fewest Huguenots flee to from France?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "What religion predominated in the Holy Roman Empire?",
+      "answer": null,
+      "llm_prediction": "catholic hostility"
+    },
+    {
+      "question": "What was the biggest religion in Sweden?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the biggest religion in Quebec?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "From what French King did the Huguenot name possibly descend?",
+      "answer": "Hugues Capet",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What is the theory that this King's name is the origin of \"Huguenot\" called?",
+      "answer": "The \"Hugues hypothesis\"",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is one prominent advocate of this theory?",
+      "answer": "Janet Gray",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "According to the theory, what does the name \"Huguenot\" mean?",
+      "answer": "little Hugos, or those who want Hugo",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "Other theories of the word's origin can be generally classed as what?",
+      "answer": "double or triple non-French linguistic origins",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "Who was the first king of France to reign during the Reformation?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "What religion was Hugues Capet?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What religion was Janet Gray?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was Janet Gray married to?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was one French pro-reform Roman Catholic of the 15th century? ",
+      "answer": "Jacques Lefevre",
+      "llm_prediction": "who was one french pro - reform roman catholic of the 15th century? [SEP] huguenot"
+    },
+    {
+      "question": "Where did this pro-reform leader teach?",
+      "answer": "University of Paris",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "When did this leader publish a French language Bible?",
+      "answer": "1530",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What leader of the Swiss reformation was a student of Lefevre?",
+      "answer": "William Farel",
+      "llm_prediction": "lefevre"
+    },
+    {
+      "question": "What other European Protestant leader was educated at the University of Paris?",
+      "answer": "Jean Cauvin (John Calvin)",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "In what nation did the Gallicans get their start?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "What French city was Jacques Lefevre from?",
+      "answer": null,
+      "llm_prediction": "jacques lefevre"
+    },
+    {
+      "question": "In what year did John Calvin graduate from the University of Paris?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did John Calvin become a Protestant?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Who was one of the most prominent French Waldensians?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "When was the St. Bartholomew's Day Massacre?",
+      "answer": "24 August – 3 October 1572",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What group killed thousands of Huguenots?",
+      "answer": "Catholics",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "How many Huguenots were killed in Toulouse?",
+      "answer": "Nearly 3,000",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "When was amnesty granted to those responsible for the massacre?",
+      "answer": "1573",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "Reports document that how many Parisien Protestants were killed by September 17?",
+      "answer": "almost 25,000",
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots were killed in Bordeaux?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In which French city was about 2,000 Huguenots killed?",
+      "answer": null,
+      "llm_prediction": "french city"
+    },
+    {
+      "question": "How many Huguenots were killed altogether in France?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots were slaughtered in Orleans?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenots were slain in Toulouse?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Who became king in 1643?",
+      "answer": "Louis XIV",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "How did the new king react to the Huguenots?",
+      "answer": "acted increasingly aggressively to force the Huguenots to convert",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What was the king's first approach to the Huguenots?",
+      "answer": "he sent missionaries, backed by a fund to financially reward converts",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "What did the king do to regarding Huguenot education?",
+      "answer": "closed Huguenot schools",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "The practice of occupying and looting Huguenot homes was called?",
+      "answer": "dragonnades",
+      "llm_prediction": "catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown. a series of religious conflicts followed, known as the wars of religion"
+    },
+    {
+      "question": "In what year did Louis XIV die?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did Louis XIV start to bribe Protestants to convert to Catholicism?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did Louis XIV start to deny Protestants the ability to work in certain professions?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year was the Edict of Nantes issued?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year were the Dragonnades started?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What present day county is New Rochelle in?",
+      "answer": "Westchester",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "Where did the Huguenots land in New York originally?",
+      "answer": "\"Bauffet's Point\"",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "From whom did the Huguenots purchase the land where they settled?",
+      "answer": "John Pell, Lord of Pelham Manor",
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "What French City was New Rochelle named after?",
+      "answer": "La Rochelle",
+      "llm_prediction": "new rochelle"
+    },
+    {
+      "question": "What is the name of the third, permanent Huguenot church in New Rochelle?",
+      "answer": "Trinity-St. Paul's Episcopal Church",
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "Who named \"Bauffet's Point\" at Davenports Neck?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much land did the Lord of Pelham Manor, John Pell. own in total in North America?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "Whose decision was it to name the new town New Rochelle?",
+      "answer": null,
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "How far is it from Davenports Neck to New Rochelle?",
+      "answer": null,
+      "llm_prediction": "two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith"
+    },
+    {
+      "question": "What was the name of the first wooden church built in New Rochelle?",
+      "answer": null,
+      "llm_prediction": "the first wooden church"
+    },
+    {
+      "question": "How did Huguenots evolve their religious beliefs in the New World?",
+      "answer": "affiliated with other Protestant denominations",
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "How were Huguenot settlers assimilated into North American society at large?",
+      "answer": "married outside their immediate French communities",
+      "llm_prediction": "assimilated into north american society at large? [SEP] huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of france, about one - eighth the number of french catholics. as huguenots gained influence and more openly displayed their faith, catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the french crown"
+    },
+    {
+      "question": "Who was one prominent Huguenot-descended arms manufacturer?",
+      "answer": "E.I. du Pont",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "For how long did Huguenots continue to use French names?",
+      "answer": "into the nineteenth century",
+      "llm_prediction": "two million by 1562"
+    },
+    {
+      "question": "What was the name of du Pont's gunpowder operation?",
+      "answer": "Eleutherian gunpowder mills",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what century was Eleutherian gunpowder mills founded?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What were Protestant's contributions to the United State economic life?",
+      "answer": null,
+      "llm_prediction": "openly"
+    },
+    {
+      "question": "What nationality was Lavoisier?",
+      "answer": null,
+      "llm_prediction": "france"
+    },
+    {
+      "question": "How did Huguenots hold onto some of their religious beliefs over the years?",
+      "answer": null,
+      "llm_prediction": "openly displayed their faith"
+    },
+    {
+      "question": "Who was a prominent Huguenot in Holland?",
+      "answer": "Pierre Bayle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did he begin teaching?",
+      "answer": "Rotterdam",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What books did Bayle publish?",
+      "answer": "Historical and Critical Dictionary",
+      "llm_prediction": "the wars of religion"
+    },
+    {
+      "question": "These books became a foundational text for what library?",
+      "answer": "US Library of Congress",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is the patron saint of the Huguenots?",
+      "answer": "Saint Nicolas",
+      "llm_prediction": "huguenot"
+    },
+    {
+      "question": "How many months did it take Pierre Bayle to write his multi-volume series Historical and Critical Dictionary?",
+      "answer": null,
+      "llm_prediction": "two"
+    },
+    {
+      "question": "How many French family names are commonly used in the Netherlands?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "Is Saint Nicolas or Sint Nicolaas celebrated earlier in the year in the Netherlands?",
+      "answer": null,
+      "llm_prediction": "one - eighth the number of french catholics."
+    },
+    {
+      "question": "How many volumes is Historical and Critical Dictionary?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "What early Huguenot Church was established in England?",
+      "answer": "The French Protestant Church of London",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the charter for this church signed?",
+      "answer": "1550",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What is the present-day location of this church?",
+      "answer": "Soho Square",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What London neighborhood attracted Huguenot refugees?",
+      "answer": "Shoreditch",
+      "llm_prediction": "france"
+    },
+    {
+      "question": "When was the Old Truman Brewery founded?",
+      "answer": "1724",
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did Huguenot refugees first start to move to London?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "In what year did the Black Eagle Brewery change its name to Old Truman Brewery?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What Huguenot church was established in Norwich?",
+      "answer": null,
+      "llm_prediction": "huguenot church"
+    },
+    {
+      "question": "How much of London's populace became immigrants?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "In what year did Huguenot refugees first settle in Norwich?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "What protestant religions made Northern European counties safe for Huguenot immigration?",
+      "answer": "Lutheran and Reformed",
+      "llm_prediction": "protestant"
+    },
+    {
+      "question": "Which areas of Northern Europe practiced those religions?",
+      "answer": "Germany and Scandinavia",
+      "llm_prediction": "mainly in the southern and central parts of france"
+    },
+    {
+      "question": "What proclamation gave Huguenots special privileges in Brandenburg?",
+      "answer": "Edict of Potsdam",
+      "llm_prediction": "edict of nantes"
+    },
+    {
+      "question": "What dual titles did Frederick William hold?",
+      "answer": "Elector of Brandenburg and Duke of Prussia",
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "What military impact did Huguenot immigration have on Frederick's army?",
+      "answer": "Huguenots furnished two new regiments",
+      "llm_prediction": "catholic hostility grew"
+    },
+    {
+      "question": "In what year was the AltpreuBissche Infantry Regiment No. 13 established?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was Frederick William named as the Elector of Brandenburg?",
+      "answer": null,
+      "llm_prediction": "1562"
+    },
+    {
+      "question": "How many Huguenot settled in the Baden territory of Germany?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many Huguenot settled in the Lower Saxony territory of Germany?",
+      "answer": null,
+      "llm_prediction": "two million"
+    },
+    {
+      "question": "How many men were in the AltpreusBische Infantry No. 15?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What German ruler invited Huguenot immigration?",
+      "answer": "Frederick William",
+      "llm_prediction": "one - eighth the number of french catholics"
+    },
+    {
+      "question": "What German poet was descended from Huguenots?",
+      "answer": "Theodor Fontane",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What German general and fighter pilot was of Huguenot ancestry?",
+      "answer": "Adolf Galland",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "Who was the final Prime Minister of East Germany?",
+      "answer": "Lothar de Maizière",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Thomas de Maiziere serves what role in the German cabinet?",
+      "answer": "Federal Minister of the Interior",
+      "llm_prediction": "openly"
+    },
+    {
+      "question": "Who is one of Frederick Williams' descendants?",
+      "answer": null,
+      "llm_prediction": "who is one of frederick williams"
+    },
+    {
+      "question": "Who is a descendant of General Hermann von Francois?",
+      "answer": null,
+      "llm_prediction": "who is a descendant of general hermann von francois"
+    },
+    {
+      "question": "Which side won the First World War Battle of Tannenberg?",
+      "answer": null,
+      "llm_prediction": "openly"
+    },
+    {
+      "question": "What ethnicity was Frederick William, Elector of Brandenburg?",
+      "answer": null,
+      "llm_prediction": "french catholics"
+    },
+    {
+      "question": "Who was one of Lothar de Maiziere's predecessors?",
+      "answer": null,
+      "llm_prediction": "lothar de maiziere"
+    }
+  ]
+}

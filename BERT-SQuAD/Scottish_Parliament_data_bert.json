@@ -1,0 +1,1791 @@
+{
+  "title": "Scottish_Parliament",
+  "context": "Following a referendum in 1997, in which the Scottish electorate voted for devolution, the current Parliament was convened by the Scotland Act 1998, which sets out its powers as a devolved legislature. The Act delineates the legislative competence of the Parliament – the areas in which it can make laws – by explicitly specifying powers that are \"reserved\" to the Parliament of the United Kingdom. The Scottish Parliament has the power to legislate in all areas that are not explicitly reserved to Westminster. The British Parliament retains the ability to amend the terms of reference of the Scottish Parliament, and can extend or reduce the areas in which it can make laws. The first meeting of the new Parliament took place on 12 May 1999.",
+  "qas": [
+    {
+      "question": "When was the current parliament of Scotland convened?",
+      "answer": "Following a referendum in 1997",
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "What act set out the Parliament's powers as a devolved legislature?",
+      "answer": "Scotland Act 1998",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The legislative competence of the Parliament species what areas?",
+      "answer": "in which it can make laws",
+      "llm_prediction": "the areas in which it can make laws"
+    },
+    {
+      "question": "To what body are certain powers explicitly specified as being reserved for?",
+      "answer": "Parliament of the United Kingdom",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The Scottish Parliament may legislate as it pleases as long as the powers aren't already reserved by where?",
+      "answer": "Westminster",
+      "llm_prediction": "as long as the powers aren ' t already reserved by where? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What act convened the old parliament of Scotland?",
+      "answer": null,
+      "llm_prediction": "the scotland act 1998"
+    },
+    {
+      "question": "When was the old parliament of Scotland convened?",
+      "answer": null,
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "What parliament has no power to legislate in any areas?",
+      "answer": null,
+      "llm_prediction": "the scottish parliament"
+    },
+    {
+      "question": "Which parliament has no ability to amend the terms of reference of the Scottish Parliament?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "The meeting of the what took place on 12 March 1999?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What remained an important issue in Scottish national identity for many years?",
+      "answer": "lack of a Parliament of Scotland",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "How many hundred of years was Scotland directly governed by the parliament of Great Britain?",
+      "answer": "three hundred",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Why were the initial suggestions for a devolved parliament before 1914 shelved?",
+      "answer": "First World War.",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "When was there a sharp rise in nationalism in Scotland?",
+      "answer": "the late 1960s",
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "What did Kllbrandon's report in 1973 recommend establishing?",
+      "answer": "directly elected Scottish Assembly",
+      "llm_prediction": "what did kllbrandon ' s report in 1973 recommend establishing? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What was not considered an important element in Scottish national identity?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "The Second World War caused what to be shelved?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "A decline in Scottish nationalism during the 1960s fueled what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The only objective of the Kilbrandon Commission was what?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Harold Wilson published a report in what year?",
+      "answer": null,
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "Which sea was oil discovered in?",
+      "answer": "North",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What campaigh did the Scottish National Party (SNP) run?",
+      "answer": "\"It's Scotland's oil\"",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What did the SNP publicly opine about the oil revenues?",
+      "answer": "not benefitting Scotland as much as they should",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "When did Prime Minister Wilson commit to some form of devolved legislature?",
+      "answer": "1974",
+      "llm_prediction": "1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "When was the final legislative proposals for a Scottish Assembly passed?",
+      "answer": "1978",
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "Discovery of gas in the North Sea resulted in what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "President Wilson committed his government to what in 1974?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Final proposals for a Scottish Assembly were passed by the United States Parliament in what year?",
+      "answer": null,
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "The \"It's Scotland's oil\" campaign resulted from the discovery of what in the South Sea?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was an elected assembly to be set up, under the terms of the Scotland Act of 1978?",
+      "answer": "Edinburgh",
+      "llm_prediction": "where was an elected assembly to be set up, under the terms of the scotland act of 1978? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How many of the Scottish electorate would need to for it on the referendum?",
+      "answer": "majority",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How did trying to establish a devolved Scottish Assembly go in 1979?",
+      "answer": "failed",
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What percentage of the vote for a Scottish Assembly in favor of it?",
+      "answer": "51.6%",
+      "llm_prediction": "what percentage of the vote for a scottish assembly in favor of it? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What percentage of Scotland's voting population failed to actually vote?",
+      "answer": "32.9%",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "51.6% was not in favor of what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Under the Scotland Act of 1988, what would be set up in Edinburgh?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The referendum to establish a devolved Scottish Assembly succeeded in what year?",
+      "answer": null,
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "What percentage of the non-eligible voting population did not vote?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In the range between 1980 and 1990, what did demand for grow?",
+      "answer": "a Scottish Parliament",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Whose control of the UK's government helped fuel a desire for a Scottish Parliament?",
+      "answer": "the Conservative Party",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the Scottish Constitutional Convention held?",
+      "answer": "1989",
+      "llm_prediction": "12 may 1999"
+    },
+    {
+      "question": "What provided much of the basis for the structure of the Parliament in 1995?",
+      "answer": "blueprint",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Demand for a Scottish Parliament declined in what year?",
+      "answer": null,
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "The 1989 Scottish Constitutional Convention provided very little basis for the structure of what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The Campaign for Constitutional Convention was initiated as what type of group?",
+      "answer": null,
+      "llm_prediction": "constitutional convention was initiated as what type of group? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament"
+    },
+    {
+      "question": "Who published its blueprint for devotion in 1995?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where has the official home of the Scottish Parliament been since 2004?",
+      "answer": "Scottish Parliament Building",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Who designed the Scottish Parliament building?",
+      "answer": "Enric Miralles",
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "What nationality is the architect Enric Miralles?",
+      "answer": "Spanish",
+      "llm_prediction": "british parliament"
+    },
+    {
+      "question": "What shape are some of the buildings in the Parliament complex?",
+      "answer": "leaf-shaped",
+      "llm_prediction": "what shape are some of the buildings in the parliament complex? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Who opened the new Parliament building on October 9, 2004?",
+      "answer": "Queen Elizabeth II",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Since 1904, the home of Scottish Parliament has been where?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What complex features flower-shaped buildings?",
+      "answer": null,
+      "llm_prediction": "flower - shaped buildings"
+    },
+    {
+      "question": "The down turned boat skylights are located in what lobby?",
+      "answer": null,
+      "llm_prediction": "the down turned boat skylights"
+    },
+    {
+      "question": "Queen Elizabeth I opened the new Scottish Parliament Building on what date?",
+      "answer": null,
+      "llm_prediction": "12 may 1999"
+    },
+    {
+      "question": "French architect Enric Miralles helped design what building?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Where was Parliament's temporary home whilst the permanent building was being built?",
+      "answer": "General Assembly Hall of the Church of Scotland",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Where were interviews held while the parliament was in its temporary building?",
+      "answer": "courtyard",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the building vacated twice to allow for?",
+      "answer": "meeting of the Church's General Assembly",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was Parliament temporarily relocated to in May of 2000?",
+      "answer": "former Strathclyde Regional Council debating chamber in Glasgow",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "In May 2002, where would you go to address the Parliament?",
+      "answer": "University of Aberdeen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Parliament's temporary home was on the Royal Mills in what area?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The Assembly Center was used to take what kind of photographs?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Which building was vacated three times to allow for the meeting of the Church's General Assembly?",
+      "answer": null,
+      "llm_prediction": "which building was vacated three times to allow for the meeting of the church ' s general assembly? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "In May 2010, Parliament was relocated where?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who did the Parliament rent additional buildings from?",
+      "answer": "City of Edinburgh Council",
+      "llm_prediction": "the scottish electorate"
+    },
+    {
+      "question": "What  former administrative building was used for the MSP's offices?",
+      "answer": "Lothian Regional Council",
+      "llm_prediction": "what former administrative building was used for the msp ' s offices? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What happened to the building on George IV Bridge when the Parliament was done with it?",
+      "answer": "demolished",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What do the former Midlothian County Buildings face?",
+      "answer": "Parliament Square, High Street and George IV Bridge in Edinburgh",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Which hall was used as Parliament's principle committee room?",
+      "answer": "main",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The former administrative building of the Lothian Regional Council on George V Bridge was used for what?",
+      "answer": null,
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "What building was demolished in 2014?",
+      "answer": null,
+      "llm_prediction": "what building"
+    },
+    {
+      "question": "What was originally built as headquarters of the pre-1875 Midlothian County Council?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who moved to Hollywood in 2004?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?",
+      "answer": "one MSP",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who is currently speaker of the Scottish Parliament?",
+      "answer": "Tricia Marwick",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "What type of ballot is used to elect the Presiding Officer and deputies of the Parliament?",
+      "answer": "secret",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How many MSPs are there?",
+      "answer": "129",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is responsible for operating the electronic voting equipment and chamber clocks?",
+      "answer": "A vote clerk",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Parliament elects two MSPs to serve as what officers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who are elected using an open ballot?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament has the power to legislate in all areas that are not explicitly reserved to westminster. the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What type of clerk sits behind the Presiding Officer?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The former speaker of Parliament is whom?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "The two former deputies of Parliament are whom?",
+      "answer": null,
+      "llm_prediction": "two former deputies of parliament"
+    },
+    {
+      "question": "Who is responsible for ensuring the Parliament works smoothly?",
+      "answer": "Presiding Officer",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who sets the work agenda and allocates time in the chamber?",
+      "answer": "the Parliamentary Bureau",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many seats must a political party have to be represented on the Parliamentary Bureau?",
+      "answer": "five",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who represents the Scottish Parliament at home and abroad in an official capacity?",
+      "answer": "The Presiding Officer",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which group sets the time agenda?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "Who is not responsible for ensuring Parliament runs smoothly?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who disagrees with the timetable of business in the chamber?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Which officer represents the Scottish Police Force at home and abroad?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the seating arrangement of the debating chamber?",
+      "answer": "hemicycle",
+      "llm_prediction": "the seating arrangement"
+    },
+    {
+      "question": "Why is the seating of the debating chamber arranged as it is?",
+      "answer": "encourage consensus amongst elected members",
+      "llm_prediction": "explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How many seats are in the debating chamber?",
+      "answer": "131",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many members in the seats of the Scottish Parliament are members of the Scottish Government?",
+      "answer": "2",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What can the non-elected members from the Scottish Government not do?",
+      "answer": "vote",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which parliament has seating arranged in a straight line?",
+      "answer": null,
+      "llm_prediction": "british parliament"
+    },
+    {
+      "question": "There re 231 seats in which chamber?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "The Solicitor Official of Scotland has a seat in which chamber?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "The Second Minister, Scottish cabinet ministers and whom sit in the front row in the debating chamber?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The smallest party in Parliament sits in the middle of what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What is the parliamentary mace made of?",
+      "answer": "silver",
+      "llm_prediction": "parliamentary mace"
+    },
+    {
+      "question": "Where does the gold in the parliamentary mace come from?",
+      "answer": "Scottish rivers",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What words are inscribed on the mace of parliament?",
+      "answer": "Wisdom, Compassion, Justice and Integrity",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who presented the mac to the Scottish Parliament when it was initially opened?",
+      "answer": "the Queen",
+      "llm_prediction": "the scottish parliament"
+    },
+    {
+      "question": "What is the mace displayed in?",
+      "answer": "a glass case suspended from the lid",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What is inlaid with gold panned from French rivers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The words There shall be a Scottish Parliament is inscribed around the foot of the what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What was presented to the Scottish Parliament by the Queen in 1989?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What symbolizes that a partial meeting of Parliament is taking place?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The words Wisdom, Compassion, Justice, and Integration are inscribed on what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Which month is the first in the year Parliament takes a two week vacation?",
+      "answer": "April",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Where do plenary meetings take place?",
+      "answer": "debating chamber",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Who are debates and meetings open to?",
+      "answer": "the public",
+      "llm_prediction": "the scottish electorate"
+    },
+    {
+      "question": "How much does it cost to gain entry to a parliament meeting?",
+      "answer": "free",
+      "llm_prediction": "how much does it cost to gain entry to a parliament meeting? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What contains a nearly verbatim of parliamentary debates?",
+      "answer": "the Official Report",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What typically sits Tuesdays, Wednesdays, and Fridays?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Parliament typically sits from February to late what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Plenary meetings in the debating chamber usually take place on Tuesday afternoons from 1pm to what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What meetings are closed to the public?",
+      "answer": null,
+      "llm_prediction": "meetings are closed to the public? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What debates are closed to the public?",
+      "answer": null,
+      "llm_prediction": "debates are closed to the public? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What day of the week does the Time for Reflection take place?",
+      "answer": "Wednesdays",
+      "llm_prediction": "day of the week"
+    },
+    {
+      "question": "How long might a speaker address the members during the Time of Reflection?",
+      "answer": "up to four minutes",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Because speakers are drawn from across Scotland, what do the represent the balance of?",
+      "answer": "religious beliefs",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Who decides who gets to address the members of Parliament to share their thoughts on issues of faith?",
+      "answer": "Presiding Officer",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can faith groups ask the Presiding Officer to do for them?",
+      "answer": "nominate speakers",
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The second item of business on Wednesdays is usually what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name for the period when members address speakers for up to four minutes?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The first item of business in the House of Lords is usually what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Invitations to address the House of Commons are determined by whom?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who decides who gets to speak in the chamber debates?",
+      "answer": "The Presiding Officer",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is also decided by the Presiding Officer?",
+      "answer": "amount of time for which they are allowed to speak",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Presiding Officer try to achieve a balance of between speakers?",
+      "answer": "different viewpoints",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What members typically open debates?",
+      "answer": "ministers or party leaders",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament has the power to legislate in all areas that are not explicitly reserved to westminster. the british parliament"
+    },
+    {
+      "question": "What language other than English has the Scottish Parliament had meetings in?",
+      "answer": "Gaelic",
+      "llm_prediction": "english"
+    },
+    {
+      "question": "The Presiding Officer tries the achieve a balance between similar viewpoints and whom?",
+      "answer": null,
+      "llm_prediction": "the presiding officer tries the achieve a balance between similar viewpoints and whom? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who typically closes debates?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "Closing speakers are given between 5 and how many minutes?",
+      "answer": null,
+      "llm_prediction": "between 5"
+    },
+    {
+      "question": "Succeeding speakers are usually allotted more what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws"
+    },
+    {
+      "question": "The Presiding Officer can increase speaking time if what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What time do the MSPs normally decide on the motions and amendments from that day?",
+      "answer": "5 pm",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What is heralded by the sounding of the division bell?",
+      "answer": "\"Decision Time\"",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What do MSPs who are not in the chamber when the division bell rings return to do?",
+      "answer": "vote",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How do members vote when there is a division?",
+      "answer": "electronic consoles on their desks",
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How long does it take to know the outcome of a division?",
+      "answer": "seconds",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "At 5 am, each sitting day, the MSPs decide on what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is heralded by the sounding of the deciding bell?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "When does the Presiding Officer put motions on the questions?",
+      "answer": null,
+      "llm_prediction": "1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "If there is no dissent, the Presiding Officer says what?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "The outcome of what is known in hours?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can often be predicted beforehand?",
+      "answer": "votes",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Who normally instructs members how to vote?",
+      "answer": "political parties",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who has the task of ensuring party members vote according to the party line?",
+      "answer": "whips",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What happens if a member doesn't vote the party line?",
+      "answer": "deselected as official party candidates during future elections",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What type of issues are members typically allowed to vote as they please?",
+      "answer": "moral",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can not be mostly predicted beforehand?",
+      "answer": null,
+      "llm_prediction": "what can not be mostly predicted beforehand? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Who has the task of ensuring that party members don't vote according to party line?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The independence of which Parliament tends to be high?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Which type of rebellions are common in Scottish Parliament?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When is the Members Debate held?",
+      "answer": "Immediately after Decision Time",
+      "llm_prediction": "12 may 1999"
+    },
+    {
+      "question": "How long does the Members Debate last?",
+      "answer": "45 minutes",
+      "llm_prediction": "the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Why are debates on proposed motions by an MSP conducted?",
+      "answer": "not a Scottish minister",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who contributes to Members Business in addition to the proposer?",
+      "answer": "other members",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the minister who was the catalyst of the Members Business do by speaking after everyone else?",
+      "answer": "winds up",
+      "llm_prediction": ""
+    },
+    {
+      "question": "A \"Members Debate\" is usually held immediately before what?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Other member do not normally contribute to what?",
+      "answer": null,
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "What debate lasts for 55 minutes?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What debate is a debate on a motion proposed by an MSP who is not a Scottish minister?",
+      "answer": null,
+      "llm_prediction": "what debate is a debate on a motion proposed by an msp who is not a scottish minister? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Where is much of the work of the Scottish Parliament done?",
+      "answer": "committee",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What are committees in the Scottish Parliament compared to other systems?",
+      "answer": "stronger",
+      "llm_prediction": "committees"
+    },
+    {
+      "question": "What is one avenue being compensated for by having committees serve such a large role?",
+      "answer": "no revising chamber",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Taking evidence from witnesses is one of committees' what?",
+      "answer": "principal role",
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "Where might committees meet outside of Parliament?",
+      "answer": "other locations throughout Scotland",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Very little of the work done by Scottish Parliament is done where?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The committees in Scottish Parliament are weaker then in other systems why?",
+      "answer": null,
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Which group has a primary role scrutinizing witnesses?",
+      "answer": null,
+      "llm_prediction": "british parliament"
+    },
+    {
+      "question": "Which group can not meet at other locations in Scotland?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who are committees comprised of?",
+      "answer": "a small number of MSPs",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do the membership of the committees reflect?",
+      "answer": "balance of parties",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Different committees have what set out in different ways?",
+      "answer": "functions",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of committee is set down under the SP's standing orders?",
+      "answer": "Mandatory",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What session is the Scottish Parliament in?",
+      "answer": "fourth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What compromises a large number of MSPs?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What group's membership does not reflect the balance of parties in Parliament?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Optional Committees are committees which are set down under what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Mandatory Committees exists in the fifth session of what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "When are subject committees established?",
+      "answer": "beginning of each parliamentary session",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many ministries of the Scottish government does a committee typically correspond to?",
+      "answer": "one",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Economy, Energy and Tourism is one of the what?",
+      "answer": "current Subject Committees",
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "What is the Scottish Parliament currently in the fourth of?",
+      "answer": "Session",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are established at the end of each parliamentary session?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which committees do not reflect the balance of parties across Parliament?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of committees exist in the fifth Session?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What committee corresponds with one or more departments in the Spanish Government?",
+      "answer": null,
+      "llm_prediction": "what committee corresponds with one or more departments in the spanish government? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What is set up to scrutinize private bills submitted by party outsiders?",
+      "answer": "type of committee",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What topic do private bills typically have?",
+      "answer": "large-scale development projects",
+      "llm_prediction": "legislative competence of the parliament – the areas in which it can make laws"
+    },
+    {
+      "question": "Who decides how land or property is allowed to be used?",
+      "answer": "Scottish Government.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What kind of committee considered legislation on the development of the Edinburgh Tram Network?",
+      "answer": "Private Bill",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What group is set up to scrutinize public bills submitted to the Scottish Parliament?",
+      "answer": null,
+      "llm_prediction": "what group is set up to scrutinize public bills submitted to the scottish parliament? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Public bills normally refer to large-scale what?",
+      "answer": null,
+      "llm_prediction": "public bills"
+    },
+    {
+      "question": "Public Bill Committees have been set up to do what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What group is set up to scrutinize private bills submitted to the Spanish Parliament?",
+      "answer": null,
+      "llm_prediction": "what group is set up to scrutinize private bills submitted to the spanish parliament? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What act sets forth the functions of the Scottish Parliament?",
+      "answer": "Scotland Act 1998",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Who gave her royal assent to the Scotland Act of 1998?",
+      "answer": "Queen Elizabeth II",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Scotland Act of 2012 extend?",
+      "answer": "devolved competencies",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What body constitutes the supreme legislature of Scotland?",
+      "answer": "Parliament of the United Kingdom at Westminster",
+      "llm_prediction": "the scottish parliament"
+    },
+    {
+      "question": "Who has the role of holding the Scottish Government to account?",
+      "answer": "Scottish Parliament",
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "The Scotland Act 2002 extends the devolved what?",
+      "answer": null,
+      "llm_prediction": "legislature"
+    },
+    {
+      "question": "Who passed the Scotland Act of 1988?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Who granted royal assent to the Scotland Act of 1988?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "The Scotland Act enabled the Spanish Parliament to pass what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Who has no power to pass laws?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "Where are reserved matters stated in the Scotland Act?",
+      "answer": "Schedule 5",
+      "llm_prediction": ""
+    },
+    {
+      "question": "If a matter is not specifically reserved, who is it devolved to?",
+      "answer": "Scottish Parliament",
+      "llm_prediction": "the parliament of the united kingdom"
+    },
+    {
+      "question": "Why do police and fire services fall under the purview of the Scottish Parliament?",
+      "answer": "automatically devolved",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How much can the SP alter income tax in Scotland?",
+      "answer": "up to 3 pence in the pound",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Setting speed limits was one of the further devolutions which was conferred by what act?",
+      "answer": "2012 Act",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What includes all subjects which are not stated in Schedule 6 to the Scotland Act?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who does not have the ability to alter income tax in Scotland?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Who has the ability to alter income tax in Scotland by up to 33 pence?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The 2002 Act granted further fiscal devolution including what?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What is the name of matters outside the legislative ability of the Scottish Parliament?",
+      "answer": "Reserved",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Issues dealt with at Westminster are not ones who is able to deal with?",
+      "answer": "Scottish Parliament",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Where are issues like abortion and drug policy legislated on?",
+      "answer": "Westminster",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Most aspects of transport safety is a subject dealt with by whom?",
+      "answer": "UK Government ministers",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Unreserved matters are subjects who are where?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Who is able to legislate on issues that are reserved to Westminster?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament"
+    },
+    {
+      "question": "What functions usually lie with US Government ministers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Subjects that are inside the legislative competence of the Scotland Parliament are called what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What may be presented to Parliament in various ways?",
+      "answer": "Bills",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who may introduce new laws or amendments to laws already on the books as a bill?",
+      "answer": "the Scottish Government",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "An MSP may introduce a bill as what?",
+      "answer": "a private member",
+      "llm_prediction": "a devolved legislature"
+    },
+    {
+      "question": "Who may also submit private bills to Parliament?",
+      "answer": "an outside proposer",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How do bills pass through Parliament?",
+      "answer": "in a number of stages",
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Presidents in the governing party introduce what laws?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "A committee of the President can present what?",
+      "answer": null,
+      "llm_prediction": "legislative competence of the parliament – the areas in which it can make laws"
+    },
+    {
+      "question": "A member of what parliament can introduce a bill as a public member?",
+      "answer": null,
+      "llm_prediction": "scottish parliament"
+    },
+    {
+      "question": "Who can introduce a bill as a public member?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What is stage 1 in the life of a bill?",
+      "answer": "introductory",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are presented to parliament in addition to the bill itself?",
+      "answer": "accompanying documents",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do statements from the PO and member in charge of the bill also indicate?",
+      "answer": "whether the bill is within the legislative competence of the Parliament",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Where are bills typically gestated in Stage 1?",
+      "answer": "in the relevant committee or committees",
+      "llm_prediction": ""
+    },
+    {
+      "question": "If Parliament agrees in a vote to the general principle of a bill, what does it then proceed to?",
+      "answer": "Stage 2",
+      "llm_prediction": "what does it then proceed to? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Stage 2 of the bill is where who is in charge of the bill?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "If none of Parliament agrees to the general principals of the bill, it proceeds to what Stage?",
+      "answer": null,
+      "llm_prediction": "it proceeds to what stage? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What stage usually takes place in the irrelevant committees?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is submitted to only part of Parliament for a full debate?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What is the final stage of a bill in the Scottish Parliament?",
+      "answer": "Stage 3",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many parts does the consideration of a bill in Stage 3 have?",
+      "answer": "two",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What vote on a bill takes place in Stage 3?",
+      "answer": "final",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of amendments might members opposed to a bill put on the table?",
+      "answer": "wrecking",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "When do members proceed to vote on whether they agree to the principles of the final bill?",
+      "answer": "Decision Time",
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "Stage 4 is the final stage of what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What is considered at a meeting of part of Parliament?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When do members vote of the beginning form of the bill?",
+      "answer": null,
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "\"Wrecking amendments\" are designed to encourage further what?",
+      "answer": null,
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "Who does the Presiding Officer submit the final bill to?",
+      "answer": "the Monarch",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Why is the final bill passed to the Monarch?",
+      "answer": "royal assent",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the minimum amount of time before a bill can go into law?",
+      "answer": "a 4-week period",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who is a bill referred to for a ruling on whether it's within the powers of the Parliament?",
+      "answer": "Supreme Court of the United Kingdom",
+      "llm_prediction": "who is a bill referred to for a ruling on whether it ' s within the powers of the parliament"
+    },
+    {
+      "question": "What does the template for bills passed by the Scottish Parliament include?",
+      "answer": "[Date]",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Before the bill has been passed, it becomes an Act of what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "The bill is submitted to whom before it is passed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The acts of what government begin with a conventional enacting formula?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Acts of Spanish Parliament begin with what phrase?",
+      "answer": null,
+      "llm_prediction": "devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved"
+    },
+    {
+      "question": "The US Government can refer the bill to whom?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament"
+    },
+    {
+      "question": "What party forms the Scottish Parliament?",
+      "answer": "hold the majority of seats",
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "Who is elected at the beginning of each term?",
+      "answer": "First Minister",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is eligible to toss their name in the hat to be First Minister?",
+      "answer": "Any member",
+      "llm_prediction": "who is eligible to toss their name in the hat to be first minister? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Other than Scotland's Chief Law Officer, from whence are most ministers drawn from amongst?",
+      "answer": "elected MSPs",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Who makes formal appointment or dismissal decisions?",
+      "answer": "the Sovereign",
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "The parties that hold the minority of seats in Parliament form what?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Parliament elects a second minister from whom?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Very few ministers are drawn from amongst whom?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate"
+    },
+    {
+      "question": "The Second Minister chooses whom?",
+      "answer": null,
+      "llm_prediction": "the second minister"
+    },
+    {
+      "question": "What day of the week are general elections held?",
+      "answer": "Thursday",
+      "llm_prediction": "what day of the week"
+    },
+    {
+      "question": "What month, every four years, are the ordinary general elections held on?",
+      "answer": "May",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament has the power to legislate in all areas that are not explicitly reserved to westminster. the british parliament retains the ability to amend the terms of reference of the scottish parliament, and can extend or reduce the areas in which it can make laws. the first meeting of the new parliament took place on 12 may 1999"
+    },
+    {
+      "question": "Who may change the date by up to a month, on the proposal of the PO?",
+      "answer": "the Monarch",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How many days does the Parliament have to nominate a First Minister after a General Election?",
+      "answer": "28",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "If an extraordinary election is held within less than six months before the date of an ordinary election, what does it do to the ordinary election?",
+      "answer": "supplant it.",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Under the Scotland Act 1988, ordinary general elections are held when?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What may be varied by up to two months?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Who proposes the date of the poll not be varied?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Who can propose the date of the poll be varied by up to three months?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What enables the Scottish Parliament to scrutinize the government?",
+      "answer": "Several procedures",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Who can question statements the First Minister or members of the cabinet make?",
+      "answer": "MSPs",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What does the First Minister deliver at the beginning of each parliamentary year?",
+      "answer": "legislative programme for the forthcoming year",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What do the leaders of the opposition parties and other MSPs question the First Minister about?",
+      "answer": "issues related to the substance of the statement",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How does the Scottish Parliament scrutinize the people?",
+      "answer": null,
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The Second Minister can deliver what?",
+      "answer": null,
+      "llm_prediction": "legislative competence of the parliament – the areas in which it can make laws"
+    },
+    {
+      "question": "Before the statement is delivered, who is questioned?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate"
+    },
+    {
+      "question": "Whom can the Second Minister deliver statements to?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate"
+    },
+    {
+      "question": "What is set aside for question periods in the debating chamber?",
+      "answer": "Parliamentary time",
+      "llm_prediction": ""
+    },
+    {
+      "question": "On what day does a General Question Time take place?",
+      "answer": "Thursday",
+      "llm_prediction": "12 may 1999"
+    },
+    {
+      "question": "Who may members direct questions towards during General Question Time?",
+      "answer": "any member of the Scottish Government",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What may members question the First Minister about directly during First Minister's Question Time?",
+      "answer": "issues under their jurisdiction",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "How many general questions are available to opposition leaders?",
+      "answer": "four",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What is the time when members can ask questions to only particular members of Scottiish Government?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "A 60-minute long \"Question Time\" takes place at what time?",
+      "answer": null,
+      "llm_prediction": "12 may 1999"
+    },
+    {
+      "question": "The Second Minister's Question Time takes place between what times on Thursdays?",
+      "answer": null,
+      "llm_prediction": "thursdays? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who asks supplementary questions and then a general question of the First Minister?",
+      "answer": null,
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "What is the number of Constituency MSPs?",
+      "answer": "73",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many members can voters choose to represent the constituency? ",
+      "answer": "one",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "When was there a reduction in the number of Scottish MPs?",
+      "answer": "2005",
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "What is the current number of electors currently in a Scottish Parliament constituency? ",
+      "answer": "55,000",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Why do the island archipelagos comprise a smaller number of electors?",
+      "answer": "dispersed population and distance",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How many MSPs out of 139 are known as \"Constituency MSPs\"?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "How are the 83 \"Constituency MSPs\" chosen?",
+      "answer": null,
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Which islands compise a larger number of electors?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "If a Constituency MSP is forced from Parliament, what does it trigger?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How are the total numbers of seats allocated to parties?",
+      "answer": "proportionally to the number of votes received",
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What method is used for tallying votes in the second vote of the ballot?",
+      "answer": "the d'Hondt method",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The party awarded a seat is the one with the highest what?",
+      "answer": "quotient",
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "What set is a seat added to after being allocated?",
+      "answer": "constituency seats",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is the process of allocating seats repeated until all available seats have been determined?",
+      "answer": "iteratively",
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The party with the lowest quotient is awarded what?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "What is subtracted to its constituency seats?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What method is used in tallying votes in the first vote of the ballot?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The first vote of the ballot uses what method to tally the votes?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What does being an MSP share with the House of Commons?",
+      "answer": "a number of qualifications",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "When was the British Nationality Act passed?",
+      "answer": "1981",
+      "llm_prediction": "1997"
+    },
+    {
+      "question": "How old most a person be to apply to be an MSP?",
+      "answer": "over the age of 18",
+      "llm_prediction": "how old most a person be to apply to be an msp? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Members of which organizations are disqualified from sitting in the SP as elected MSPs?",
+      "answer": "police and the armed forces",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What act sets the term for judging the boundaries of sanity to which individuals wishing to sit on the SP must adhere?",
+      "answer": "Mental Health (Care and Treatment) (Scotland) Act 2003",
+      "llm_prediction": "the scotland act 1998"
+    },
+    {
+      "question": "What job requires no qualifications?",
+      "answer": null,
+      "llm_prediction": "legislative competence of the parliament"
+    },
+    {
+      "question": "The House of Lords introduced qualifications for which position?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which job requires that member be under 18?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "Which job does not require that the member be a citizen of the UK?",
+      "answer": null,
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "When the election produced an SNP majority government, what was it the first occurrence of?",
+      "answer": "a party has commanded a parliamentary majority",
+      "llm_prediction": "the act delineates the legislative competence of the parliament"
+    },
+    {
+      "question": "Who did the SNP obtain 16 seats from?",
+      "answer": "Labour",
+      "llm_prediction": "the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament"
+    },
+    {
+      "question": "By how much did Labour lead Lain Gray retain East Lothian?",
+      "answer": "151 votes",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many seats did the SNP take from the Liberal Democrats?",
+      "answer": "eight",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the result of the SNP majority allow a referendum be held on?",
+      "answer": "Scottish independence",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "The SNP gave how many seats to Labour?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Many of whose key figures returned to parliament?",
+      "answer": null,
+      "llm_prediction": "the british parliament"
+    },
+    {
+      "question": "Labour leader Iain Gray gave up East Lothian by how many votes?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The SNP gave eight seats to the Liberal who?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "The loss of Edinburgh Pentlands really disappointed whom the most?",
+      "answer": "the Conservatives",
+      "llm_prediction": "loss of edinburgh pentlands really disappointed whom the most? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What was the seat of former party leader David McLetchie?",
+      "answer": "Edinburgh Pentlands",
+      "llm_prediction": "scotland act 1998"
+    },
+    {
+      "question": "What net loss did the Conservatives suffer?",
+      "answer": "five seats",
+      "llm_prediction": "what net loss did the conservatives suffer? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution"
+    },
+    {
+      "question": "Who announced she would step down as leader of the Conservatives? ",
+      "answer": "Annabel Goldie",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who congratulated the SNP while vowing to campaign against their referendum?",
+      "answer": "Cameron",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "For the Liberals, the main disappointment was what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Current party leader, David McLetchie lost what seat?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was elected on the Lothian global list?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "Who announced that she would not step down as party leader?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who congratulated the SNP on their loss?",
+      "answer": null,
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What consequence of establishing the Scottish Parliament applies to Scottish MPs sitting in the UK House of Commons?",
+      "answer": "able to vote on domestic legislation that applies only to England, Wales and Northern Ireland",
+      "llm_prediction": "the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "What are MPs unable to vote upon?",
+      "answer": "domestic legislation of the Scottish Parliament",
+      "llm_prediction": "scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom. the scottish parliament has the power to legislate in all areas that are not explicitly reserved to westminster. the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What phenomenon has led to criticism?",
+      "answer": "West Lothian question",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What party had a victory in the 2015 UK election?",
+      "answer": "the Conservative",
+      "llm_prediction": "the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "MPs representing English constituencies can only veto laws affecting which country? ",
+      "answer": "England",
+      "llm_prediction": "british parliament"
+    },
+    {
+      "question": "The West Lutheran question is known as what?",
+      "answer": null,
+      "llm_prediction": "the west lutheran question is known as what? [SEP] following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998"
+    },
+    {
+      "question": "Following the Liberal victory in 2015, standing orders were changed to do what?",
+      "answer": null,
+      "llm_prediction": "by explicitly specifying powers that are \" reserved \" to the parliament of the united kingdom"
+    },
+    {
+      "question": "Who was victorious in the 2005 UK election?",
+      "answer": null,
+      "llm_prediction": "the scottish parliament has the power to legislate in all areas that are not explicitly reserved to westminster. the british parliament retains the ability to amend the terms of reference of the scottish parliament"
+    },
+    {
+      "question": "What question has not led to criticism?",
+      "answer": null,
+      "llm_prediction": "scotland act 1998"
+    }
+  ]
+}

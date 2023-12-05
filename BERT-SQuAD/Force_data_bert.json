@@ -1,0 +1,1891 @@
+{
+  "title": "Force",
+  "context": "Philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as Aristotle and Archimedes retained fundamental errors in understanding force. In part this was due to an incomplete understanding of the sometimes non-obvious force of friction, and a consequently inadequate view of the nature of natural motion. A fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. Most of the previous misunderstandings about motion and force were eventually corrected by Galileo Galilei and Sir Isaac Newton. With his mathematical insight, Sir Isaac Newton formulated laws of motion that were not improved-on for nearly three hundred years. By the early 20th century, Einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia.",
+  "qas": [
+    {
+      "question": "What concept did philosophers in antiquity use to study simple machines?",
+      "answer": "force",
+      "llm_prediction": "force"
+    },
+    {
+      "question": "What was the belief that maintaining motion required force?",
+      "answer": "fundamental error",
+      "llm_prediction": "a fundamental error"
+    },
+    {
+      "question": "Who had mathmatical insite?",
+      "answer": "Sir Isaac Newton",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "How long did it take to improve on Sir Isaac Newton's laws of motion?",
+      "answer": "nearly three hundred years",
+      "llm_prediction": "nearly three hundred years"
+    },
+    {
+      "question": "Who develped the theory of relativity?",
+      "answer": "Einstein",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Who used the concept of antiquity in the study of stationary and moving objects?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Something that is considered a non fundamental error is the belief that a force is required to maintain what?",
+      "answer": null,
+      "llm_prediction": "fundamental errors in understanding force"
+    },
+    {
+      "question": "Most of the previous understandings about motion and force were corrected by whom?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Sir Galileo Galilei corrected the previous misunderstandings about what?",
+      "answer": null,
+      "llm_prediction": "force"
+    },
+    {
+      "question": "Who formulated the laws of motion that were not improved-on for nearly three thousand years?",
+      "answer": null,
+      "llm_prediction": "sir isaac newton"
+    },
+    {
+      "question": "What has partical physics made to describe sub-atomic forces?",
+      "answer": "Standard Model",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are the exchanged particles predicted by the standard Model?",
+      "answer": "gauge bosons",
+      "llm_prediction": "exchanged particles"
+    },
+    {
+      "question": "What is the strongest main interaction?",
+      "answer": "strong",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the weakest main interaction?",
+      "answer": "gravitational",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What are weak and electromatic forces expressions of?",
+      "answer": "electroweak interaction",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can decelerate particles close to the speed of light?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Particle physics has created a Unique Model to describe what? ",
+      "answer": null,
+      "llm_prediction": "particle physics"
+    },
+    {
+      "question": "The Unique Model predicts that exchanged particles are the fundamental means by what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "How many main interactions are not know?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "Who provided a philosophical discussion of force?",
+      "answer": "Aristotle",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What was the concept of force an integral part of?",
+      "answer": "Aristotelian cosmology",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many elements did Aristotle believe the terrestrial sphere to be made up of?",
+      "answer": "four",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Where did Aristotle believe the natural place for earth and water elements?",
+      "answer": "on the ground",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Aristotle refer to forced motion as?",
+      "answer": "unnatural",
+      "llm_prediction": "aristotle"
+    },
+    {
+      "question": "Who provided a discussion on the concept of time as an integral part of Aristotelian cosmology?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "In Galileo's view, the terrestrial sphere contained how many elements?",
+      "answer": null,
+      "llm_prediction": "the terrestrial sphere contained how many"
+    },
+    {
+      "question": "Aristotle believed that objects in motion on Earth would stay that way if what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who proposed that water displaced through the projectile's path carries the projectile to its target?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "When were the shortcomings of Aristotle's physics overcome?",
+      "answer": "17th century",
+      "llm_prediction": "early 20th century"
+    },
+    {
+      "question": "Whose work  corrected Aristotle's physics in the seventeenth century?",
+      "answer": "Galileo Galilei",
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "What did objects in forced motion contain according to the late Medieval idea that influence Aristotle?",
+      "answer": "impetus",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who experimented by rolling stones and canonballs down a steep incline?",
+      "answer": "Galileo",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What force acted on bodies to retard their velocity?",
+      "answer": "friction",
+      "llm_prediction": "force"
+    },
+    {
+      "question": "The shortcomings of Aristotelian physics would not be corrected until the 16th century work of whom?",
+      "answer": null,
+      "llm_prediction": "philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes"
+    },
+    {
+      "question": "Who was influenced by early Medieval ideas?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Who constructed an experiment where stones and rocks were rolled down an incline?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Who argued that objects retain their velocity even when acted on by a force?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Whose First Law of Motion says that unless acted upon be forces, objects would continue to move at a constant velocity?",
+      "answer": "Newton",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What insight of Galileo was associated with constant velocity?",
+      "answer": "lack of net force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who proposed that innate intertial is the natural state of objects?",
+      "answer": "Newton",
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "What law connects relative velocities with inertia?",
+      "answer": "Newton's First",
+      "llm_prediction": "what law connects relative velocities with inertia? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "What are the laws of physics of Galileo, in reference to objest in motion and rest?",
+      "answer": "the same",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Newton's Second Law of Motion states what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "The second law contradicts what belief?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Whose law made rest physically indistinguishable from zero constant velocity?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What laws are different in every inertial frame of reference?",
+      "answer": null,
+      "llm_prediction": "laws are different in every inertial frame of reference? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "What doesn't change from being at rest to movement at a constant velocity?",
+      "answer": "laws of physics",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What path does a ball thrown up and down in a moving vehicle take when seen by an outside observer? ",
+      "answer": "parabolic",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What sate are things inside of a moving vehicle as seen by a  person inside the vehicle?",
+      "answer": "at rest",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What applies to equally to constant velocity motion as it does to rest.",
+      "answer": "Inertia",
+      "llm_prediction": "galileo galilei and sir isaac newton"
+    },
+    {
+      "question": "The laws of physics change from being at rest when travelling in a what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "From the perspective of whom in the car is the vehicle and everything inside of it at rest?",
+      "answer": null,
+      "llm_prediction": "philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes"
+    },
+    {
+      "question": "There are plenty of experiments that can distinguish whether it is the vehicle that s at rest or what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "The two what are considered to be physically distinguishable?",
+      "answer": null,
+      "llm_prediction": "stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What concept explains why objects continue in constant motion?",
+      "answer": "inertia",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What makes day length constant on Earth?",
+      "answer": "rotational inertia of planet",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who explained that inertial reference frames equaled reference frames subject to constant acceleration?",
+      "answer": "Albert Einstein",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What do astronaughts experience while in free-fall?",
+      "answer": "weightlessness",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the basis mentioned for the develpment of the general theory of relativity?",
+      "answer": "principle of equivalence",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "The concept of inertia can explain the tendency of people to continue in what?",
+      "answer": null,
+      "llm_prediction": "inertia"
+    },
+    {
+      "question": "The rotational inertia of planet Mars is what fixes the what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who explained that reference frames subject to constant deceleration?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "What do astronauts experience when in free-fall orbit around Saturn?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What describes the proportionality of acceleration to force and mass?",
+      "answer": "Newton's Second Law",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What kind of measurements define accelerlations?",
+      "answer": "kinematic",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has an equivalence between mass and space-time?",
+      "answer": "General relativity",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is missing a theory on quantum gravity?",
+      "answer": "General relativity",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "In Newton's second law, what are the units of mass and force in relation to microscales?",
+      "answer": "fixed",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Newton's Third Law asserts the direct proportionality of acceleration to what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Newton's Third Law asserts the inverse proportionality of acceleration to what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Deceleration can be described through what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Specific relativity offers an equivalence between what?",
+      "answer": null,
+      "llm_prediction": "simple machines"
+    },
+    {
+      "question": "When forces are from the presence of differnet objects, what law gives symmetry?",
+      "answer": "Newton's Third",
+      "llm_prediction": "what law gives symmetry? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "What law staes that forces are interactions between bodies?",
+      "answer": "Newton's Third",
+      "llm_prediction": "what law staes that forces are interactions between bodies? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "What kind of force does not exist under Newton's third law?",
+      "answer": "unidirectional",
+      "llm_prediction": "what kind of force does not exist under newton ' s third law? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What is the equality of forces between two objects exerting force on each other??",
+      "answer": "magnitude",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Newton's Fifth Law is the result of applying symmetry to what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Newton's Fifth Law means that only some forces are interactions between whom?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "When a second body exerts a force F on a first body, what happens to the second body?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What experiences acceleration when external force is applied to a system?",
+      "answer": "center of mass",
+      "llm_prediction": "sir isaac newton"
+    },
+    {
+      "question": "In what kind of system of particles are there no unbalanced iinternal forces?",
+      "answer": "closed",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the magnitude of force divided by when external force is added?",
+      "answer": "mass of the system",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In an open system of particles, there are no internal what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are balance in an open system of particles?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "If an internal force acts on the system, the center of mass will experience what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The constituent objects only decelerate with respect to what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does pushing and pulling perceptions provide for describing forces?",
+      "answer": "intuitive understanding",
+      "llm_prediction": "pushing and pulling perceptions provide for describing forces? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What is used to quantify the intuitive undestanding of forces?",
+      "answer": "standard measurement scale",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What offers a conceptual definition of force?",
+      "answer": "Newtonian mechanics",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How are laboratory measurements of forces determined?",
+      "answer": "experimentation",
+      "llm_prediction": "mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "Laboratory measurements of forces are fully inconsistent with what?",
+      "answer": null,
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "The conceptual definition of pushes and pulls are offered by what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Newtonian mechanisms are the definition of what?",
+      "answer": null,
+      "llm_prediction": "newtonian mechanisms are the definition of what? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "What is an example of a metaphysical concept?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "How are forces classified with regard to push and pull strengt?",
+      "answer": "vector quantities",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What physical quantities do not have direction?",
+      "answer": "denoted scalar quantities",
+      "llm_prediction": "physical quantities do not have direction? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "How do you avoid problems when determining forces involved on an object from two or more sources?",
+      "answer": "Associating forces with vectors",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "If you do not know both magnitude and direction of two forces on an object, what would you call that situation?",
+      "answer": "ambiguous",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "How do you determine the acceleration of a rope when two people are pulling it?",
+      "answer": "Associating forces with vectors",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What acts in no particular direction?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has sizes depending on how weak the push or pull is?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are classified as \"vintage quantities\"?",
+      "answer": null,
+      "llm_prediction": "vintage quantities \"? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What follows the same set of mathematical rules than physical quantities?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "In what conditions were forces first measured historically?",
+      "answer": "static equilibrium",
+      "llm_prediction": "in what conditions were forces first measured historically? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What do forces have with regard to additive quantities?",
+      "answer": "magnitude and direction",
+      "llm_prediction": "fundamental errors"
+    },
+    {
+      "question": "What is the resultant force called when two forces act on a particle?",
+      "answer": "net force",
+      "llm_prediction": "a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "When forces are acting on an extended body, what do you need to account for motion effects?",
+      "answer": "respective lines of application",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What geometric shape is used in equations to determine net force?",
+      "answer": "parallelogram",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When three forces act on a point particle, what happens?",
+      "answer": null,
+      "llm_prediction": "a force is required to maintain motion"
+    },
+    {
+      "question": "What is also called the nut force?",
+      "answer": null,
+      "llm_prediction": "nut force"
+    },
+    {
+      "question": "The magnitude of the resultant varies from the similarities of what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What must be specified in order to account for their effects on the motion of the head?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Whwn forces are at right ngles to each other what can they be broken down to?",
+      "answer": "independent components",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "If a force is pointing horizontally to the northeast, how many forces can you split the force into?",
+      "answer": "two",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What do you get when you figure the sum of forces with vector addition?",
+      "answer": "the original force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What are the independant components of a vector sum that has been determined by scalar addition of individual vectors?",
+      "answer": "orthogonal",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can orthogonal forces be when there are three components with two at right angles to each other?",
+      "answer": "three-dimensional",
+      "llm_prediction": "what can orthogonal forces be when there are three components"
+    },
+    {
+      "question": "As well as being subtracted, forces can also what?",
+      "answer": null,
+      "llm_prediction": "forces can also what? [SEP] philosophers in antiquity used the concept of force"
+    },
+    {
+      "question": "A vertical force pointing northeast can be split into how many forces?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What yields the non original force?",
+      "answer": null,
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "Orthogonal force vectors can can four-dimensional with what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can keep an object from moving when it is being pushed on a surface?",
+      "answer": "static friction",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is generated between a surface and an object that is being pushed?",
+      "answer": "static friction",
+      "llm_prediction": "what is generated between a surface and an object that is being pushed? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "Static friction balances what force when there is no movement of an object on a surface?",
+      "answer": "applied",
+      "llm_prediction": "static friction"
+    },
+    {
+      "question": "What makes static friction go up or down in responce to contact characteristics between an object and the surface it is on?",
+      "answer": "applied force",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Pulling on an object on a frictional surface can result in what?",
+      "answer": null,
+      "llm_prediction": "misunderstandings"
+    },
+    {
+      "question": "When will an object move because the applied force is opposed by static friction?",
+      "answer": null,
+      "llm_prediction": "early 20th century"
+    },
+    {
+      "question": "What increases or decreases in response to applied friction?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What increases or decreases in response to static friction?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can scales and spring balances measure between two forces by using static equilibrium?",
+      "answer": "forces",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What force acts on an object suspended on a spring scale in addition to gravity?",
+      "answer": "spring reaction force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What equals the spring reaction force on an object suspended on a spring reaction scale? ",
+      "answer": "gravity",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Objects of constant density are proportional to volume by what force to define standard weights?.",
+      "answer": "gravity",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who expounded the Three Laws of Motion?",
+      "answer": "Isaac Newton",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "A static equilibrium between three sources is a way of doing what?",
+      "answer": null,
+      "llm_prediction": "correctly predicted the action of forces on objects with increasing momenta near the speed of light"
+    },
+    {
+      "question": "Complex devices such as weighing scales are used when measuring what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "An object suspended on a horizontal spring scale experiences the force of what?",
+      "answer": null,
+      "llm_prediction": "force"
+    },
+    {
+      "question": "All quantitative force laws were discovered using what? ",
+      "answer": null,
+      "llm_prediction": "quantitative force laws"
+    },
+    {
+      "question": "Who first described dynamic equilibrium?",
+      "answer": "Galileo",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What does motion at a constant velocity equal?",
+      "answer": "rest",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who had the idea of a natural state for objects at rest?",
+      "answer": "Galileo",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Where will a canonball dropped from the crow's nest of a ship land according to Aristotle?",
+      "answer": "behind the foot of the mast",
+      "llm_prediction": "the crow ' s nest of a ship land according to aristotle? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "Where does a canonball dropped from the crow's nest of a ship actually land?",
+      "answer": "foot of the mast",
+      "llm_prediction": "the crow ' s nest of a ship actually land? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "What type of equilibrium was first described by Aristotle?",
+      "answer": null,
+      "llm_prediction": "equilibrium"
+    },
+    {
+      "question": "Which physics were not contradicted by observations and logic?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "In what universe would a falling cannonball land in front of the mast of a moving ship?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who concluded that motion in a constant velocity was completely equivalent to motion?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "What occurs when traveling across a surface at a constant velocity with regard to friction?",
+      "answer": "dynamic equilibrium",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What directly opposes the force applied to move an object across a surface?",
+      "answer": "kinetic friction force",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has to accounted for that causes no net force being the cause of constant velocity motion?",
+      "answer": "kinetic friction",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who thought that applied force caused movement of an object regardless of non-zero velocity?",
+      "answer": "Aristotle",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What equilibrium occurs in fluctuating velocity motion?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What continues to move with a zero velocity?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What started with a zero velocity?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "There is much net force when what is taken into consideration?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What equation currently decribes the physics of force.",
+      "answer": "Schrödinger",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What equation desribed the physics of force before the current Schrodinger equation?",
+      "answer": "Newtonian",
+      "llm_prediction": "schrodinger equation"
+    },
+    {
+      "question": "How are the forces derived from fields treated similarly to?",
+      "answer": "classical position variables",
+      "llm_prediction": "how are the forces derived from fields treated similarly to?"
+    },
+    {
+      "question": "What type of measurements result under Schrodinger equations when using operators instead of Newtonian variables?",
+      "answer": "quantized",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What notion keeps it's meaning through both Netonian and Schrodinger physics equations?",
+      "answer": "force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What notion does not keep its meaning in quantum mechanics?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "What notion causes one to deal with classical variables instead of operators?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is now described by the Newtonian equations?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What used to be described by the Schrodinger equation?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the intrisic angular variable called when particles act upon one another?",
+      "answer": "spin",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the principle about relating spin and space variables?",
+      "answer": "Pauli",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What value does the seperating into fermions and bosons depend?",
+      "answer": "spin",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "If the apparant force of two fermions is attractive, what is the spin function?",
+      "answer": "antiparallel",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "If the apparant force of two fermions is repulsive, what is the spin function?",
+      "answer": "parallel",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Identical particles split into two different classes depending on the formation of what?",
+      "answer": null,
+      "llm_prediction": "force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "If three identical fermions have a symmetric spin, the spatial variables must be what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "When is the correlation occasionally positive?",
+      "answer": null,
+      "llm_prediction": "early 20th century"
+    },
+    {
+      "question": "When is the correlation occasionally negative?",
+      "answer": null,
+      "llm_prediction": "early 20th century"
+    },
+    {
+      "question": "How are the particle forces and accelerations explained as by gauge bosons exchange?",
+      "answer": "mathematical by-product",
+      "llm_prediction": "gauge bosons exchange"
+    },
+    {
+      "question": "What is the redundant concept coming from momentum conservation?",
+      "answer": "force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is more fundamental than force in quanton field theory?",
+      "answer": "conservation of momentum",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What diagrams are used to simplify particle interactions on a fundamental level?",
+      "answer": "Feynman",
+      "llm_prediction": "diagrams"
+    },
+    {
+      "question": "Matter particles are shown as what kind of lines in a Feynman diagram?",
+      "answer": "straight",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can be indirectly derived from the symmetry of space?",
+      "answer": null,
+      "llm_prediction": "force"
+    },
+    {
+      "question": "What is considered less fundamental than the concept of force?",
+      "answer": null,
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "What are considered less accurately to be \"fundamental interactions\"?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "In whose diagram is each matter particle represented as a curved line?",
+      "answer": null,
+      "llm_prediction": "sir isaac newton"
+    },
+    {
+      "question": "How many interactions are all of the universal forces based on?",
+      "answer": "four",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "What nuclear forces only act at short distances?",
+      "answer": "strong and weak",
+      "llm_prediction": "nuclear forces"
+    },
+    {
+      "question": "What force acts between electric charges?",
+      "answer": "electromagnetic",
+      "llm_prediction": "force acts between electric charges"
+    },
+    {
+      "question": "What do gravitational forces act between?",
+      "answer": "masses",
+      "llm_prediction": "stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What prohibits atoms from passing through each other?",
+      "answer": "Pauli exclusion principle",
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "All the forces in what are based on three fundamental interactions?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton"
+    },
+    {
+      "question": "Most of the forces in the universe are based on how many fundamental interactions?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What type of forces act at very long distances?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What forces are responsible for the interactions between atomic particles?",
+      "answer": null,
+      "llm_prediction": "forces are responsible for the interactions between atomic particles? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "Who formed the universal theory of gravitation?",
+      "answer": "Isaac Newton",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "In what century was quantum mechanics made? ",
+      "answer": "20th",
+      "llm_prediction": "20th century"
+    },
+    {
+      "question": "What kind of self-consistent models are physicists trying to make that would create a theory of everything?",
+      "answer": "unification",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What type of physics model did Einstein fail to make?",
+      "answer": "self-consistent unification",
+      "llm_prediction": "inadequate view of the nature of natural motion"
+    },
+    {
+      "question": "What proceeded along the lines of unification of similar ideas?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who unified the force responsible for atoms falling at the surface of the Earth?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Who demonstrated that electric and magnetic forces were unified through two consistent theories?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "In the 19th century, the development of quantum mechanics led to what?",
+      "answer": null,
+      "llm_prediction": "misunderstandings"
+    },
+    {
+      "question": "Who identified gravity as a force?",
+      "answer": "Isaac Newton",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Who came up with the concept that falling objects fell at the same speed regardless of weight?",
+      "answer": "Galileo",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "How fast do objects fall on Earth?",
+      "answer": "about 9.81 meters per second squared",
+      "llm_prediction": "constant velocity"
+    },
+    {
+      "question": "Where was the measurment for the standard gravity on Earth taken?",
+      "answer": "sea level",
+      "llm_prediction": "near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "What is an object's mass proportional to at the surface of the Earth?",
+      "answer": "force of gravity",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Until the work of Galileo, what was not identified as a universal force?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Newton was instrumental in describing the characteristics of falling what?",
+      "answer": null,
+      "llm_prediction": "stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What has a magnitude of about 8.81 meters per second squared?",
+      "answer": null,
+      "llm_prediction": "what has a magnitude of about 8. 81 meters per second squared? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What was identified as a universal force after the work of Galileo?",
+      "answer": null,
+      "llm_prediction": "what was identified as a universal force after the work of galileo? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "How might gravity effects be observed differently according to Newton?",
+      "answer": "at larger distances.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What could be attributed to gravity acceleration around the Earth?",
+      "answer": "the Moon",
+      "llm_prediction": "gravity acceleration around the earth? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton"
+    },
+    {
+      "question": "What is gravitational acceleration proportional to?",
+      "answer": "mass",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is included along with gravitational acceration, and mass of the Earth in a formula about rotation about the Earth?",
+      "answer": "radius () of the Earth",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who realized that the effects of gravity might be observed differently at smaller distances?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Newton said that the acceleration of the Earth around the Moon represented what?",
+      "answer": null,
+      "llm_prediction": "acceleration of the earth around the moon represented what? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "Who realized that gravitational deceleration was proportional to mass?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Newton realized that gravitational deceleration was proportional to what?",
+      "answer": null,
+      "llm_prediction": "gravitational deceleration"
+    },
+    {
+      "question": "What is used to figure the relative strengh of gravity?",
+      "answer": "Newton's Universal Gravitation Constant,",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who made the first to measure value of the Newton Universal Gravitation Constant?",
+      "answer": "Henry Cavendish",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "When was the first measurement of the value of the Newton Universal Gravitation Constant?",
+      "answer": "1798",
+      "llm_prediction": "early 20th century"
+    },
+    {
+      "question": "Who figured out that his law of gravity had to be universal?",
+      "answer": "Newton",
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "What is used to describe the weakness of gravity?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Whose value was know in Newton's life?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Who realized that only some celestial bodies followed the same laws of motion?",
+      "answer": null,
+      "llm_prediction": "galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton"
+    },
+    {
+      "question": "Cavendish's Law of Gravitation states what?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force"
+    },
+    {
+      "question": "What planet seemed to buck Newton's gravitational laws?",
+      "answer": "Mercury",
+      "llm_prediction": "what planet"
+    },
+    {
+      "question": "What planet did astrophysisist predict to explain the problems with Mercury?",
+      "answer": "Vulcan",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What theory accounted for the Mercury problem?",
+      "answer": "theory of general relativity",
+      "llm_prediction": "force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "Who came up with the theory of relativity?",
+      "answer": "Albert Einstein",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Who first showed that Newton's Theory of Gravity was not as correct as another theory?",
+      "answer": "Albert Einstein",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Whose law did not explain the orbit of the planet Saturn?",
+      "answer": null,
+      "llm_prediction": "sir isaac newton"
+    },
+    {
+      "question": "Who predicted the existence of many other planets?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "Albert Einstein formulated what law?",
+      "answer": null,
+      "llm_prediction": "relativity"
+    },
+    {
+      "question": "The planet Vulcan was predicted to explain the what with planet Saturn?",
+      "answer": null,
+      "llm_prediction": "vulcan"
+    },
+    {
+      "question": "What theory best explains gravity?",
+      "answer": "general relativity",
+      "llm_prediction": "relativity"
+    },
+    {
+      "question": "What space-time path is seen as a curved line in space?",
+      "answer": "ballistic trajectory",
+      "llm_prediction": "what space - time path"
+    },
+    {
+      "question": "What is the derivative of an object's changing momentum called?",
+      "answer": "gravitational force",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what sense must you be observing the curvature of space-time?",
+      "answer": "global",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What theory least best describes gravity?",
+      "answer": null,
+      "llm_prediction": "theory least best describes gravity? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity"
+    },
+    {
+      "question": "What is viewed as a force in GR?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The curved line path in space-time is seen as a what line in space?",
+      "answer": null,
+      "llm_prediction": "curved line path"
+    },
+    {
+      "question": "What describes objects not moving freely?",
+      "answer": null,
+      "llm_prediction": "objects not moving freely? [SEP] philosophers in antiquity used the concept of force"
+    },
+    {
+      "question": "What is the law named that defines a charge moving through a magnetic field?",
+      "answer": "Lorentz's Law",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is  the time rate of change of electric charge?",
+      "answer": "electric current",
+      "llm_prediction": "near the speed of light"
+    },
+    {
+      "question": "What magnetic and electric force acts on a charge?",
+      "answer": "unified electromagnetic",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Whatare the electrostatic and magnetic force awritten as the sum of?",
+      "answer": "electrostatic force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Lorenzo's Law describes what?",
+      "answer": null,
+      "llm_prediction": "stationary and moving objects and simple machines"
+    },
+    {
+      "question": "The connection between energy and what allows for a unified electromagnetic force that acts on a charge?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What force describes Lorenzo's Law?",
+      "answer": null,
+      "llm_prediction": "what force describes lorenzo ' s law"
+    },
+    {
+      "question": "Which law is a rule of vector addition?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who first fully explained the origins of magnetic and electric fields?",
+      "answer": "James Clerk Maxwell",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "When did the origins of magnetic and electric fields occur?",
+      "answer": "1864",
+      "llm_prediction": "early 20th century"
+    },
+    {
+      "question": "How many scalar equations were formed into a set by James Maxwell?",
+      "answer": "20",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many vector equations did Heaviside and Gibbs reformilate Maxwell's 20 scalar equtions into?",
+      "answer": "4",
+      "llm_prediction": "20"
+    },
+    {
+      "question": "Who discovered that magnetic and electric could self-generate?",
+      "answer": "Maxwell",
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "The origin of what would not be fully explained until 1964?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Who separated a number of earlier theories into a set of 20 scalar equations?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What was later formulated into 3 vector equations?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who discovered that electric and magnetic fields could be \"self-aware\"",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What was dificult to reconcile the photoelectric effect and the missing ultraviolet catastrophe?",
+      "answer": "electromagnetic theory",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?",
+      "answer": "quantum mechanics",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What did electromagnetic theory  finally lead to?",
+      "answer": "quantum electrodynamics",
+      "llm_prediction": "most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton"
+    },
+    {
+      "question": "What are the wave-particles called that mediate all electromagnetic phenomena?",
+      "answer": "photons",
+      "llm_prediction": "the wave - particles"
+    },
+    {
+      "question": "What is QED short for?",
+      "answer": "quantum electrodynamics",
+      "llm_prediction": "force"
+    },
+    {
+      "question": "A new theory of what was developed using quantum particles?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What theory led to quantum electromagnetics?",
+      "answer": null,
+      "llm_prediction": "theory of relativity"
+    },
+    {
+      "question": "Where are photons the fundamental exchange photon?",
+      "answer": null,
+      "llm_prediction": "in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "Quantum theory was used to develop a new theory of what?",
+      "answer": null,
+      "llm_prediction": "quantum theory"
+    },
+    {
+      "question": "What is often misunderstood as the cause of matter rigidity?",
+      "answer": "repulsion of like charges",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What actually causes rigidity in matter?",
+      "answer": "the Pauli exclusion principle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is needed to pack electrons densely together?",
+      "answer": "energy",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "How is the Pauli exclusion priciple manifested in the macro world?",
+      "answer": "as a structural force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Since electrons are minions, they cannot occupy the same what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "When electrons are loosely packed, there is not enough what?",
+      "answer": null,
+      "llm_prediction": "electrons are loosely packed, there is not enough what? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction, and a consequently inadequate view of the nature of natural motion. a fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. most of the previous misunderstandings about motion and force were eventually corrected by galileo galilei and sir isaac newton. with his mathematical insight, sir isaac newton formulated laws of motion that were not improved - on for nearly three hundred years. by the early 20th century, einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light, and also provided insight into the forces produced by gravitation and inertia"
+    },
+    {
+      "question": "What takes no energy to pack them together?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "When what are packed together loosely is there not enough lower energy?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does stong force act upon?",
+      "answer": "elementary particles",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can be seen between hadrons?",
+      "answer": "residual of the force",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the force between nucleons?",
+      "answer": "nuclear",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "How are nuclear forces transmitted?",
+      "answer": "as gluons",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the term for the lack of obsevable free quarks?",
+      "answer": "color confinement",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "The weak force only acts on which particles?",
+      "answer": null,
+      "llm_prediction": "stationary and moving objects and simple machines"
+    },
+    {
+      "question": "The successful searches for what showed that the elementary particles are not observable?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "The residual of what can be seen in front of hadrons?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The weak force acts upon what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the W and Z boson exchange create?",
+      "answer": "weak force",
+      "llm_prediction": "relativity"
+    },
+    {
+      "question": "What is the observable effect of W and Z boson exchange?",
+      "answer": "beta decay",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the effect of beta decay?",
+      "answer": "radioactivity",
+      "llm_prediction": "fundamental errors"
+    },
+    {
+      "question": "How many times less is the strenght of the weak field compared to the strong?",
+      "answer": "1013",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "At what temperature do weak and electromagnetic forces appear the same?",
+      "answer": "approximately 1015 kelvins",
+      "llm_prediction": "at what temperature"
+    },
+    {
+      "question": "The strong force is due to the exchange of what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Alpha decay is the most familiar effect of what force?",
+      "answer": null,
+      "llm_prediction": "alpha decay"
+    },
+    {
+      "question": "What force is weaker than gravity over short distances?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What electroweak theory has not been developed?",
+      "answer": null,
+      "llm_prediction": "electroweak theory"
+    },
+    {
+      "question": "What is the repulsive force of close range atom interaction?",
+      "answer": "normal force",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What occurs when electron clouds overlap from different atoms?",
+      "answer": "Pauli repulsion",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What causes Pauli repulsion?",
+      "answer": "fermionic nature of electrons",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the force that causes rigid strength in structures?",
+      "answer": "normal",
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "What force is due to attractive forces of interaction?",
+      "answer": null,
+      "llm_prediction": "force"
+    },
+    {
+      "question": "What repulsion follows when atomic clouds overlap?",
+      "answer": null,
+      "llm_prediction": "repulsion"
+    },
+    {
+      "question": "What is an example of the abnormal force in action?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "The abnormal force is responsible for the structural integrity of what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can be used to model tension forces?",
+      "answer": "ideal strings",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What do you use to let idea strings switch direction?",
+      "answer": "ideal pulleys",
+      "llm_prediction": "aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "In what way do idea strings transmit tesion forces?",
+      "answer": "action-reaction pairs",
+      "llm_prediction": "in what way do idea strings"
+    },
+    {
+      "question": "What is the final effect of adding more and more idea strings to a load?",
+      "answer": "conservation of mechanical energy",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can increase the tension force on a load?",
+      "answer": "movable pulleys",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What forces can be modeled using ideal friction strings?",
+      "answer": null,
+      "llm_prediction": "forces can be modeled using ideal friction strings"
+    },
+    {
+      "question": "What forces can be modeled using ideal mass strings?",
+      "answer": null,
+      "llm_prediction": "forces can be modeled using ideal mass strings? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "Ideal strings transmit what delayed forces?",
+      "answer": null,
+      "llm_prediction": "ideal strings"
+    },
+    {
+      "question": "What did Newton's mechanics affect?",
+      "answer": "idealized point particles",
+      "llm_prediction": "forces produced by gravitation and inertia"
+    },
+    {
+      "question": "What didn't Newton's mechanics affext?",
+      "answer": "three-dimensional objects",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "In what kind of fluid are pressure differences caused by direction of forces over gradients?",
+      "answer": "extended",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What may a force on one part of an object affect?",
+      "answer": "other parts",
+      "llm_prediction": "a force on one part of an object affect? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What does matter actually have that Newtonian mechanics doesn't address?",
+      "answer": "extended structure",
+      "llm_prediction": "newtonian mechanics doesn ' t address? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What does not have extended structure?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Forces that act on one part of an object do not act on what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In extended fluids, similarities in pressure result in forces being directed where?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Whose mechanics affected three dimensional objects?",
+      "answer": null,
+      "llm_prediction": "aristotle and archimedes"
+    },
+    {
+      "question": "What causes strain in structures?",
+      "answer": "stress tensor",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is used to calculate cross section area in the volume of an object?",
+      "answer": "pressure terms",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What are associated with normal forces?",
+      "answer": "pressure terms",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What includes pressure terms when calculating area in volume?",
+      "answer": "formalism",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What does not cause strain in structures?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is associated with abnormal forces?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is associated with horizontal forces?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Another term for on-diagonal elements is what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the force equivalent of torque compared to angular momentum?",
+      "answer": "rotational equivalent for position",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What would change the rotational inertia of a body under Newton's First Law of Motion?",
+      "answer": "unbalanced torque",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "To calculate instant angular acceleration of a rigid body what would you use?",
+      "answer": "Newton's Second Law of Motion",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What inertia exists because of Newton's Fourth Law of Motion?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What equation is torque like regarding velocity?",
+      "answer": null,
+      "llm_prediction": "velocity"
+    },
+    {
+      "question": "What is the rotational equivalent of velocity?",
+      "answer": null,
+      "llm_prediction": "rotational equivalent of velocity"
+    },
+    {
+      "question": "Which of Newton's Laws described a rotational inertia equation?",
+      "answer": null,
+      "llm_prediction": "sir isaac newton"
+    },
+    {
+      "question": "Where does centripetal force go?",
+      "answer": "toward the center of the curving path",
+      "llm_prediction": "in the study of stationary and moving objects and simple machines"
+    },
+    {
+      "question": "How do centripetal forces act in relation to vectors of velocity?",
+      "answer": "perpendicular",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What force changes an objects direction of travel?",
+      "answer": "centripetal",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is another word for centripetal force?",
+      "answer": "radial",
+      "llm_prediction": "centripetal force? [SEP] philosophers in antiquity used the concept of force"
+    },
+    {
+      "question": "What is resposible for speeding up or slowing down an object?",
+      "answer": "tangential force",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What force changes an objects speed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where does the centripetal force come from?",
+      "answer": null,
+      "llm_prediction": "in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What path changes the direction of an object?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "A balance force accelerates what?",
+      "answer": null,
+      "llm_prediction": "stationary and moving objects and simple machines"
+    },
+    {
+      "question": "What is the only form potential energy can change into?",
+      "answer": "kinetic",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the only form kinetic energy can change into?",
+      "answer": "potential",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is preserved in a closed system of forces when acted upon?",
+      "answer": "net mechanical energy",
+      "llm_prediction": "what is preserved in a closed system of forces when acted upon? [SEP] philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What is the force between two locations related to?",
+      "answer": "difference in potential energy",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the force called rgarding a potential field between two locations?",
+      "answer": "artifact",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "A liberal force that acts on a closed system has what kind of mechanical work?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Net mechanical energy is what in an open system?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What can not be considered an artifact of the potential field?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "A flow of water can not be considered an artifact of what?",
+      "answer": null,
+      "llm_prediction": "force in the study of stationary and moving objects and simple machines, but thinkers such as aristotle and archimedes retained fundamental errors in understanding force. in part this was due to an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "What is sometimes impossible to model?",
+      "answer": "forces",
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "Why are some forces due to that are impossible to model?",
+      "answer": "gradient of potentials",
+      "llm_prediction": "non - obvious force of friction"
+    },
+    {
+      "question": "What do electrostatic gradiient potentials create?",
+      "answer": "friction",
+      "llm_prediction": "fundamental errors"
+    },
+    {
+      "question": "Tension, compression, and drag are what kind of forces?",
+      "answer": "Nonconservative",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "It is always possible to model forces as being due to what?",
+      "answer": null,
+      "llm_prediction": "an incomplete understanding of the sometimes non - obvious force of friction"
+    },
+    {
+      "question": "Micro-physical considerations yield what?",
+      "answer": null,
+      "llm_prediction": "fundamental errors"
+    },
+    {
+      "question": "Friction is not caused by the gradients of what?",
+      "answer": null,
+      "llm_prediction": "friction"
+    },
+    {
+      "question": "Conservative forces include what?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "In what treatment are nonconservative and conservative forces described?",
+      "answer": "statistical mechanics",
+      "llm_prediction": "relativity"
+    },
+    {
+      "question": "What changes macroscopic closed system energies?",
+      "answer": "nonconservative forces",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the exchange of heat associated with?",
+      "answer": "nonconservative forces",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the law of thermodynamics associated with closed system heat exchange?",
+      "answer": "Second",
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What makes energy changes in a closed system?",
+      "answer": "nonconservative forces",
+      "llm_prediction": "force of friction"
+    },
+    {
+      "question": "In macroscopic open systems, non conservative forces act to do what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are often associated with the transfer of cold?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "Conservative forces are often associated with the transfer of what?",
+      "answer": null,
+      "llm_prediction": "force"
+    },
+    {
+      "question": "What does not change macroscopic closed systems?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What is the metric term less used than the Newton?",
+      "answer": "kilogram-force",
+      "llm_prediction": "metric term less used than the newton? [SEP] philosophers in antiquity used the concept of force"
+    },
+    {
+      "question": "What is the kilogram-force sometimes reffered to as?",
+      "answer": "kilopond",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a very seldom used unit of mass in the metric system?",
+      "answer": "slug",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What seldom used term of a unit of force equal to 1000 pound s of force?",
+      "answer": "kip",
+      "llm_prediction": "1000 pound s of force"
+    },
+    {
+      "question": "What is the seldom used force unit equal to one thousand newtons?",
+      "answer": "sthène",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does not have a metric counterpart?",
+      "answer": null,
+      "llm_prediction": "metric"
+    },
+    {
+      "question": "What is the force exerted by standard gravity on one ton of mass?",
+      "answer": null,
+      "llm_prediction": "gravitation and inertia"
+    },
+    {
+      "question": "What force leads to a commonly used unit of mass?",
+      "answer": null,
+      "llm_prediction": "force"
+    },
+    {
+      "question": "What force is part of the modern SI system?",
+      "answer": null,
+      "llm_prediction": ""
+    }
+  ]
+}

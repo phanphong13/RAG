@@ -1,0 +1,1116 @@
+{
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "context": "The Intergovernmental Panel on Climate Change (IPCC) is a scientific intergovernmental body under the auspices of the United Nations, set up at the request of member governments. It was first established in 1988 by two United Nations organizations, the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP), and later endorsed by the United Nations General Assembly through Resolution 43/53. Membership of the IPCC is open to all members of the WMO and UNEP. The IPCC produces reports that support the United Nations Framework Convention on Climate Change (UNFCCC), which is the main international treaty on climate change. The ultimate objective of the UNFCCC is to \"stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [i.e., human-induced] interference with the climate system\". IPCC reports cover \"the scientific, technical and socio-economic information relevant to understanding the scientific basis of risk of human-induced climate change, its potential impacts and options for adaptation and mitigation.\"",
+  "qas": [
+    {
+      "question": "What organization is the IPCC a part of?",
+      "answer": "the United Nations",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What UN organizations established the IPCC?",
+      "answer": "the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP)",
+      "llm_prediction": "the world meteorological organization ( wmo ) and the united nations environment programme ( unep )"
+    },
+    {
+      "question": "What does the UN want to stabilize?",
+      "answer": "greenhouse gas concentrations in the atmosphere",
+      "llm_prediction": "greenhouse gas concentrations"
+    },
+    {
+      "question": "What is the UN's climate change treaty?",
+      "answer": "United Nations Framework Convention on Climate Change",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What UN resolution endorsed the IPCC?",
+      "answer": "Resolution 43/53",
+      "llm_prediction": "resolution 43 / 53"
+    },
+    {
+      "question": "What is the intergovernmental body under the control of the United States?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What organization was responsible for setting up the IPCC?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who refused to endorse the IPCC?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What organization can only certain members belong to?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What is one of the minor treaty's on climate change?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Who is the chair of the IPCC?",
+      "answer": "Hoesung Lee",
+      "llm_prediction": "?"
+    },
+    {
+      "question": "What nationality is Hoesung Lee?",
+      "answer": "Korean",
+      "llm_prediction": "hoesung lee"
+    },
+    {
+      "question": "Who is the vice-chair of the IPCC?",
+      "answer": "Ismail El Gizouli",
+      "llm_prediction": "who is the vice - chair of the ipcc? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who was the first chair of the IPCC?",
+      "answer": "Bert Bolin",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "When did Pachauri resign as chair of the IPCC?",
+      "answer": "February 2015",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who is the President of the IPCC?",
+      "answer": null,
+      "llm_prediction": "?"
+    },
+    {
+      "question": "What year did Hoesung Lee become President?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who was President of the IPCC before Hoesung Lee?",
+      "answer": null,
+      "llm_prediction": "hoesung lee"
+    },
+    {
+      "question": "In what year did El Gizouli resign from the IPCC?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who was the first President of the IPCC?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who is on the IPCC Panel?",
+      "answer": "representatives appointed by governments and organizations",
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "How many people attended the 2003 IPCC meeting?",
+      "answer": "350",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "What kind of people attend the IPCC meetings?",
+      "answer": "government officials and climate change experts",
+      "llm_prediction": "what kind of people attend the ipcc meetings? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific"
+    },
+    {
+      "question": "How much of the IPCC attendees are government representatives?",
+      "answer": "about seven-eighths",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Which non-governmental groups are participants of the plenary sessions?",
+      "answer": null,
+      "llm_prediction": "the world meteorological organization ( wmo ) and the united nations environment programme ( unep )"
+    },
+    {
+      "question": "Which IPCC sessions are open to everyone?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What year did more than 375 officials attend the IPCC Bureau session?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Which sessions had a majority attendance from non-governmental organizations?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What session did the IPCC panel attend before the opening ceremonies?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "When was the IPCC Trust Fund founded?",
+      "answer": "1989",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who started the IPCC Trust Fund?",
+      "answer": "the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO)",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who funds the IPCC's Secretary?",
+      "answer": "World Meteorological Organization",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who funds the IPCC's Deputy Secretary?",
+      "answer": "United Nations Environment Programme",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What rules does the IPCC have to follow?",
+      "answer": "the Financial Regulations and Rules of the WMO",
+      "llm_prediction": "what rules"
+    },
+    {
+      "question": "To what trust does the IPCC give funding?",
+      "answer": null,
+      "llm_prediction": "what trust"
+    },
+    {
+      "question": "Which organization covers the cost of the President of the IPCC?",
+      "answer": null,
+      "llm_prediction": "intergovernmental panel on climate change"
+    },
+    {
+      "question": "When was UNEP founded?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who distributes money from the annual trust fund?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who is not required to follow financial rules and regulations?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What does the IPCC not do?",
+      "answer": "does not carry out research nor does it monitor climate related data",
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Where do IPCC reports get their information?",
+      "answer": "available information about climate change based on published sources",
+      "llm_prediction": "at the request of member governments"
+    },
+    {
+      "question": "What is 'grey literature'?",
+      "answer": "non-peer-reviewed sources",
+      "llm_prediction": "grey literature"
+    },
+    {
+      "question": "What kind of non-peer-reviewed sources does the IPCC use?",
+      "answer": "model results, reports from government agencies and non-governmental organizations, and industry journals",
+      "llm_prediction": "the ipcc produces reports that support the united nations framework convention on climate change"
+    },
+    {
+      "question": "Who is responsible for monitoring climate data?",
+      "answer": null,
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "What organization does climate related research?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What guidelines are used for IPCC reviews?",
+      "answer": null,
+      "llm_prediction": "guidelines"
+    },
+    {
+      "question": "What must all research be according to the IPCC guidelines?",
+      "answer": null,
+      "llm_prediction": "what must all research be according to the ipcc guidelines? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "What is an example of a peer-reviewed resource?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "How many coordinating lead authors does an IPCC report chapter have?",
+      "answer": "two",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many lead authors does an IPCC report chapter have?",
+      "answer": "ten to fifteen",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many contributing authors does an IPCC report chapter have?",
+      "answer": "a somewhat larger number",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "Who assembles the authors' contributions?",
+      "answer": "The coordinating lead authors",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who do coordinating lead authors report to?",
+      "answer": "the Working Group chairs",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What is the one lead author responsible for?",
+      "answer": null,
+      "llm_prediction": "what is the one lead author responsible for? [SEP] the intergovernmental panel on climate change"
+    },
+    {
+      "question": "How many chapters have coordinating lead authors?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "Who do the contributing authors report to?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who has the responsibility for publishing materials?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who do the lead authors prepare graphs and data for?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What does the WG I Summary for Policymakers report say human activities are doing to greenhouse gases?",
+      "answer": "substantially increasing the atmospheric concentrations",
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What do increased greenhouse gases cause?",
+      "answer": "additional warming of the Earth's surface",
+      "llm_prediction": "increased greenhouse gases cause? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "How much of the greenhouse effect is due to carbon dioxide?",
+      "answer": "over half",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "What is the scenario called in which we don't change our greenhouse gas creation practices?",
+      "answer": "\"business as usual\" (BAU)",
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "How much has global mean surface air temperature changed in the last century?",
+      "answer": "increased by 0.3 to 0.6 °C",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What summary says that human activity is responsible for the earths cooling?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "How much are CO2 levels expected to increase under the business as usual scenario?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much are CO2 levels expected to increase over the next 100 years?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do climate models predict will increase by as much as 0.6 degrees C in the next 100 years?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When will enhanced greenhouse effect reach alarming levels?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "When was the joint statement on climate change issued?",
+      "answer": "2001",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "How many organizations issued the joint statement on climate change?",
+      "answer": "16 national science academies",
+      "llm_prediction": "two"
+    },
+    {
+      "question": "Which journal was the joint statement published in?",
+      "answer": "Science",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How sure did the statement say scientists were that temperatures would keep rising?",
+      "answer": "at least 90%",
+      "llm_prediction": "temperatures would keep rising"
+    },
+    {
+      "question": "How much did the statement predict global surface temperature would increase by 2100?",
+      "answer": "between 1.4 and 5.8 °C above 1990 levels",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did 12 national science academies issue a joint statement on climate change?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Which society was responsible for the publication of the joint statement?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What journal was the facts of climate change published in?",
+      "answer": null,
+      "llm_prediction": "what journal was the facts of climate change published in? [SEP] the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Who concluded that CO2 would raise by 90%?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What year is average CO2 levels expected to increase by 90%?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Which IPCC author criticized the TAR?",
+      "answer": "Richard Lindzen",
+      "llm_prediction": "which ipcc author criticized the tar? [SEP] the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What did Lindzen criticize about the Summary for Policymakers?",
+      "answer": "does not faithfully summarize the full WGI report",
+      "llm_prediction": "climate change"
+    },
+    {
+      "question": "Who responded to Lindzen's criticisms?",
+      "answer": "John Houghton",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Houghton's role?",
+      "answer": "a co-chair of TAR WGI",
+      "llm_prediction": "a scientific intergovernmental body"
+    },
+    {
+      "question": "What did Houghton say is necessary for any changes to the SPM?",
+      "answer": "scientific evidence",
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Which organization faithfully summaarized the WGI report?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is one of the authors of the WGI Summary?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who has said that climate models are uncertain?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which organizations delegates has a disagreement with the SPM?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Changes to what have the support of scientific evidence?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "How does the IPCC prepare Special Reports?",
+      "answer": "the same procedures as for IPCC Assessment Reports",
+      "llm_prediction": "request of member governments"
+    },
+    {
+      "question": "When was the Special Report on Renewable Energy Sources and Climate Change Mitigation (SRREN) issued?",
+      "answer": "2011",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "When was the Special Report on Managing Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX) issued?",
+      "answer": "2011",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Why were the 2011 Special Reports issued?",
+      "answer": "requested by governments",
+      "llm_prediction": "to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Which organization only has the responsibility for writing climate assessment reports?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which reports follow a different procedure than the assessment reports?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Which year were two assessment reports finalized?",
+      "answer": null,
+      "llm_prediction": "resolution 43 / 53"
+    },
+    {
+      "question": "What is one of the two assessment reports published in 2011?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What 2011 report was requested by the IPCC?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What other activities does the UNFCCC require the IPCC to run?",
+      "answer": "the Data Distribution Centre and the National Greenhouse Gas Inventories Programme",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is used to estimate emissions?",
+      "answer": "default emission factors",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Levels of what things are used to determine emission factors?",
+      "answer": "fuel consumption, industrial production and so on",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What councils assign tasks to the IPCC?",
+      "answer": "WMO Executive Council and UNEP Governing Council",
+      "llm_prediction": "the world meteorological organization ( wmo ) and the united nations environment programme ( unep )"
+    },
+    {
+      "question": "Who runs the UNEP Council?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Which organization does the UNFCCC processes support?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one of the minor functions of the IPCC?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "Who is responsible for running the National Greenhouse Gas Inventories Programme?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What measures the levels of fuel consumption?",
+      "answer": null,
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "What did the IPCC say was mistaken?",
+      "answer": "the date",
+      "llm_prediction": "dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What did the IPCC apologize for?",
+      "answer": "\"the poor application of well-established IPCC procedures in this instance\"",
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What was the source of the mistake?",
+      "answer": "the WWF report",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What report had the correct date?",
+      "answer": "\"Variations of Snow and Ice in the past and at present on a Global and Regional Scale\"",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which date was affirmed by the IPCC?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "What did policymakers create for the IPCC?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Who was given a projection included in the final summary?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the name of the WWF report?",
+      "answer": null,
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "What was Robert Watson's role in the IPCC?",
+      "answer": "IPCC chairman",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What direction did Watson say the mistake went in?",
+      "answer": "making it seem like climate change is more serious by overstating the impact",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What was Martin Parry's role in the IPCC?",
+      "answer": "co-chair of the IPCC working group II",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What was the topic of the error?",
+      "answer": "Himalayan glaciers",
+      "llm_prediction": "climate change"
+    },
+    {
+      "question": "What was the verdict on other alleged errors?",
+      "answer": "\"generally unfounded and also marginal to the assessment\"",
+      "llm_prediction": "to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who said that climate change has been overstated?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who should be concerned with the trend to under state the effects of climate change?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Who published an error regarding the Himalayan glaciers?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What substantial error put the IPCC research in doubt?",
+      "answer": null,
+      "llm_prediction": "substantial error"
+    },
+    {
+      "question": "Who created assessments that were found to have substantial errors?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "When was the paper published that the \"Millennial Northern Hemisphere temperature reconstruction\" graph was based on?",
+      "answer": "1999",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who wrote the paper that the \"Millennial Northern Hemisphere temperature reconstruction\" graph was based on?",
+      "answer": "Michael E. Mann, Raymond S. Bradley and Malcolm K. Hughes",
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What is the nickname for the \"Millennial Northern Hemisphere temperature reconstruction\" graph?",
+      "answer": "the \"hockey stick graph\"",
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What reconstructions supported the 1999 paper's information?",
+      "answer": "Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Which graph was prominently featured in the second assessment report?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What year was the third assessment report published?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "What was lacking in the second assessment report?",
+      "answer": null,
+      "llm_prediction": "what was lacking in the second assessment report"
+    },
+    {
+      "question": "Which report depicted lesser temperature variations?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In which area was the 1995 report based?",
+      "answer": null,
+      "llm_prediction": "in which area was the 1995 report based? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations"
+    },
+    {
+      "question": "What range of years was the current warming compared to?",
+      "answer": "between 1000 and 1900",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who led the Science and Environmental Policy Project?",
+      "answer": "Fred Singer",
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Where did Singer hold a press conference in May 2000?",
+      "answer": "Capitol Hill, Washington, D.C.",
+      "llm_prediction": "at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "When did Singer dispute the graph at a Senate hearing?",
+      "answer": "18 July 2000",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "What Senate committee did Singer speak to in July 2000?",
+      "answer": "United States Senate Committee on Commerce, Science and Transportation",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Which years did studies find that warming was exceptional?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who argued for including the graph in the final report?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What did Karlen and Singer present to the US senate?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "On what date did John Lawrence Daly present the IPCC 1995 report?",
+      "answer": null,
+      "llm_prediction": "1995"
+    },
+    {
+      "question": "Which graph was supported by McIntyre and McKitrick?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who was the chairman of the House Committee on Energy and Commerce?",
+      "answer": "Rep. Joe Barton",
+      "llm_prediction": "who was the chairman of the house committee on energy and commerce? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who was Chairman of the Subcommittee on Oversight and Investigations?",
+      "answer": "Ed Whitfield",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "When did Barton and Whitfield demand climate research records?",
+      "answer": "23 June 2005",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "Who was chairman of the House Science Committee?",
+      "answer": "Sherwood Boehlert",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Who said Barton's investigation was \"misguided and illegitimate\"?",
+      "answer": "Sherwood Boehlert",
+      "llm_prediction": ""
+    },
+    {
+      "question": "To whom did Rep. Joe Barton write a letter?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who kept the full records on climate research?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who suggested that the investigation was legitimate?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who were scientists intimidated by?",
+      "answer": null,
+      "llm_prediction": "scientists"
+    },
+    {
+      "question": "Which council's investigation found no statistical failings?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the IPCC Fourth Assessment Report published?",
+      "answer": "2007",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "When was the IPCC Third Assessment Report published?",
+      "answer": "2001",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "How many Medieval Warm Period reconstructions were used?",
+      "answer": "14",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many Medieval Warm Period reconstructions covered 1,000+ years?",
+      "answer": "Ten",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What problem did some tree ring data have?",
+      "answer": "divergence",
+      "llm_prediction": "climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What report excluded a graph showing temperature reconstruction?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many temperature reconstructions were included in the second assessment report?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "Who calibrated newer studies?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who analysed the Medieval Cold Period?",
+      "answer": null,
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "How many reconstructions covered more than 10,000 years?",
+      "answer": null,
+      "llm_prediction": "how many reconstructions covered more than 10, 000 years? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "When was a study published confirming the 2001 IPCC projections?",
+      "answer": "1 February 2007",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "How did the 2001 IPCC report compare to reality for 2001-2006?",
+      "answer": "temperatures and sea levels have been rising at or above the maximum rates",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did the 2001 IPCC report compare to reality on temperature levels?",
+      "answer": "actual temperature rise was near the top end of the range given",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "How did the 2001 IPCC report compare to reality on sea levels?",
+      "answer": "actual sea level rise was above the top of the range",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What did the 2007 IPCC report suggest had been decreasing? ",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "For how many years had temperatures been studied in the 2001 report?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Which projections suggested that temperatures would rise, but that sea levels would decrease?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Which projection overstated the rate at which temperatures would rise?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "Below what levels were the projected sea levels in the 2001 IPCC projection?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What danger did the IPCC understate?",
+      "answer": "projected rises in sea levels",
+      "llm_prediction": "dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "How much did the IPCC Third Assessment Report say sea levels will rise from 1990 to 2100?",
+      "answer": "9–88 cm",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much do researchers now think sea levels will rise from 1990 to 2100?",
+      "answer": "50–140 cm",
+      "llm_prediction": "the ipcc produces reports that support the united nations framework convention on climate change"
+    },
+    {
+      "question": "When was the Third Assessment Report published?",
+      "answer": "2001",
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "How much greater were 1990 sea levels than those anticipated in the year 2100?",
+      "answer": null,
+      "llm_prediction": "much greater were 1990 sea levels"
+    },
+    {
+      "question": "What was the projection of sea level increases in the forth assessment report?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who projected the 1990 levels in the third assessment report?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Which study suggests that previous estimates were overstated?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much lower did researchers suggest sea levels would be in 2100 as compared to 1990?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What role did Michael Oppenheimer have in the IPCC's reports?",
+      "answer": "coordinating lead author of the Fifth Assessment Report",
+      "llm_prediction": "what role did michael oppenheimer have in the ipcc ' s reports? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who published the State of the Planet 2008-2009 report?",
+      "answer": "Science Magazine",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What approach did Oppenheimer advocate?",
+      "answer": "concurring, smaller assessments of special problems",
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who was the author of the fourth assessment report?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the fifth assessment report written?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "What reports did Michael Oppenheimer suggest needed to contain a broad exploration of certainties? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where are dissenting opinions published?",
+      "answer": null,
+      "llm_prediction": "the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly"
+    },
+    {
+      "question": "In which magazine did Oppenheimer defend the consensus approach?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What has successfully dealt with ozone depletion?",
+      "answer": "the Montreal Protocol",
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "What did the Kyoto Protocol try to address?",
+      "answer": "Climate Change",
+      "llm_prediction": "dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Whose goals often still oppose the IPCC?",
+      "answer": "states and governments",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Kyoto Protocol dealt with which depletion?",
+      "answer": null,
+      "llm_prediction": "depletion? [SEP] the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What process do both science and governments follow?",
+      "answer": null,
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "What goals do both science and government have in common?",
+      "answer": null,
+      "llm_prediction": "to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who do states and governments often work in lockstep with?",
+      "answer": null,
+      "llm_prediction": "world meteorological organization ( wmo ) and the united nations environment programme"
+    },
+    {
+      "question": "What will be assured because of the political response to the linear model?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who said people involved in the ozone situation had \"a better understanding of scientific ignorance and uncertainties\"?",
+      "answer": "Sheldon Ungar",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What remain unsolved problems with the Kyoto Protocol?",
+      "answer": "varying regional cost-benefit analysis and burden-sharing conflicts with regard to the distribution of emission reductions",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What conflicts did the ozone mitigation reduce?",
+      "answer": "regional burden sharing conflicts",
+      "llm_prediction": "dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Who ordered the Stern Review?",
+      "answer": "the UK government",
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who stated that that scientific ignorance was what caused uncertainties of global warming?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What metaphors explained global warming? ",
+      "answer": null,
+      "llm_prediction": "metaphors explained global warming? [SEP] the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What did everyday relevance to popular culture explain?",
+      "answer": null,
+      "llm_prediction": "to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What does the public see an an imminent danger?",
+      "answer": null,
+      "llm_prediction": "the public see an an imminent danger? [SEP] the intergovernmental panel on climate change"
+    },
+    {
+      "question": "What was one of the problems solved by the Kyoto Protocol?",
+      "answer": null,
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "What does the IPCC rely on for research?",
+      "answer": "other scientific bodies",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What can the IPCC's report deadlines cause to be omitted?",
+      "answer": "significant new evidence or events that change our understanding of climate science",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who is seen as the ultimate climate change authority?",
+      "answer": "IPCC",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What organization is responsible for their own research?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "Who benefits from the research carried out by the IPCC?",
+      "answer": null,
+      "llm_prediction": "?"
+    },
+    {
+      "question": "What area of science is understanding slowly changing?",
+      "answer": null,
+      "llm_prediction": "panel on climate change"
+    },
+    {
+      "question": "What report has the problem of a lack of scientific confidence?",
+      "answer": null,
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "How many scientists called to change the IPCC in Feb 2010?",
+      "answer": "five",
+      "llm_prediction": "how many scientists called to change the ipcc in feb 2010? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "Where was the Feb 2010 call for change published?",
+      "answer": "the journal Nature",
+      "llm_prediction": "where was the feb 2010 call for change published? [SEP] the intergovernmental panel on climate change ( ipcc ) is a scientific intergovernmental body under the auspices of the united nations, set up at the request of member governments. it was first established in 1988 by two united nations organizations, the world meteorological organization ( wmo ) and the united nations environment programme ( unep ), and later endorsed by the united nations general assembly through resolution 43 / 53. membership of the ipcc is open to all members of the wmo and unep. the ipcc produces reports that support the united nations framework convention on climate change ( unfccc ), which is the main international treaty on climate change. the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    },
+    {
+      "question": "What was one proposal to let the IPCC respond to new evidence faster?",
+      "answer": "turning the whole climate science assessment process into a moderated \"living\" Wikipedia-IPCC",
+      "llm_prediction": "the intergovernmental panel on climate change"
+    },
+    {
+      "question": "How was it suggested that the IPCC avoid political problems?",
+      "answer": "remove government oversight from its processes",
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "What date was the Fourth Assessment Report published?",
+      "answer": null,
+      "llm_prediction": "1988"
+    },
+    {
+      "question": "In which journal did five lead IPCC authors call for support of the IPCC?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who called for more government oversight into the IPCC?",
+      "answer": null,
+      "llm_prediction": "united nations"
+    },
+    {
+      "question": "What did the IPCC complain was happening from government oversight?",
+      "answer": null,
+      "llm_prediction": "the ultimate objective of the unfccc is to \" stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system \". ipcc reports cover \" the scientific, technical and socio - economic information relevant to understanding the scientific basis of risk of human - induced climate change"
+    },
+    {
+      "question": "What is one way the current IPCC responds to new evidence quickly?",
+      "answer": null,
+      "llm_prediction": "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic [ i. e., human - induced ] interference with the climate system"
+    }
+  ]
+}

@@ -1,0 +1,2016 @@
+{
+  "title": "French_and_Indian_War",
+  "context": "The French and Indian War (1754–1763) was the North American theater of the worldwide Seven Years' War. The war was fought between the colonies of British America and New France, with both sides supported by military units from their parent countries of Great Britain and France, as well as Native American allies. At the start of the war, the French North American colonies had a population of roughly 60,000 European settlers, compared with 2 million in the British North American colonies. The outnumbered French particularly depended on the Indians. Long in conflict, the metropole nations declared war on each other in 1756, escalating the war from a regional affair into an intercontinental conflict.",
+  "qas": [
+    {
+      "question": "When was the French and Indian War?",
+      "answer": "1754–1763",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Who fought in the French and Indian war?",
+      "answer": "colonies of British America and New France",
+      "llm_prediction": "the colonies of british america and new france"
+    },
+    {
+      "question": "How many people were in French North American Colonies?",
+      "answer": "roughly 60,000 European settlers",
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "How many people were in British North American Colonies?",
+      "answer": "2 million",
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "When wasn't the French and Indian War?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "When was the French and Indian Treaty?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Who allied in the French and Indian war?",
+      "answer": null,
+      "llm_prediction": "british america and new france"
+    },
+    {
+      "question": "How many people weren't in French North American Colonies?",
+      "answer": null,
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "How many people weren't in British North American Colonies?",
+      "answer": null,
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "Where was war fought?",
+      "answer": "primarily along the frontiers between New France and the British colonies",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did war start?",
+      "answer": "dispute over control of the confluence of the Allegheny and Monongahela rivers, called the Forks of the Ohio",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did violence start in war?",
+      "answer": "Battle of Jumonville Glen in May 1754,",
+      "llm_prediction": "1756"
+    },
+    {
+      "question": "Where wasn't war fought?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How didn't war start?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How did peace start?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did violence end in war?",
+      "answer": null,
+      "llm_prediction": "1756"
+    },
+    {
+      "question": "When didn't violence start in war?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "When did colonial governors meet with General Edward Braddock about attack on the french?",
+      "answer": "1755",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "How successful was initial effort by Braddock?",
+      "answer": "disaster; he was defeated in the Battle of the Monongahela",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Why did British operation fail in 1755, 56, 57?",
+      "answer": "combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In 1755 what fort did British capture?",
+      "answer": "Fort Beauséjour",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What order did British make of French?",
+      "answer": "expulsion of the Acadians",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "When did colonial governors meet with General Edward Braddock about peace with the french?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "How unsuccessful was initial effort by Braddock?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Why did British operation succeed in 1755, 56, 57?",
+      "answer": null,
+      "llm_prediction": "british operation succeed in 1755, 56, 57? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "In 1755 what fort did British surrender?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What order didn't British make of French?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french"
+    },
+    {
+      "question": "Who increased British military resources in colonies?",
+      "answer": "William Pitt",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How much resources were French placing in North America?",
+      "answer": "unwilling to risk large convoys to aid the limited forces it had in New France",
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "Where was France concentraing efforts?",
+      "answer": "against Prussia and its allies in the European theatre of the war.",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where were British defeated in Canada?",
+      "answer": "Sainte Foy in Quebec",
+      "llm_prediction": "canada"
+    },
+    {
+      "question": "Who decreased British military resources in colonies?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How much resources weren't French placing in North America?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much resources were French placing in South America?",
+      "answer": null,
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "Where wasn't France concentraing efforts?",
+      "answer": null,
+      "llm_prediction": "where wasn ' t france concentraing efforts? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where were French defeated in Canada?",
+      "answer": null,
+      "llm_prediction": "canada"
+    },
+    {
+      "question": "What territory was ceded to Britain?",
+      "answer": "territory east of the Mississippi to Great Britain",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What land was ceded to Spain?",
+      "answer": "French Louisiana west of the Mississippi River (including New Orleans) to its ally Spain",
+      "llm_prediction": "french north american colonies"
+    },
+    {
+      "question": "What was the significance of British win?",
+      "answer": "confirming Britain's position as the dominant colonial power in eastern North America",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What territory wasn't ceded to Britain?",
+      "answer": null,
+      "llm_prediction": "what territory"
+    },
+    {
+      "question": "What territory was ceded to France?",
+      "answer": null,
+      "llm_prediction": "territory"
+    },
+    {
+      "question": "What land wasn't ceded to Spain?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the insignificance of British win?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the significance of British loss?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was King George's war?",
+      "answer": "1740s",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the confusion of the French and Indian war?",
+      "answer": "Indians fought on both sides of the conflict, and that this was part of the Seven Years' War",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was the Seven Years War?",
+      "answer": "much larger conflict between France and Great Britain",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 )"
+    },
+    {
+      "question": "What are other alternative names for French and Indian War?",
+      "answer": "Fourth Intercolonial War and the Great War for the Empire",
+      "llm_prediction": "french and indian war? [SEP] the french and indian war"
+    },
+    {
+      "question": "When wasn't King George's war?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "When was Queen George's war?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What isn't the confusion of the French and Indian war?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was the Six Years War?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What aren't other alternative names for French and Indian War?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What time framd does the Seven Years War cover?",
+      "answer": "declaration of war in 1756 to the signing of the peace treaty in 1763",
+      "llm_prediction": "seven years war cover? [SEP] the french and indian war ( 1754 – 1763"
+    },
+    {
+      "question": "How long did the fighting last in Seven Years War?",
+      "answer": "six years",
+      "llm_prediction": "seven years war? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "When was Montreal captured?",
+      "answer": "1760",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was first battle in 1754?",
+      "answer": "Battle of Jumonville Glen",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What time frame doesn't the Seven Years War cover?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763"
+    },
+    {
+      "question": "What time frame does the Six Years War cover?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "When was Montreal not captured?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How long didn't the fighting last in Seven Years War",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was first battle in 1745?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was French population in North America?",
+      "answer": "about 75,000",
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "Where were French North Americans settled?",
+      "answer": "heavily concentrated along the St. Lawrence River valley, with some also in Acadia",
+      "llm_prediction": "the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies"
+    },
+    {
+      "question": "Where did French fur trappers travel?",
+      "answer": "St. Lawrence and Mississippi watersheds, did business with local tribes, and often married Indian women",
+      "llm_prediction": "the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What wasn't the French population in North America?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was French population in South America?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where were French North Americans unsettled?",
+      "answer": null,
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where were French South Americans settled?",
+      "answer": null,
+      "llm_prediction": "french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies"
+    },
+    {
+      "question": "Where didn't French fur trappers travel?",
+      "answer": null,
+      "llm_prediction": "french fur trappers travel? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was the ratio of British settler to French?",
+      "answer": "20 to 1",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Where did British settlers live?",
+      "answer": "from Nova Scotia and Newfoundland in the north, to Georgia in the south",
+      "llm_prediction": "the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies"
+    },
+    {
+      "question": "Where were populations centered in colonies?",
+      "answer": "along the coast, the settlements were growing into the interior",
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "What wasn't the ratio of British settlers to French?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was the ratio of British settler to English?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Where didn't British settlers live?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did British soldiers live?",
+      "answer": null,
+      "llm_prediction": "the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies"
+    },
+    {
+      "question": "Where weren't populations centered in colonies?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In between French and British, what groups controlled land?",
+      "answer": "native tribes",
+      "llm_prediction": "the colonies of british america and new france"
+    },
+    {
+      "question": "What tribes were in Father Le Loutre's War?",
+      "answer": "Mi'kmaq and the Abenaki",
+      "llm_prediction": "what tribes were in father le loutre ' s war? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france"
+    },
+    {
+      "question": "Where did Iroquois Confederation control?",
+      "answer": "present-day Upstate New York and the Ohio Country",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What rule did some native live under?",
+      "answer": "Iroquois rule, and were limited by them in authority to make agreements",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "In between French and British, what groups never controlled land?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In between Canadians and British, what groups controlled land?",
+      "answer": null,
+      "llm_prediction": "military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians. long in conflict, the metropole nations"
+    },
+    {
+      "question": "What tribes weren't in Father Le Loutre's War?",
+      "answer": null,
+      "llm_prediction": "british america and new france"
+    },
+    {
+      "question": "Where didn't Iroquois Confederation control?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What rule didn't some native live under?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What are the Siouan-speaking tribes?",
+      "answer": "Catawba, Muskogee-speaking Creek and Choctaw",
+      "llm_prediction": "siouan - speaking tribes"
+    },
+    {
+      "question": "What areas did French recruit natives from?",
+      "answer": "western portions of the Great Lakes region",
+      "llm_prediction": "great britain and france"
+    },
+    {
+      "question": "What tribes supported British?",
+      "answer": "Iroquois Six Nations, and also by the Cherokee",
+      "llm_prediction": "both sides supported by military units from their parent countries of great britain and france, as well as native american allies"
+    },
+    {
+      "question": "What aren't the Siouan-speaking tribes?",
+      "answer": null,
+      "llm_prediction": "siouan - speaking tribes? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What are the Siouan-speaking British?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What areas did French reject natives from?",
+      "answer": null,
+      "llm_prediction": "great britain and france"
+    },
+    {
+      "question": "What areas did English recruit natives from?",
+      "answer": null,
+      "llm_prediction": "great britain and france"
+    },
+    {
+      "question": "What tribes hated British?",
+      "answer": null,
+      "llm_prediction": "metropole nations"
+    },
+    {
+      "question": "What was Frensh military presence at start of war?",
+      "answer": "no French regular army troops were stationed in North America",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How much British military was in North America at start of War?",
+      "answer": "few British troops",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was normal British defense?",
+      "answer": "mustered local militia companies, generally ill trained and available only for short periods, to deal with native threats, but did not have any standing forces.",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was French military presence at end of war?",
+      "answer": null,
+      "llm_prediction": "french military presence"
+    },
+    {
+      "question": "What was French military presence at start of peace?",
+      "answer": null,
+      "llm_prediction": "french military presence"
+    },
+    {
+      "question": "How much British military was in North America at end of War?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How much British military was in South America at start of War?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was abnormal British defense?",
+      "answer": null,
+      "llm_prediction": "depended on the indians"
+    },
+    {
+      "question": "What was extent of Celeron's expedition?",
+      "answer": "about 3,000 miles (4,800 km) between June and November 1749.",
+      "llm_prediction": "celeron ' s expedition? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who was on Celeron's expedition?",
+      "answer": "200 Troupes de la marine and 30 Indians",
+      "llm_prediction": "the outnumbered french"
+    },
+    {
+      "question": "How did Celeron handle business on trip?",
+      "answer": "British merchants or fur-traders, Céloron informed them of the French claims on the territory and told them to leave.",
+      "llm_prediction": "celeron handle business on trip? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was intent of Celeron's expedition?",
+      "answer": null,
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What wasn't extent of Celeron's expedition?",
+      "answer": null,
+      "llm_prediction": "celeron ' s expedition? [SEP] the french and indian war"
+    },
+    {
+      "question": "Who wasn't on Celeron's expedition?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was on Celery's expedition?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french"
+    },
+    {
+      "question": "How didn't Celeron handle business on trip?",
+      "answer": null,
+      "llm_prediction": "celeron handle business on trip? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How did Natives in Logstown take Celeron's information?",
+      "answer": "informed Céloron that they owned the Ohio Country and that they would trade with the British regardless of the French",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Old Briton call home?",
+      "answer": "village of Pickawillany",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did Celeron handle meeting with Old Briton?",
+      "answer": "threatened \"Old Briton\" with severe consequences if he continued to trade with the British",
+      "llm_prediction": "celeron handle meeting with old briton? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was Old Briton's response to Celeron?",
+      "answer": "ignored the warning.",
+      "llm_prediction": "celeron? [SEP] the french and indian war"
+    },
+    {
+      "question": "How didn't Natives in Logstown take Celeron's information?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where didn't Old Briton call home?",
+      "answer": null,
+      "llm_prediction": "where didn ' t old briton call home? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where did New Briton call home?",
+      "answer": null,
+      "llm_prediction": "new briton call home? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How did Celeron handle meeting with New Briton?",
+      "answer": null,
+      "llm_prediction": "celeron handle meeting with new briton? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was New Briton's response to Celeron?",
+      "answer": null,
+      "llm_prediction": "celeron? [SEP] the french and indian war"
+    },
+    {
+      "question": "How did Celeron feel about Native relations?",
+      "answer": "very badly disposed towards the French, and are entirely devoted to the English",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How were leaders back in Europe feeling about news from Celeron expedition?",
+      "answer": "proposing that action be taken",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How did William Shirley feel about French advancement?",
+      "answer": "British colonists would not be safe as long as the French were present",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How didn't Celeron feel about Native relations?",
+      "answer": null,
+      "llm_prediction": "both sides supported by military units from their parent countries of great britain and france, as well as native american allies."
+    },
+    {
+      "question": "How did Celeron feel about Native languages?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How weren't leaders back in Europe feeling about news from Celeron expedition?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How were citizens back in Europe feeling about news from Celeron expedition?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How did William Shirley feel about English advancement?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "When did British government give land for development of Ohio Country?",
+      "answer": "1749",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Who was given land by British goovernment for development of Ohio Country?",
+      "answer": "Ohio Company of Virginia",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Who explored Ohio territory in 1750?",
+      "answer": "Christopher Gist",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What agreement was made for trade with natives and British?",
+      "answer": "Treaty of Logstown",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "According to agreement between Iroquois and British, where was a strong house to be built?",
+      "answer": "mouth of the Monongahela River (the site of present-day Pittsburgh, Pennsylvania)",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "When did British government take land for development of Ohio Country?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Who wasn't given land by British goovernment for development of Ohio Country?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Who explored Ohio territory in 1570?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What disagreement was made for trade with natives and British?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "According to disagreement between Iroquois and British, where was a strong house to be built?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the North American portion of War of Austrian Succession?",
+      "answer": "King George's War",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was the end of the War of the Austrian Succession?",
+      "answer": "1748 with the signing of the Treaty of Aix-la-Chapelle",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What issues were not addressed in the Treaty of Aix-la-Chapelle?",
+      "answer": "conflicting territorial claims between British and French",
+      "llm_prediction": "treaty of aix - la - chapelle? [SEP] the french and indian war"
+    },
+    {
+      "question": "When a commission reached no decision, what happened?",
+      "answer": "Frontiers from between Nova Scotia and Acadia in the north, to the Ohio Country in the south, were claimed by both sides",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the South American portion of War of Austrian Succession?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was the North American portion of War of Australian Succession?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was the end of the War of the Australian Succession?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What issues were addressed in the Treaty of Aix-la-Chapelle?",
+      "answer": null,
+      "llm_prediction": "treaty of aix - la - chapelle? [SEP] the french and indian war"
+    },
+    {
+      "question": "When a commission reached a decision, what happened?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What Governor in charge of New France died in 1752?",
+      "answer": "Marquis de la Jonquière",
+      "llm_prediction": "what governor in charge of new france died in 1752? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many were in Langlades expedition?",
+      "answer": "300 men, including French-Canadians and warriors of the Ottawa",
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "Was was the plan for Langlades mission?",
+      "answer": "punish the Miami people of Pickawillany for not following Céloron's orders to cease trading with the British",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was result of French attack of trading centre?",
+      "answer": "capturing three traders and killing 14 people of the Miami nation, including Old Briton",
+      "llm_prediction": "french attack of trading centre? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What Governor in charge of New France died in 1725?",
+      "answer": null,
+      "llm_prediction": "what governor in charge of new france died in 1725? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What Governor wasn't in charge of New France died in 1752?",
+      "answer": null,
+      "llm_prediction": "what governor wasn ' t in charge of new france died in 1752? [SEP] the french and indian war"
+    },
+    {
+      "question": "How many weren't in Langlades expedition?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Was wasn't the plan for Langlades mission?",
+      "answer": null,
+      "llm_prediction": "langlades mission? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was result of French attack of the school?",
+      "answer": null,
+      "llm_prediction": "french attack of the school? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who took command of French in spring of 1753?",
+      "answer": "Paul Marin de la Malgue",
+      "llm_prediction": "who took command of french in spring of 1753? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where did Marin build first fort?",
+      "answer": "Fort Presque Isle (near present-day Erie, Pennsylvania",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was Marin's second fort constructed?",
+      "answer": "Fort Le Boeuf (present-day Waterford, Pennsylvania",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Marin's orders?",
+      "answer": "protect the King's land in the Ohio Valley from the British",
+      "llm_prediction": "supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What native chief travelled to French fort and threatened Marin?",
+      "answer": "Tanaghrisson",
+      "llm_prediction": "what native chief travelled to french fort and threatened marin? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who took command of French in spring of 1735?",
+      "answer": null,
+      "llm_prediction": "who took command of french in spring of 1735? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where did Marin build last fort?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was Marin's first fort constructed?",
+      "answer": null,
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What wasn't Marin's orders?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What native chief travelled to French fort and helped Marin?",
+      "answer": null,
+      "llm_prediction": "what native chief travelled to french fort and helped marin? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What was William Johnson's role in British military?",
+      "answer": "British Superintendent for Indian Affairs in the New York region and beyond",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was William Johnson's Iroquois name?",
+      "answer": "Warraghiggey, meaning \"He who does great things.\"",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What title did Iroquois give Johnson?",
+      "answer": "colonel of the Iroquois",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Who was the speaker of the tribal council?",
+      "answer": "Mohawk Chief Hendrick",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What wasn't William Johnson's role in British military?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was William Johnson's role in French military?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was William Johnson's Sioux name?",
+      "answer": null,
+      "llm_prediction": "william johnson ' s sioux name? [SEP] the french and indian war"
+    },
+    {
+      "question": "What title did Sioux give Johnson?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was the reader of the tribal council?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Governon Robert Dinwiddie had an investment in what significan company?",
+      "answer": "Ohio Company",
+      "llm_prediction": "governon robert dinwiddie"
+    },
+    {
+      "question": "Who did Dinwiddie order to address French in Virginia territory?",
+      "answer": "Major George Washington",
+      "llm_prediction": "the metropole nations"
+    },
+    {
+      "question": "Who was added to party as Washington went on the way?",
+      "answer": "Jacob Van Braam as an interpreter; Christopher Gist, a company surveyor working in the area; and a few Mingo led by Tanaghrisson",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Washington reach Fort Le Boeuf?",
+      "answer": "December 12",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Governor Robert Dinwiddie had an investment in what insignificant company?",
+      "answer": null,
+      "llm_prediction": "the indians"
+    },
+    {
+      "question": "Minister Robert Dinwiddie had an investment in what significant company?",
+      "answer": null,
+      "llm_prediction": "the indians"
+    },
+    {
+      "question": "Who didn't Dinwiddie order to address French in Virginia territory?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was lost to the party as Washington went on the way?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When didn't Washington reach Fort Le Boeuf?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763"
+    },
+    {
+      "question": "Who invited Washington to dine with him?",
+      "answer": "Jacques Legardeur de Saint-Pierre",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What letter did Washington present to  Saint-Pierre ?",
+      "answer": "Dinwiddie demanding an immediate French withdrawal from the Ohio Country",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "How did Saint-Pierre respond to Washington?",
+      "answer": "As to the Summons you send me to retire, I do not think myself obliged to obey it.",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Why did French feel they had right to Ohio claim?",
+      "answer": "France's claim to the region was superior to that of the British",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who uninvited Washington to dine with him?",
+      "answer": null,
+      "llm_prediction": "washington"
+    },
+    {
+      "question": "Who invited Washington to fight with him?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What letter didn't Washington present to Saint-Pierre ?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "How did Saint-Girard respond to Washington?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Why did French feel they had no right to Ohio claim?",
+      "answer": null,
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many men did Duquesne send to relieve  Saint-Pierre ?",
+      "answer": "Contrecœur led 500 men south from Fort Venango on April 5, 1754",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did British begin to build fort under William Trent?",
+      "answer": "early months of 1754",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "What was the fort that was being built to be named?",
+      "answer": "Fort Duquesne.",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "How many women did Duquesne send to relieve Saint-Pierre ?",
+      "answer": null,
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "How many men did Duquesne send to kill Saint-Pierre ?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When didn't British begin to build fort under William Trent?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "What was the fort that was being destroyed to be named?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What wasn't the fort that was being built to be named?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Upon learning of a French scounting party in the area, what did Washington do?",
+      "answer": "with Tanaghrisson and his party, surprised the Canadians on May 28 in what became known as the Battle of Jumonville Glen",
+      "llm_prediction": "the metropole nations declared war on each other"
+    },
+    {
+      "question": "What were casualties of battle?",
+      "answer": "killed many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was Tanaghrisson supporting British efforts?",
+      "answer": "regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",
+      "llm_prediction": "depended on the indians"
+    },
+    {
+      "question": "When didn't Washington learn about Trent's retreat?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "When did Washington learn about Trent's advance?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Upon learning of a French scounting party in the area, what didn't Washington do?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What weren't the casualties of battle?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was Tanaghrisson rejecting British efforts?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the goal of Braddock's expedition?",
+      "answer": "dislodge the French",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "When did French learn about Braddock's plans?",
+      "answer": "plans leaked to France well before Braddock's departure",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "How did King Louis XV respond to British plans?",
+      "answer": "dispatched six regiments to New France under the command of Baron Dieskau in 1755.",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What were British plans against French?",
+      "answer": "blockade French ports, sent out their fleet in February 1755",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the goal of Haddock's expedition?",
+      "answer": null,
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What wasn't the goal of Braddock's expedition?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "When didn't French learn about Braddock's plans?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "How did King Louis X respond to British plans?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What were British plans allied with the French?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What political response was convening in June/July 1754?",
+      "answer": "Albany Congress",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was the goal of congress?",
+      "answer": "formalize a unified front in trade and negotiations with various Indians, since allegiance of the various tribes and nations was seen to be pivotal",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Was the plan formalized?",
+      "answer": "The plan that the delegates agreed to was never ratified by the colonial legislatures nor approved of by the crown",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the importance of the congress?",
+      "answer": "format of the congress and many specifics of the plan became the prototype for confederation during the War of Independence",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What political response was convening in June/July 1745?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What political response wasn't convening in June/July 1754?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What wasn't the goal of congress?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Was the plan informalized?",
+      "answer": null,
+      "llm_prediction": "the metropole nations declared war on each other in 1756, escalating the war from a regional affair into an intercontinental conflict."
+    },
+    {
+      "question": "What was the unimportance of the congress?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who went to Fort Dusquesne in June 1755?",
+      "answer": "Braddock (with George Washington as one of his aides) led about 1,500 army troops",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much success did this expedition with Braddock find?",
+      "answer": "The expedition was a disaster",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many casualties did British get?",
+      "answer": "Approximately 1,000 British soldiers were killed or injured.",
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "What future Revolutionary key figures participated in this attack?",
+      "answer": "Washington and Thomas Gage",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who went to Fort Dusquesne in June 1745?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who went to Fort Dusquesne in July 1755?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much success didn't this expedition with Braddock find?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many casualties didn't British get?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What future Revolutionary key figures never participated in this attack?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Whose activities were the French able to gain knowledge of?",
+      "answer": "Shirley and Johnson.",
+      "llm_prediction": "the french able to gain knowledge of? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What difficulties was Shirly having?",
+      "answer": "efforts to fortify Oswego were bogged down in logistical difficulties, exacerbated by Shirley's inexperience",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Where was Shirey going to be when Fort Oswego was to be attacked?",
+      "answer": "planned to attack Fort Niagara",
+      "llm_prediction": "fort oswego"
+    },
+    {
+      "question": "Who did Shirley leave at Oswego?",
+      "answer": "garrisons",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Whose activities were the French able to lose knowledge of?",
+      "answer": null,
+      "llm_prediction": "the french able to lose knowledge of? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Whose activities weren't the French able to gain knowledge of?",
+      "answer": null,
+      "llm_prediction": "the french able to gain knowledge of? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What difficulties wasn't Shirly having?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Where was Shirey going to be when Fort Oswego wasn't to be attacked?",
+      "answer": null,
+      "llm_prediction": "where was shirey going to be when fort oswego wasn ' t to be attacked? [SEP] the french and indian war"
+    },
+    {
+      "question": "Who did Shirley not leave at Oswego?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french"
+    },
+    {
+      "question": "Who was New France's governor?",
+      "answer": "Marquis de Vaudreuil.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did Vaudreuil react when Johnson was seen as larger threat?",
+      "answer": "sent Dieskau to Fort St. Frédéric to meet that threat",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Who won the battle of Lake George?",
+      "answer": "inconclusively, with both sides withdrawing from the field",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Johnson stop?",
+      "answer": "Fort William Henry",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was French withdrawal to?",
+      "answer": "Ticonderoga Point,",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who was Old France's governor?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did Vaudreuil react when Johnson was seen as a lesser threat?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Who won the battle of Lake Niagara?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Johnson start?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was French advance to?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who captured Fort Beausejour?",
+      "answer": "Colonel Monckton",
+      "llm_prediction": "the colonies of british america and new france"
+    },
+    {
+      "question": "How were British able to cut supplies to Louisbourg?",
+      "answer": "deportation of the French-speaking Acadian population from the area.",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What other clashes were involved in taking Louisbourg?",
+      "answer": "Petitcodiac in 1755 and at Bloody Creek near Annapolis Royal in 1757",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Who never captured Fort Beausejour?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who captured Port Beausejour?",
+      "answer": null,
+      "llm_prediction": "the colonies of british america and new france"
+    },
+    {
+      "question": "How weren't British able to cut supplies to Louisbourg?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How were British unable to cut supplies to Louisbourg?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What other clashes weren't involved in taking Louisbourg?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "After Braddock died, who controlled North American British forces?",
+      "answer": "William Shirley",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "In what meeting did Shirley lay out plans for 1756?",
+      "answer": "Albany",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What proposed attacks did Shirley plan?",
+      "answer": "capture Niagara, Crown Point and Duquesne, he proposed attacks on Fort Frontenac on the north shore of Lake Ontario",
+      "llm_prediction": "proposed attacks did shirley plan? [SEP] the french and indian war"
+    },
+    {
+      "question": "Where was Shirley planning an expedition?",
+      "answer": "through the wilderness of the Maine district and down the Chaudière River to attack the city of Quebec",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "After Braddock was born, who controlled North American British forces?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "After Braddock died, who controlled South American British forces?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "n what meeting did Shirley lay out plans for 1765?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What proposed attacks didn't Shirley plan?",
+      "answer": null,
+      "llm_prediction": "proposed attacks didn ' t shirley plan? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Where wasn't Shirley planning an expedition?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Who was appointed as second in command to Lor Loudoun in 1756?",
+      "answer": "Major General James Abercrombie",
+      "llm_prediction": "lor loudoun in 1756? [SEP] the french and indian war"
+    },
+    {
+      "question": "Who led New France reinforcements in 1756?",
+      "answer": "Major General Louis-Joseph de Montcalm",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "When did England formally declare war on France?",
+      "answer": "May 18, 1756",
+      "llm_prediction": "1756"
+    },
+    {
+      "question": "Who was appointed as third in command to Lor Loudoun in 1756?",
+      "answer": null,
+      "llm_prediction": "lor loudoun in 1756? [SEP] the french and indian war"
+    },
+    {
+      "question": "Who was appointed as second in command to Lor Loudoun in 1765?",
+      "answer": null,
+      "llm_prediction": "lor loudoun in 1765? [SEP] the french and indian war"
+    },
+    {
+      "question": "Who didn't led New France reinforcements in 1756?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who led New France reinforcements in 1765?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "When did England formally end war on France?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was there a weakness in British supply chain?",
+      "answer": "Oneida Carry",
+      "llm_prediction": "where was there a weakness in british supply chain? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the attack on the British weakness?",
+      "answer": "Battle of Fort Bull",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How much gun powder was destroyed in attack?",
+      "answer": "45,000 pounds",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What plans of the British did this attach on Oneida Carry set back?",
+      "answer": "hopes for campaigns on Lake Ontario, and endangered the Oswego garrison",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Where wasn't there a weakness in British supply chain?",
+      "answer": null,
+      "llm_prediction": "where wasn ' t there a weakness in british supply chain? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where was there a strength in British supply chain?",
+      "answer": null,
+      "llm_prediction": "where was there a strength in british supply chain? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the attack on the British strength?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much gun powder was saved?",
+      "answer": null,
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "What plans of the British didn't this attach on Oneida Carry set back?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Who refused to act until Loudoun approved plans?",
+      "answer": "Abercrombie",
+      "llm_prediction": "loudoun"
+    },
+    {
+      "question": "Where did Montcalm move his heaquarter to show strategic advancement?",
+      "answer": "Ticonderoga",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where did Moncalm slip away to attack, left largely unprotected?",
+      "answer": "Oswego",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What disagreement did Montcalm and Indians have?",
+      "answer": "disposition of prisoners' personal effects",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Montcalm move his heaquarter to show strategic retreat?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who refused to act until Loudoun disapproved plans?",
+      "answer": null,
+      "llm_prediction": "loudoun"
+    },
+    {
+      "question": "Who refused to act until Washington approved plans?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Moncalm slip away to attack, left largely protected?",
+      "answer": null,
+      "llm_prediction": "where did moncalm slip away to attack, left largely protected? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What agreement did Montcalm and Indians have?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was Loudoun's plans for 1757?",
+      "answer": "attack on New France's capital, Quebec",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the purpose of Loudoun's troops at Fort Henry?",
+      "answer": "to distract Montcalm",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who ordered Loudoun to attack Louisbourg?",
+      "answer": "William Pitt",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Given the strength of French forces at Louisbourg, what did Loudoun do?",
+      "answer": "returned to New York amid news that a massacre had occurred at Fort William Henry.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Loudoun's plans for 1775?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What wasn't Loudoun's plans for 1757?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What wasn't the purpose of Loudoun's troops at Fort Henry?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who ordered Loudoun to defend Louisbourg?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Given the weakness of French forces at Louisbourg, what did Loudoun do?",
+      "answer": null,
+      "llm_prediction": "the metropole nations declared war"
+    },
+    {
+      "question": "What troops attacked Fort William Henry in early 1757?",
+      "answer": "French irregular forces (Canadian scouts and Indians)",
+      "llm_prediction": "what troops attacked fort william henry in early 1757? [SEP] the french and indian war"
+    },
+    {
+      "question": "On what lake did troops attack fort willima henry in winter?",
+      "answer": "Lake George",
+      "llm_prediction": "on what lake did troops attack fort willima henry"
+    },
+    {
+      "question": "During withdrawal from Fort William Henry, what did some Indian allies of French do?",
+      "answer": "attacked the British column, killing and capturing several hundred men, women, children, and slaves.",
+      "llm_prediction": "declared war"
+    },
+    {
+      "question": "What troops defended Fort William Henry in early 1757?",
+      "answer": null,
+      "llm_prediction": "what troops defended fort william henry in early 1757? [SEP] the french and indian war"
+    },
+    {
+      "question": "What troops attacked Fort William Henry in early 1775?",
+      "answer": null,
+      "llm_prediction": "what troops attacked fort william henry in early 1775? [SEP] the french and indian war"
+    },
+    {
+      "question": "On what lake did troops defend fort william henry in winter?",
+      "answer": null,
+      "llm_prediction": "on what lake did troops defend fort william henry"
+    },
+    {
+      "question": "On what lake did troops attack fort william henry in summer?",
+      "answer": null,
+      "llm_prediction": "on what lake did troops attack fort william henry"
+    },
+    {
+      "question": "During withdrawal from Fort William Henry, what did some Indian enemies of French do?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was causing New France to have issues with resupplying?",
+      "answer": "British blockade of the French coastline limited French shipping.",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What other reason caused poor supply of New France from a difficult winter?",
+      "answer": "poor harvest",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was Montcalm focusing the defense for New France?",
+      "answer": "St. Lawrence, with primary defenses at Carillon, Quebec, and Louisbourg,",
+      "llm_prediction": "where was montcalm focusing the defense for new france? [SEP] the french and indian war"
+    },
+    {
+      "question": "What was causing Old France to have issues with resupplying?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What was causing New France to have no issues with resupplying?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What other reason caused good supply of New France from a difficult winter?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What other reason caused poor supply of New France from a difficult summer?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was Montcalm focusing the offense for New France?",
+      "answer": null,
+      "llm_prediction": "where was montcalm focusing the offense for new france? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What led to Newcastle's fall from power as military advisor?",
+      "answer": "British failures in North America, combined with other failures in the European theater",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Who did Abercrombie replace as commander in chief?",
+      "answer": "Loudoun",
+      "llm_prediction": "abercrombie"
+    },
+    {
+      "question": "Pitt's plan called for what attacks?",
+      "answer": "three major offensive actions involving large numbers of regular troops",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many of the Pitt's planned expeditions were successful?",
+      "answer": "Two of the expeditions were successful, with Fort Duquesne and Louisbourg",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What led to Newcastle's rise to power as military advisor?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What led to Newcastle's fall from power as political advisor?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who didn't Abercrombie replace as commander in chief?",
+      "answer": null,
+      "llm_prediction": "who didn ' t abercrombie"
+    },
+    {
+      "question": "Who did Abercrombie replace as captain in chief?",
+      "answer": null,
+      "llm_prediction": "abercrombie"
+    },
+    {
+      "question": "How many of the Pitt's planned expeditions weren't successful?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Frenchman won Battle of Carillon?",
+      "answer": "3,600",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many troops were defeated for British in BAttle of Carillon?",
+      "answer": "18,000 regulars, militia and Native American allies",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What success did Abercrombie gain out of the defeat at Carillon?",
+      "answer": "sent John Bradstreet on an expedition that successfully destroyed Fort Frontenac",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What impact did this loss have on Abercrombie?",
+      "answer": "recalled and replaced by Jeffery Amherst, victor at Louisbourg.",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many Frenchmen lost Battle of Carillon?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Englishmen won Battle of Carillon?",
+      "answer": null,
+      "llm_prediction": "how many englishmen won battle of carillon? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How many troops were victorious for British in BAttle of Carillon?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What success did Abercrombie gain out of the win at Carillon?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What impact did this win have on Abercrombie?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In 1758 what was duc de Choiseul's plan for focused military efforts?",
+      "answer": "invasion of Britain, to draw British resources away from North America and the European mainland",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "How successful was the French revised efforts?",
+      "answer": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+      "llm_prediction": "the french revised efforts? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What naval battles did France lose in 1759?",
+      "answer": "Lagos and Quiberon Bay.",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "In 1785 what was duc de Choiseul's plan for focused military efforts?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "In 1758 what was duc de Choiseul's plan for unfocused military efforts?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How unsuccessful was the French revised efforts?",
+      "answer": null,
+      "llm_prediction": "the french revised efforts? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "How successful was the English revised efforts?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What naval battles did France lose in 1795?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "Who defeated Montcalm at Quebec?",
+      "answer": "James Wolfe",
+      "llm_prediction": "the outnumbered french"
+    },
+    {
+      "question": "What was the significance of victory at Forth Niagara for British?",
+      "answer": "cut off the French frontier forts further to the west and south",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What battle outside Quebec City did British lose in 1760?",
+      "answer": "Battle of Sainte-Foy",
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What victory at thwarted efforts of French relief ships.",
+      "answer": "naval Battle of the Restigouche",
+      "llm_prediction": "french relief ships. [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Who was defeated by Montcalm at Quebec?",
+      "answer": null,
+      "llm_prediction": "montcalm"
+    },
+    {
+      "question": "Who defeated Montcalm at Montreal?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the insignificance of victory at Forth Niagara for British?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What battle outside Quebec City did British lose in 1706?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "What battle inside Quebec City did British lose in 1760?",
+      "answer": null,
+      "llm_prediction": "the french and indian war"
+    },
+    {
+      "question": "In Sept 1760 who negotiated a capitulation from Montreal?",
+      "answer": "Governor Vaudreuil",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What were requests made to British?",
+      "answer": "freedom to continue worshiping in their Roman Catholic tradition, continued ownership of their property,",
+      "llm_prediction": "requests made to british? [SEP] the french and indian war"
+    },
+    {
+      "question": "What British General negotiated at Montreal?",
+      "answer": "General Amherst.",
+      "llm_prediction": "british general"
+    },
+    {
+      "question": "In Sept 1706 who negotiated a capitulation from Montreal?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In Sept 1760 who negotiated a war from Montreal?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What were requests made from British?",
+      "answer": null,
+      "llm_prediction": "requests made from british? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies"
+    },
+    {
+      "question": "What British General negotiated at Toronto?",
+      "answer": null,
+      "llm_prediction": "british general"
+    },
+    {
+      "question": "What French General negotiated at Montreal?",
+      "answer": null,
+      "llm_prediction": "french"
+    },
+    {
+      "question": "When did the North American French and Indian War end?",
+      "answer": "signing of the Treaty of Paris on 10 February 1763",
+      "llm_prediction": "1763"
+    },
+    {
+      "question": "When was the European portion of the Seven Years War complete?",
+      "answer": "Treaty of Hubertusburg on 15 February 1763",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "What choice did French have for surrendering land?",
+      "answer": "continental North American possessions east of the Mississippi or the Caribbean islands of Guadeloupe and Martinique",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Why did France choose to give up continental lands?",
+      "answer": "value of the Caribbean islands' sugar cane to be greater and easier to defend than the furs from the continent",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "When did the North American French and Indian War begin?",
+      "answer": null,
+      "llm_prediction": "1754"
+    },
+    {
+      "question": "When did the South American French and Indian War end?",
+      "answer": null,
+      "llm_prediction": "1763"
+    },
+    {
+      "question": "When was the European portion of the Six Years War complete?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "When was the European portion of the Seven Years War incomplete?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "Why did France choose to give up no continental lands?",
+      "answer": null,
+      "llm_prediction": "depended on the indians"
+    },
+    {
+      "question": "How many French colonists were gained by British?",
+      "answer": "80,000",
+      "llm_prediction": "2 million in the british north american colonies"
+    },
+    {
+      "question": "When was the deportation of Acadians?",
+      "answer": "1755",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did British resettle many Acadians?",
+      "answer": "throughout its North American provinces",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Although some Acadians went to France and other destiantions, what North American city did many move to?",
+      "answer": "New Orleans",
+      "llm_prediction": "acadians went to france"
+    },
+    {
+      "question": "How many French colonists weren't gained by British?",
+      "answer": null,
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "How many French colonists were lost by British?",
+      "answer": null,
+      "llm_prediction": "2 million"
+    },
+    {
+      "question": "When was the deportation of Canadians?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did British kill many Acadians?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Although some Acadians went to France and other destiantions, what North American city did many not move to?",
+      "answer": null,
+      "llm_prediction": "acadians went to france"
+    },
+    {
+      "question": "Who issued the Royal Proclamation of 1763?",
+      "answer": "King George III",
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the objective of Royal Proclamation of 1763?",
+      "answer": "outlined the division and administration of the newly conquered territory",
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What lands were reserved for natives?",
+      "answer": "west of the Appalachian Mountains",
+      "llm_prediction": "lands were reserved for natives? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies"
+    },
+    {
+      "question": "Who never issued the Royal Proclamation of 1763?",
+      "answer": null,
+      "llm_prediction": "who never issued the royal proclamation of 1763? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "Who issued the Royal Proclamation of 1736?",
+      "answer": null,
+      "llm_prediction": "the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What was the objective of Royal Proclamation of 1736?",
+      "answer": null,
+      "llm_prediction": "was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What lands weren't reserved for natives?",
+      "answer": null,
+      "llm_prediction": "what lands weren ' t reserved for natives? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french particularly depended on the indians"
+    },
+    {
+      "question": "What lands were reserved for the French?",
+      "answer": null,
+      "llm_prediction": "lands were reserved for the french? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies"
+    },
+    {
+      "question": "What did the loss mean to France?",
+      "answer": "disappearance of a strong ally and counterweight to British expansion, leading to their ultimate dispossession",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What made Ohio Country vulnerable?",
+      "answer": "military roads to the area by Braddock and Forbes",
+      "llm_prediction": "depended on the indians"
+    },
+    {
+      "question": "When was Spanish takeover of Louisiana Territory complete?",
+      "answer": "1769",
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "What natives were displaced by British takeover in Florida?",
+      "answer": "Choctaw and the Creek",
+      "llm_prediction": "what natives were displaced by british takeover in florida? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french"
+    },
+    {
+      "question": "Where did many Spanish Catholic move after British takeover in Florida?",
+      "answer": "Most went to Cuba,",
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "Where did no Spanish Catholic move after British takeover in Florida?",
+      "answer": null,
+      "llm_prediction": "the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war"
+    },
+    {
+      "question": "What made Ohio Country safe?",
+      "answer": null,
+      "llm_prediction": "depended on the indians"
+    },
+    {
+      "question": "When was Spanish takeover of Louisiana Territory incomplete?",
+      "answer": null,
+      "llm_prediction": "1754 – 1763"
+    },
+    {
+      "question": "What natives were displaced by British takeover in Georgia?",
+      "answer": null,
+      "llm_prediction": "what natives were displaced by british takeover in georgia? [SEP] the french and indian war ( 1754 – 1763 ) was the north american theater of the worldwide seven years ' war. the war was fought between the colonies of british america and new france, with both sides supported by military units from their parent countries of great britain and france, as well as native american allies. at the start of the war, the french north american colonies had a population of roughly 60, 000 european settlers, compared with 2 million in the british north american colonies. the outnumbered french"
+    },
+    {
+      "question": "What did the win mean to France?",
+      "answer": null,
+      "llm_prediction": ""
+    }
+  ]
+}

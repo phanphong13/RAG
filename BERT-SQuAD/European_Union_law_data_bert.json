@@ -1,0 +1,2111 @@
+{
+  "title": "European_Union_law",
+  "context": "European Union law is a body of treaties and legislation, such as Regulations and Directives, which have direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law. The main sources of primary law are the Treaties establishing the European Union. Secondary sources include regulations and directives which are based on the Treaties. The legislature of the European Union is principally composed of the European Parliament and the Council of the European Union, which under the Treaties may establish secondary law to pursue the objective set out in the Treaties.",
+  "qas": [
+    {
+      "question": "What is European Union Law?",
+      "answer": "a body of treaties and legislation",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What are the main sources of primary law?",
+      "answer": "Treaties establishing the European Union",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What are the secondary sources of primary law?",
+      "answer": "regulations and directives",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What are the two bodies that make up the European Union's legislature?",
+      "answer": "European Parliament and the Council of the European Union",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "What is European Union law?",
+      "answer": "a body of treaties and legislation",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What effect does European Union law have on laws of member states?",
+      "answer": "direct effect or indirect effect",
+      "llm_prediction": "direct effect or indirect effect"
+    },
+    {
+      "question": "What are the three sources of European Union law?",
+      "answer": "primary law, secondary law and supplementary law",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What are the main legislative bodies of the European Union?",
+      "answer": "European Parliament and the Council of the European Union",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "What are the three main sources of European Union law?",
+      "answer": "primary law, secondary law and supplementary law",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What are the main sources of primary law?",
+      "answer": "the Treaties establishing the European Union",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What is the legislature of the European Union comprised of?",
+      "answer": "the European Parliament and the Council of the European Union",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "How many sources of European Union law are there?",
+      "answer": "three",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What are the three sources of American Union Law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What is American Union Law a body of?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What are not the 3 sources of European Union law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What is the last source of European Union law?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "The legislature of American Union is principally composed of what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who applies European Union law?",
+      "answer": "courts of member states and the Court of Justice of the European Union",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who can enforce the European Union law when member states provide lesser rights?",
+      "answer": "courts of member states",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What is the highest court in the European Union?",
+      "answer": "The European Court of Justice",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What is one of the supplementary sources of European Union law? ",
+      "answer": "international law",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Which two courts apply European Union law?",
+      "answer": "courts of member states and the Court of Justice of the European Union",
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "Under what treaty can the European Commission take action against member states?",
+      "answer": "the Treaty on the Functioning of the European Union",
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "Which court is the highest court in the European Union?",
+      "answer": "The European Court of Justice",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What is one supplementary source of European Union law?",
+      "answer": "international law",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "By whom is European Law applied by?",
+      "answer": "the courts of member states and the Court of Justice of the European Union",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "Who can enforce European Union law?",
+      "answer": "the courts of member states",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What is the highest court in European Union law?",
+      "answer": "The European Court of Justice",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What are some supplementary sources of European Union law?",
+      "answer": "case law by the Court of Justice, international law and general principles of European Union law",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who applies American Union law?",
+      "answer": null,
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who can enforce the American Union law when members states provide lesser rights?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "Who can the American Commission can take proceedings against?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What is the lowest court in the European Union?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What are some supplementary sources of American Union law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What are the two primary constitutional sources of the European Union?",
+      "answer": "Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who has the power to initiate legislation within the European Union?",
+      "answer": "The European Commission",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who elects the members of the European Parliament?",
+      "answer": "citizens",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What court is able to interpret European Union law?",
+      "answer": "The European Court of Justice",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What governing body appoints commissioners and the board of European Central Bank?",
+      "answer": "The \"European Council\"",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "Who has a codified constitution?",
+      "answer": null,
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "What are the primary constitutional sources of the American Union? ",
+      "answer": null,
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who does not have the power to initiate legislation within the European Union?",
+      "answer": null,
+      "llm_prediction": "supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who elects the members of the American Parliament?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What governing body appoints commissioners and the board of American Central Bank?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "Which treaty provides that the European Union law be applied to metropolitan territories of member states?",
+      "answer": "Treaty on European Union (TEU)",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Are there any regions where the Treaty of European Union excludes from jurisdiction?",
+      "answer": "the Faroe Islands",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What powers does the Court of Justice of the European Union have in regards to treaties?",
+      "answer": "can interpret the Treaties, but it cannot rule on their validity",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Under what instances can individuals rely on primary law in the Court of Justice of European Union?",
+      "answer": "if the Treaty provisions have a direct effect and they are sufficiently clear, precise and unconditional.",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "When do treaties apply?",
+      "answer": "as soon as they enter into force, unless stated otherwise",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What are the core treaties that the primary law of the EU consists of?",
+      "answer": "Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What are some examples of territories where a member state is responsible for external relations?",
+      "answer": "Gibraltar and the Åland islands",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "When do the stated Treaties apply?",
+      "answer": "Treaties apply as soon as they enter into force, unless stated otherwise",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who is suited to interpret the Treaties?",
+      "answer": "The Court of Justice of the European Union can interpret the Treaties",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What is not the primary law of the EU?",
+      "answer": null,
+      "llm_prediction": "treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What does not contain formal and substantive provisions?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What does the TEU not do?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "Where does the European Union law not apply?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What does the TEU not allow the European Council to do?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "How did the principle treaties that form the European Union begin?",
+      "answer": "with common rules for coal and steel, and then atomic energy",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Which two treaties provided more formal institutions of the European Union?",
+      "answer": "Treaty of Rome 1957 and the Maastricht Treaty 1992",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "In what years did Spain and Portugal join the European Union?",
+      "answer": "1985",
+      "llm_prediction": "in what years did spain and portugal join the european union? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "In 1972, did Norway end up joining the European Union?",
+      "answer": "in 1972 (though Norway did not end up joining)",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Which country in 1985 signed a treaty to give it special status?",
+      "answer": "Greenland",
+      "llm_prediction": "secondary law"
+    },
+    {
+      "question": "What caused the need for principal Treaties that ended up forming the EU?",
+      "answer": "common rules for coal and steel, and then atomic energy",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "When year was the Maastrich Treaty signed?",
+      "answer": "1992",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": " When was the Single European Act made?",
+      "answer": "1986",
+      "llm_prediction": "single european act"
+    },
+    {
+      "question": "When did Denmark join the EU?",
+      "answer": "1972",
+      "llm_prediction": "the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "When did Greenland sign a Treaty granting them special status?",
+      "answer": "1985",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How did the principle treaties that form the Canadian Union begin?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which two treaties provide more formal institutions of the Canadian Union?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What major adjust was made to the treaties in 1960?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What year did Spain and Portugal refuse to join the EU?",
+      "answer": null,
+      "llm_prediction": "european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What year did the UK, Ireland, Denmark, and Norway refuse to join the EU?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When was there an attempt to reform the law of the EU?",
+      "answer": "Following the Nice Treaty",
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What two country's referendums curtailed a constitution for Europe?",
+      "answer": "referendum in France and the referendum in the Netherlands",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "How similar was the Lisbon Treaty to the constitutional treaty?",
+      "answer": "very similar",
+      "llm_prediction": "secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "What type of treaty was the Lisbon Treaty?",
+      "answer": "an amending treaty",
+      "llm_prediction": "secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Is the Lisbon Treaty one that would alter existing treaties or replace them?",
+      "answer": "altered the existing treaties",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What reform was attempted following the Nice Treaty?",
+      "answer": "there was an attempt to reform the constitutional law of the European Union and make it more transparent",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What was an additional projected effect of the attempted reform?",
+      "answer": "this would have also produced a single constitutional document",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Which caused the reform to never come into force?",
+      "answer": "the referendum in France and the referendum in the Netherlands",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What treaty took the place of constitutional treaty? ",
+      "answer": "the Lisbon Treaty",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What did not happen after the Nice Treaty?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives"
+    },
+    {
+      "question": "When was the constitution for Europe put into place?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was not similar to the Lisbon Treaty?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What treaty was enacted in 2004?",
+      "answer": null,
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "Which caused the reform to come into force?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What is the main executive body of the EU?",
+      "answer": "The European Commission",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "Who is the sole governing authority capable of initiating legislative proposals?",
+      "answer": "the Commission",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Which authority figure is designated to schedule and set the work of the EU?",
+      "answer": "The Commission's President",
+      "llm_prediction": ""
+    },
+    {
+      "question": "For each of the 28 member states, how many Commissioner's are represented for each one?",
+      "answer": "one Commissioner for each of the 28 member states",
+      "llm_prediction": "three sources of european union law are primary law"
+    },
+    {
+      "question": "Who is the current President and the High Representative for Foreign and Security Policy?",
+      "answer": "Federica Mogherini",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Which article of the Treaty on European Union states that Commissioners should be completely independent and not take instructions from any Government?",
+      "answer": "Article 17(3)",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who sets the agenda for the EU's work?",
+      "answer": "The Commission's President",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "How are decisions made on behave of the EU made?",
+      "answer": "simple majority vote",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "Which country refused to content to changes in the Treaty of Lisbon 2007?",
+      "answer": "Ireland",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Who are the un-elected subordinates of member state governments?",
+      "answer": "Commissioners",
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "What was not the main executive body of the EU?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "Who was not the sole governing authority capable of initiating legislative proposals?",
+      "answer": null,
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "Who was not given authority to designate an agenda?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What year did Ireland agree to the changes in Treaty of Lisbon?",
+      "answer": null,
+      "llm_prediction": "ireland"
+    },
+    {
+      "question": "Who was subjected to a qualified minority vote of the Council for approval?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What commission was censured in 1999, and paved the way for Commissioners to abuse their power?",
+      "answer": "the Santer Commission",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Did the European Court of Justice rule the defendant in the case of Commission v. Edith Cresson broke any laws?",
+      "answer": "did in fact not break any law",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who found that there was a developed culture of Commissioner's who lacked responsibility?",
+      "answer": "Committee of Independent Experts",
+      "llm_prediction": "commissioner ' s who lacked responsibility? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who appoints the board of the European Central Bank?",
+      "answer": "European Council",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Can the President of the Council vote on important matters related to the European Central Bank?",
+      "answer": "do not have voting rights",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When was the Santer Commission censured by Parliament?",
+      "answer": "1999",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "The censuring of the Santer Commission  resulted in which main case?",
+      "answer": "Commission v Edith Cresson",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who found that a culture had developed where few Commissioners had any sense of responsibility?",
+      "answer": "a Committee of Independent Experts",
+      "llm_prediction": "commissioners had any sense of responsibility? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law"
+    },
+    {
+      "question": "The corruption found by the Committee of Independent Experts resulted to the creation of what office?",
+      "answer": "the European Anti-fraud Office",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "When did the European Anti-Fraud Office investigate John Dalli?",
+      "answer": "2012",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "Who was not exempt from member state taxes?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "Who did not have immunity from prosecution for doing official acts? ",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What commission was found to have abused power in 1980's?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What commission did not resign even though faced corruption allegations?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What minor case was the result of the censuring of the Santer Commission?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "The legislative body, the Council, are made up of what type of individuals?",
+      "answer": "different ministers of the member states",
+      "llm_prediction": "secondary"
+    },
+    {
+      "question": "Who is currently the President of the Council?",
+      "answer": "Donald Tusk",
+      "llm_prediction": "the president of the council? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "How are the votes weighted to ensure that smaller states aren't dominated by larger ones?",
+      "answer": "inversely",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What are the total number of votes to be counted during the voting process?",
+      "answer": "352",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Currently, how many votes out of the 352 total votes are needed for a majority?",
+      "answer": "260",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which entity is the secondary legislative body?",
+      "answer": "the Council",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "How often does the European Council meet?",
+      "answer": "each six months",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How many votes in total does the Council have?",
+      "answer": "352",
+      "llm_prediction": "how many votes in total does the council have? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What is defined as the majority vote?",
+      "answer": "at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU",
+      "llm_prediction": "the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What is the legislative body not composed of?",
+      "answer": null,
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Who convenes at the American Council?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "Who is currently the Vice President of Council?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What meets every 3 months?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How are the votes weighted to ensure the smaller states are dominated by larger ones?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What type of vote must the Parliament have to either block or suggest changes to the Commission's proposals?",
+      "answer": "a majority",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What type of vote must the Council pass in order to approve of any changes recommended by Parliament? ",
+      "answer": "qualified majority",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Is it easier or harder to change EU law than stay the same?",
+      "answer": "harder",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What articles state that unless conferred, powers remain with member states?",
+      "answer": "TEU articles 4 and 5",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Within the EU, which court believes they have the final word deciding on EU's competence?",
+      "answer": "Court of Justice",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which TFEU article defines the ordinary legislative procedure that applies for majority of EU acts?",
+      "answer": "TFEU article 294",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What can block a legislation?",
+      "answer": "legislation can be blocked by a majority in Parliament, a minority in the Council, and a majority in the Commission",
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "Which articles state that powers stay with member states unless they've been conferred?",
+      "answer": "TEU articles 4 and 5",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What entity is created if the three different institutions cannot come to a consensus at any stage?",
+      "answer": "Conciliation Committee",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What does TFEU article not define?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How does the TFEU revise old legislation?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What type of vote does the Council not pass in order to disapprove of any changes recommended by Parliament?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives"
+    },
+    {
+      "question": "What articles do not state that unless conferred, powers remain with the member states?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who does not have the final say in who ultimately has the competence to define the EU's competence?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which branch of the EU has had the most influence on the development of EU law?",
+      "answer": "judicial branch",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What is the main judicial body of the EU?",
+      "answer": "Court of Justice of the European Union (CJEU)",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "How many total judges are there in the EU?",
+      "answer": "28",
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Under which courts is most EU law applied?",
+      "answer": "member state courts",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What is the CJEU's duty?",
+      "answer": "ensure that in the interpretation and application of the Treaties the law is observed",
+      "llm_prediction": "to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "How is the judicial branch of the EU an important factor in the development of EU law?",
+      "answer": "by assuming the task of interpreting the treaties, and accelerating economic and political integration",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What is the current main judicial body of the EU?",
+      "answer": "the Court of Justice of the European Union",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What entity deals with EU staff issues?",
+      "answer": "Civil Service Tribunal",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "How long is one term for an elected president of the CJEU?",
+      "answer": "three years",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "What is the CJEU's duty?",
+      "answer": "to \"ensure that in the interpretation and application of the Treaties the law is observed\"",
+      "llm_prediction": "to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "Which branch of the EU has had the least amount of influence on the development of Eu law?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What is not the main judicial body of the EU?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "How many total female judges are there in the EU?",
+      "answer": null,
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Which courts is the least EU law applied?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What does the CJEU duty not emcompass?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "If there is a conflict between EU law and national law, which law take precedence?",
+      "answer": "EU law",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What was the reason the Italian Constitutional court gave that resulted in Mr. Costa losing his his claim against ENEL?",
+      "answer": "nationalisation law was from 1962, and the treaty was in force from 1958",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What were the years two Regulations that conflicted with an Italian law originate in the Simmenthal SpA case? ",
+      "answer": "1964 and 1968",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which entities have had to develop principles dedicated to conflict resolution between laws of different systems?",
+      "answer": "the European Court of Justice and the highest national courts",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When did Costa v ENEL take place?",
+      "answer": "1964",
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Which court argued that the Treaty of Rome did not prevent energy nationalism?",
+      "answer": "the Court of Justice",
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What has operated among a decreasing plurality of national and globalising legal systems?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Who did not have to develop principles to resolve conflicts of laws between different systems?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What major case happened in the 1970's where the Court of Justice held that ultimately the Treaty of Rome in no way prevented energy nationalism?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which court did not argue that the Treaty of Rome did not prevent energy nationalism?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "What do all member states agree takes precedence over national law?",
+      "answer": "EU law",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What issues do member states say the Court of Justice does not have the final say on?",
+      "answer": "foundational constitutional questions affecting democracy and human rights",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "When was the European Communities Act created?",
+      "answer": "1972",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what cases can the EU not override German law?",
+      "answer": "if the EU does not comply with its basic constitutional rights and principles",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What does the EU's legitimacy rest on?",
+      "answer": "the ultimate authority of member states, its factual commitment to human rights, and the democratic will of the people.",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What does the EU accept about the Court Justice?",
+      "answer": null,
+      "llm_prediction": "the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What is the basic principle of the Canadian Parliament?",
+      "answer": null,
+      "llm_prediction": "the council of the european union"
+    },
+    {
+      "question": "When was the European Communities Act denied acceptance?",
+      "answer": null,
+      "llm_prediction": "european communities act denied acceptance? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "What was not the view of the German Constitutional Court from Solange I and Solange II?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What does the EU's legitimacy not rest on?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "Which type of law makes EU institutions and its member states follow the law?",
+      "answer": "administrative law",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "During what year were citizens or corporations said to not be able to bring claims against other non state parties?",
+      "answer": "1986",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which actions by EU institutions can be subject to judicial review?",
+      "answer": "All actions",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which type of law concerns the EU's governance structure?",
+      "answer": "constitutional law",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "What type of law does not make Eu institutions and member states follow the law?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What year were citizens or corporations said to have been able to bring claims against other non state parties?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who was bound to apply an EU law where a national rule conflicted?",
+      "answer": null,
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "Which actions by EU institutions were not subject to judicial review?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which type of law did not concern the Eu's governance structure?",
+      "answer": null,
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "In which case was it held that the provisions of the treaties are directly effective if they are clear, unconditional, and don't require further action by EU or national authorities?",
+      "answer": "Van Gend en Loos v Nederlandse Administratie der Belastingen",
+      "llm_prediction": "direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Which TEFU article states that no quantitative restrictions can be placed on trade?",
+      "answer": "article 30",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What type of company is Van Gend en Loos?",
+      "answer": "a postal company",
+      "llm_prediction": "van gend en loos? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What are EU Regulations essentially the same as in the case mentioned?",
+      "answer": "Treaty provisions",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What is generally not accepted about EU law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Who could not recover the money it paid for the tariff?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What does TFEU article not state?",
+      "answer": null,
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "What generally does not allow citizens to sue other citizens?",
+      "answer": "Directives",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "How many paid holiday days does the Working Time directive require workers to have each year?",
+      "answer": "4 weeks",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How many paid holiday days do most member states require?",
+      "answer": "28 days",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "When did the three Advocate Generals argue that Directives should create rights and duties for all citizens?",
+      "answer": "early 1990s",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What generally does allow citizens to sue other citizens?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What does TFEU article 288 not say?",
+      "answer": null,
+      "llm_prediction": "regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "How many non paid holidays does the Working time directive require workers to have each year?",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What does not require more than 28 days in national law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What happens first if a Directive's deadline for implementation is not met?",
+      "answer": "the member state cannot enforce conflicting laws, and a citizen may rely on the Directive in such an action",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "What happens secondly if a Directive's deadline is not met?",
+      "answer": "a citizen or company can invoke a Directive, not just in a dispute with a public authority, but in a dispute with another citizen or company",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "How long did Ms Kucukdeveci work for Swedex Gmbh & Co KG before she was dismissed?",
+      "answer": "10 years",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives"
+    },
+    {
+      "question": "Which company did Mrs Foster work for?",
+      "answer": "British Gas plc",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "At what age did British Gas plc force their workers to retire?",
+      "answer": "women retire at age 60 and men at 65",
+      "llm_prediction": "secondary law"
+    },
+    {
+      "question": "What happens if the Directive's deadline is met?",
+      "answer": null,
+      "llm_prediction": "the directive ' s deadline is met? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union, which under the treaties may establish secondary law to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What did the Italian government not fail to implement?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What a a citizen or company not invoke?",
+      "answer": null,
+      "llm_prediction": "a a citizen or company not invoke? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What happens if a Directive doe snot give expression to a \"general principle\"of EU law?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who did Ms Kucukdeveci not work for?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "Which courts have a duty to interpret domestic law as far as possible?",
+      "answer": "national courts",
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "What does the First Company Law Directive article 11 require?",
+      "answer": "incorporations would only be nullified for a fixed list of reasons",
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "What did the Italian government fail to do in Francovich v Italy?",
+      "answer": "failed to set up an insurance fund for employees to claim unpaid wages if their employers had gone insolvent",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "How much money was Francovich allowed to claim from the Italian goverment in damages?",
+      "answer": "6 million Lira",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which courts do not have a duty to interpret  domestic law as far a possible?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What does the First Company Law Directive article 11 not require?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What did the Court of Justice not acknowledge?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the Italian government not fail to do in Francovich v Italy?",
+      "answer": null,
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "How much money did Francovich not allowed to claim from the Italian government in claims?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which entity developed the principles of European Union Law?",
+      "answer": "the European Court of Justice",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What are some of the accepted general principles of European Union law?",
+      "answer": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which entity did not develop the principles of European Union law?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What sources did the EU courts not drawn on?",
+      "answer": null,
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "What are some of the rejected general principles of European Union law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What type of rules are expressly provided for in treaties?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "How long has Proportionality been recognized as one of the general principles of EU law?",
+      "answer": "since the 1950s",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Where is the principle of proportionality recognized in the EC treaty?",
+      "answer": "in Article 5",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Which measure must be adopted when there is a choice between several?",
+      "answer": "the least onerous",
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "How long has Proportionality not been recognized as one of the general principles of Eu law?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What does the lawfulness of action not depend on?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "Which measure is adopted when there is a choice between several inappropriate measures?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "Where is the principle of proportionality not recognized in the EC treaty?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What is not stated in Article 5 of the EC Treaty?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "How long has the concept of legal certainty been recognized as one of the general principles by the EU law?",
+      "answer": "since the 1960s",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which laws mentioned predate EU law?",
+      "answer": "international law and public law",
+      "llm_prediction": "regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What must the adoption of laws which will have legal effect in the EU have?",
+      "answer": "a proper legal basis",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "In what does the doctrine of legitimate expectations have roots?",
+      "answer": "the principles of legal certainty and good faith",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What is not recognized as one of the general principles of European Union law?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What was first recognized by EU law in the 1970's?",
+      "answer": null,
+      "llm_prediction": "secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Which laws mentioned not not predate EU law?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What must the adoption of laws which will not have legal effect in the EU have?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "How must legislation in member states which implements EU law must not be worded?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Where is the European Court of justice likely to get inspiration from?",
+      "answer": "from the constitutional traditions common to the member states",
+      "llm_prediction": "where is the european court of justice likely to get inspiration from? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "The European Court of Justice cannot uphold measures that are incompatible with what?",
+      "answer": "fundamental rights recognised and protected in the constitutions of member states",
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "When were fundamental rights not recognized by the European Court of Justice?",
+      "answer": null,
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "What is not regarded as an integral part of the general principles of EU law?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When can the European Court of Justice uphold measures?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the European Court of Justice not find about supply guidelines?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "How many original treaties establishing the EU protected fundamental rights?",
+      "answer": "None",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "Which entities were originally concerned with preventing violation of human rights?",
+      "answer": "member states",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "When was the European Convention on Human Rights established?",
+      "answer": "1950",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "What other entity was established at the same time as the European Convention on Human Rights?",
+      "answer": "European Court of Human Rights.",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When did the European Council task an entity with drafting a European Charter of Human Rights?",
+      "answer": "1999",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "How many original treaties establishing the EU did not protect fundamental rights/",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "Which entities were not originally concerned with preventing violation of human rights?",
+      "answer": null,
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "When was the European Convention of Human Rights written?",
+      "answer": null,
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What other entity was not established at the same time as the European Convention of Human Rights?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What did the European Court of Justice not recognize?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the Lisbon Treaty established?",
+      "answer": "2007",
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "What charter has become an important aspect of EU law?",
+      "answer": "the Charter of Fundamental Rights of the European Union",
+      "llm_prediction": ""
+    },
+    {
+      "question": "After the Lisbon treaty, the Charter and the Convention now co-exist under what?",
+      "answer": "European Union law",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What entity enforces the Charter of Fundamental Rights of the European Union?",
+      "answer": "European Court of Justice",
+      "llm_prediction": "the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "When was the Lisbon Treaty rejected?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What charter has not become an improtant aspect of Eu law?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What shall not have the same legal value as the Treaties?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does not co-exist under EU law?",
+      "answer": null,
+      "llm_prediction": "regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What entity does not enforce the Charter of Fundamental Rights of the European Union?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The Social Chapter is a chapter of what treaty?",
+      "answer": "1997 Treaty of Amsterdam",
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "What year was the Treaty of Amsterdam created?",
+      "answer": "1997",
+      "llm_prediction": "treaty of amsterdam created? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "When was the basis for the Social Chapter developed?",
+      "answer": "1989",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How many general principles does the Social Charter declare?",
+      "answer": "30",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How many pieces of legislation has the Social Charter become the basis for?",
+      "answer": "40",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What treaty is the Social Chapter not a chapter of?",
+      "answer": null,
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "What year was the Treaty of Amsterdam rejected by the European Union law?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What was developed in the 1980's by the social partners representatives?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "How many general principles does the the Social Charter not declare?",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How many pieces of legislation has the Social Charter not become the basis for?",
+      "answer": null,
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How many member states adopted the Social Charter in 1989?",
+      "answer": "11 of the then 12 member states",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "Which member state declined to sign the Social Charter?",
+      "answer": "The UK",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What title was the Social Charter set to be included into the Maastricht treaty under?",
+      "answer": "the \"Social Chapter\"",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What year was the Maastricht treaty signed?",
+      "answer": "1992",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "When was the Social Charter not adopted?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who did not adopt the Social Charter?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "Who agreed to sign the Social Charter and was exempt from the legislation covering Social Charter issues?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who was the only member state not to veto the Social Charter the Social Charter being included as the Social Charter of Masstricht Treaty?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What title was the Social Charter not set to be included into the Masstricht treaty under?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What lead to the UK to subscribe to the agreement on Social Policy?",
+      "answer": "the election of the UK Labour Party to government",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties"
+    },
+    {
+      "question": "When did the UK formally subscribe to the Agreement on Social Policy?",
+      "answer": "1997",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "Which directive mentioned was created in 1994?",
+      "answer": "Works Council Directive",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "When was the Parental Leave directive created?",
+      "answer": "1996",
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What did the Works Council Directive require?",
+      "answer": "workforce consultation in businesses",
+      "llm_prediction": "to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What did not follow the election of the UK Labour Party to government?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "When did the UK not subscribe to the Agreement on the Social Policy?",
+      "answer": null,
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "What did not require workforce consultation in business?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives"
+    },
+    {
+      "question": "When was the Parental Leave directive rejected?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has the European Union not undertaken following the adoption of the Social Charter?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which countries were the European Coal and Steel Community agreement between?",
+      "answer": "France, Italy, Belgium, the Netherlands, Luxembourg and Germany",
+      "llm_prediction": "european parliament and the council of the european union"
+    },
+    {
+      "question": "What year was the ECSC agreement established?",
+      "answer": "1951",
+      "llm_prediction": "what year was the ecsc agreement established? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What did article 65 of the ECSC ban?",
+      "answer": "cartels",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "Which article made provisions for concentrations or mergers and the abuse of a dominant position by companies?",
+      "answer": "article 66",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When were competition rules included in the Treaty of Rome?",
+      "answer": "1957",
+      "llm_prediction": "three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Which countries did not agree upon the European Coal and Steel Community agreement?",
+      "answer": null,
+      "llm_prediction": "supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What did the agreement not aim to do regarding Germany?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What did the EU members not believe lead to the outbreak of the war?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What did Article 65 not agree upon?",
+      "answer": null,
+      "llm_prediction": "article 65 not agree upon? [SEP] european union law"
+    },
+    {
+      "question": "What did Article 66 not make provisions for?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "In which article does the Treaty of Lisbon prohibit anti-competitive agreements?",
+      "answer": "Article 101(1)",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "What does Article 102 of the Treaty of Lisbon prohibit?",
+      "answer": "the abuse of dominant position",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union, which under the treaties may establish secondary law to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "Which articles state that the member states' rights to deliver public services may not be obstructed?",
+      "answer": "Articles 106 and 107",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which article allows the European Council to govern mergers between firms?",
+      "answer": "Article 102",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Treaty of Lisbon allow today?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What does Article 102 not prohibit?",
+      "answer": null,
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "What does Article 102 not allow the European Council to do?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "Which artictle does not state that the member states' rights to deliver public services may not be obstructed?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What does Article 107 not lay down?",
+      "answer": null,
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "When was the concept of a social market economy introduced into EU law?",
+      "answer": "2007",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "How long has free movement and trade been central to European development?",
+      "answer": "1957",
+      "llm_prediction": "secondary law and supplementary law"
+    },
+    {
+      "question": "Breaking down barriers to trade and enhancing the free movement of goods is meant to reduce what?",
+      "answer": "consumer prices",
+      "llm_prediction": "barriers to trade"
+    },
+    {
+      "question": "What do the Treaties generally limit?",
+      "answer": "free trade",
+      "llm_prediction": "laws of european union member states"
+    },
+    {
+      "question": " What entity has taken the view that the goals of free trade are underpinned by the aims to improve people's well being?",
+      "answer": "the Court of Justice",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What was not introduced into EU law in 2007?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What was not central to European development since the Treaty of Rome 1957?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What was not originally theorised about a free trade area?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What do the treaties not limit?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What entity has not taken the view that the specific goal of free trade are to underpinned by the general aims of improvement of people's well being?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What helps the process of free movement of goods?",
+      "answer": "a customs union, and the principle of non-discrimination",
+      "llm_prediction": "treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What did did article 34 discriminate against in Procureur du Roi v Dassonville?",
+      "answer": "parallel importers like Mr Dassonville",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Article 34 meant states could be responsible for what?",
+      "answer": "private actors",
+      "llm_prediction": "to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "In which case were French vigilantes sabotaging shipments of Spanish Strawberries?",
+      "answer": "Commission v France",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "In Schmidberger v Austria, the Court of Justice came to the conclusion that Austria didn't infringe upon article 34 by failing to ban a what?",
+      "answer": "a protest that blocked heavy traffic",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law"
+    },
+    {
+      "question": "What does not help the free movement of goods?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What is not prohibited between member states?",
+      "answer": null,
+      "llm_prediction": "what is not prohibited between member states? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What the the EU not manage from non-member states?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What were states not responsible for in Article 34?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "What case were French vigilantes helping shipments of Spanish Strawberries?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What is the minimum percent of alcohol content a German law requires all spirits and liqueurs to have?",
+      "answer": "25",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which country did Rewe-Zentrale AG wish to import from?",
+      "answer": "France",
+      "llm_prediction": "european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "Which year was the case Commission v Italy that dealt with cocoa products?",
+      "answer": "2003",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "All Italian chocolate is made from what alone?",
+      "answer": "cocoa butter",
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": " In the 2009 Commission v Italy, case, the Court of Justice held that an Italian low prohibiting what infringed article 34?",
+      "answer": "motorcycles or mopeds pulling trailers",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What was maximum percent of alcohol content a German law requires all spirits and liqueurs to have?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which country dod Rewe-Zentrale AG not wish to import from?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who accepted the German government's arguments that the measure proportional protected public health?",
+      "answer": null,
+      "llm_prediction": "the german government ' s arguments that the measure proportional protected public health? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law"
+    },
+    {
+      "question": "What did the Court of Justice justify about a low content of vegetable fat?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which two importers claimed that under a French competition law, they were prevented from selling Picon beer under wholesale price?",
+      "answer": "Keck and Mithouard",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "The aim of the French competition law was to do what?",
+      "answer": "cut throat competition",
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "In which case did the Court of Justice review Swedish bans on advertising to young children under 12?",
+      "answer": "Konsumentombudsmannen v De Agostini",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Under which Directive did the EU harmonize restrictions on restrictions on marketing and advertising?",
+      "answer": "the Unfair Commercial Practices Directive",
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "Which two importers did not claim that under French competition law, they were prevented from selling Picon beer under wholesale price?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What did the Court of Justice rule fell under TFEU article 34?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What was not the aim of the TFEU article 34 law?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "Which case did the Court of Justice not review Swedish bans on advertising to young children und er 12?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What have the Treaties sought to enable since its foundation?",
+      "answer": "to enable people to pursue their life goals in any country through free movement",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law"
+    },
+    {
+      "question": "Which entity focused upon the free movement of workers?",
+      "answer": "the European Community",
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "What was free movement increasingly based on?",
+      "answer": "citizenship",
+      "llm_prediction": "the treaties"
+    },
+    {
+      "question": "In which case did a German man claim the right to live in Netherlands where he was a volunteer plumber?",
+      "answer": "Steymann v Staatssecretaris van Justitie",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What did the Court of Justice say Steymann was entitled to?",
+      "answer": "to stay, so long as there was at least an \"indirect quid pro quo\" for the work he did",
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What did the Treaties not seek to do since its foundation?",
+      "answer": null,
+      "llm_prediction": "pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What did the European Community not originally focus on?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What was focused on by the European Community in the 1980's?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "Why was free movement not increasingly based on citizenship?",
+      "answer": null,
+      "llm_prediction": "under the treaties may establish secondary law to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What did the Court of Justice say that Mr. Steymann was not entitled to do?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which articles of the Free Movement of Workers Regulation set out the primary provisions on equal treatment of workers?",
+      "answer": "articles 1 to 7",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which Belgian footballer claimed that he should be allowed to transfer from one football club to another when his contract was fulfilled?",
+      "answer": "Jean-Marc Bosman",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What language did the Court of Justice accept to be required to teach in a Dublin college in Groner v Minister for Education?",
+      "answer": "Gaelic",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "In which case was a Dutch national not entitled to continue receiving benefits when he moved to Belgium?",
+      "answer": "Hendrix v Employee",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "In the case Geven v Land Nordrhein-Westfalen, how many hours was the Dutch woman in question working in Germany?",
+      "answer": "between 3 and 14 hours a week",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What did not set out the main provision on equal treatment of workers?",
+      "answer": null,
+      "llm_prediction": "supplementary law"
+    },
+    {
+      "question": "What did articles 1 to 4 not generally require of workers?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "Which Belgian footballer claimed that he should not be able to transfer from R.F.C. de Liege to USL Dunkerque?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What did most people not require regarding social advantages?",
+      "answer": null,
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "What is the general justificatin for not limiting free movement in TFEUrticles 45(3)?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "What has lately been being viewed as a fundamental status of member state nationals by the Court of Justice?",
+      "answer": "Citizenship of the EU",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What has having an EU Citizenship increased?",
+      "answer": "the number of social services that people can access wherever they move",
+      "llm_prediction": "european union law"
+    },
+    {
+      "question": "In which case did the Court state that Austria was not allowed to hold places in Austrian schools exclusively for Austrian students?",
+      "answer": "Commission v Austria",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What has the Court required to be more accessible?",
+      "answer": "higher education",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has not been seen increasingly as a fundamental status of member state nationals by the Court of Justice?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What has having an EU Citizenship decreased?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What case did the Court state that Austria was allowed to hold places in Austrian schools exclusivity for Austrian students?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives"
+    },
+    {
+      "question": "What has the Court required to be less accessible?",
+      "answer": null,
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Which Treaty protects the freedom of establishment and the freedom to provide services?",
+      "answer": "the Treaty on the Functioning of the European Union",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In Gebhard v Consiglio...Milano, the requirements to be registered in Milan before being able to practice law would be allowed under what conditions?",
+      "answer": "if they were non-discriminatory",
+      "llm_prediction": "direct effect or indirect effect"
+    },
+    {
+      "question": "In which case did the Court of Justice state that refusal to admit a lawyer to the Belgian bar because he did not have Belgian heritage wasn't able to be justified?",
+      "answer": "Reyners v Belgium",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Which TFEU article states that states are exempt from infringing on rights of establishment when they exercise official authority?",
+      "answer": "article 49",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives"
+    },
+    {
+      "question": "In which case did the Court of Justice hold that requiring Italian lawyers to comply with maximum tariffs unless there was an agreement with a client was not a restriction?",
+      "answer": "Commission v Italy",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What do workers generally have in the market?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Treaty on the Functioning of the European Union not protect?",
+      "answer": null,
+      "llm_prediction": "laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union, which under the treaties may establish secondary law to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "Who does not have the right to set up an enterprise without unjustified restrictions?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who did the Court of Justice say could help the freedom of establishment?",
+      "answer": null,
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "What did the Grand Chamber of the Court of Justice say the Commission had proven?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "In which year did a toxic waste spill from a European ship prompt the Commission to look into legislation against waste?",
+      "answer": "2006",
+      "llm_prediction": "primary law, secondary law and supplementary law"
+    },
+    {
+      "question": "At the time, countries such as Spain didn't have a crime against what?",
+      "answer": "shipping toxic waste",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When did the Court of Justice rule that the Commission could only propose that there must be some criminal sanctions?",
+      "answer": "October 2007",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When was the competence for the Union to create criminal sentences for ecological crimes contested?",
+      "answer": "2005",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What year did a toxic waste spill from an American ship prompt the Commission to look into legislation against waste?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What did countries such as Spain have a crime against?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    },
+    {
+      "question": "What did Franco Frattini, the Justice, Freedom and Security Commissioner, and Dimas reject?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "When did the Court of Justice deny that the Commission could only propose that there must some criminal sanctions?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "The freedom to provide services under TFEU article 56 applies to who?",
+      "answer": "to people who give services \"for remuneration\"",
+      "llm_prediction": "the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Why was the Dutch lawyer who moved to Belgium while advising a client in a social society case told he couldn't continue?",
+      "answer": "because Dutch law said only people established in the Netherlands could give legal advice",
+      "llm_prediction": "primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties"
+    },
+    {
+      "question": "What did the Court of Justice reason were controlled in all member states in Josemans v Burgemeester van Maastricht?",
+      "answer": "narcotic drugs",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What did the Dutch health authorities regard as unnecessary in Geraets-Smits v Stichting Ziekenfonds?",
+      "answer": "the treatment",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who does the TFEU article 56 not apply to?",
+      "answer": null,
+      "llm_prediction": "council of the european union"
+    },
+    {
+      "question": "Why could a Dutch lawyer who moved to Belgium give legal advice?",
+      "answer": null,
+      "llm_prediction": "to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "What does not fall outside the scope of article 56 according to the Court of Justice?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "What did Dutch health authorities regard as necessary?",
+      "answer": null,
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "What should fall under article 56 according to several governments?",
+      "answer": null,
+      "llm_prediction": "the european parliament and the council of the european union"
+    },
+    {
+      "question": "Which newspaper's parent company could not evade tax by shifting its residence to the Netherlands?",
+      "answer": "the Daily Mail",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "How much capital did UK law require to start a company?",
+      "answer": "£1",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "How much capital did Danish law require to start a company?",
+      "answer": "200,000 Danish krone",
+      "llm_prediction": "three"
+    },
+    {
+      "question": "What could justify restrictions on freedom of establishment?",
+      "answer": "creditor protection, labour rights to participate in work, or the public interest in collecting taxes",
+      "llm_prediction": "regulations and directives"
+    },
+    {
+      "question": "In which case did the Court of Justice hold that a German court couldn't deny a Dutch building company the right to enforce a contract based in Germany?",
+      "answer": "Überseering BV v Nordic Construction GmbH",
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who riled that member stated could not restrict a company from moving its seat of business without infringing TFEU article 49?",
+      "answer": null,
+      "llm_prediction": "primary law"
+    },
+    {
+      "question": "Who could evade taxes by shifting its resident to the Netherlands?",
+      "answer": null,
+      "llm_prediction": "the netherlands? [SEP] european union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of european union member states. the three sources of european union law are primary law, secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "Why did the UK have to justify its actions?",
+      "answer": null,
+      "llm_prediction": "to pursue the objective set out in the treaties"
+    },
+    {
+      "question": "How much capital did the UK not require to start a company?",
+      "answer": null,
+      "llm_prediction": "secondary law and supplementary law. the main sources of primary law are the treaties establishing the european union. secondary sources include regulations and directives which are based on the treaties. the legislature of the european union is principally composed of the european parliament and the council of the european union"
+    },
+    {
+      "question": "How much did Denmark not require to start a company?",
+      "answer": null,
+      "llm_prediction": "treaties"
+    }
+  ]
+}

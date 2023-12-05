@@ -1,0 +1,1871 @@
+{
+  "title": "Packet_switching",
+  "context": "Starting in the late 1950s, American computer scientist Paul Baran developed the concept Distributed Adaptive Message Block Switching with the goal to provide a fault-tolerant, efficient routing method for telecommunication messages as part of a research program at the RAND Corporation, funded by the US Department of Defense. This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth, largely fortified by the development of telecommunications in the Bell System. The new concept found little resonance among network implementers until the independent work of Donald Davies at the National Physical Laboratory (United Kingdom) (NPL) in the late 1960s. Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe in the decade following, including the incorporation of the concept in the early ARPANET in the United States.",
+  "qas": [
+    {
+      "question": "What did Paul Baran develop ",
+      "answer": "Paul Baran developed the concept Distributed Adaptive Message Block Switching",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Distributed Adaptive Message Block Switching do",
+      "answer": "provide a fault-tolerant, efficient routing method for telecommunication messages",
+      "llm_prediction": "provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "What did this concept contradict ",
+      "answer": "This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Donald Davies credited with ",
+      "answer": "Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe",
+      "llm_prediction": "donald davies credited with [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What did Paul Baran develop in the late 1950's",
+      "answer": "the concept Distributed Adaptive Message Block Switching",
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "What was the goal of the system ",
+      "answer": "to provide a fault-tolerant, efficient routing method for telecommunication messages",
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "Who is credited with the modern name for this system ",
+      "answer": "Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "In the late 1950s what concept was developed?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What did the concept hope to achieve?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "How much funding did the RAND Corporation receive?",
+      "answer": null,
+      "llm_prediction": "funded by the us department of defense"
+    },
+    {
+      "question": "What was the independent work of Donald Davis?",
+      "answer": null,
+      "llm_prediction": "packet switching"
+    },
+    {
+      "question": "What was the Bell System?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What did the US Department of Defense gain from their funding to RAND Corporation?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who credited Paul Baran for his development? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The Bell System was created by who?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Packet Switching had a goal of creating what? ",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Who created ARPANET? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Did Paul Baran develop Distributed Adaptive Message Block Switching with the goal of monetizing it?",
+      "answer": null,
+      "llm_prediction": "paul baran develop distributed adaptive message block switching with the goal of monetizing it? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Did Paul Baran has assistance from anyone when he developed the concept?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Was development of this concept originally considered \"classified\" or a secret?",
+      "answer": null,
+      "llm_prediction": "classified"
+    },
+    {
+      "question": "Was this concept originally intended to be an application only meant for use by the military?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Why was this concept generally unpopular prior to Donald Davies completing his work?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "What did Donald Davies develop in the late 1950s?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the RAND Corporation do?",
+      "answer": null,
+      "llm_prediction": "provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "What organization did Paul Baran work with in the United Kingdom?",
+      "answer": null,
+      "llm_prediction": "rand corporation"
+    },
+    {
+      "question": "Who created ARPANET in the United States?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What fortified this concept?",
+      "answer": null,
+      "llm_prediction": "development of telecommunications in the bell system"
+    },
+    {
+      "question": "Packet Switching contrast with what other principal ",
+      "answer": "circuit switching",
+      "llm_prediction": "pre - allocation of network bandwidth"
+    },
+    {
+      "question": "What is circuit switching characterized by",
+      "answer": "circuit switching is characterized by a fee per unit of connection time",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is packet switching charecterized",
+      "answer": "by a fee per unit of information transmitted",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What does Packet switching contrast with ",
+      "answer": "circuit switching",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "How is circuit switching allocated ",
+      "answer": "a method which pre-allocates dedicated network bandwidth",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is circuit switching charecterized ",
+      "answer": "by a fee per unit of connection time, even when no data is transferred",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How is packet switching characterized ",
+      "answer": "by a fee per unit of information transmitted, such as characters, packets, or messages",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Circuit Switching? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How much bandwidth is dedicated for each communication session?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is information charged for packet switching?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is information charged differently for Circuit Switching?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What is latency between nodes?",
+      "answer": null,
+      "llm_prediction": "latency between nodes? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant"
+    },
+    {
+      "question": "What is packet switching?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Packet switching communication has what kind of bit rate? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is Packet Switching allocated? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Packet switching speed is determined by what factor? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Packet switching uses what kind of network? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Are the sizes of packets variable?  ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "If packet sizes are variable, then are they always charged at the same rate per packet?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What is the minimum amount, if any, of data to make up a packet?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Can a packet be sent empty?  If so, is it billable?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Circuit switching charges a fee for transferring what kind of information?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Does packet switching charge a fee when no data is transferred?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does packet switching pre-allocate?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What is special about communication sessions with packet switching?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In cases of shared physical medium how are they delivered ",
+      "answer": "the packets may be delivered according to a multiple access scheme",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "How is packet mode communication implemented ",
+      "answer": "with or without intermediate forwarding nodes",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How are packets normally forwarded",
+      "answer": "by intermediate network nodes asynchronously using first-in, first-out buffering, but may be forwarded according to some scheduling discipline for fair queuing",
+      "llm_prediction": "how are packets normally forwarded [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "In cases with shared medium how is it delivered ",
+      "answer": "the packets may be delivered according to a multiple access scheme",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What kind of communication can be implemented?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Packets can be delivered via what route? ",
+      "answer": null,
+      "llm_prediction": "via what route? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system"
+    },
+    {
+      "question": "What type of medium is a 10BASE5 radio?",
+      "answer": null,
+      "llm_prediction": "a 10base5 radio"
+    },
+    {
+      "question": "What are intermediate forwarding nodes?",
+      "answer": null,
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "How are packets delivered differently?",
+      "answer": null,
+      "llm_prediction": "bell system"
+    },
+    {
+      "question": "In cases of non shared medium how are packets delivered? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "In cases of non shared physical medium how are packets delivered? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How are packets irregularly forwarded? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When are packet mode communications not implemented? ",
+      "answer": null,
+      "llm_prediction": "late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "How are packet mode communications dissolved? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How many access points are in a \"multiple access scheme\"?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Do certain packets take priority over others if sent at the exact same time?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Can a packet be lost and if so, then where does it go?",
+      "answer": null,
+      "llm_prediction": "the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in europe"
+    },
+    {
+      "question": "What exactly is a \"leaky bucket\" in terms of this matter?",
+      "answer": null,
+      "llm_prediction": "leaky bucket"
+    },
+    {
+      "question": "Does a packet of data have physical mass?",
+      "answer": null,
+      "llm_prediction": "the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "If there is no shared physical medium, how are the packets delivered?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How are the packets forwarded synchronously?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "If there is no radio or 10BASE5, how are the packets delivered?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What is the only way to forward packets?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What isn't a guaranteed quality of service?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What did Baran develop during research at RAND ",
+      "answer": "the concept of distributed adaptive message block switching",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was developed for the Air Force ",
+      "answer": "survivable communications networks",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What 3 things does the Air Force work key on ",
+      "answer": "use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks"
+    },
+    {
+      "question": "How are Air force messages delivered ",
+      "answer": "delivery of these messages by store and forward switching",
+      "llm_prediction": "air force messages delivered [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What concept was developed by Baran while researching at RAND",
+      "answer": "distributed adaptive message block switching",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was report P-2626",
+      "answer": "a general architecture for a large-scale, distributed, survivable communications network",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What  things did the network concentrate on ",
+      "answer": "use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets",
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "What delivery message was used ",
+      "answer": "by store and forward switching",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was developed in the summer of 1961?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What ideas did the report in 1964 state? ",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth"
+    },
+    {
+      "question": "How many focuses where there in report P-2626?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who owned RAND Company?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How was forward switching achieved?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system"
+    },
+    {
+      "question": "Who presented briefing B-265 to the US Air Force?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What did RM 3420 report? ",
+      "answer": null,
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "What was the US Air Force interested in? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How were messages delivered before implementation? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was the Air Force not interested in for their message system? ",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Did Baran develop this \"only\" for use by the Air Force?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Did the RAND corporation retain any of the research?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "If this was developed for the Air Force, then does the Air Force still technically own the Intellectual Property?",
+      "answer": null,
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Assuming the Air Force paid for the development of the concept, then would the Air Force be entitled to a royalty fee for every packet sent?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Was the RAND corporation prohibited from disclosing the research to anyone else except for the Air Force?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What was developed for the RAND Corporation?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How does the corporation deliver these messages?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was Report R-2626?",
+      "answer": null,
+      "llm_prediction": "report r - 2626"
+    },
+    {
+      "question": "What concept did Baran research for the US Air Force?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How did RAND use this network?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What did Donald Davies Develop",
+      "answer": "independently developed the same message routing methodology as developed by Baran",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What did Davies call his system ",
+      "answer": "packet switching",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What did Davies want to build ",
+      "answer": "proposed to build a nationwide network in the UK",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What use was suggested for the system ",
+      "answer": "use in the ARPANET",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Who developed the same technology as Baran ",
+      "answer": "Donald Davies",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What did Davies call the System ",
+      "answer": "packet switching",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was suggested at the Symposium in 1967",
+      "answer": "suggested it for use in the ARPANET",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "How independently created a separate system in 1965?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Where was the ACM Symposium held?",
+      "answer": null,
+      "llm_prediction": "national physical laboratory ( united kingdom )"
+    },
+    {
+      "question": "What does ARPANET in simple terms?",
+      "answer": null,
+      "llm_prediction": "packet switching"
+    },
+    {
+      "question": "The Ministry of Defense discussed what in 1966?",
+      "answer": null,
+      "llm_prediction": "packet switching"
+    },
+    {
+      "question": "Has \"independently developed\" ever been substantiated?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Did Davies and Baran collaborate at any point after they both developed this concept?",
+      "answer": null,
+      "llm_prediction": "late 1950s"
+    },
+    {
+      "question": "Why did Davies never research his theory, concept, idea, etc. prior to developing it?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant"
+    },
+    {
+      "question": "Did Davies develop his concept with the intention of monetizing it?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "Why not a worldwide network as opposed to simply a UK only network?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What did Baran call his system?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What did Lawrence Roberts suggest the system be used for?",
+      "answer": null,
+      "llm_prediction": "provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "What did Baran want to build with the system?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Who did Davies tell about Baran's work?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What did Baran call his message routing methodology?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What does each packet includ in connectionless mode ",
+      "answer": "each packet includes complete addressing information",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "How are the packets routed ",
+      "answer": "individually, sometimes resulting in different paths and out-of-order delivery",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What is included with each packet label",
+      "answer": "Each packet is labeled with a destination address, source address, and port numbers. It may also be labeled with the sequence number of the packet",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What happens to the packet at the destination",
+      "answer": "the original message/data is reassembled in the correct order, based on the packet sequence number",
+      "llm_prediction": "what happens to the packet at the destination [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What results in out of order delivery?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "While packets are labeled correctly what can happen to them?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Why do packets arrive out of order?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Where is the data reassembled? ",
+      "answer": null,
+      "llm_prediction": "national physical laboratory ( united kingdom )"
+    },
+    {
+      "question": "What is a virtual connection?",
+      "answer": null,
+      "llm_prediction": "virtual connection? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "Can a packet be sent incomplete?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "If three sequential packets are sent and the one in the middle is lost, then how is the data recompiled in a meaningful way?",
+      "answer": null,
+      "llm_prediction": "if three sequential packets are sent and the one in the middle is lost, then how is the data recompiled in a meaningful way? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Can a packet ever be sent to the wrong number?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "If the packets travel via different routes, then how do they arrive in order?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is each message labeled with?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How are the messages routed?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Why is there a need for a dedicated path?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "What is included in the data in connectionless mode?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What does connection orientation require",
+      "answer": "a setup phase in each involved node before any packet is transferred to establish the parameters of communication",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What is a connection identifier ",
+      "answer": "a connection identifier rather than address information and are negotiated between endpoints so that they are delivered in order and with error checking",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why is the node requiered to look up ",
+      "answer": "Routing a packet requires the node to look up the connection id in a table",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Is the packet header long ",
+      "answer": "The packet header can be small, as it only needs to contain this code and any information, such as length, timestamp, or sequence number",
+      "llm_prediction": "the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What is a set up phase? ",
+      "answer": null,
+      "llm_prediction": "late 1950s"
+    },
+    {
+      "question": "How is error checking involved in delivery? ",
+      "answer": null,
+      "llm_prediction": "error checking involved in delivery? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "A routing packet is required under what system? ",
+      "answer": null,
+      "llm_prediction": "the bell system"
+    },
+    {
+      "question": "What does the node read?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What values are negotiable? ",
+      "answer": null,
+      "llm_prediction": "fault - tolerant"
+    },
+    {
+      "question": "Can packets ever collide in route?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Are link parameters based on size?",
+      "answer": null,
+      "llm_prediction": "the new concept found little resonance among network implementers until the independent work of donald davies"
+    },
+    {
+      "question": "Can the node ever acquire the wrong connection id?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Can address information be changed after the set-up phase?",
+      "answer": null,
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Is there a situation where the destination can't be discovered?",
+      "answer": null,
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "When is the address information not transferred to each node?",
+      "answer": null,
+      "llm_prediction": "1950s"
+    },
+    {
+      "question": "What does connectionless-oriented transmission require?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant"
+    },
+    {
+      "question": "What is contained in a large packet header? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the address information negotiate?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "WHat do x.25 and Frame Relay both require",
+      "answer": "connection-oriented operations. But X.25 does it at the network layer of the OSI Model. Frame Relay does it at level two, the data link layer",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What were X.25 and Frame relay used for ",
+      "answer": "Frame Relay was used to interconnect LANs across wide area networks. However, X.25 and well as Frame Relay have been supplanted",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What supplanted Frame Relay and X.25 ",
+      "answer": "supplanted by the Internet Protocol (IP) at the network layer, and the Asynchronous Transfer Mode (ATM) and or versions of Multi-Protocol Label Switching",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What is a typical configuration",
+      "answer": "A typical configuration is to run IP over ATM or a version of MPLS",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What does Frame Relay provide?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "What is level two of the connection-orientated operation? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What is the \"hand shake\" between communication parties?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What is the protocol suite?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was the packet switching used in the 1980s? ",
+      "answer": null,
+      "llm_prediction": "national physical laboratory ( united kingdom )"
+    },
+    {
+      "question": "Frame Relay requires a handshake from what?",
+      "answer": null,
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What does Frame Relay's LAPB provide?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "What does X.25's integrity operations concern?",
+      "answer": null,
+      "llm_prediction": "integrity"
+    },
+    {
+      "question": "When was Frame Relay's protocols used at UNI?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is X.25 connection-oriented at layer two?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "WHen did ARPNET and SITA become operational",
+      "answer": "1969",
+      "llm_prediction": "1960s"
+    },
+    {
+      "question": "2 differences betwen X.25 and ARPNET CITA technologies ",
+      "answer": "Two fundamental differences involved the division of functions and tasks between the hosts at the edge of the network and the network core",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "WHat does UserDatagram Protocol gaurentee",
+      "answer": "In the virtual call system, the network guarantees sequenced delivery of data to the host",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "X.25 uses what type network type ",
+      "answer": "User Datagram Protocol",
+      "llm_prediction": "what type network type [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "How many different network technologies where there before 1973?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What type of network does SITA HLN not use?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "X.25 had a simpler what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "X.25 had less functionality because of what?",
+      "answer": null,
+      "llm_prediction": "pre - allocation of network bandwidth"
+    },
+    {
+      "question": "What defined the differences between the ARPANET and SITA HLN and X.25?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "After the introduction of X.25 in 1973, how many network technologies had been developed?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "In UDP, the network guarantees what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What suite uses UDP?",
+      "answer": null,
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "In a virtual call system, the hosts have what responsibility?",
+      "answer": null,
+      "llm_prediction": "provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "What was Apple Talk ",
+      "answer": "a proprietary suite of networking protocols developed by Apple Inc. in 1985",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "WHat were features of Apple Talk ",
+      "answer": "that allowed local area networks to be established ad hoc without the requirement for a centralized router or server",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What did the Apple system assign automatically ",
+      "answer": "automatically assigned addresses, updated the distributed namespace, and configured any required inter-network routing",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "This type of system is known as ",
+      "answer": "a plug-n-play system",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Apple Inc created what in 1985?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was the purpose of the suite developed in 1985? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Why was Appletalk considered plug-n-play? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "What created a centralized router or server?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Could only Apple devices utilize this suite? ",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "AppleTalk was developed in 1995 for who?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "How were non-local area networks established with Appletalk?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Inter-network routing was what kind of system?",
+      "answer": null,
+      "llm_prediction": "inter - network routing was what kind of system? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What protocol was popular in the 1970s and 80s for Apple?",
+      "answer": null,
+      "llm_prediction": "what protocol was popular in the 1970s and 80s for apple? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What network was designed by the french ",
+      "answer": "CYCLADES packet switching network",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What was a first for this network ",
+      "answer": "to make the hosts responsible for reliable delivery of data, rather than the network itself",
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies"
+    },
+    {
+      "question": "How was this possible ",
+      "answer": "using unreliable datagrams and associated end-to-end protocol mechanisms",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "This network influenced  later models of ",
+      "answer": "later ARPANET architecture",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What alternative to ARPANET was developed? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Did ARPANET develop the first system to make hosts responsible for delivery of data?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What concepts influenced the later ARPANET?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Who had influenced ARPANET?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What types of alternatives did CYCLADES give?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks"
+    },
+    {
+      "question": "Who developed the Finnish research network, the CYCLADES packet?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Why was it developed in 1983?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "It wasn't the first network to make the hosts responsible for what?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "How did the network deliver the data?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What is  DECnet",
+      "answer": "a suite of network protocols created by Digital Equipment Corporation",
+      "llm_prediction": "decnet"
+    },
+    {
+      "question": "What did DECnet originally do ",
+      "answer": "connect two PDP-11 minicomputers",
+      "llm_prediction": ""
+    },
+    {
+      "question": "DEC originally had 3 layers but evolved into how many layers ",
+      "answer": "Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What did DECnet phase 2 become ",
+      "answer": "were open standards with published specifications, and several implementations were developed outside DEC, including one for Linux",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "DECnet stands for what?",
+      "answer": null,
+      "llm_prediction": "decnet"
+    },
+    {
+      "question": "What is peer to peer?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What sort of protocols were developed? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does DECnet suite include?",
+      "answer": null,
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "Late published versions were utilized by who?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "DECnet originally released in 1982 for what reason?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Originally built with four layers, how many layers did DEC evolve to have?",
+      "answer": null,
+      "llm_prediction": "four layers"
+    },
+    {
+      "question": "Linux became a networking powerhouse in the 1980s for what reason?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "DECnet II protocols were designed by who?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What did DECnet Phase I become?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks"
+    },
+    {
+      "question": "What was Warner Sinback",
+      "answer": "a data network based on this voice-phone network was designed to connect GE's four computer sales and service centers",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "The 4 sales and service centers are viewed as ",
+      "answer": "the world's first commercial online service",
+      "llm_prediction": "paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "Were the centers profitable",
+      "answer": "They lost money from the beginning, and Sinback, a high-level marketing manager, was given the job of turning the business around",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What did Warner Sinback decide ",
+      "answer": "that a time-sharing system, based on Kemney's work at Dartmouth—which used a computer on loan from GE—could be profitable",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Who lost money?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What work was completed at Dartmouth? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was the worlds first commercial online service?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What did Warner Sinback offer?",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "What was Warner correct about?",
+      "answer": null,
+      "llm_prediction": "the theretofore established principles of pre - allocation of network bandwidth"
+    },
+    {
+      "question": "These five computer sales and service centers are seen as what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Sinback worked with what college on a time-sharing system?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What job was Kemney given at GE?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "WHy was the Merit network formed in Michigan ",
+      "answer": "as a means to help the state's educational and economic development",
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "What completed the triad ",
+      "answer": "an interactive host to host connection was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What set the stage for Merits role in NSFNET",
+      "answer": "Ethernet attached hosts, and eventually TCP/IP and additional public universities in Michigan join the network",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "State educational and economic development where helped by what?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Where was the packet-switched network first demonstrated? ",
+      "answer": null,
+      "llm_prediction": "national physical laboratory ( united kingdom )"
+    },
+    {
+      "question": "What was the triad? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was eventual Merits role? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many joined the \"network\"? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "After the University of Ann Arbor and Wayne State University, who was the third university to complete the triad?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "When was Michigan Network Inc. formed by Michigan's public universities?",
+      "answer": null,
+      "llm_prediction": "1960s"
+    },
+    {
+      "question": "Why was the Michigan Educational Research Information Trio formed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Michigan Inc. start in the mid-1980s?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "NSF helped the network enhance what?",
+      "answer": null,
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "What was telenet ",
+      "answer": "the first FCC-licensed public data network in the United States",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "Who founded Telnet ",
+      "answer": "Larry Roberts",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Purpose of Telnet ",
+      "answer": "making ARPANET technology public",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "Telnet Used what  Interface technology",
+      "answer": "host interface to X.25 and the terminal interface to X.29",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Telnet was sold to ",
+      "answer": "Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "Telenet was licensed under what founder? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What was Larry Roberts hope?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "BBN provided financing for what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was Telenet purchased in 1979? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "AT&T did not purchase the technology for what reason? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "When AT&T financed the project, what technology did they use?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What GTE director wanted to make ARPANET technology public?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What was the BBN monopoly's reaction to Roberts?",
+      "answer": null,
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What business was incorporated in 1975?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Tymnet",
+      "answer": "an international data communications network headquartered in San Jose, CA",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Tymnet connect ",
+      "answer": "connect host computers (servers)at thousands of large companies, educational institutions, and government agencies",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "How did user of Tymnet connect ",
+      "answer": "connected via dial-up connections or dedicated async connections",
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "The business allowed for private companies to do what ",
+      "answer": "government agencies and large companies (mostly banks and airlines) to build their own dedicated networks",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Gateways allowed private companies to do what ",
+      "answer": "private networks were often connected via gateways to the public network to reach locations not on the private network",
+      "llm_prediction": "provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Tymnet worked with what?",
+      "answer": null,
+      "llm_prediction": "tymnet worked with what? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in europe in the decade following, including the incorporation of the concept in the early arpanet"
+    },
+    {
+      "question": "Private networks were connected via gateways for what reason? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "Who suggested the name of Tymnet? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Dial up or dedicated async connections connected who? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Where were servers hosted? ",
+      "answer": null,
+      "llm_prediction": "national physical laboratory ( united kingdom )"
+    },
+    {
+      "question": "What international data communications network was headquartered in San Juan, CA?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The public network business allowed government agencies to do what?",
+      "answer": null,
+      "llm_prediction": "provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "How was Tymnet connected to dozens of other private networks?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "How were X.75, ASCII, and other interfaces used?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Tymnet consisted of a large private network that supported who?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "How many types of X.25 networks were there originally ",
+      "answer": "There were two kinds of X.25 networks. Some such as DATAPAC and TRANSPAC",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who developed DATAPAC",
+      "answer": "DATAPAC was developed by Bell Northern Research",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "WHat did foreign clones of DATAPAC allow for ",
+      "answer": "A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address",
+      "llm_prediction": "datapac"
+    },
+    {
+      "question": "What was implemented with an X.25 interface? ",
+      "answer": null,
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What was sold to foreign PTTs?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "DNIC allowed a host to do what? ",
+      "answer": null,
+      "llm_prediction": "provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "The Deutsce Bundespost bought what kind of interface look a likes? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "X.25 networks were helped by what? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "How were TRANSPAC and TYMNET modified?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Bell Northern Research developed TRANSPAC as a joint venture between which two companies?",
+      "answer": null,
+      "llm_prediction": "bell northern research"
+    },
+    {
+      "question": "Who did Northen Telecom sell TRANSPAC clones to?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "TELENET and TRANSPAC were implemented with what?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "X.25 and X.121 allowed what to happen?",
+      "answer": null,
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "What was AUSTPAC",
+      "answer": "AUSTPAC was an Australian public X.25 network operated by Telstra",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did AUSTPAC support ",
+      "answer": "supporting applications such as on-line betting, financial applications",
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "How are AUSTPAC connections made ",
+      "answer": "Access can be via a dial-up terminal to a PAD, or, by linking a permanent X.25 node to the network",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Telecom Australia start? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "On-line betting was supported by what network frame?",
+      "answer": null,
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What types of access did Telstra provide? ",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Who had remote terminal access? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "The Australian Tax Office used AUSTPAC for what reason? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Telstra started what in the early 1980s?",
+      "answer": null,
+      "llm_prediction": "telstra started what in the early 1980s? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "The Australian Tax Office used AUSTPAC to access what remotely?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What applications did AUSTPAC not support?",
+      "answer": null,
+      "llm_prediction": "pre - allocation of network bandwidth"
+    },
+    {
+      "question": "What was the Australian public X.75 network operated by Telstra?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was DATANET 1 ",
+      "answer": "was the public switched data network operated by the Dutch PTT Telecom",
+      "llm_prediction": "datanet 1 [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "Strictly speaking who was included in DATANET 1",
+      "answer": "Datanet 1 only referred to the network and the connected users via leased lines",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Who else did DATNET 1 refer to ",
+      "answer": "public PAD service Telepad (using the DNIC 2049",
+      "llm_prediction": "datnet 1 refer to [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies"
+    },
+    {
+      "question": "Was the Use of the DATANET 1 name correct ",
+      "answer": "use of the name was incorrect all these services were managed by the same people within one department of KPN contributed to the confusion",
+      "llm_prediction": "the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What was confusing within KPN?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Datanet 1 also referred to what? ",
+      "answer": null,
+      "llm_prediction": "datanet 1"
+    },
+    {
+      "question": "KPN referred to Datanet 1 as ",
+      "answer": null,
+      "llm_prediction": "datanet 1 as [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "What was considered to be incorrect for the services given out by KPN?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Who managed Datanet 1 for KPN?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What did the public KPN service Telepad use?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What service used the network and modified KPN devices?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the network operated by the Duct PTT Telecom?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Though the name was correct, all these services were managed by who?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "What is CSNET",
+      "answer": "The Computer Science Network",
+      "llm_prediction": "csnet [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What was the purpose of CSNET",
+      "answer": "to extend networking benefits, for computer science departments at academic and research institutions that could not be directly connected to ARPANET",
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "Funding limitations allowed CSNET to be what ",
+      "answer": "role in spreading awareness of, and access to, national networking and was a major milestone on the path to development of the global Internet",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What was considered to be a major milestone?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "Who spread awareness of national networking? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Who benefited from CSNET?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Global internet was help funded by what foundation? ",
+      "answer": null,
+      "llm_prediction": "us department of defense"
+    },
+    {
+      "question": "Extended networking benefits helped those that could not connect to what platform? ",
+      "answer": null,
+      "llm_prediction": "arpanet"
+    },
+    {
+      "question": "What began operation in 1982?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What was the purpose of NSF?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Why did academic and research institutions need NSF's help connecting to ARPANET?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant"
+    },
+    {
+      "question": "ARPANET played a significant role in what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "NSF was a major milestone for what?",
+      "answer": null,
+      "llm_prediction": "packet switching"
+    },
+    {
+      "question": " what is Internet2",
+      "answer": "a not-for-profit United States computer networking consortium led by members from the research and education communities, industry, and government",
+      "llm_prediction": "donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s"
+    },
+    {
+      "question": "Who did internet2 partner with",
+      "answer": "The Internet2 community, in partnership with Qwest",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What was the first internet2 network named",
+      "answer": "Abilene",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Who did internet2 partner with ",
+      "answer": "a partnership with Level 3 Communications to launch a brand new nationwide network",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "ableine was retired and the new platform is called ",
+      "answer": "Internet2 officially retired Abilene and now refers to its new, higher capacity network as the Internet2 Network",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Qwest partnered with who to help create Internet2?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "Level 3 communications launched what? ",
+      "answer": null,
+      "llm_prediction": "level 3 communications"
+    },
+    {
+      "question": "Internet2 became what in 2007? ",
+      "answer": null,
+      "llm_prediction": "internet2 became what in 2007? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "Abilene referred to what? ",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "A higher capacity network was formed by what project? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the first Internet2 Network created with NLR?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who did Internet2 partner with to boost their capacity from 100 Gbit/s to 1000 Gbit/s?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Who leads the Qwest consortium?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Abilene was a prime investor in what project?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "What is NSFNET",
+      "answer": "The National Science Foundation Network",
+      "llm_prediction": "nsfnet [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What did NSFNET promote",
+      "answer": "advanced research and education networking in the United States",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did NSFNET eventually provide",
+      "answer": "it developed into a major part of the Internet backbone",
+      "llm_prediction": "nsfnet eventually provide [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in europe in the decade following, including the incorporation of the concept in the early arpanet"
+    },
+    {
+      "question": "Advanced networking was developed by what sponsorship? ",
+      "answer": null,
+      "llm_prediction": "us department of defense"
+    },
+    {
+      "question": "Promoted research in 1985 led to what? ",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "Original intent of NFS funding was to accomplish what task? ",
+      "answer": null,
+      "llm_prediction": "to accomplish what task? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "Public and private funding led to what development? ",
+      "answer": null,
+      "llm_prediction": "fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What prompted advanced research and education in networking?",
+      "answer": null,
+      "llm_prediction": "distributed adaptive message block switching"
+    },
+    {
+      "question": "NSF began in 1985 to promote what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "NSF developed into what through public funding and private partnerships?",
+      "answer": null,
+      "llm_prediction": "nsf developed into what through public funding and private partnerships? [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching with the goal to provide a fault - tolerant, efficient routing method for telecommunication messages as part of a research program at the rand corporation, funded by the us department of defense. this concept contrasted and contradicted the theretofore established principles of pre - allocation of network bandwidth, largely fortified by the development of telecommunications in the bell system. the new concept found little resonance among network implementers until the independent work of donald davies at the national physical laboratory ( united kingdom ) ( npl ) in the late 1960s. davies is credited with coining the modern name packet switching"
+    },
+    {
+      "question": "What was constructed to supported NSF in 1985-1999?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was NSFUS initially created?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "what does vBNS stand for ",
+      "answer": "The Very high-speed Backbone Network Service",
+      "llm_prediction": "vbns stand for [SEP] starting in the late 1950s, american computer scientist paul baran developed the concept distributed adaptive message block switching"
+    },
+    {
+      "question": "What did vBNS do ",
+      "answer": "provide high-speed interconnection between NSF-sponsored supercomputing centers and select access points in the United States",
+      "llm_prediction": "provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "Who operated the vBSN network ",
+      "answer": "The network was engineered and operated by MCI Telecommunications under a cooperative agreement with the NSF",
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "By 199 how many universities were connected ",
+      "answer": "By 1998, the vBNS had grown to connect more than 100 universities and research and engineering institutions via 12 national points of presence with DS-3",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What did the network install in 1999",
+      "answer": "vBNS installed one of the first ever production OC-48c (2.5 Gbit/s) IP links in February 1999 and went on to upgrade the entire backbone to OC-48c",
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "What were select locations connected to? ",
+      "answer": null,
+      "llm_prediction": "packet switching networks"
+    },
+    {
+      "question": "How were high speed connections maintained and who were they monitored by? ",
+      "answer": null,
+      "llm_prediction": "high speed connections maintained and who were they monitored by?"
+    },
+    {
+      "question": "Who created the cooperative agreement? ",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "Why was OC-12c considered a substantial engineering feat? ",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method for telecommunication messages"
+    },
+    {
+      "question": "When was OC-12c upgraded? ",
+      "answer": null,
+      "llm_prediction": "late 1950s"
+    },
+    {
+      "question": "Why was NSFBNS created?",
+      "answer": null,
+      "llm_prediction": "to provide a fault - tolerant, efficient routing method"
+    },
+    {
+      "question": "NSF was engineered and operated by who?",
+      "answer": null,
+      "llm_prediction": "paul baran"
+    },
+    {
+      "question": "NSF grew to connect how many universities?",
+      "answer": null,
+      "llm_prediction": "1960s. davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks"
+    },
+    {
+      "question": "NSF installed one of the first in February 1999?",
+      "answer": null,
+      "llm_prediction": "donald davies"
+    },
+    {
+      "question": "How many points of presence did NSFBNS have by 1998?",
+      "answer": null,
+      "llm_prediction": ""
+    }
+  ]
+}

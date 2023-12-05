@@ -1,0 +1,1641 @@
+{
+  "title": "Civil_disobedience",
+  "context": "One of its earliest massive implementations was brought about by Egyptians against the British occupation in the 1919 Revolution. Civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. It has been used in many nonviolent resistance movements in India (Gandhi's campaigns for independence from the British Empire), in Czechoslovakia's Velvet Revolution and in East Germany to oust their communist governments, In South Africa in the fight against apartheid, in the American Civil Rights Movement, in the Singing Revolution to bring independence to the Baltic countries from the Soviet Union, recently with the 2003 Rose Revolution in Georgia and the 2004 Orange Revolution in Ukraine, among other various movements worldwide.",
+  "qas": [
+    {
+      "question": "What is it called when people in society rebel against laws they think are unfair?",
+      "answer": "Civil disobedience",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What is an example of major civil disobedience in South Africa?",
+      "answer": "apartheid",
+      "llm_prediction": "what is an example of major civil disobedience in south africa? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid, in the american civil rights movement, in the singing revolution"
+    },
+    {
+      "question": "What was the the movement called that brought Baltic countries independence from the Soviet Union?",
+      "answer": "Singing Revolution",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "In 2004 the Orange revolution occurred in what country?",
+      "answer": "Ukraine",
+      "llm_prediction": "czechoslovakia"
+    },
+    {
+      "question": "Where was the location of the 2003 Rose revolution?",
+      "answer": "Georgia",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which people brought forward one of the earliest examples of Civil Disobedience?",
+      "answer": "Egyptians",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "Who was one of the earliest examples of Civil Disobedience against?",
+      "answer": "the British",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Why do people chose civil disobedience to protest?",
+      "answer": "nonviolent resistance",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does civil disobedience protest against?",
+      "answer": "unfair laws",
+      "llm_prediction": "apartheid"
+    },
+    {
+      "question": "What civil rights movement in the US was known for it's disobedience?",
+      "answer": "American Civil Rights Movement",
+      "llm_prediction": "american"
+    },
+    {
+      "question": "What is the definition of Germany adopting a Communist government?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What did the Velvet revolution hope to accomplish in India?",
+      "answer": null,
+      "llm_prediction": "independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments"
+    },
+    {
+      "question": "Whose occupation did the Egyptians resist in the 2003 Rose Revolution?",
+      "answer": null,
+      "llm_prediction": "british occupation"
+    },
+    {
+      "question": "To what countries did the 1919 Revolution want to bring independence to from Russia?",
+      "answer": null,
+      "llm_prediction": "czechoslovakia ' s velvet revolution and in east germany"
+    },
+    {
+      "question": "In what country was the 2004 Velvet Revolution?",
+      "answer": null,
+      "llm_prediction": "czechoslovakia"
+    },
+    {
+      "question": "Sophocles demonstrated civil disobedience in a play that was called?",
+      "answer": "Antigone",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid, in the american civil rights movement, in the singing revolution"
+    },
+    {
+      "question": "Who is Antigone's father in the play?",
+      "answer": "former King of Thebes",
+      "llm_prediction": "who is antigone ' s father in the play? [SEP] one of its earliest massive implementations was brought about by egyptians against the british"
+    },
+    {
+      "question": "What is the name of the current King of Thebes in the play?",
+      "answer": "Creon",
+      "llm_prediction": "king of thebes"
+    },
+    {
+      "question": "What character in the play portrays civil disobedience?",
+      "answer": "Oedipus",
+      "llm_prediction": "what character"
+    },
+    {
+      "question": "What is Creon trying to stop Antigone from doing in the play? ",
+      "answer": "giving her brother Polynices a proper burial",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What play showed an early depiction of civil disobedience?",
+      "answer": "Antigone",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid, in the american civil rights movement, in the singing revolution"
+    },
+    {
+      "question": "Antigone was a play made by whom?",
+      "answer": "Sophocles",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "In Antigone, who was the target of civil disobedience?",
+      "answer": "Creon, the current King of Thebes",
+      "llm_prediction": "the british"
+    },
+    {
+      "question": "What was the protest in Antigone about?",
+      "answer": "giving her brother Polynices a proper burial",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How was the civil disobedience shown in Antigone?",
+      "answer": "obey her conscience rather than human law",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What play by Oedipus, demonstrates civil disobedience?",
+      "answer": null,
+      "llm_prediction": "singing revolution"
+    },
+    {
+      "question": "Who is the father of Sophocles?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who does Sophocles defy?",
+      "answer": null,
+      "llm_prediction": "the british occupation"
+    },
+    {
+      "question": "Why does Sophocles defy Creon in the play?",
+      "answer": null,
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What must Sophocles do instead of following the king's will?",
+      "answer": null,
+      "llm_prediction": "must sophocles do instead of following the king ' s will? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience"
+    },
+    {
+      "question": "After the Peterloo massacre what poet wrote The Massacre of Anarchy?",
+      "answer": "Percy Shelley",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "His poem is considered the first kind of what type of protest?",
+      "answer": "nonviolent",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What famous author used similarity and likeness of Percy Shelly in his writing?",
+      "answer": "Henry David Thoreau",
+      "llm_prediction": "percy shelly"
+    },
+    {
+      "question": "Inspired by Shelley what was the name of Gandhi's doctrine?",
+      "answer": "Satyagraha",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Gandhi often referenced Shelley's poem in his efforts to do what? ",
+      "answer": "free India",
+      "llm_prediction": "oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "Who wrote the poem The Mark of Anarchy?",
+      "answer": "Percy Shelley",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "The Mark of Anarchy was written to protest against what?",
+      "answer": "unjust forms of authority",
+      "llm_prediction": "apartheid"
+    },
+    {
+      "question": "What was the principle shown in The Mark of Anarchy?",
+      "answer": "principle of nonviolent protest",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Which famous Indian practiced civil disobedience?",
+      "answer": "Gandhi",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What was Ghandi's work called?",
+      "answer": "doctrine of Satyagraha",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "In what year was the Satyagraha massacre?",
+      "answer": null,
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "What was written by Ghandi in 1819?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Why did Ghandi write The Mask of Anarchy?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What theme does Ghandi begin The Mask of Anarchy with?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What would Henry David Thoreau quote to audiences in India?",
+      "answer": null,
+      "llm_prediction": "independence from the british empire"
+    },
+    {
+      "question": "Vice President Agnew describes Civil disobedience in what activities?",
+      "answer": "muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins",
+      "llm_prediction": "nonviolent resistance movements"
+    },
+    {
+      "question": "Civil disobedience has been argued in more recent times to have suffered from what?",
+      "answer": "ambiguity",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "More in the present prevalence of civil disobedience has turned and said to be?",
+      "answer": "utterly debased",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What person argues that civil disobedience is used to describe everything?",
+      "answer": "Marshall Cohen",
+      "llm_prediction": "civil disobedience is used to describe everything? [SEP] one of its earliest massive implementations"
+    },
+    {
+      "question": "In modern times, what is said about civil disobedience?",
+      "answer": "become utterly debased",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Who noted the different current uses of civil disobedience?",
+      "answer": "Marshall Cohen",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "How has civil disobedience evolved in current times?",
+      "answer": "code-word describing the activities of muggers, arsonists, draft evaders",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Who gave a negative connotation to civil disobedience in recent history?",
+      "answer": "Vice President Agnew",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What issue has been plaguing the civil disobedience movement.",
+      "answer": "ambiguity",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What had Vice President Agnew always suffered from? ",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What had happened to Vice President Agnew's status in modern times?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What did Marchall Cohen note about crime?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What types of people were always involved in the court system?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of person would be involved in a test case in federal court?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Who wrote that it is difficult to produce an all inclusive definition of civil disobedience?",
+      "answer": "LeGrande",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "Le Grande also wrote that defining the term civil disobedience so difficult it could be described as? ",
+      "answer": "impossible",
+      "llm_prediction": "difficult"
+    },
+    {
+      "question": "Le grand asks for a variance of what three terms?",
+      "answer": "lawful protest demonstration, nonviolent civil disobedience, and violent civil disobedience",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Le grand states that students studying civil disobedience will often run into grammatical niceties and what other problem? ",
+      "answer": "semantical",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Le grand concludes that an author's words offer only what they intended for them to imply regarding this type of terminology?",
+      "answer": "specific",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Who said that writing a good description of civil disobedience is hard?",
+      "answer": "LeGrande",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "How much literature has been written regarding civil disobedience?",
+      "answer": "voluminous literature",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What issue plagues the literature about civil disobedience?",
+      "answer": "semantical problems and grammatical niceties",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What type of protest falls under civil disobedience without aggression?",
+      "answer": "nonviolent civil disobedience",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of civil disobedience is accompanied by aggression?",
+      "answer": "violent civil disobedience",
+      "llm_prediction": "civil disobedience is accompanied by aggression? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "Who wrote that its difficult to formulate a definition of grammatical niceties?",
+      "answer": null,
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What did LeGrande write about grammatical niceties?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What are you surrounded with if trying to study about violence in society?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "How much has been written about the subject of grammar?",
+      "answer": null,
+      "llm_prediction": "massive implementations was brought about by egyptians against the british occupation in the 1919 revolution"
+    },
+    {
+      "question": "What novel was written by LeGrande?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "If the head of government refuses to enforce a decision of the highest court what terminology could be used?",
+      "answer": "constitutional impasse",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Constitutional impasse is different from civil disobedience because does not include what type of person?",
+      "answer": "citizen's",
+      "llm_prediction": "british"
+    },
+    {
+      "question": "How is civil disobedience typically defined in connection of the citizen's?",
+      "answer": "to the state and its laws",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "When would a person be considered to be excising a constitutional impasse?",
+      "answer": "the head of government would be acting in her or his capacity as public official",
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "Constitutional impasse is distinct from what key term? ",
+      "answer": "Civil disobedience",
+      "llm_prediction": "constitutional impasse"
+    },
+    {
+      "question": "What does civil disobedience relate to?",
+      "answer": "the state and its laws",
+      "llm_prediction": "civil disobedience relate to? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation"
+    },
+    {
+      "question": "What does not constitute as civil disobedience?",
+      "answer": "refuse to enforce a decision",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What type of person can not be attributed civil disobedience?",
+      "answer": "head of government",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "Civil Disobedience is mainly performed by what population group?",
+      "answer": "private citizen",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What group of people cannot be part of civil disobedience?",
+      "answer": "sovereign branches of government",
+      "llm_prediction": "what group of people cannot be part of civil disobedience? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution"
+    },
+    {
+      "question": "What two public agencies conflict under the defnintion of civil disobedience?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What else does an agency have a relationship with under the civil disobedience definition?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "How many citizens conflict in a constitutional impasse?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "What group promotes using conflict to decide cases?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid, in the american civil rights movement"
+    },
+    {
+      "question": "A constitutional impasse pertains to how a citizen relates to the state and what?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What author argues pitching the conscience versus the collective?",
+      "answer": "Thoreau",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What was Thoreau's punishment for not paying his taxes?",
+      "answer": "imprisonment",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Thoreau argues that usually majority rules but their views collectively are sometimes?",
+      "answer": "not necessarily right",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Thoreau ask a public figure the taxman to do?",
+      "answer": "Resign",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Thoreau mentions what type of person could corrupt a government system?",
+      "answer": "elite politicians",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Who is the final judge of right and wrong?",
+      "answer": "The individual",
+      "llm_prediction": "who is the final judge of right and wrong? [SEP] one of its earliest massive implementations was brought about by egyptians"
+    },
+    {
+      "question": "Who is to blame for acting unjustly?",
+      "answer": "individuals",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "Who was famous for disobedience against a tax collector?",
+      "answer": "Thoreau",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What advise did Thoreau give the tax collector when unable to perform his duty?",
+      "answer": "Resign",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What did Thoreau claim about the majority?",
+      "answer": "not necessarily right",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What was the taxman's political philosophy?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What was the government the final judge of?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Who did the government refuse to pay?",
+      "answer": null,
+      "llm_prediction": "british occupation"
+    },
+    {
+      "question": "What did the government want Thoreau to do?",
+      "answer": null,
+      "llm_prediction": "oust their communist governments"
+    },
+    {
+      "question": "Who's will may elite politicians follow according to the government?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Some theories argue that civil disobedience is justified in regard to?",
+      "answer": "governmental entities",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Brownlee argues disobedience can be justified toward what institutions?",
+      "answer": "trade unions, banks, and private universities",
+      "llm_prediction": "communist governments"
+    },
+    {
+      "question": "Brownlee justifies civil disobedience toward what branch of the government?",
+      "answer": "legal system",
+      "llm_prediction": "communist"
+    },
+    {
+      "question": "Browlee also applies that civil disobedience is okay regarding?",
+      "answer": "international organizations and foreign governments",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What do some theories claim about civil disobedience?",
+      "answer": "only justified against governmental entities",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who claims that public companies can also be part of civil disobedience?",
+      "answer": "Brownlee",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What reason is given that you should also protest public companies?",
+      "answer": "a larger challenge to the legal system",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What public entity of learning is often target of civil disobedience?",
+      "answer": "universities",
+      "llm_prediction": "what public entity of learning"
+    },
+    {
+      "question": "Who believed that civil disobedience should only be used against governmental entities?",
+      "answer": null,
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What two groups do trade unions think civil disobedience is justified against?",
+      "answer": null,
+      "llm_prediction": "trade unions"
+    },
+    {
+      "question": "When is civil disobedience justified against certain groups according to trade unions?",
+      "answer": null,
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "In what other way can disobedience be applied to international organizations and governments?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "When do banks believe civil disobedience is justified?",
+      "answer": null,
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "If law breaking is not done in a public manor it is not considered what term?",
+      "answer": "civil disobedience",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Stephen Eilmann asks why show public civil disobedience instead what is a better idea?",
+      "answer": "covert lawbreaking",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Stephen Eilmann demonstrates covert law breaking in Nazi Germany.   Citizen's illegally had been doing what? ",
+      "answer": "hiding a Jew in their house",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Stephen Eildmann cites the oldest known example of civil disobedience in what part of the bible? ",
+      "answer": "(Exodus 1: 15-19)",
+      "llm_prediction": "in what part of the bible? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What two women were defying the pharaoh in the story from the book of Exodus? ",
+      "answer": "Shiphrah and Puah",
+      "llm_prediction": "two women"
+    },
+    {
+      "question": "What must be done to make non public lawbreaking acknowledged as civil disobedience?",
+      "answer": "must be publicly announced",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is necessary to disobey?",
+      "answer": "rules that conflict with morality",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What is sometimes more effective than civil disobedience at times?",
+      "answer": "fabricating evidence or committing perjury",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What dilemma is a good example of moral civil disobedience?",
+      "answer": "the dilemma faced by German citizens",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What book of the Bible discusses civil disobedience?",
+      "answer": "Book of Exodus",
+      "llm_prediction": "singing revolution"
+    },
+    {
+      "question": "What must be announced publicly so you can still find a lawyer to represent you?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What publication was written by Stephen Eilmann?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What Book of the Bible is knowledge of the law traced back to?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What two women refused to commit perjury in the Book of Exodus?",
+      "answer": null,
+      "llm_prediction": "two women"
+    },
+    {
+      "question": "What dilemma is a good example of perjury?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Cristian Bay's encyclopedia concludes that civil disobedience does not only include what behavior?",
+      "answer": "non-violence",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What dictionary contains a non- violent definition?",
+      "answer": "Black's Law",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What other terminology is considered much more destructive?",
+      "answer": "civil rebellion",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "People behaving with civil disobedience that is not-violent is said to make society have more of what?",
+      "answer": "tolerance",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Debates about civil disobedience include or exclude what major practice? ",
+      "answer": "violence",
+      "llm_prediction": "british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What type of civil disobedience is commonly accepted?",
+      "answer": "non-violent",
+      "llm_prediction": "civil disobedience is commonly accepted? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "When violence is used, what is civil disobedience sometimes called?",
+      "answer": "civil rebellion",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What is one result of civil rebellion?",
+      "answer": "destructive",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "Why is it preferred that civil disobedience is non violent?",
+      "answer": "help preserve society's tolerance of civil disobedience",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What action by Christian Bay helps a society tolerate civil disobedience?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one thing that rebellion must have in Black's Law Dictionary?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What does rebellion require in Christian Bay's encyclopedia?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What does Black's Law Dictionary say that rebellion doesn't have to be?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is the result of rebellion according to Black's Law Dictionary?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is it called when there is an active attempt to overthrow a government or belief system?",
+      "answer": "Revolutionary civil disobedience",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What group of people performed revolutionary civil disobedience toward the Austrian government?",
+      "answer": "Hungarians",
+      "llm_prediction": "what group of people performed revolutionary civil disobedience toward the austrian government? [SEP] one of its earliest massive implementations was brought about by egyptians"
+    },
+    {
+      "question": "The Hungarians performed this civil disobedience under the direction of what person?",
+      "answer": "Ferenc Deák",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "Revolutionary civil disobedience towards culture is highlighted by example of who? ",
+      "answer": "Gandhi's",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What other topics can Civil disobedience pertain to?",
+      "answer": "cultural traditions, social customs, religious beliefs",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What is a simple form of civil disobedience?",
+      "answer": "disobedience of laws",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "Why would a person chose civil disobedience against specific laws?",
+      "answer": "judged \"wrong\" by an individual conscience",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What is the goal of individual civil disobedience?",
+      "answer": "render certain laws ineffective",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments"
+    },
+    {
+      "question": "What type of civil disobedience is larger scale?",
+      "answer": "Revolutionary civil disobedience",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What famous Indian's actions were considered civil disobedience?",
+      "answer": "Gandhi",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does non-revolutionary civil disobedience want to overthrow?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does an individual conscience not have to be?",
+      "answer": null,
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What did Ghandi mention about the right to abolish an unjust government in The Declaration of Independence?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What did Ghandi think that using your conscience accomplished?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What did Harvey Wheeler direct the Hungarians to do?",
+      "answer": null,
+      "llm_prediction": "oust their communist governments"
+    },
+    {
+      "question": "When did the earliest examples of civil disobedience as a whole occur?",
+      "answer": "during the Roman Empire",
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "What did the Jewish people do so pagan items wouldn't be in the temple of Jerusalem?",
+      "answer": "gathered in the streets",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Since Thoreau was not a well known writer what happened when he was arrested?",
+      "answer": "was not covered in any newspapers",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What position did the tax collector that arrested Thoreau get?",
+      "answer": "rose to higher political office",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "When was Thoreau's essay published?",
+      "answer": "after the end of the Mexican War",
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "When is the oldest recorded incident of civil disobedience?",
+      "answer": "during the Roman Empire",
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "What was the goal of this Roman disobedience?",
+      "answer": "prevent the installation of pagan images",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What is a recent civil disobedience done in a group form?",
+      "answer": "refuse to sign bail",
+      "llm_prediction": "civil disobedience done in a group form? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is the civil disobedience called where people refuse to be released?",
+      "answer": "jail solidarity",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "How long did it take for Thoreau's disobedience to be known?",
+      "answer": "until after the end of the Mexican War",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What took place during the Mexian War?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did tax collectors try to prevent from being installed in the Temple?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What do those in political office refuse to sign when involved in civil disobedience?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How was the event covered when Jews were arrested by tax collectors?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "When was the essay written by modern activists published?",
+      "answer": null,
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "Civil disobedients have chosen many different kinds of what type of behaviors?",
+      "answer": "illegal",
+      "llm_prediction": "civil disobedients"
+    },
+    {
+      "question": "Bedau notes that illegal protests towards public policy may serve as what purpose?",
+      "answer": "propaganda",
+      "llm_prediction": "to bring independence to the baltic countries from the soviet union"
+    },
+    {
+      "question": "What group of civil disobedients brought medicine to Iraq without the permission of the government?",
+      "answer": "Voice in the Wilderness",
+      "llm_prediction": "what group of civil disobedients"
+    },
+    {
+      "question": "How long did Julia Butterfly Hill live in a tree?",
+      "answer": "738 days",
+      "llm_prediction": "julia butterfly hill live in a tree? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution."
+    },
+    {
+      "question": "What was the outcome of living in the California Redwood tree?",
+      "answer": "successfully preventing it from being cut down",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of actions are taken sometimes in civil disobedience?",
+      "answer": "illegal acts",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is an example of illegal disobedience?",
+      "answer": "trespassing at a nuclear-missile installation",
+      "llm_prediction": "what is an example of illegal disobedience? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid, in the american civil rights movement, in the singing revolution"
+    },
+    {
+      "question": "Such protests are usually considered to be what type?",
+      "answer": "entirely symbolic",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What type of goals are usually done skirting the law?",
+      "answer": "social goal",
+      "llm_prediction": "goals"
+    },
+    {
+      "question": "Who lived in a tree to prevent it from being cut down as a form of civil disobedience?",
+      "answer": "Julia Butterfly Hill",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "How long did Julia Butterfly Hill live near a nuclear-missile installation?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Bedau live in to prevent it from being cut down?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do symbolic protests accomplish according to Julia Butterfly HIll?",
+      "answer": null,
+      "llm_prediction": "oust their communist governments"
+    },
+    {
+      "question": "What company was Bedau a part of while breaking the law by bringing medicine to Iraq?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is an example of an ineffective and absurd act according to Julia Butterfly Hill?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Joseph Haas arrested for?",
+      "answer": "sending an email to the Lebanon, New Hampshire city councilors",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Joseph Haas say in his email?",
+      "answer": "\"Wise up or die.\"",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Civil disobedience can occur when people speak about a certain topic that is deemed as?",
+      "answer": "criminalized behavior",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "WBAI's broadcasting Some of George Carlin's comedy eventually led to what?",
+      "answer": "Supreme Court case of FCC v. Pacifica Foundation",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What year did the the case go before the supreme court?",
+      "answer": "1978",
+      "llm_prediction": "1919"
+    },
+    {
+      "question": "What is one criminal behavior that is hard to stop by authorities?",
+      "answer": "pure speech",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What is one way to use pure speech to reach as much people as possible to protest?",
+      "answer": "broadcasting",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "How can you protest against the government in an individual way?",
+      "answer": "Threatening government officials",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one way of digital civil disobedience that can have far reaching consequences?",
+      "answer": "sending an email",
+      "llm_prediction": "what is one way of digital civil disobedience that can have far reaching consequences? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What did George Carlin send to the city council in New Hampshire?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did George Carlin tell the city council to do in New Hampshire?",
+      "answer": null,
+      "llm_prediction": "do"
+    },
+    {
+      "question": "What happened to George Carlin after he sent the e-mail?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What court case was eventually the result of Joseph Haas sending and e-mail to the New Hampshire city council?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "How can you protest against WBAI and its policies as an individual?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Boycotting, refusing to pay taxes, sit ins, and draft dodging all make what harder?",
+      "answer": "system to function",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Name one way the Plowshares organization temporarily close GCSB Waihopai?",
+      "answer": "by padlocking the gates",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Name the other way that the Plowshares organization temporarily closed?",
+      "answer": "using sickles to deflate one of the large domes covering two satellite dishes",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Brownlee argues that sometimes people behave in what way to have their issue heard?",
+      "answer": "limited coercion",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "When large groups of people all boycott a system or don't pay taxes it can be considered?",
+      "answer": "coercive",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a type of disobedience against the federal government?",
+      "answer": "refusals to pay taxes",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What side effect of these type of protests is unfortunate?",
+      "answer": "coercion",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What goal do many of these protests have?",
+      "answer": "engage in moral dialogue",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How can you protest against big companies in a non violent way?",
+      "answer": "padlocking the gates",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did denial of service attacks make it harder for The Plowshares organization to do?",
+      "answer": null,
+      "llm_prediction": "denial of service attacks"
+    },
+    {
+      "question": "What is using moral dialogue considered when not following the law?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What action did Brownlee take against GCSB Waihopai that caused them to close temporarily?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What method does the government use to get their issue heard?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Why does the government restrain itself when engaging in disobedience?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What type of government investigations apply to civil disobedience?",
+      "answer": "criminal investigations",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What is a way you can show police officers civil disobedience ?",
+      "answer": "not to grant a consent search",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What should be avoided when talking to authorities?",
+      "answer": "suspect's talking to criminal investigators",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What reasons cause failure of the disobedience with authorities?",
+      "answer": "lack of understanding of the legal ramifications,",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Why do some people purposely resist officers of the law?",
+      "answer": "use the arrest as an opportunity",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What applies to both collecting taxes and searching property?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Why do some people find it hard to not talk to a tax agent?",
+      "answer": null,
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Who do some tax agents want to make and impression on during an arrest?",
+      "answer": null,
+      "llm_prediction": "british"
+    },
+    {
+      "question": "What does someone diagnosed as a maniac need to decide  when dealing with police?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What did Thoreau believe about talking to police officers?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What do some civil disobedient people feel the need to acknowledge.",
+      "answer": "accept punishment",
+      "llm_prediction": "civil disobedient people feel the need to acknowledge. [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Why is the need for acceptance of punishment needed?",
+      "answer": "validity of the social contract",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What do some people protest against?",
+      "answer": "legitimacy of a particular law",
+      "llm_prediction": "apartheid"
+    },
+    {
+      "question": "What is the group called that does not agree with government at all?",
+      "answer": "anarchists",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Anarchists do not want to accept punishment for what reason?",
+      "answer": "does not infringe the rights of others",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Why do anarchists want to accept punishment?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What do anarchists accept about the role of government?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "While anarchists favor government, what don't they believe in?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What do anarchists feel they must accept as a consequence of their actions in breaking the law?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Why does government exist according to anarchists?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments"
+    },
+    {
+      "question": "What is an important personal decision for civil disobedients?",
+      "answer": "whether or not to plead guilty",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Which duty do some people believe civil disobedients have?",
+      "answer": "submit to the punishment prescribed by law",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Why would one plead guilty to a crime involving civil disobedience?",
+      "answer": "I feel I did the right thing by violating this particular law",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Which reason is given sometimes to plead not guilty involving these matters?",
+      "answer": "Guilt implies wrong-doing",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What third type of plea uses creative words?",
+      "answer": "creative plea",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What group needs to decide if they should make a creative plea or not?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is a no contest plea the same as?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What do some people think ACT UP's duty should be when caught?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What do people pleading no contest believe about defending themselves?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "A plea of no contest is a compromose between a creative plea and pleading what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where in Las Vegas did a famous protest take place?",
+      "answer": "Camp Mercury nuclear test site",
+      "llm_prediction": "las vegas"
+    },
+    {
+      "question": "What was the civil disobedience performed at the test site?",
+      "answer": "tempted to enter the test site",
+      "llm_prediction": "civil disobedience performed at the test site? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What was the result of the disobedience protesting the nuclear site?",
+      "answer": "arrested",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did their lawyer suggest they would plea?",
+      "answer": "nolo contendere",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What type of sentences were the protesters given?",
+      "answer": "suspended sentences",
+      "llm_prediction": "sentences"
+    },
+    {
+      "question": "What was sponsored by Francis Heisler in August 1957?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did Francis Heisler plan to have her protest?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many missles were at the nuclear test site?",
+      "answer": null,
+      "llm_prediction": "how many missles"
+    },
+    {
+      "question": "Where was Francis Heisler taken after the protest?",
+      "answer": null,
+      "llm_prediction": "czechoslovakia ' s velvet revolution"
+    },
+    {
+      "question": "What sentence was Francis Heisler given when she was found guilty?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why do some people chose to go to jail for their disobedience?",
+      "answer": "a way of continuing their protest",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Going to jail accomplished what goal of civil disobedience?",
+      "answer": "reminding their countrymen of injustice",
+      "llm_prediction": "bring independence to the baltic countries from the soviet union"
+    },
+    {
+      "question": "What is the most important item for civil disobedience to follow through?",
+      "answer": "protest should be maintained all the way",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why should one not go to jail?",
+      "answer": "accept jail penitently",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What are two reasons Conservatives went to jail?",
+      "answer": null,
+      "llm_prediction": "unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments"
+    },
+    {
+      "question": "What is the main point of being a Conservative and protesting?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What does Howard Zinn believe should be removed?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What does following the rules help to preserve with a protest?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does being a Conservative do to the seriousness of a protest?",
+      "answer": null,
+      "llm_prediction": "does being a conservative do to the seriousness of a protest? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience"
+    },
+    {
+      "question": "What type of punishment is sometimes offered to civil disobedients?",
+      "answer": "plea bargain",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is usually the goal of taking a plea bargain?",
+      "answer": "no jail time",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "When many people are arrested, what is a common tactic negotiating?",
+      "answer": "solidarity tactics",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What type of plea is sometimes taken as an act of disobedience?",
+      "answer": "blind plea",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Which famous Indian took a plea and put himself at the mercy of the courts?",
+      "answer": "Mohandas Gandhi",
+      "llm_prediction": "which famous indian took a plea and put himself at the mercy of the courts? [SEP] one of its earliest massive implementations was brought about by egyptians"
+    },
+    {
+      "question": "What did the prosecution propose in Ghandi's trial?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What group decided to enter a blind plea without any jailtime?",
+      "answer": null,
+      "llm_prediction": "what group decided to enter a blind plea without any jailtime? [SEP] one of its earliest massive implementations was brought about by egyptians"
+    },
+    {
+      "question": "What did Ghandi decide to use so that everyone would have the same deal?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "How did the Camden 28 decide to submit themselves to the court after pleading guilty?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "How did the Camden 28 describe their actions to the court?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What way do some people perform civil disobedience in a constructive way?",
+      "answer": "defiant speech",
+      "llm_prediction": "singing revolution"
+    },
+    {
+      "question": "Why would one want to give a speech?",
+      "answer": "explaining their actions",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments"
+    },
+    {
+      "question": "Why is giving a defiant speech sometimes more harmful for the individual?",
+      "answer": "lack of remorse",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Why would one want to give more punishment?",
+      "answer": "likelihood of repeating",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What type of treatment do civil disobedients usually receive?",
+      "answer": "mistreatment from government officials",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do some government officials give in response to illegal actions?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why did the Navy give a speech in court?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "By how much did the Navy increase the defendant's sentence?",
+      "answer": null,
+      "llm_prediction": "by how much did the navy"
+    },
+    {
+      "question": "What did speeches given by the Navy mention about their treatment by protesters?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "In the US v. Burgos-Andujar, why was a member of the Navy's sentence increased?",
+      "answer": null,
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What is the primary goal of pleading not guilty when arrested for Civil Disobedience?",
+      "answer": "acquittal and avoid imprisonment",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What is a secondary goal of pleading not guilty?",
+      "answer": "use the proceedings as a forum",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What would someone who is civilly disobedient do in court?",
+      "answer": "inform the jury and the public of the political circumstances",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What US war has a large amount of Civil Disobedients?",
+      "answer": "Vietnam War",
+      "llm_prediction": "what us war"
+    },
+    {
+      "question": "What can sympathetic Jurors in cases with civil disobedients?",
+      "answer": "jury nullification",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What defense was used by Steven Barkan?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What kind of press coverage is there when defendants plead not guilty?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What is the main goal of trying to get jury nullification during trial?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What plea was entered in the case the US v. Dougherty?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What did the judge have to let the jurors know about in the Chicago Eight case?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What needs to be avoided with civil disobedience?",
+      "answer": "general disobedience",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Why should disobedience by the general public be avoided?",
+      "answer": "neither conscientious nor of social benefit",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What is one main reason that civil disobedience is not recognized?",
+      "answer": "breaking the law for self-gratification",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "Why should someone not commit a crime when they are protesting?",
+      "answer": "not being a civil disobedient",
+      "llm_prediction": ""
+    },
+    {
+      "question": "For what reason would someone avoid crimes while protesting?",
+      "answer": "avoiding attribution",
+      "llm_prediction": "unfair laws"
+    },
+    {
+      "question": "What does a great amount of self-gratification undermine?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What should happen if you focus only on self-gratification?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is one reason securing an amendment of the law is not recognized?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What does being conscientious toward the law lead to?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Why should winning your case be avoided by the public?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What is violating a law which is not the goal of the protest called?",
+      "answer": "Indirect civil disobedience",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "When the law is a direct target of the protest, what is this called?",
+      "answer": "direct civil disobedience",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "What US war caused a high amount of civil disobedience?",
+      "answer": "Vietnam War",
+      "llm_prediction": "us war"
+    },
+    {
+      "question": "What type of defense is sometimes used in court by protestors?",
+      "answer": "competing harms defense",
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "Why are people who distribute leaflets inside courthouses not been arrested?",
+      "answer": "the leaflets will have to be given to the leafleter's own jury as evidence",
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What does indirect civil disobedience protest a law by doing?",
+      "answer": null,
+      "llm_prediction": "indirect civil disobedience"
+    },
+    {
+      "question": "What does direct civil disobedience do to the law that isn't being protested?",
+      "answer": null,
+      "llm_prediction": "direct civil disobedience do to the law that isn ' t being protested? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "Who passed out educational leaflets in courtrooms during the Vietnam War?",
+      "answer": null,
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What did Carter Wentworth hand out in court to escape prosecution?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "If he was arrested, what would happen to the leaflets that were handed out by Carter Wentworth in court",
+      "answer": null,
+      "llm_prediction": "leaflets"
+    },
+    {
+      "question": "What is the main goal of criminal punishment of civil disobedients?",
+      "answer": "incapacitation",
+      "llm_prediction": "criminal punishment of civil disobedients? [SEP] one of its earliest massive implementations was brought about by egyptians against the british occupation in the 1919 revolution. civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws"
+    },
+    {
+      "question": "What should be the main goal of not using punishment in a just system?",
+      "answer": "would do more harm than good",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who decides the fate of protesters most of the time?",
+      "answer": "the state",
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What should the punishment rely on instead in a just society?",
+      "answer": "moral reasons to follow this law",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a major reason judges use morality against crime?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments, in south africa in the fight against apartheid"
+    },
+    {
+      "question": "What does focusing on morality help a judge to achieve?",
+      "answer": null,
+      "llm_prediction": "civil disobedience is one of the many ways people have rebelled against what they deem to be unfair laws. it has been used in many nonviolent resistance movements in india ( gandhi ' s campaigns for independence from the british empire ), in czechoslovakia ' s velvet revolution and in east germany to oust their communist governments"
+    },
+    {
+      "question": "Who decides if a law is moral?",
+      "answer": null,
+      "llm_prediction": "egyptians"
+    },
+    {
+      "question": "What is the most important thing when deciding if a law is moral?",
+      "answer": null,
+      "llm_prediction": "civil disobedience"
+    },
+    {
+      "question": "On what grounds is a law judged to be moral?",
+      "answer": null,
+      "llm_prediction": "unfair laws"
+    }
+  ]
+}

@@ -1,0 +1,1381 @@
+{
+  "title": "Fresno,_California",
+  "context": "Fresno (/ˈfrɛznoʊ/ FREZ-noh), the county seat of Fresno County, is a city in the U.S. state of California. As of 2015, the city's population was 520,159, making it the fifth-largest city in California, the largest inland city in California and the 34th-largest in the nation. Fresno is in the center of the San Joaquin Valley and is the largest city in the Central Valley, which contains the San Joaquin Valley. It is approximately 220 miles (350 km) northwest of Los Angeles, 170 miles (270 km) south of the state capital, Sacramento, or 185 miles (300 km) south of San Francisco. The name Fresno means \"ash tree\" in Spanish, and an ash leaf is featured on the city's flag.",
+  "qas": [
+    {
+      "question": "Which city is the fifth-largest city in California?",
+      "answer": "Fresno",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "How far is Fresno from Los Angeles?",
+      "answer": "220 miles (350 km)",
+      "llm_prediction": "220 miles"
+    },
+    {
+      "question": "What does the name Fresno mean in Spanish?",
+      "answer": "ash tree",
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "What is featured on the city of Fresno's city flag?",
+      "answer": "ash leaf",
+      "llm_prediction": "ash leaf"
+    },
+    {
+      "question": "How do you pronounce Fresno?",
+      "answer": "(/ˈfrɛznoʊ/ FREZ-noh)",
+      "llm_prediction": "\" ash tree"
+    },
+    {
+      "question": "What is the population of Los Angeles?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What does Sacramento mean in Spanish?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "How large is the San Joaquin Valley?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What valley is Los Angeles located in?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Fresno is the capital of what state?",
+      "answer": null,
+      "llm_prediction": "california"
+    },
+    {
+      "question": "The Central Pacific Railroad established a station for its new line in what year?",
+      "answer": "1872",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What were the reasons why residents moved to the town of Fresno Station?",
+      "answer": "the convenience of the railroad and worried about flooding",
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "In what year did Fresno become an incorporated city?",
+      "answer": "1885",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "How many streetcars did the Fresno Traction Company operate in 1931?",
+      "answer": "47 streetcars",
+      "llm_prediction": "how many streetcars did the fresno traction company operate in 1931? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159"
+    },
+    {
+      "question": "What entity sparked the growth of Fresno Station?",
+      "answer": "store",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "When was the Central Pacific Railroad founded?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "When did Millerton residents move out of Fresno?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "How long was the Southern Pacific line?",
+      "answer": null,
+      "llm_prediction": "220"
+    },
+    {
+      "question": "When did the Fresno Traction Company come to Fresno?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Where did Fresno residents move to during the flooding?",
+      "answer": null,
+      "llm_prediction": "san joaquin valley"
+    },
+    {
+      "question": "In 1940, what percentage of the population in Fresno was Asian?",
+      "answer": "2.7%",
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "What ethnic neighborhood in Fresno had primarily Japanese residents in 1940?",
+      "answer": "Chinatown",
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "In 1942, what was North Fresno previously called?",
+      "answer": "Pinedale",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the Pinedale Assembly Center?",
+      "answer": "an interim facility for the relocation of Fresno area Japanese Americans to internment camps",
+      "llm_prediction": "pinedale assembly center"
+    },
+    {
+      "question": "What was the Fresno Fairgrounds used as?",
+      "answer": "an assembly center",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the white population in 1942 in Fresno?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What percentage of Pinedale is black?",
+      "answer": null,
+      "llm_prediction": "what percentage"
+    },
+    {
+      "question": "What year was Chinatown founded?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What area of Fresno were the Fresno Fairgrounds located in?",
+      "answer": null,
+      "llm_prediction": "fresno fairgrounds located in? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What area was renamed Pinedale?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What new product did Bank of America introduce in 1958?",
+      "answer": "BankAmericard",
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What was the name of the first successful credit card?",
+      "answer": "BankAmericard",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "What did the BankAmericard allow customers do to that they couldn't do with previous financial instruments?",
+      "answer": "to revolve a balance",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "In what year did BankAmericard change its name?",
+      "answer": "1976",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What present-day company did BankAmericard turn into?",
+      "answer": "Visa Inc.",
+      "llm_prediction": "bankamericard"
+    },
+    {
+      "question": "What month did the BankAmericard creator resign?",
+      "answer": null,
+      "llm_prediction": "month did the bankamericard creator resign? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015"
+    },
+    {
+      "question": "What was the original name of the BankAmericard?",
+      "answer": null,
+      "llm_prediction": "bankamericard? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "The BankAmericard could be used across many merchants but could not do what?",
+      "answer": null,
+      "llm_prediction": "could be used across many merchants but could not do what? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "What year did the BankAmericard become successful?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Where is Visa Inc. located?",
+      "answer": null,
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley"
+    },
+    {
+      "question": "Who wrote \"Walking in Fresno?\"",
+      "answer": "Bill Aken",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "Who recorded \"Walking in Fresno?\"",
+      "answer": "Bob Gallion",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "In what town did Bill Aiken grow up?",
+      "answer": "Madera",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "On what show did Bill Aiken make is television debut?",
+      "answer": "The Fresno Barn",
+      "llm_prediction": "bill aiken make is television debut? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Who was Bill Aiken's adopted mother?",
+      "answer": "Lupe Mayorga",
+      "llm_prediction": "bill aiken"
+    },
+    {
+      "question": "What song did Bob Gallion write?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Bill Aken's ethnicity?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "Who owned the WWVA Jamboree?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What show did Lupe Mayorga star in?",
+      "answer": null,
+      "llm_prediction": "what show did lupe mayorga star in? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "What singer was in the Hall of Fame?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "How many large public parks does Fresno have?",
+      "answer": "three",
+      "llm_prediction": "many"
+    },
+    {
+      "question": "Which park is home to the Fresno Chafffee Zoo?",
+      "answer": "Roeding Park",
+      "llm_prediction": "fresno chafffee zoo"
+    },
+    {
+      "question": "Which park is home to the Kearney Mansion?",
+      "answer": "Kearney Park",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "Which is one of the park features located in North Fresno?",
+      "answer": "Shinzen Japanese Gardens",
+      "llm_prediction": "ash leaf"
+    },
+    {
+      "question": "Which park hosts the largest Civil War reenactment on the west coast?",
+      "answer": "Kearney Park",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What type of garden does Roeding Park have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which park is the smallest?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is the largest Mansion in the west coast?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "How long are the trails in Roeding Park?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The two city limits parks are located in which direction?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "During what period did downtown Fresno thrive?",
+      "answer": "Between the 1880s and World War II",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What were two of Fresno's most beautiful architectural buildings that are now demolished?",
+      "answer": "Fresno County Courthouse (demolished), the Fresno Carnegie Public Library",
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "What former building is currently known as Grand 1401?",
+      "answer": "San Joaquin Light & Power Building",
+      "llm_prediction": "grand 1401? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Which one of Fresno's hotels burned down?",
+      "answer": "Hughes Hotel",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "When was the Fresno County Courthouse demolished?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What is the Pacific Southwest Building currently known as?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What happened to the Bank of Italy Building?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "What was the Grand 1401 building renamed as?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is the name of the hotel that was renamed the Grand 1401? ",
+      "answer": null,
+      "llm_prediction": "fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "In what year did Fresno get its first pedestrian mall?",
+      "answer": "1964",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What was the pedestrian mall renamed?",
+      "answer": "Fulton Mall",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which artist has a piece of his artwork located at the Fulton Mall?",
+      "answer": "Pierre-Auguste Renoir",
+      "llm_prediction": "which artist has a piece of his artwork located at the fulton mall? [SEP] fresno"
+    },
+    {
+      "question": "After reopening, where will the art pieces be located after restoration?",
+      "answer": "near their current locations",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What feature will enrich the the pedestrian friendly environment after restoration?",
+      "answer": "wide sidewalks",
+      "llm_prediction": "pedestrian friendly environment after restoration? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county"
+    },
+    {
+      "question": "When did Fulton Street become the main financial district?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "How large is the Pierre-Auguste Renoir piece?",
+      "answer": null,
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What was Fulton Mall renamed as?",
+      "answer": null,
+      "llm_prediction": "fulton mall"
+    },
+    {
+      "question": "28' is the minimum size of what?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "What side of the street will the art pieces be on?",
+      "answer": null,
+      "llm_prediction": "what side of the street will the art pieces be on? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "Where is the neighborhood of Sunnyside located in Fresno?",
+      "answer": "Fresno's far southeast side",
+      "llm_prediction": "sunnyside"
+    },
+    {
+      "question": "What are the two major thoroughfares of Sunnyside?",
+      "answer": "Kings Canyon Avenue and Clovis Avenue",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "When was most of Sunnside developed?",
+      "answer": "1950s through the 1970s",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Where is the home of the Sunnyside Country Club?",
+      "answer": "Sunnyside",
+      "llm_prediction": "sunnyside country club? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county"
+    },
+    {
+      "question": "Who designed the golf course located at the Sunnyside Country Club?",
+      "answer": "William P. Bell",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Who designed Sunnyside?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What decade was the country club built in?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What avenue is to the west of the golf course?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "Kings Canyon Avenue is on the southeast side of what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Chestnut Avenue goes through what?",
+      "answer": null,
+      "llm_prediction": "san joaquin valley"
+    },
+    {
+      "question": "The Tower District is centered around which historic theatre?",
+      "answer": "Tower Theatre",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "When was the Tower Theatre built?",
+      "answer": "1939",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "From what landmark within Fresno does the Tower Theatre get its name?",
+      "answer": "water tower",
+      "llm_prediction": "tower theatre"
+    },
+    {
+      "question": "What was the original name of California State University at Fresno?",
+      "answer": "Fresno Normal School",
+      "llm_prediction": "california state university at fresno? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "How far is Fresno City College from the Tower District?",
+      "answer": "one-half mile",
+      "llm_prediction": "220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "When was the landmark water tower built?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Fresno City College is located at what two avenues?",
+      "answer": null,
+      "llm_prediction": "two"
+    },
+    {
+      "question": "How many miles north of downtown Fresno is the Tower District neighborhood?",
+      "answer": null,
+      "llm_prediction": "185"
+    },
+    {
+      "question": "When was the Fresno Normal School stated?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What was the California State University renamed as?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "During what period did the Tower Theatre re-open?",
+      "answer": "late 1970s",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "After its re-opening, which types of movies did the Tower Theatre show?",
+      "answer": "second and third run movies, along with classic films",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "In what year did Roger Rocka's Dinner Theater & Good Company Players open?",
+      "answer": "1978",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Where is Audra McDonald from?",
+      "answer": "Fresno",
+      "llm_prediction": "in the center of the san joaquin valley"
+    },
+    {
+      "question": "Which two leading roles did Audra McDonald perform when she was in high school?",
+      "answer": "Evita and The Wiz",
+      "llm_prediction": "audra mcdonald"
+    },
+    {
+      "question": "When was the Tower Theater closed?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What did Roger Rocka's Dinner Theater & Good Company Players show?",
+      "answer": null,
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What year did Audra McDonald perform the roles of Evita and The Wiz?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What type of award did Roger Rocka win?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "Who reopened Tower Theatre?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of theater do the neighborhoods feature?",
+      "answer": "live theater",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How far apart are some of the neighborhood's features?",
+      "answer": "all within a few hundred feet of each other",
+      "llm_prediction": "ash leaf"
+    },
+    {
+      "question": "What area has become attractive for restaurants?",
+      "answer": "Tower District",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "Which Fresno district is the center for the LGBT community?",
+      "answer": "Tower District",
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Which district in Fresno is known as the center for the heavy metal community?",
+      "answer": "Tower District",
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "How long is Olive Avenue?",
+      "answer": null,
+      "llm_prediction": "220 miles"
+    },
+    {
+      "question": "What type of nightclubs does Fresno have?",
+      "answer": null,
+      "llm_prediction": "nightclub"
+    },
+    {
+      "question": "What was Tower District known for before the renewal?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "What communities avoid Tower District?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of homes is Fresno known for?",
+      "answer": "early twentieth century homes",
+      "llm_prediction": "what type of homes"
+    },
+    {
+      "question": "What types of houses are designed by Fresno architects?",
+      "answer": "Storybook houses",
+      "llm_prediction": "what types of houses"
+    },
+    {
+      "question": "Does the residential architecture of the Tower District compare or contrast with other part of Fresno?",
+      "answer": "contrasts",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How recently has the homes in Fresno been restored?",
+      "answer": "in recent decades",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who designed the Mission Revival Style architecture?",
+      "answer": null,
+      "llm_prediction": "mission revival style architecture? [SEP] fresno"
+    },
+    {
+      "question": "What area is the Tower District similar to in architecture?",
+      "answer": null,
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "When did Hilliard, Taylor, and Wheeler work?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Are California Bungalows located in the north or east?",
+      "answer": null,
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Who restored the Bungalows?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "Which boulevard can you find many majestic homes in the area?",
+      "answer": "Huntington Boulevard",
+      "llm_prediction": "ash leaf"
+    },
+    {
+      "question": "Who mapped the Alta Vista Tract?",
+      "answer": "William Stranahan",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "In what year did developers Billings & Meyering acquire the Alta Vista Tract?",
+      "answer": "1914",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "How many homes did the Alta Vista Tract have five years after Billings & Meyering acquired it?",
+      "answer": "267",
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Which company provided streetcar connections between downtown and the hospital?",
+      "answer": "Fresno Traction Company",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "Who planted the alfalfa fields?",
+      "answer": null,
+      "llm_prediction": "alfalfa fields"
+    },
+    {
+      "question": "Who did the City grant the property to in 1912?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "How many homes did the Pacific Improvement Corporation build?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What stalled the development of houses?",
+      "answer": null,
+      "llm_prediction": "stalled the development of houses? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "When did the Fresno Traction Company begin to provide streetcar connections?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What is another name for the west side of Fresno?",
+      "answer": "\"Southwest Fresno\"",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "In which direction does the west side of Fresno neighborhood lie to the 99 freeway?",
+      "answer": "southwest",
+      "llm_prediction": "west"
+    },
+    {
+      "question": "The west side of Fresno is the center of which ethnic community?",
+      "answer": "African-American",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are the two principal Asian-American groups living in the west side neighborhood of Fresno?",
+      "answer": "Hmong or Laotian",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "Which neighborhood lies west of the 41 freeway?",
+      "answer": "\"West Side\"",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is west of the West Side?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What divides Downtown Fresno?",
+      "answer": null,
+      "llm_prediction": "san joaquin valley"
+    },
+    {
+      "question": "What is ethnic community is traditionally found Downtown?",
+      "answer": null,
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "What specific groups are found within the Mexican-American population?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "What is significant about the age of Downtown Fresno?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "Who is Kearney Boulevard named after?",
+      "answer": "M. Theo Kearney",
+      "llm_prediction": "kearney"
+    },
+    {
+      "question": "What kinds of trees is Kearney Boulevard lined with?",
+      "answer": "tall palm trees",
+      "llm_prediction": "what kinds of trees is kearney boulevard lined with? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Between which two streets along Kearney Boulevard were wealthy African-Americans at one time residing?",
+      "answer": "Fresno Street and Thorne Ave",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the name given to a section of Kearney Boulevard in efforts to change the areas image?",
+      "answer": "Brookhaven",
+      "llm_prediction": "fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What area of Brookhaven is still known for its high levels of crime?",
+      "answer": "The isolated subdivision",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Whos is Kerman, California named after?",
+      "answer": null,
+      "llm_prediction": "whos"
+    },
+    {
+      "question": "How long is Fresno Street?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who preferred the Brookhaven section?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "Who named Thorne Ave?",
+      "answer": null,
+      "llm_prediction": "thorne ave"
+    },
+    {
+      "question": "What gang entered the West Side in 2008?",
+      "answer": null,
+      "llm_prediction": "what gang"
+    },
+    {
+      "question": "When were the public housing developments built in the neighborhood?",
+      "answer": "between the 1960s and 1990s",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "On which corner is the shopping center located?",
+      "answer": "Fresno and B streets",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What are the two processing facilities in the neighborhood?",
+      "answer": "Cargill Meat Solutions and Foster Farms",
+      "llm_prediction": "two processing facilities"
+    },
+    {
+      "question": "Where is the airport located?",
+      "answer": "the West Side",
+      "llm_prediction": "san joaquin valley"
+    },
+    {
+      "question": "How much retail activity does the neighborhood have?",
+      "answer": "very little",
+      "llm_prediction": "retail"
+    },
+    {
+      "question": "What organization built homes in the neighborhood in the 1930s?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "Luxury homes were built on what corner?",
+      "answer": null,
+      "llm_prediction": "san joaquin valley"
+    },
+    {
+      "question": "On what street was the golf course built?",
+      "answer": null,
+      "llm_prediction": "what street was the golf course built? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What problem from the Fresno Chandler Airport has plagued residents?",
+      "answer": null,
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "When was State Route 99 Freeway built?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Who founded Woodward Park?",
+      "answer": "Ralph Woodward",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many total acres is Woodward Park?",
+      "answer": "300 acres",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many seats does the amphitheatre at Woodward park have?",
+      "answer": "2,500",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "How many miles, once completed, will the the Lewis S. Eaton trail cover?",
+      "answer": "22 miles",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What months out of the year is Woodward Park open?",
+      "answer": "April through October",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Ralph Woodward come to Fresno?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "How large was Woodward's estate in total?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What did Lewis S. Eaton donate?",
+      "answer": null,
+      "llm_prediction": "an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "How many people visit the park each day?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "When is the amphitheatre open?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "When was the Sierra Sky Park Airport formed?",
+      "answer": "1946",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Who created the nation's first aviation community?",
+      "answer": "William Smilie",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the first aviation community built?",
+      "answer": "Sierra Sky Park",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "The transportation law allows personal aircraft to share the roadways with what?",
+      "answer": "automobiles",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "Are there any other aviation communities such as Sierra Sky Park in the United States?",
+      "answer": "there are now numerous such communities across the United States",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "When did the Sierra Sky Park fall out of use?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Who created all of the nation's aviation communities?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "What did the transportation law ban?",
+      "answer": null,
+      "llm_prediction": "ash leaf"
+    },
+    {
+      "question": "What did planes and automobiles have to divide separately?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "What is the only community of its kind in the US?",
+      "answer": null,
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "How would one describe the summers in Fresno?",
+      "answer": "hot and dry",
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "What month is the warmest in Fresno?",
+      "answer": "July",
+      "llm_prediction": "month"
+    },
+    {
+      "question": "How much rain per year does Fresno get on average?",
+      "answer": "around 11.5 inches",
+      "llm_prediction": "220"
+    },
+    {
+      "question": "In which direction does most of the wind in Fresno originate from?",
+      "answer": "northwest",
+      "llm_prediction": "wind"
+    },
+    {
+      "question": "In which months does Fresno experience increased wind coming from the southeastern direction?",
+      "answer": "December, January and February",
+      "llm_prediction": "185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "How many days in August are below freezing?",
+      "answer": null,
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "What percentage of hours of light are there in December?",
+      "answer": null,
+      "llm_prediction": "what percentage"
+    },
+    {
+      "question": "There is increased wind from what direction in July?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the average precipitation rate in July?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "How many days does the high not reach 90 in December?",
+      "answer": null,
+      "llm_prediction": "185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What is the hottest temperature record for Fresno?",
+      "answer": "115 °F",
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "On what date was the record low temperature in Fresno?",
+      "answer": "January 6, 1913",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "In what year did Fresno experience the most rainfall?",
+      "answer": "1885",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What is the most snow Fresno has ever had?",
+      "answer": "2.2 inches",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What is the most rainfall recorded in a 24 hour period in Fresno?",
+      "answer": "3.55 inches",
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What is the record low for July?",
+      "answer": null,
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What is the record high in January?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What was the most rainfall recorded in June?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "How much did it snow in 1885?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much did it rain in 1962?",
+      "answer": null,
+      "llm_prediction": "220"
+    },
+    {
+      "question": "what was Fresno's population in 2010?",
+      "answer": "494,665",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What was the percentage of whit people in Fresno in 2010?",
+      "answer": "49.6%",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Native American people resided in Fresno in 2010?",
+      "answer": "8,525",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What was the percentage of Non-Hispanic Whites in 2010? ",
+      "answer": "30.0%",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "How many people per square mile lived in Fresno in 2010?",
+      "answer": "4,404.5 people",
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What was the US population in 2010?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "How many Native Americans were there in 1970?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What percentage of Fresno's population was Filipino in 1970?",
+      "answer": null,
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What racial group has increased since 1970?",
+      "answer": null,
+      "llm_prediction": "what racial group"
+    },
+    {
+      "question": "What was the population density in 1970?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "How many households has kids under the age of 18 living in them?",
+      "answer": "68,511",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What was the percentage of a female householder with no husband present?",
+      "answer": "19.3%",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "How many same-sex married couples or partnerships were there?",
+      "answer": "1,388",
+      "llm_prediction": "how many same - sex married couples or partnerships were there? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What was the average family size?",
+      "answer": "3.62",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What was the average household size?",
+      "answer": "3.07",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What percentage of households had children over the age of 18?",
+      "answer": null,
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What was the average family size with no wife present?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "How many unmarried opposite-sex partnerships had kids?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "How many same-sex partnerships without kids were there?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many households had someone alone under the age of 18?",
+      "answer": null,
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "How many people lived in Fresno in 2000, according to the Census Bureau? ",
+      "answer": "427,652",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "How many housing units were there in 2000?",
+      "answer": "149,025",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the percentage of Black or African-Americans living in the city?",
+      "answer": "8.4%",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "About how many of the Asian population was Hmong?",
+      "answer": "a third",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What was the population density in 2000?",
+      "answer": "4,097.9 people per square mile",
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "A third of Pacific Islanders are what ethnicity?",
+      "answer": null,
+      "llm_prediction": "pacific islanders"
+    },
+    {
+      "question": "How many families per square mile are there in Fresno?",
+      "answer": null,
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What percentage of whites are hispanic or latino?",
+      "answer": null,
+      "llm_prediction": "what percentage of whites are hispanic or latino? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "What percentage of the population is Hmong?",
+      "answer": null,
+      "llm_prediction": "520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "Asians represent what fraction of Hmong?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "Why does Fresno only have UHF television stations?",
+      "answer": "To avoid interference with existing VHF television stations",
+      "llm_prediction": "only have uhf television stations? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree"
+    },
+    {
+      "question": "What was the very first television station to broadcast in Fresno?",
+      "answer": "KMJ-TV",
+      "llm_prediction": "ash leaf"
+    },
+    {
+      "question": "When did the KMJ-TV first broadcast?",
+      "answer": "June 1, 1953",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What is KMJ now referred to?",
+      "answer": "NBC affiliate KSEE",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is the name of the CBS affiliate in Fresno?",
+      "answer": "KGPE",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What type of stations does Chico have?",
+      "answer": null,
+      "llm_prediction": "what type of"
+    },
+    {
+      "question": "What was the first Sacramento station called?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "When did the FCC decide Fresno could only have UHF stations?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What was KMJ originally known as?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is the FOX affiliate in Salinas?",
+      "answer": null,
+      "llm_prediction": "ash tree"
+    },
+    {
+      "question": "What route connects Fresno with the California Central Valley?",
+      "answer": "State Route 99",
+      "llm_prediction": "california central valley"
+    },
+    {
+      "question": "What is another name for State Route 168?",
+      "answer": "the Sierra Freeway",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is another name for the Yosemite Freeway?",
+      "answer": "State Route 41",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "State Route 180 comes from which direction via Mendota?",
+      "answer": "west",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "What is another name for State Route 99?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "State Route 168 is called the Sierra Freeway and what other two names?",
+      "answer": null,
+      "llm_prediction": "two names? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county"
+    },
+    {
+      "question": "What is west of State Route 41?",
+      "answer": null,
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159"
+    },
+    {
+      "question": "What is the name of the park in Atascadero?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "State Route 168 head west of what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which is the largest city not connected to an interstate highway?",
+      "answer": "Fresno",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "In what year was the Interstate Highway System created?",
+      "answer": "1950s",
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "Which State Route has been in discussion to upgrade to interstate standards?",
+      "answer": "99",
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "What are the factors that are contributing to the desire to have SR 99 improved to be of interstate standards?",
+      "answer": "rapidly raising population and traffic in cities along SR 99",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "What is the largest city directly linked to an interstate?",
+      "answer": null,
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "When was State Route 99 built?",
+      "answer": null,
+      "llm_prediction": "2015"
+    },
+    {
+      "question": "What was rapidly increasing by interstate 5?",
+      "answer": null,
+      "llm_prediction": "520, 159"
+    },
+    {
+      "question": "What do many people want to integrate into interstate 5?",
+      "answer": null,
+      "llm_prediction": "ash tree \" in spanish, and an ash leaf"
+    },
+    {
+      "question": "Which side is SR 99 built on?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "Which company provides train service in Fresno?",
+      "answer": "Amtrak San Joaquins",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "Where is the Santa Fe Railroad Depot located?",
+      "answer": "Downtown Fresno",
+      "llm_prediction": "fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley"
+    },
+    {
+      "question": "What two railroads have railyards in the city of Fresno?",
+      "answer": "Burlington Northern Santa Fe Railway and Union Pacific Railroad",
+      "llm_prediction": "two railroads have railyards in the city of fresno? [SEP] fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county"
+    },
+    {
+      "question": "If you were to take a train west or south out of the city of Fresno, which railroad would you take?",
+      "answer": "San Joaquin Valley Railroad",
+      "llm_prediction": "fresno ( / ˈfrɛznoʊ / frez - noh ), the county seat of fresno county, is a city in the u. s. state of california. as of 2015, the city ' s population was 520, 159, making it the fifth - largest city in california, the largest inland city in california and the 34th - largest in the nation. fresno is in the center of the san joaquin valley and is the largest city in the central valley, which contains the san joaquin valley. it is approximately 220 miles ( 350 km ) northwest of los angeles, 170 miles ( 270 km ) south of the state capital, sacramento, or 185 miles ( 300 km ) south of san francisco. the name fresno means \" ash tree \" in spanish, and an ash leaf is featured on the city ' s flag"
+    },
+    {
+      "question": "Which city is planned to be a part of the California High Speed Rail?",
+      "answer": "Fresno",
+      "llm_prediction": "fresno"
+    },
+    {
+      "question": "Who renovated the Santa Fe Railroad Depot?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the San Joaquin Valley Railroad cross with?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who owns the California High Speed Rail?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    },
+    {
+      "question": "What mainlines head west and south from the city?",
+      "answer": null,
+      "llm_prediction": "what mainlines"
+    },
+    {
+      "question": "Who took over the San Joaquin Valley Railroad branchlines?",
+      "answer": null,
+      "llm_prediction": "fresno county"
+    }
+  ]
+}

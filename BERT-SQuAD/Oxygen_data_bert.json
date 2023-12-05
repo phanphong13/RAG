@@ -1,0 +1,2081 @@
+{
+  "title": "Oxygen",
+  "context": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O\n2. Diatomic oxygen gas constitutes 20.8% of the Earth's atmosphere. However, monitoring of atmospheric oxygen levels show a global downward trend, because of fossil-fuel burning. Oxygen is the most abundant element by mass in the Earth's crust as part of oxide compounds such as silicon dioxide, making up almost half of the crust's mass.",
+  "qas": [
+    {
+      "question": "The atomic number of the periodic table for oxygen?",
+      "answer": "8",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the second most abundant element?",
+      "answer": "helium",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Which gas makes up 20.8% of the Earth's atmosphere?",
+      "answer": "Diatomic oxygen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many atoms combine to form dioxygen?",
+      "answer": "two atoms",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Roughly, how much oxygen makes up the Earth crust?",
+      "answer": "almost half",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the atomic number of the element oxygen?",
+      "answer": "8",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Of what group in the periodic table is oxygen a member?",
+      "answer": "chalcogen",
+      "llm_prediction": "chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What type of compounds does oxygen most commonly form?",
+      "answer": "oxides",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Compared to other elements, how abundant does oxygen rank?",
+      "answer": "third",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Under normal conditions, what do two atoms of oxygen form?",
+      "answer": "dioxygen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What element has an atomic symbol of O?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What element has a symbol number of 8?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is the most abundant element in the universe followed by hydrogen and helium?",
+      "answer": null,
+      "llm_prediction": "oxygen"
+    },
+    {
+      "question": "What constitutes 28.0% of the Earth's atmosphere?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Oxygen is released in cellular respiration by?",
+      "answer": "photosynthesis",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Photosynthesis uses which energy to for oxygen from water?",
+      "answer": "sunlight",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "_____ Helps the biospher from UV.",
+      "answer": "high-altitude ozone layer",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What element is found in most organic organisms?",
+      "answer": "oxygen",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "In what major portion of living things is oxygen found?",
+      "answer": "water",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What life process produces oxygen in the presence of light?",
+      "answer": "photosynthesis",
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "From what does photosynthesis get oxygen?",
+      "answer": "water",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What form of oxygen is composed of three oxygen atoms?",
+      "answer": "ozone",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What are examples of organic proteins? ",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is used in photosynthesis and released by cellular respiration? ",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What absorbs UBV rays?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is UBV radiation a form of near the surface?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who proved that air is necessary for combustion?",
+      "answer": "Robert Boyle",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What English chemist showed that fire only needed nitoaereus?",
+      "answer": "John Mayow",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is consumed in both combustion and respiration?",
+      "answer": "nitroaereus",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "John Mayow died in what year?",
+      "answer": "1679",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What researcher showed that air is a necessity for combustion?",
+      "answer": "Robert Boyle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did John Mayow  name the part of air that caused combustion?",
+      "answer": "nitroaereus",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "In what century did Mayow and Boyle perform their experiments?",
+      "answer": "17th century",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Besides combustion, for what other action did Mayow show nitroaereus responsible?",
+      "answer": "respiration",
+      "llm_prediction": "oxidizing"
+    },
+    {
+      "question": "What chemist showed that fire needed only a part of air?",
+      "answer": "John Mayow",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did John Mayow prove that air is necessary for?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What years was chemist John Boyle alive?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When did Robert Mayow prove his theories?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Who refined Robert Mayow's work?",
+      "answer": null,
+      "llm_prediction": "robert mayow"
+    },
+    {
+      "question": "What was the profession of John Boyle?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "\"An Account of Further Discoveries in Air\" was published by who in 1775?",
+      "answer": "Joseph Priestley",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What was the occupation of Joseph Priestley?",
+      "answer": "clergyman",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "By sunlight, what compound did  Priestley concentrate on to make the gas he called \"dephlogisticated air\"?",
+      "answer": "mercuric oxide (HgO)",
+      "llm_prediction": "third"
+    },
+    {
+      "question": "The symbol for mercuric oxide is?",
+      "answer": "HgO",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What chemical did Priestley use in his experiments on oxygen?",
+      "answer": "mercuric oxide",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Priestley name the gas his experiment produced?",
+      "answer": "dephlogisticated air",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Priestley publish the findings of his experiments?",
+      "answer": "1775",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Why is Priestley usually given credit for being first to discover oxygen?",
+      "answer": "published his findings first",
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What effect did breathing Priestley's discovered gas have on the experiment's mouse?",
+      "answer": "active",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "Who conducted an experiment on August 4, 1774?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What did Joseph Priestley's August 4, 1774 experiment focus on?",
+      "answer": null,
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What did Priestley publish in 1774?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What did Priestley name the air he created?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What inventor built on to the findings of Philo of  Byzantium?",
+      "answer": "Leonardo da Vinci",
+      "llm_prediction": "philo of byzantium? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant element in the universe, after hydrogen and helium"
+    },
+    {
+      "question": "Pneumatica was written by what Greek writer?",
+      "answer": "Philo of Byzantium",
+      "llm_prediction": "pneumatica"
+    },
+    {
+      "question": "In what year was the first known experiments on combustion and air conducted?",
+      "answer": "2nd century BCE",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Philo of Byzantium ____ surmised that air converted to fire",
+      "answer": "incorrectly",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What early Greek wrote about experiments on air and combustion?",
+      "answer": "Philo of Byzantium",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Philo incorrectly assume that the air became?",
+      "answer": "fire",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What was the title of Philo's work?",
+      "answer": "Pneumatica",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What famous artist later further investigated Philo's experiments?",
+      "answer": "Leonardo da Vinci",
+      "llm_prediction": "philo"
+    },
+    {
+      "question": "Of what did da Vinci think a part  was consumed during combustion?",
+      "answer": "air",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of experiment did Philo of Pneumatica preform?",
+      "answer": null,
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "During what century did Philo of Pneumatica preform his experiments involving combustion?",
+      "answer": null,
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "Who built on Philo of Pneumatica's work?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What nationality was Leonardo da Vinci?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is needed to make combustion happen?",
+      "answer": "heat or a spark",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Combustion is caused by an oxidant and a fuel. What role does oxygen play in combustion?",
+      "answer": "Oxygen is the oxidant",
+      "llm_prediction": "what role does oxygen play in combustion? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing"
+    },
+    {
+      "question": "Peroxides, nitrates and dichromates are examples of what type of compounds?",
+      "answer": "compounds of oxygen with a high oxidative",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Although not a fuel  ___ is the chemical compound the generates the most occurrence of explosions.",
+      "answer": "Oxygen",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What can concentrated oxygen produce?",
+      "answer": "rapid combustion",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is a spark or heat to the progress of a fire?",
+      "answer": "ignition event",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Rather than the fuel, what is oxygen to a fire?",
+      "answer": "oxidant",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does oxygen the basis for in combustion?",
+      "answer": "chemical energy",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What other sources of high oxidative potential can add to a fire?",
+      "answer": "compounds of oxygen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do rapid concentrated sources of oxygen promote?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is oxygen instead of an oxidant?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is fuel the source of?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What type of hazard is oxygen considered? ",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What can donate dichromates to a fire?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "______ In both liquid and gas form can fastly result in an exlposion.",
+      "answer": "oxygen",
+      "llm_prediction": "oxygen"
+    },
+    {
+      "question": "To ensure safety of future space missions Oxygen was used at _____ of the normal pressure.",
+      "answer": "1⁄3",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "To reduce the chances of combustion ___ is required for safely handeling pure O.",
+      "answer": "special training",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What will concentrated oxygen greatly speed up?",
+      "answer": "combustion",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Because of the danger inherent in concentrated oxygen, what is a concern about keeping it?",
+      "answer": "storage vessels",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What does the transport and storage demand for safety in dealing with oxygen?",
+      "answer": "special training",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Who did a pressurized oxygen cabin fire kill?",
+      "answer": "Apollo 1 crew",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "How will steel pipes allow combustion to proceed?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What type of fire killed the Apollo 1 crew?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does concentrated O allow combustion to do?",
+      "answer": null,
+      "llm_prediction": "forms compounds"
+    },
+    {
+      "question": "Silicates of magnesium and iron make up of the Earth's ___",
+      "answer": "mantle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Granite is made up largely of what chemical compound?",
+      "answer": "oxides of silicon",
+      "llm_prediction": "granite"
+    },
+    {
+      "question": "Oxygen exists in the atmosphere by way of what?",
+      "answer": "carbon dioxide",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "In what compound is oxygen found in small amounts in the atmosphere?",
+      "answer": "carbon dioxide",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What geologic feature is composed of oxygen oxides?",
+      "answer": "Earth's crustal rock",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What part of the Earth is composed of mostly of silicates of iron and magnesium?",
+      "answer": "Earth's mantle",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What part of the Earth's geological structure is larger than the crust?",
+      "answer": "mantle",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "Aside from oxides, what other compounds comprise a large portion of the Earth's crust?",
+      "answer": "complex silicates",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is CO? ",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is SiO?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is AlO?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Fe2O?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What did John Dalton think that all elements were in number present in compounds?",
+      "answer": "monatomic",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What did Dalton think the atomic ratios were between atoms in compounds?",
+      "answer": "simplest",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What was Dalton's erroneous formula for water?",
+      "answer": "HO",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What element did Gay-Lussac and von Humboldt discover was present in twice the amount of oxygen in water?",
+      "answer": "hydrogen",
+      "llm_prediction": "oxygen is the third - most abundant element in the universe, after hydrogen and helium"
+    },
+    {
+      "question": "What theory was arrived at in 1811 that presented the assumption of diatomic molecules?",
+      "answer": "Avogadro's law",
+      "llm_prediction": "oxygen is the third - most abundant element in the universe, after hydrogen and helium"
+    },
+    {
+      "question": "What did John Dalton hypothesize in 1805?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Dalton assume about OH?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What did Joseph Louis von Humboldt and Alexander Gay-Lussac show about water?",
+      "answer": null,
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What year did Joseph Louis von Humboldt define the formula for water?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What law was created in 1805?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Of what were materials that left little residue thought to contain?",
+      "answer": "phlogiston",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What type of combustible materials were considered to have little philogiston?",
+      "answer": "non-combustible",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What distinct quality of combustion was  absent from philogiston theory? ",
+      "answer": "Air",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What material's weight gain during rusting was an early clue that philogiston theory was wrong?",
+      "answer": "metals",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What characteristic due most items display after burning?",
+      "answer": "become lighter",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was iron found to be made mostly of?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What highly combustible materials corrode?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was a first clue that the phlogiston theory was correct?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Who was iron thought to have a lot of?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "How is dioxygen most simply described?",
+      "answer": "covalent double bond",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the bond order of dioxygen molecules?",
+      "answer": "two",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is a descriptive term for a low-to-high energy bond?",
+      "answer": "Aufbau",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "In dioxygen how are the two oxygen atoms bonded together?",
+      "answer": "chemically",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Of what does the covalent double bond result from ?",
+      "answer": "molecular orbitals",
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides"
+    },
+    {
+      "question": "How is the dioxygen covalent bond explained?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is covalent bond a result of?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What axis do the 2p orbitals overlap with?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many pairs of 2p orbitals lie along the O-O axis?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When did Carl Wilhelm Scheele discover oxygen?",
+      "answer": "1773",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Joseph Priestley recognize oxygen?",
+      "answer": "1774",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What gave Priestley the claim to being the first discovered of oxygen?",
+      "answer": "work was published first",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What researcher first used the word oxygen ?",
+      "answer": "Antoine Lavoisier",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What previous work did Lavoisier experiments discredit?",
+      "answer": "phlogiston theory",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Carl Priestly discover oxygen?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When did Joseph Scheele discover oxygen?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Who coined the name oxygen in 1774?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Whose experiments with oxygen led to the popular theory of combustion and corrosion?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the term for the arrangement of two unpaired electrons in dioxygen?",
+      "answer": "spin triplet state",
+      "llm_prediction": "third"
+    },
+    {
+      "question": "How is the O2 molecule referred to in its ground state? ",
+      "answer": "triplet oxygen",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What causes triplet oxygen to react slowly?",
+      "answer": "unpaired electrons",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What type of combustion does the slow reaction of triplet oxygen prevent?",
+      "answer": "spontaneous",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What are the weakly filled higher orbitals of oxygen?",
+      "answer": "antibonding",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the ground state of the O molecule referred to as?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What results in dioxygen's triplet bond character?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does double oxygen react slowly with?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What does double oxygen reacting slowly with most organic molecules prevent?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Lavoisier conclude was consumed by combustion in his experiments?",
+      "answer": "air",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "In what way did Lavoisier see that the tin he used in his experiment had increased?",
+      "answer": "weight",
+      "llm_prediction": "oxygen is the third"
+    },
+    {
+      "question": "What did Lavoisier perceive the air had lost as much as the tin had gained",
+      "answer": "weight",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "In what year did Lavoisier publish his work on combustion?",
+      "answer": "1777",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What second part of air was deemed lifeless by Lavoisier?",
+      "answer": "azote",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is another term for vital air?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is the English word for nitrogen?",
+      "answer": null,
+      "llm_prediction": "helium"
+    },
+    {
+      "question": "When was the book, Sur, published?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the name for O3 most often used?",
+      "answer": "ozone",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Of what is ozone a reactive part of oxygen?",
+      "answer": "allotrope",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What  does ozone's characteristic to cause damage effect?",
+      "answer": "lung tissue",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What function does ozone perform for the planet?",
+      "answer": "protective radiation shield",
+      "llm_prediction": "forms compounds"
+    },
+    {
+      "question": "What light radiation does ozone absorb?",
+      "answer": "UV",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is trioxygen (O2) known as?",
+      "answer": null,
+      "llm_prediction": "trioxygen ( o2 ) known as? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What is another term for the upper atmosphere?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was proven in 2001 in regard to the solid oxygen phase?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What was discovered in 2006 in regard to O4?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the most common form of oxygen on the planet?",
+      "answer": "dioxygen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the scientific designation of oxygen? ",
+      "answer": "O2",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What part the composition of the Earth's atmosphere is comprised of oxygen?",
+      "answer": "major",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What characteristic of oxygen makes it necessary to life?",
+      "answer": "energy content",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "For what purpose is oxygen used by animal life?",
+      "answer": "cellular respiration",
+      "llm_prediction": "for what purpose is oxygen used by animal life? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What is oxygen on Earth, O, referred to as?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What has a bond energy of 121 pm?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What has a bond length of 498 kJ·mol−1?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why do animals use O2 for biological respiration?",
+      "answer": null,
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What chemist managed to make enough liquid oxygen to use for study?",
+      "answer": "James Dewar",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Dewar experiment on liquid oxygen?",
+      "answer": "1891",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When was liquid oxygen developed for commercial use?",
+      "answer": "1895",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What welding process was demonstrated in 1901?",
+      "answer": "oxyacetylene",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Who produced enough oxygen to study in 1819?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What was developed in 1859?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What was developed by Carl von Hampson and William Linde?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What was demonstrated for the first time in 1910?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What component of water is more soluble than nitrogen?",
+      "answer": "Oxygen",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Upon what chemical characteristic is oxygen's solubility dependent?",
+      "answer": "temperature",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "How much oxygen is found is a liter of fresh water under normal conditions?",
+      "answer": "6.04 milliliters",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "In what type of water does oxygen dissolve more slowly?",
+      "answer": "seawater",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "How much more oxygen dissolves at 0 degrees C than at 20 degrees C?",
+      "answer": "twice",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is nitrogen more water soluble than?",
+      "answer": null,
+      "llm_prediction": "helium"
+    },
+    {
+      "question": "What does air in equilibrium with water contain?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is the solubility water in oxygen dependent on?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is equivalent to 103.1 kPa?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where does oxygen rank by mass in the planet's biosphere?",
+      "answer": "most abundant",
+      "llm_prediction": "third"
+    },
+    {
+      "question": "How is oxygen ranked as abundant in the universe?",
+      "answer": "third",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "How much of the sun is made up of oxygen?",
+      "answer": "0.9%",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Where  by mass is oxygen a major part?",
+      "answer": "world's oceans",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is oxygen produced from carbon dioxide on the other planets of the solar system?",
+      "answer": "ultraviolet radiation",
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What is the most abundant mass element in the Earth's biosphere? ",
+      "answer": null,
+      "llm_prediction": "oxygen"
+    },
+    {
+      "question": "What elements follow oxygen as the most abundant in the universe?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What makes up 49.2% of the sun's mass?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What makes up 0.9% of the Earth's crust by mass?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What takes up 23.1% of the Earth's mass?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "By what century did researchers see that they could liquefy air?",
+      "answer": "late 19th",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "By what means were scientists able to liquefy air?",
+      "answer": "compressing and cooling",
+      "llm_prediction": "mass"
+    },
+    {
+      "question": "What scientist told the French Academy of Sciences that he had found how to liquefy oxygen?",
+      "answer": "Raoul Pierre Pictet",
+      "llm_prediction": "what scientist told the french academy of sciences that he had found how to liquefy oxygen? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third"
+    },
+    {
+      "question": "What minor amount of liquid oxygen was produced by early French experimenters?",
+      "answer": "few drops",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "On what date was oxygen liquefied in a stable form?",
+      "answer": "March 29, 1883",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What were Pierre Raoul Pictet's professions?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What was sent on December 29, 1877?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was liquified in a stable state for the first time on March 22, 1883?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Who liquified oxygen in a stable state on March 22, 1883?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What university were Zygumunt Olszewski and Karol Wroblewski from?",
+      "answer": null,
+      "llm_prediction": "chalcogen"
+    },
+    {
+      "question": "What celestial object eluded efforts to measure oxygen?",
+      "answer": "Sun",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What molecule does the Sun have in higher proportion than Earth?",
+      "answer": "oxygen-16",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What spacecraft contained data to determine the oxygen content of the Sun?",
+      "answer": "Genesis spacecraft",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What type of process was involved the the depletion of the Sun's oxygen 16?",
+      "answer": "unknown",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Before the formation of which planet, did Sol lose oxygen 16?",
+      "answer": "Earth",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Where have Genesis geologists measured oxygen isotopes?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Where were Genesis geologists unable to measure oxygen?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What did the Planetary spacecraft analyze?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What does the Earth have a higher proportion of oxygen-16 than?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is the name for a form of oxygen in which electrons are paired?",
+      "answer": "Singlet",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "To what is singlet oxygen more reactive?",
+      "answer": "organic molecules",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "In what process is singlet oxygen usually formed?",
+      "answer": "photosynthesis",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "By what process is singlet oxygen made in the tropophere?",
+      "answer": "photolysis of ozone",
+      "llm_prediction": "mass"
+    },
+    {
+      "question": "What objects in organisms absorb singlet oxygen to prevent harm?",
+      "answer": "Carotenoids",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is formed in nature from energy during photosynthesis?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is paired oxygen?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where is paired oxygen produced?",
+      "answer": null,
+      "llm_prediction": "chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides"
+    },
+    {
+      "question": "What plays a major role in absorbing oxygen?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What group of scientists seek to measure the amounts of oxygen in marine animals?",
+      "answer": "Paleoclimatologists",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "About what weather feature do paleoclimatologists want information ?",
+      "answer": "climate",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much heavier is oxygen 18 than oxygen 16?",
+      "answer": "12%",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What form of oxygen do marine animals acquire in greater amounts during cooler climatic conditions?",
+      "answer": "oxygen-18",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "During what type of climate is oxygen 18 in seawater at higher levels?",
+      "answer": "lower global temperatures",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Who measures oxygen-18 and oxygen-16 in skeletons of all organisms?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is oxygen-16 the lighter one of?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much lighter is oxygen-18?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Water higher in oxygen-16 experienced higher what?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "At what wavelength do the spectrophotometric bands peak?",
+      "answer": "687 and 760 nm",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "To monitor what event would measuring radiance from vegetation provide information?",
+      "answer": "carbon cycle",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "From where would scientists like measure vegetation radiance?",
+      "answer": "satellite platform",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "On what scale would scientists show measurements of vegetation?",
+      "answer": "global",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What style of sensing do scientist like to use to measure global radiance?",
+      "answer": "remote sensing",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What peaks at 680 and 768 nm wavelengths?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What have scientists proposed using to characterize plant platform status?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is difficult with a satellite-to-noise ratio?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What magnetic character do triplet O2 have?",
+      "answer": "paramagnetic",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "In experiments, a bridge of what element can be built between poles of a magnet?",
+      "answer": "Liquid oxygen",
+      "llm_prediction": "oxygen"
+    },
+    {
+      "question": "The spin of what can produce a magnetic effect to oxygen molecules?",
+      "answer": "unpaired electrons",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What kind of field is necessary to produce a magnet effect in oxygen molecules?",
+      "answer": "magnetic field",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What device is used to test the magnetic attractions involved in liquid oxygen?",
+      "answer": "powerful magnet",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are O molecules in triplet form?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "Why are O molecules paramagnetic?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is attracted to the poles of a powerful magnet?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do the reactive forms of oxygen produce in organisms?",
+      "answer": "dangerous by-products",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "For what purpose do organisms make peroxide and superoxide?",
+      "answer": "destroy invading microbes",
+      "llm_prediction": "for what purpose do organisms make peroxide and superoxide? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "Against what does reactive oxygen play in plant defense?",
+      "answer": "pathogen attack",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "To what type of organisms is oxygen toxic?",
+      "answer": "anaerobic",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "When did O2 begin to acculturate in the atmosphere?",
+      "answer": "2.5 billion years ago",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is 2H02?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is formula for the reactive oxygen ion?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What are products of oxygen use in organisms? ",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What began to accumulate 5.2 billion years ago?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What event occurred 5.2 billion years ago?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "At what temperature will oxygen condense?",
+      "answer": "90.20 K",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the clarity of liquid oxygen?",
+      "answer": "clear",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What substance is used to make high quality liquid O2?",
+      "answer": "liquefied air",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What element is used as a coolant in the process of making liquid oxygen?",
+      "answer": "liquid nitrogen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "From what type of materials must liquid oxygen be separated?",
+      "answer": "combustible materials",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What condenses at 54.36 K?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What freezes at 90.20 K?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is red in both the liquid and solid states?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Why does the O2 appear red?",
+      "answer": null,
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant element in the universe, after hydrogen and helium"
+    },
+    {
+      "question": "Where on Earth is free oxygen found?",
+      "answer": "water",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "At what temperatures is O2 more soluble?",
+      "answer": "lower",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why do polar water bodies support a higher amount of life?",
+      "answer": "higher oxygen content",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What measurement do scientists used to determine the quality of water?",
+      "answer": "biochemical oxygen demand",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Pollution of water by nitrates and phosphates will encourage the growth of what?",
+      "answer": "algae",
+      "llm_prediction": "pollution of water by nitrates and phosphates will encourage the growth of what? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides"
+    },
+    {
+      "question": "Why do polar oceans support reduced amounts of life?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What pollution process stimulates the growth of nitrates?",
+      "answer": null,
+      "llm_prediction": "pollution"
+    },
+    {
+      "question": "What can reduce density of O2 in eutrophic water bodies?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What do phosphates do to the growth of nitrates?",
+      "answer": null,
+      "llm_prediction": "forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "When did photosynthetic organisms evolve on Earth?",
+      "answer": "3.5 billion years ago",
+      "llm_prediction": ""
+    },
+    {
+      "question": "During which eon did free oxygen begin appearing in quantity?",
+      "answer": "Paleoproterozoic",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "At first, what did oxygen and iron combine to form?",
+      "answer": "banded iron formations",
+      "llm_prediction": "oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "How long ago did oxygen reach 10% of its present level?",
+      "answer": "1.7 billion years ago",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When did oxygen begin to move from the oceans to the atmosphere?",
+      "answer": "3–2.7 billion years ago",
+      "llm_prediction": "mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What evolved 5.3 billion years ago?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What eon took place between 3.3 and 2.0 billion years ago?",
+      "answer": null,
+      "llm_prediction": "oxygen"
+    },
+    {
+      "question": "What happened 3.7-2 billion years ago?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did oxygen reach 1.2 billion years ago?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What produces the high levels of oxygen on Earth?",
+      "answer": "oxygen cycle",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of process is the oxygen cycle?",
+      "answer": "biogeochemical",
+      "llm_prediction": "oxidizing"
+    },
+    {
+      "question": "In how many places is oxygen stored in its cycle?",
+      "answer": "three",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What process is responsible for the planet's oxygen content?",
+      "answer": "photosynthesis",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does photosynthesis release into the Earth's atmosphere?",
+      "answer": "oxygen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does respiration release into the atmosphere?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What are the three main oxygen cycles on Earth?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What occurs at the same rate of 1/200th of the entire atmospheric oxygen per year?",
+      "answer": null,
+      "llm_prediction": "third"
+    },
+    {
+      "question": "What oxygen reservoir is the driving factor of the oxygen cycle?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What mechanism can be used to make oxygen?",
+      "answer": "zeolite molecular sieves",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of oxygen will a zeolite sieve produce?",
+      "answer": "90% to 93%",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "While producing oxygen, what gas does a zeolite sieve absorb?",
+      "answer": "nitrogen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of technology is the non organic separating of gases?",
+      "answer": "non-cryogenic",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "How much is the sieve method of gas production used?",
+      "answer": "major method",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What beds are nitrogen-saturated? ",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is known as swing pressure adsorption?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What involves delivering a gas stream that is 9% to 93% O2?",
+      "answer": null,
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "Electrolysis of what can be used to produce oxygen and hydrogen?",
+      "answer": "water",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does the electrolysis of water produce?",
+      "answer": "oxygen and hydrogen",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of electric current is needed for electrolysis?",
+      "answer": "DC",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the source of oxygen production through electrocatalytic means?",
+      "answer": "oxides and oxoacids",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What other catalysts can be used to produce oxygen?",
+      "answer": "Chemical",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What can be produced through electrolysis of molecular water?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Why must DC electricity not be used?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What chemical catalysts can be used in electrocatalytic O2 evolution?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do oxoacids evolve from?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "As a euphoric how is oxygen used in bars?",
+      "answer": "recreational",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the effect on humans of oxygen?",
+      "answer": "mild euphoric",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do professional athletes seek to boost from breathing oxygen?",
+      "answer": "performance",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What type of exercise does research show receives a boost in performance from oxygen?",
+      "answer": "aerobic",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What is the most likely effect of breathing oxygen?",
+      "answer": "placebo",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is considered to be a recreational euphoric?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What establishments have been around since 1990?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Where have oxygen bars been since 1990?",
+      "answer": null,
+      "llm_prediction": "chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What type of pharmacological effect is most likely an explanation for the \"boost\" from oxygen?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What device is used to treat various conditions such as carbon monoxide poisoning?",
+      "answer": "Hyperbaric (high-pressure) medicine",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What does increased oxygen concentrations in the patient's lungs displace?",
+      "answer": "carbon monoxide",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "To what pathogen that causes gas gangrene is oxygen poisonous?",
+      "answer": "anaerobic bacteria",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What occurs after a dive in which a diver decompresses too quickly?",
+      "answer": "Decompression sickness",
+      "llm_prediction": "oxygen is the third - most abundant"
+    },
+    {
+      "question": "What medicines to do hyperbaric chambers use?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is treated with medical chambers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is carbon monoxide poisonous to that can cause gas gangrene?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Who does decompression oxygen sickness occur in?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "In what process is the uptake from oxygen necessary?",
+      "answer": "respiration",
+      "llm_prediction": "oxidizing"
+    },
+    {
+      "question": "What medical treatment is used to increase oxygen uptake in a patient?",
+      "answer": "oxygen supplementation",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "By decreasing resistance to blood flow in the lungs, what organ's workload  can be eased?",
+      "answer": "heart",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What medical treatment is used to benefit patients with hearth and lung disorders?",
+      "answer": "Oxygen therapy",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does  oxygen therapy promote the body to take up?",
+      "answer": "gaseous oxygen.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the essential purpose of supplementation? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What field is respiration used in?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is oxygen respiration therapy used to treat?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does treatment only do?",
+      "answer": null,
+      "llm_prediction": "forms compounds"
+    },
+    {
+      "question": "What characteristic of oxygen causes it to form bonds with other elements?",
+      "answer": "electronegativity",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is usual form of oxygen bound compounds?",
+      "answer": "oxides",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the mineral wustite?",
+      "answer": "FeO",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What does oxygen cause to form on metals?",
+      "answer": "oxide",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What does the film of oxide on metals delay?",
+      "answer": "corrosion",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What does oxygen form bonds with all other types of?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "Why does oxygen form bonds with all other types of elements?",
+      "answer": null,
+      "llm_prediction": "oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What mineral is written as Fe1 - oX?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is X in Fe1 - oX?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What event would necessitate airline passengers to need a supplemental supply of oxygen? ",
+      "answer": "cabin depressurization",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the type of oxygen production for emergency oxygen in airlines?",
+      "answer": "chemical",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of reaction is present in the emergency oxygen generator of an airplane?",
+      "answer": "exothermic",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What gas does the airline exothermic reaction produce?",
+      "answer": "oxygen gas",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Who sometimes have supplemental O supplies?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Who has an emergency supply of O?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "In case of cabin pressurization, what is available to passengers?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What type of reaction produces oxygen in plane cabins?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What do oxygen tanks, cryogenics, and chemical compounds serve as for oxygen?",
+      "answer": "storage",
+      "llm_prediction": "what do oxygen tanks, cryogenics, and chemical compounds serve as for oxygen? [SEP] oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent"
+    },
+    {
+      "question": "In what state is oxygen shipped in bulk?",
+      "answer": "liquid",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "By what means is bulk oxygen shipped?",
+      "answer": "insulated tankers",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what form is oxygen transported in smaller containers?",
+      "answer": "compressed gas",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What type of organization would need large quantities of pure oxygen?",
+      "answer": "hospitals",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the cryogenic and chemical compound storage method?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Why is oxygen often transported in cryogenics?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is equivalent to 804 liters of gaseous oxygen?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What must be at 28°C?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What type of compounds such as acetone,contain oxygen?",
+      "answer": "organic solvents",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "In what group of compounds is oxygen a necessary part?",
+      "answer": "organic compounds",
+      "llm_prediction": "chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant"
+    },
+    {
+      "question": "What function do compounds like phenol and acetone serve in the manufacture of many other substances?",
+      "answer": "feeder materials",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what compound is oxygen part of a ring arrangement?",
+      "answer": "Epoxides",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "How are the compounds that contain oxygen considered in commerce?",
+      "answer": "important",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What important solvents contain oxygen?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What compounds contain oxygen?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is O-R-O?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What is R-OC-R?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What is R-OOC-R?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "In what type of molecules are oxygen found?",
+      "answer": "biomolecules",
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "How many biomolecules contain no oxygen?",
+      "answer": "Only a few",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Which organic compounds contain the greatest amount of oxygen by mass?",
+      "answer": "carbohydrates",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "Besides fats, fatty acids, and amino acids,what other organic compounds contain oxygen?",
+      "answer": "proteins",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "In what calcium containing body part is oxygen a part?",
+      "answer": "bones",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What element is found in all biomolecules? ",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What element do squalene and the carotenes contain?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are APT and ADP?",
+      "answer": null,
+      "llm_prediction": "oxides"
+    },
+    {
+      "question": "What do carbohydrates have the most of by mass?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What health condition can deep sea diving cause?",
+      "answer": "Oxygen toxicity",
+      "llm_prediction": ""
+    },
+    {
+      "question": "To what can the use of prolonged breathing of oxygen at 60 kPa lead?",
+      "answer": "pulmonary fibrosis",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Pressures greater than what can lead to convulsions?",
+      "answer": "160 kPa",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the most feared condition that divers want to avoid?",
+      "answer": "Acute oxygen toxicity",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What physical condition can acute oxygen toxicity cause?",
+      "answer": "seizures",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can happen when breathing in oxygen with 60 atm?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What can exposure to partial gas pressures greater than 166 kPa cause?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What can happen when breathing 26% O2 at 62 m?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What can occur from breathing 100% O2?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "Why is breathing oxygen in space craft not dangerous to health?",
+      "answer": "low total pressures",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is the oxygen partial pressure of space suits?",
+      "answer": "30 kPa",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "How much of normal is the oxygen breathed in space suits?",
+      "answer": "1.4 times normal",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What si the comparison to sea level with the oxygen level in space suits?",
+      "answer": "only marginally more",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "How much damage does breathing oxygen in space conditions cause?",
+      "answer": "no damage",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What damage was caused by breathing pure O in space applications?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was no damage caused by breathing pure O in space applications?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What measures at 1.4 kPa?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the partial pressure of O in breathing gas?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When can oxygen gas produce a toxic condition?",
+      "answer": "at elevated partial pressures",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "At what point does oxygen toxicity begin to happen?",
+      "answer": "50 kilopascals",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "To what is 50 kilopascals equal?",
+      "answer": "50% oxygen",
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What medical appliance can be a concern for oxygen toxicity?",
+      "answer": "mechanical ventilators",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of oxygen is usually supplied by a medical mask?",
+      "answer": "30%–50%",
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "When can partial oxygen be toxic?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is equal to 5% oxygen consumption?",
+      "answer": null,
+      "llm_prediction": "hydrogen and helium"
+    },
+    {
+      "question": "What does kAp stand for?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    },
+    {
+      "question": "What is composed of 21%-50% O2 by volume?",
+      "answer": null,
+      "llm_prediction": "third - most abundant"
+    }
+  ]
+}

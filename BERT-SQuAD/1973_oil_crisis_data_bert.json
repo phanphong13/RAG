@@ -1,0 +1,1281 @@
+{
+  "title": "1973_oil_crisis",
+  "context": "The 1973 oil crisis began in October 1973 when the members of the Organization of Arab Petroleum Exporting Countries (OAPEC, consisting of the Arab members of OPEC plus Egypt and Syria) proclaimed an oil embargo. By the end of the embargo in March 1974, the price of oil had risen from US$3 per barrel to nearly $12 globally; US prices were significantly higher. The embargo caused an oil crisis, or \"shock\", with many short- and long-term effects on global politics and the global economy. It was later called the \"first oil shock\", followed by the 1979 oil crisis, termed the \"second oil shock.\"",
+  "qas": [
+    {
+      "question": "When did the 1973 oil crisis begin?",
+      "answer": "October 1973",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "What was the price of oil in March of 1974?",
+      "answer": "nearly $12",
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "When was the second oil crisis?",
+      "answer": "1979",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "What was another term used for the oil crisis?",
+      "answer": "first oil shock",
+      "llm_prediction": "first oil shock \", followed by the 1979 oil crisis, termed the \" second oil shock"
+    },
+    {
+      "question": "Who proclaimed the oil embargo?",
+      "answer": "members of the Organization of Arab Petroleum Exporting Countries",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "When did OPEC begin?",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "What action did the US begin that started the second oil shock?",
+      "answer": null,
+      "llm_prediction": "second oil shock? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What was the price of oil in 1979 before it rose?",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "What did the price of oil rise to in 1979 globally?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the term that describes what  happened in 1979 when the US prices of oil were higher?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What month did the oil crisis begin? ",
+      "answer": null,
+      "llm_prediction": "october"
+    },
+    {
+      "question": "Who did OAPEC include? ",
+      "answer": null,
+      "llm_prediction": "opec plus egypt and syria"
+    },
+    {
+      "question": "What was the oil crisis called",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What came after this oil crisis? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What caused the crisis? ",
+      "answer": null,
+      "llm_prediction": "oil crisis"
+    },
+    {
+      "question": "Why did the European nations and Japan separated themselves from United States during the crisis?",
+      "answer": "to avoid being targeted by the boycott",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How did the Nixon administration negotiate with the uncooperative countries?",
+      "answer": "They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights.",
+      "llm_prediction": "negotiate with the uncooperative countries? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?",
+      "answer": "January 18, 1974,",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "When did the Arab oil producers lift the embargo?",
+      "answer": "March 1974",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "How did the crisis impact Arabs?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Israel and Syria do to avoid being targeted by the boycott?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "What did Arab oil producers link to Japan?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What did NATO negotiate?",
+      "answer": null,
+      "llm_prediction": "oil embargo"
+    },
+    {
+      "question": "What did Japan lift in March 1974?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the oil crisis create a rift within? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "European nations and which country disassociated themselves from the US for this reason? ",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "Who linked any future policy changes to peace? ",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What negotiations did Nixon Administrations begin?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "Which country was to pull back from the Sinai Peninsula?",
+      "answer": null,
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "When did the United States withdraw from the Bretton Woods Accord?",
+      "answer": "On August 15, 1971",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "What does it mean when currencies are left to \"float?\"",
+      "answer": "to \"float\" (rise and fall according to market demand)",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was there a depreciation of the industrialized nations dollars?",
+      "answer": "industrialized nations increased their reserves",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did oil start getting priced in the terms of gold?",
+      "answer": "In September 1971",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Why did oil start getting priced in terms of gold?",
+      "answer": "oil was priced in dollars, oil producers' real income decreased",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did OPEC pull out of the Bretton Woods Accord?",
+      "answer": null,
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "What happened to other currencies value when the US abandoned oil?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Britain do in September 1971?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "Why did OPEC dollars depriciate?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was oil priced based on pound sterling?",
+      "answer": null,
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "What did the US withdraw from in 1971? ",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What did the US abandon? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the dollar value do? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does it mean for the dollar to float? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did OPEC  issue a joint communique? ",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "From 1947 to 1967, how much did the price of oil increase?",
+      "answer": "risen by less than two percent per year",
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "When did OPEC start to readjust oil prices?",
+      "answer": "After 1971",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "When did oil finally returned to its Bretton Woods levels?",
+      "answer": "1973–1974",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "The price of oil is usually a stable commodity until when?",
+      "answer": "Until the oil shock",
+      "llm_prediction": "march 1974"
+    },
+    {
+      "question": "How much had the price of gold risen after 1971?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Until the oil shock how had the price of gold been?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happened to Bretton Woods income due to prices not being in sync with the market?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did institutional mechanisms finally return to Bretton Woods levels?",
+      "answer": null,
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "When did commodities readjust to oil prices?",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Who was slow to readjust prices? ",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What years did the dollar price of oil rise by 2% per year? ",
+      "answer": null,
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "What happened in 1973-1974?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "Prices remained stable until what?",
+      "answer": null,
+      "llm_prediction": "march 1974"
+    },
+    {
+      "question": "When did Syria and Egypt launch a surprise attack on Israel?",
+      "answer": "On October 6, 1973",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Who was the world's second largest oil producer?",
+      "answer": "Iran",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "How many times more did the other nations have to pay for oil after the surprise attack?",
+      "answer": "ten times more",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "Which oil producer is a close ally of the United States?",
+      "answer": "Iran",
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "Why did the Shah of Iran gave an interview?",
+      "answer": "renewal of hostilities in the Arab–Israeli conflict",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Iran do on Yom Kippur on October 6, 1973?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "Who was the worlds second largest wheat exporter to the middle east?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What did Syria decide that the price of oil should be after the attack?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Egypt say that Iran increased the price of wheat they sell by?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does Syria sell refined oil for to the middle east?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happened on October 6, 1973 with Syria and Egypt? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What holiday did Syria and Egypt launch an attack? ",
+      "answer": null,
+      "llm_prediction": "first oil shock \", followed by the 1979 oil crisis, termed the \" second oil shock"
+    },
+    {
+      "question": "Iran was which size oil exporter?",
+      "answer": null,
+      "llm_prediction": "iran"
+    },
+    {
+      "question": "What was Iran's relationship with the US at this time? ",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much did they say it was fair to raise the prices? ",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "Why did OPEC raise the price of oil to $5.11?",
+      "answer": "In response to American aid to Israel",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did they raise the price of oil to $5.11?",
+      "answer": "October 16, 1973,",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "Why did the oil ministers agree to a cut in oil production?",
+      "answer": "until their economic and political objectives were met",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much was the emergency aid to Israel?",
+      "answer": "$2.2 billion",
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "Why did OPEC block oil deliveries to the United States?",
+      "answer": "American aid to Israel",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Geroge Lenczowski do to the price of oil on October 16, 1973?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "What did various countries request of Congress?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What decision triggered a response from a principal hostile country?",
+      "answer": null,
+      "llm_prediction": "oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What was the announcement made immediately by Kuwait?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Nixon join on October 20, 1973?",
+      "answer": null,
+      "llm_prediction": "organization of arab petroleum exporting countries"
+    },
+    {
+      "question": "OPEC did what to the prices of oil on October 16th?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "What percentage did OPEC raise the price of oil?",
+      "answer": null,
+      "llm_prediction": "us $ 3"
+    },
+    {
+      "question": "What was the price of oil after the raise? ",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "Who announced it would embargo oil shipments to the US?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Saudi Arabia join the embargo? ",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "How much did Saudi Arabia spend on spreading Wahhabism?",
+      "answer": "over 100 billion dollars",
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "Which group benefited from the funds distributed by the religious charity, al-Haramain Foundation?",
+      "answer": "Al-Qaeda and the Taliban",
+      "llm_prediction": "al - haramain foundation? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries"
+    },
+    {
+      "question": "Some of the income went to the purchase of arms which exacerbated political tension especially in which area?",
+      "answer": "Middle East",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What is one of the reason that underdeveloped nations received aid from the oil income?",
+      "answer": "shrinking Western demand",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a fundamentalist interpretation of Islam called?",
+      "answer": "Wahhabism",
+      "llm_prediction": "first oil shock \", followed by the 1979 oil crisis, termed the \" second oil shock"
+    },
+    {
+      "question": "How much did Saudi Arabia spend on Western demand for oil?",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "Some of the export commodities that were used for oil purchases helped create tensions where?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "When did Saudi Arabia spend 100 billion on oil prices?",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "What is a fundamentalist interpretation of al-Haramain called?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one reason that Al-Qaeda received aid from Sunni extremists?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is one of the reason that US production has been held responsible for recessions and lower economic growth?",
+      "answer": "distribution and price disruptions",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "US is concerned about confrontation of the Middle East with which other country?",
+      "answer": "USSR",
+      "llm_prediction": "syria"
+    },
+    {
+      "question": "Scholars stated that there was already an existing settlement between 2 parties prior to which date?",
+      "answer": "1973",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Interest groups and government agencies that were concerned with energy were no match for who?",
+      "answer": "Kissinger",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What has the USSR been held responsible for regarding oil?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the US concerned more about than inflation?",
+      "answer": null,
+      "llm_prediction": "inflation? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What was the Middle East not a match for?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What already existed in the USSR before 1973?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What was the USSR and the US more worried about?",
+      "answer": null,
+      "llm_prediction": "oil crisis"
+    },
+    {
+      "question": "What has a negative influence over the US economy?",
+      "answer": "The embargo",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "On an international level, which industry's competitive positions is affected? ",
+      "answer": "automobiles",
+      "llm_prediction": "arab petroleum"
+    },
+    {
+      "question": "Which problem consists of both  inflationary and deflationary impacts?",
+      "answer": "Macroeconomic problems",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The oil crisis caused oil companies to increase oil supplies in which area?",
+      "answer": "Arctic",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "How long does it take for new areas to have significant oil production?",
+      "answer": "five to ten years",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did developing new oil fields have a negative influence on?",
+      "answer": null,
+      "llm_prediction": "developing new oil fields"
+    },
+    {
+      "question": "How did developing new oil fields influence the US economy?",
+      "answer": null,
+      "llm_prediction": "developing new oil fields influence the us economy? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What did energy security do on an international level?",
+      "answer": null,
+      "llm_prediction": "energy security do on an international level? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What problem consists of trying to increase oil supplies and threats to US energy security?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What did macroeconomic problems cause oil companies to search for?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which country faced a complete embargo in the EEC?",
+      "answer": "Netherlands",
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "The UK and France had non interruptions in their oil supply as they did not allow which country to use their airfield?",
+      "answer": "America",
+      "llm_prediction": "the uk and france"
+    },
+    {
+      "question": "Which country is a traditional ally of Israel?",
+      "answer": "UK",
+      "llm_prediction": "israel"
+    },
+    {
+      "question": "Harold WInston's supported which country's during its six day war?",
+      "answer": "Israel",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "Who wanted Israel to withdraw from its border?",
+      "answer": "Ted Heath",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What was the embargo like in Israel?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the Netherlands not let America use during the embargo?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who did the EEC support during the Six-Day War?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "Who is France a traditional ally of?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What did Harold Wilson call for Israel to do in 1970?",
+      "answer": null,
+      "llm_prediction": "do in 1970? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "Which country is not badly hit by the embargo?",
+      "answer": "UK",
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "What caused UK to have an oil crisis in its own country?",
+      "answer": "a series of strikes",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did the series of strikes happen?",
+      "answer": "winter of 1973–74",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "Name one country that banned boating, driving and flying on Sundays.",
+      "answer": "Germany",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which country rationed gasoline and heating gas?",
+      "answer": "Sweden",
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "What did the UK ban on Sundays due to the embargo?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What was rationed by railroad workers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happened in the UK if you used more than your ration of electricity?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What country is not that affected by the change of government?",
+      "answer": null,
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "What did Heath ask Norway to do over the winter?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "What made the oil crisis worse in the US?",
+      "answer": "Price controls",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why are newly discovered oil sold at a higher price?",
+      "answer": "encourage investment",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was old oil withdrawn from the market?",
+      "answer": "Price controls",
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "How was scarcity managed in many countries?",
+      "answer": "rationing",
+      "llm_prediction": "scarcity managed in many countries? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "Why was old oil sold at a higher price?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happened when new oil was withdrawn from the market?",
+      "answer": null,
+      "llm_prediction": "new oil was withdrawn from the market? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What was rationing intended to promote in the market?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What action was taken to address price controls?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "How did old oil affect motorists in many countries?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "Who is the first administrator of the Federal Energy Office?",
+      "answer": "William E. Simon",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "When was he elected by Nixon?",
+      "answer": "In 1973",
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "Why was this short termed organization created?",
+      "answer": "coordinate the response to the embargo",
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "According to the AAA, what is the percentage of the gas stations that ran out of gasoline?",
+      "answer": "last week of February 1974,",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of American gas stations were out of fuel in 1973?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In 1973 what was Nixon named as?",
+      "answer": null,
+      "llm_prediction": "first oil shock \", followed by the 1979 oil crisis, termed the \" second oil shock"
+    },
+    {
+      "question": "What was the American Automobile Association created to do?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "How much oil did Nixon give to states in 1974?",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "What was common in states without population increases?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What is the speed limit set to reduce consumption?",
+      "answer": "55 mph",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the law which imposed the speed limit?",
+      "answer": "Emergency Highway Energy Conservation Act",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which president ended the Emergency Energy Conservation Act?",
+      "answer": "Bill Clinton",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the National Highway Designated Act signed?",
+      "answer": "November 28, 1995",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "When was the cabinet-level Energy Department created?",
+      "answer": "1977",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "What was imposed on November 28 1995 by the Emergency Highway Energy Conservation Act?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the President that imposed the speed limit?",
+      "answer": null,
+      "llm_prediction": "what"
+    },
+    {
+      "question": "What did the Department of Energy end in 1974?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "On Novermber 28, 1995 what did the Department of Energy end?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What speed did the National Highway Designation Act prevent you from going beyond?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the catalyst that created greater interest in renewable resources?",
+      "answer": "energy crisis",
+      "llm_prediction": ""
+    },
+    {
+      "question": "There is criticism that the energy policies are expensive quick fixes that ignore which facts?",
+      "answer": "market and technology realities",
+      "llm_prediction": "energy policies are expensive quick fixes that ignore which facts? [SEP] the 1973 oil crisis"
+    },
+    {
+      "question": "Who backed policies that have solutions that sound good but have poor prospects?",
+      "answer": "congresses and presidents",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What kinds of energy did single-shot solutions create interest in?",
+      "answer": null,
+      "llm_prediction": "single - shot solutions"
+    },
+    {
+      "question": "How have American entrepreneurships been criticized since the crisis?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "What policies have been promoted due to nuclear power?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are the results of policies that use renewable energy?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What have politically correct policies about nuclear power promoted in America?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "Which country was thinking about going to war to forcibly take Middle Eastern oil fields?",
+      "answer": "U.S",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "Which country was worried that the US would invade the Middle East?",
+      "answer": "British Prime Minister Edward Heath",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How long would the invasion of the Middle East have to last in order to develop renewable resources?",
+      "answer": "10 years",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who would the occupation alienate?",
+      "answer": "Arabs and much of the rest of the Third World",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What action did the US plan to take in 2004 due to rising oil prices?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What revealed the intentions of the British in the middle east regarding oil prices in 2004?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What had Edward Heath told Lord Cromer about taking action in the middle east?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did British Ambassador Lord Cromer order due to his worry about US mid East actions?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What would be a Kuwaiti response to US actions be?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which country is the most dependent on Arab oil?",
+      "answer": "Japan",
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "How much imported oil came from the Middle East?",
+      "answer": "71%",
+      "llm_prediction": "us $ 3 per barrel to nearly $ 12"
+    },
+    {
+      "question": "To force Japan to be more involved in the crisis, what did Saudi and Kuwaiti government do?",
+      "answer": "5% production cut",
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "When did Japan release a statement to tell Israelis to withdraw from the Palestine?",
+      "answer": "November 22",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "When was Japan accepted as an Arab-friendly state?",
+      "answer": "December 25",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Which country is most involved in nonviolent policy?",
+      "answer": null,
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "What action was taken against Japan on December 25th to make them change their policy?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Israel do to Japan's imported oil to force their involvement in the crisis?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "When was Israel declared a nonfriendly country?",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "When Japan received 71% of its imported oil from the middle east in December what result did it cause in public?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which country's invasion show the insecurity of the Middle East?",
+      "answer": "USSR's invasion",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "Which countries became dependent on US's security assurance to threats?",
+      "answer": "Saudi Arabia and Iran",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "Which country's arms purchase from the US became 5 times more than Israel?",
+      "answer": "Saudi Arabia",
+      "llm_prediction": "us"
+    },
+    {
+      "question": "When did the Shah kingdom start to collapse?",
+      "answer": "January 1979",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "When did the Wahhabi seized the Grand Mosque in Mecca?",
+      "answer": "November 1979",
+      "llm_prediction": "1973 oil crisis began in october 1973"
+    },
+    {
+      "question": "What country did Saudi Arabia invade in 1979?",
+      "answer": null,
+      "llm_prediction": "saudi arabia"
+    },
+    {
+      "question": "What are other signs of insecurity in Mecca?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the Persian Gulf depend on the Saudis to manage?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is another reason that Al-Hasa was buying weapons from Russia?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What kind of Sunni muslim monarchy is is Iran lead by?",
+      "answer": null,
+      "llm_prediction": "sunni muslim monarchy is is iran lead by? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "Which sized cars were the least demanded cars in the crisis?",
+      "answer": "large cars",
+      "llm_prediction": "which sized cars"
+    },
+    {
+      "question": "Which country's cars became more highly sought after as they were more fuel efficient?",
+      "answer": "Japanese imports",
+      "llm_prediction": "which country ' s cars became more highly sought after as they were more fuel efficient? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What type of engines does the American car typically have?",
+      "answer": "V8 and six cylinder engines",
+      "llm_prediction": "what type of engines"
+    },
+    {
+      "question": "Which country's imports became the de facto mass market leaders?",
+      "answer": "Japan",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "What standards did American cars create in the auto industry?",
+      "answer": null,
+      "llm_prediction": "what standards"
+    },
+    {
+      "question": "What are two cars with V8 engines that were more fuel efficient?",
+      "answer": null,
+      "llm_prediction": "two cars with v8 engines"
+    },
+    {
+      "question": "What type of unibody construction does an American car usually have?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What country became a leader in importing large cars?",
+      "answer": null,
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "What increased demand for cars with six cylinder engines?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Honda, Toyota and Nissan open US assembly plants?",
+      "answer": "A decade after the 1973",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Name a larger car that Toyota came up with as buyers lamented the small sized compacts?",
+      "answer": "Toyota Corona Mark II",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "Name an extra that was added to the production of the compacts.",
+      "answer": "power steering",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Name a luxury division of Toyota.",
+      "answer": "Lexus",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In 1973 what did Mazda open in the US?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "What did Mazda establish in the US in 1973?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Mazda want to distinguish itself from by opening assembly plants in 1973?",
+      "answer": null,
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What did some buyers not like about Acuras?",
+      "answer": null,
+      "llm_prediction": "acuras? [SEP] the 1973 oil crisis"
+    },
+    {
+      "question": "What are two things that were added to the Lexus in 1981?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Name a type of Toyota compact trucks?",
+      "answer": "Toyota Hilux",
+      "llm_prediction": "toyota compact trucks"
+    },
+    {
+      "question": "What did Mitsubishi rename its Forte to?",
+      "answer": "Dodge D-50",
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "Mazda, Mitsubishi and Isuzu joined partnership with which American car company?",
+      "answer": "Ford, Chrysler, and GM",
+      "llm_prediction": "arab"
+    },
+    {
+      "question": "When American car companies rolled out with their domestic replacement cars, which policy ended?",
+      "answer": "captive import policy",
+      "llm_prediction": "first oil shock"
+    },
+    {
+      "question": "What did Toyota rebrand its Forte as?",
+      "answer": null,
+      "llm_prediction": "first oil shock \", followed by the 1979 oil crisis, termed the \" second oil shock"
+    },
+    {
+      "question": "What is a type of Dodge built compact truck?",
+      "answer": null,
+      "llm_prediction": "dodge"
+    },
+    {
+      "question": "What companies did Toyota, Chevrolet and Dodge have joint partnerships with?",
+      "answer": null,
+      "llm_prediction": "arab petroleum exporting countries"
+    },
+    {
+      "question": "When Japanese companies introduced compact trucks, what policy ended?",
+      "answer": null,
+      "llm_prediction": "oil embargo"
+    },
+    {
+      "question": "What compact truck replacements were introduced by Toyota?",
+      "answer": null,
+      "llm_prediction": "compact truck replacements"
+    },
+    {
+      "question": "Why did GM, Ford and Chrysler introduced fuel-efficient and small cars to the US market?",
+      "answer": "An increase in imported cars",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many passengers can the Ford Fiesta accommodate?",
+      "answer": "at least four passengers",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "By which year did the American cars mpg start to improve?",
+      "answer": "1985",
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "Name a luxury model that became popular in the mid-1970s.",
+      "answer": "Lincoln Continental,",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which full-sized model cars were not popular?",
+      "answer": "Chevrolet Bel Air",
+      "llm_prediction": "full - sized model cars"
+    },
+    {
+      "question": "What did oil price increases force GM, Ford and Chrysler to do?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In 1979, what was the average mpg for American cars?",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "What was the price of a barrel of oil in 1970?",
+      "answer": null,
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "What are two small car models that didn't recover in 1974?",
+      "answer": null,
+      "llm_prediction": "two small car models"
+    },
+    {
+      "question": "How many passengers could a Chevrolet Bel Air carry in 1970?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "By which year did full sized American cars shrink to be smaller?",
+      "answer": "1979",
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "By which year did Chrysler ended its full sized luxury model?",
+      "answer": "1981",
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "Which car shows the DOT's revision of categories?",
+      "answer": "Mustang I",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What happened to safety bumpers in 1979?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Dodge end production of their full size sedans?",
+      "answer": null,
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "What was the Plymouth Gran Fury a prelude to in vehicle categories?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of vehicle did Chrysler change to in 1977?",
+      "answer": null,
+      "llm_prediction": "chrysler"
+    },
+    {
+      "question": "What are two changes to GM vehicles that were implemented in 1982?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was OPEC production of oil being surpassed?",
+      "answer": "1981",
+      "llm_prediction": "october 1973"
+    },
+    {
+      "question": "Which year did the price of oil drop to $10 per barrel?",
+      "answer": "1980s",
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "Why did Saudi Arabia try to increase production, and reduce profits for high cost producers?",
+      "answer": "recover market share",
+      "llm_prediction": "reduce profits for high cost producers? [SEP] the 1973 oil crisis began in october 1973 when the members of the organization of arab petroleum exporting countries ( oapec, consisting of the arab members of opec plus egypt and syria ) proclaimed an oil embargo"
+    },
+    {
+      "question": "In 1979, during the oil crisis, what was the highest price of oil?",
+      "answer": "nearly $40 per barrel",
+      "llm_prediction": "us $ 3 per barrel"
+    },
+    {
+      "question": "In what year was other countries oil production surpassed by Saudi Arabia?",
+      "answer": null,
+      "llm_prediction": "1973"
+    },
+    {
+      "question": "What did OPEC do to gain market share in 1979?",
+      "answer": null,
+      "llm_prediction": "proclaimed an oil embargo"
+    },
+    {
+      "question": "What were two consequences of OPEC pushing down oil prices in 1981?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the world price of oil peak at in 1973?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the price of oil fall to during the 1979 oil crisis?",
+      "answer": null,
+      "llm_prediction": ""
+    }
+  ]
+}

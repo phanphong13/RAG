@@ -1,0 +1,1241 @@
+{
+  "title": "Victoria_(Australia)",
+  "context": "The economy of Victoria is highly diversified: service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing constitute the majority of employment. Victoria's total gross state product (GSP) is ranked second in Australia, although Victoria is ranked fourth in terms of GSP per capita because of its limited mining activity. Culturally, Melbourne is home to a number of museums, art galleries and theatres and is also described as the \"sporting capital of Australia\". The Melbourne Cricket Ground is the largest stadium in Australia, and the host of the 1956 Summer Olympics and the 2006 Commonwealth Games. The ground is also considered the \"spiritual home\" of Australian cricket and Australian rules football, and hosts the grand final of the Australian Football League (AFL) each year, usually drawing crowds of over 95,000 people. Victoria includes eight public universities, with the oldest, the University of Melbourne, having been founded in 1853.",
+  "qas": [
+    {
+      "question": "What kind of economy does Victoria have?",
+      "answer": "diversified",
+      "llm_prediction": "service sectors"
+    },
+    {
+      "question": "Where according to gross state product does Victoria rank in Australia?",
+      "answer": "second",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "At what rank does GPS per capita set Victoria?",
+      "answer": "fourth",
+      "llm_prediction": "fourth"
+    },
+    {
+      "question": "What city in Victoria is called the sporting capital of Australia?",
+      "answer": "Melbourne",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the largest stadium in Australia?",
+      "answer": "Melbourne Cricket Ground",
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "What kind of education does Victoria have?",
+      "answer": null,
+      "llm_prediction": "service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "Where according to net domestic product does Victoria rank in Australia?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "At what rank is GPS service in Victoria?",
+      "answer": null,
+      "llm_prediction": "fourth"
+    },
+    {
+      "question": "What city in Victoria is called the cricket ground of Australia?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many public universities are in Melbourne?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where is the Asian influence strongest in Victoria?",
+      "answer": "Bendigo",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where were the Lambing Flat riots?",
+      "answer": "New South Wales",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where was the 1857 riot?",
+      "answer": "Buckland Valley",
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "How many miners died in the typhoid outbreak of 1854?",
+      "answer": "over 1,000",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What were the conditions for miners in the gold fields in Victoria?",
+      "answer": "cramped and unsanitary",
+      "llm_prediction": "spiritual home"
+    },
+    {
+      "question": "Where is the Asian gold miners strongest in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where were the pro-Chinese riots?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "Where was the 1857 gold rush?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "How many miners died from racism violence in 1854?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What were the conditions for miners in Ireland and China?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What kind of representational system does the Victorian Legislative Council have?",
+      "answer": "multi-member proportional",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many electorates does the State of Victoria have?",
+      "answer": "eight",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many representatives does each electorate have?",
+      "answer": "five",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "What is the term of office for each house member?",
+      "answer": "four years",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How often are elections held for the Victorian Parliament?",
+      "answer": "every four years",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many electorates does the Legislative Council have?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many representatives does each state have?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How often are elections held by upper house members?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "In what month does the Victorian Parliament register voters?",
+      "answer": null,
+      "llm_prediction": "month"
+    },
+    {
+      "question": "What political party is strongest in Melbourne's working class suburbs?",
+      "answer": "Australian Labor Party",
+      "llm_prediction": "what political party is strongest in melbourne ' s working class suburbs? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing constitute the majority of employment. victoria ' s total gross state product ( gsp ) is ranked second in australia, although victoria is ranked fourth in terms of gsp per capita because of its limited mining activity. culturally, melbourne is home to a number of museums, art galleries and theatres and is also described as the \" sporting capital of australia \". the melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What party is strongest in Melbourne's affluent areas?",
+      "answer": "Liberal Party",
+      "llm_prediction": "what party is strongest in melbourne ' s affluent areas? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing constitute the majority of employment. victoria ' s total gross state product ( gsp ) is ranked second in australia, although victoria is ranked fourth in terms of gsp per capita because of its limited mining activity. culturally, melbourne is home to a number of museums, art galleries and theatres and is also described as the \" sporting capital of australia \". the melbourne"
+    },
+    {
+      "question": "Which party is strongest in Victoria's northwestern and eastern regions?",
+      "answer": "National Party",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What party rules in Melbourne's inner regions?",
+      "answer": "The Greens",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What party is favored in Bedigo and Geelong?",
+      "answer": "Labor",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What political party is strongest in Melbourne's poor regional areas?",
+      "answer": null,
+      "llm_prediction": "what political party is strongest in melbourne ' s poor regional areas? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing constitute the majority of employment. victoria ' s total gross state product ( gsp ) is ranked second in australia, although victoria is ranked fourth in terms of gsp per capita because of its limited mining activity. culturally, melbourne is home to a number of museums, art galleries and theatres and is also described as the \" sporting capital of australia \". the melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What party is strongest in Melbourne's financial district?",
+      "answer": null,
+      "llm_prediction": "what party is strongest in melbourne ' s financial district? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing constitute the majority of employment. victoria ' s total gross state product ( gsp ) is ranked second in australia, although victoria is ranked fourth in terms of gsp per capita because of its limited mining activity. culturally, melbourne is home to a number of museums, art galleries and theatres and is also described as the \" sporting capital of australia \". the melbourne"
+    },
+    {
+      "question": "Which party is strongest in Victoria's lower house?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What party formed in 2014?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What party is favored in Northern and Southern Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What percentage of Victorians are Christian?",
+      "answer": "61.1%",
+      "llm_prediction": "what percentage"
+    },
+    {
+      "question": "How many Victorians are Catholic?",
+      "answer": "26.7%",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Victoria's largest non-Christian religion?",
+      "answer": "Buddhism",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many Victorians are Buddhist?",
+      "answer": "168,637",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Victorians are non-religious?",
+      "answer": "20%",
+      "llm_prediction": "many"
+    },
+    {
+      "question": "What percentage of Victorians are Christian Scientists?",
+      "answer": null,
+      "llm_prediction": "what percentage"
+    },
+    {
+      "question": "How many Victorians are live near a moneatery?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What religion are most of the lower class in Victoria?",
+      "answer": null,
+      "llm_prediction": "what religion"
+    },
+    {
+      "question": "How many Victorians have a Buddha statue?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many Victorians are Muslim?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "Where in Australia is Victoria located?",
+      "answer": "south-east",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How does Victoria rank as to population density?",
+      "answer": "most densely populated",
+      "llm_prediction": "spiritual home"
+    },
+    {
+      "question": "How populous is Victoria compared to other Australian states?",
+      "answer": "second",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What city is the capital of Victoria?",
+      "answer": "Melbourne",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Compared to other Australian cities, what is the size of Melbourne?",
+      "answer": "second-largest",
+      "llm_prediction": "what is the size of melbourne? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "Where in Bass Straight is Victoria located?",
+      "answer": null,
+      "llm_prediction": "bass straight"
+    },
+    {
+      "question": "How does Melbourne rank as to population?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How populous is Melbourne compared to other Australian states?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What city is the capital of Australia?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Compared to other American cities, what is the size of Melbourne?",
+      "answer": null,
+      "llm_prediction": "what is the size of melbourne? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "What is the term for the original Aboriginal people of Victoria?",
+      "answer": "Koori",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When did Great Britain claim Australia? ",
+      "answer": "1788",
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "Where was Victoria first set to be located in Australia?",
+      "answer": "New South Wales",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where was the first settlement in Victoria?",
+      "answer": "Sullivan Bay",
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "When was Victoria first settled?",
+      "answer": "1803",
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "What is the term for the original Aboriginal people of Canberra?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When did Great Britain sell Australia?",
+      "answer": null,
+      "llm_prediction": "1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home \" of australian cricket and australian rules football, and hosts the grand final of the australian football league ( afl ) each year, usually drawing crowds of over 95, 000 people. victoria includes eight public universities, with the oldest, the university of melbourne, having been founded in 1853"
+    },
+    {
+      "question": "Where were the Koori first set to be located in Australia?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where was the first settlement in Canberra?",
+      "answer": null,
+      "llm_prediction": "canberra"
+    },
+    {
+      "question": "When was the first Parliament House built in Victoria?",
+      "answer": null,
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "How much Victorian farmland is farmed in grains?",
+      "answer": "26,000 square kilometres",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of farmland grows wheat?",
+      "answer": "50%",
+      "llm_prediction": "farmland"
+    },
+    {
+      "question": "How much of Victoria's farmland grows hay?",
+      "answer": "6,000 square kilometres",
+      "llm_prediction": "farmland grows hay"
+    },
+    {
+      "question": "How much does Victoria produce in Australian pears?",
+      "answer": "90%",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many tonnes of tomatoes does Victoria produce?",
+      "answer": "270,000",
+      "llm_prediction": "tomatoes"
+    },
+    {
+      "question": "How much Victorian farmland is farmed in rye grass?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What percentage of farmland grows beans?",
+      "answer": null,
+      "llm_prediction": "farmland"
+    },
+    {
+      "question": "How much of Victoria's farmland is sold domestically?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How much of Victoria produced Australian peaches?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many tonnes of potatoes does Victoria produce?",
+      "answer": null,
+      "llm_prediction": "how many tonnes"
+    },
+    {
+      "question": "When did Victoria enact its constitution?",
+      "answer": "1975",
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "On what is Victoria's constitution based ?",
+      "answer": "1855 colonial constitution",
+      "llm_prediction": "service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "What group can amend the Victorian constitution?",
+      "answer": "Parliament of Victoria",
+      "llm_prediction": "what group"
+    },
+    {
+      "question": "What are the exceptions in the constitution  that require special considerations to amend?",
+      "answer": "\"entrenched\" provisions",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What document formed the Parliament of Victoria?",
+      "answer": "Victoria Constitution Act 1855",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When did Victoria approve a referendum?",
+      "answer": null,
+      "llm_prediction": "1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home \" of australian cricket and australian rules football, and hosts the grand final of the australian football league ( afl ) each year, usually drawing crowds of over 95, 000 people. victoria includes eight public universities, with the oldest, the university of melbourne, having been founded in 1853"
+    },
+    {
+      "question": "On what is the Parliament of Victoria based?",
+      "answer": null,
+      "llm_prediction": "service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "What group can amend the United Kingdom Parliament?",
+      "answer": null,
+      "llm_prediction": "what group can amend the united kingdom parliament? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "What are the exceptions in the constitutions that fall under state responsibility?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What document formed the Parliament of \"entrenched\" provisions?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the weather type of Mallee and upper Wimmera?",
+      "answer": "warmest regions",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What does the average temperatures exceed in the summer?",
+      "answer": "32 °C",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How cold does this region of Victoria get in the winner?",
+      "answer": "15 °C",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What is Victoria's highest monthly temperature?",
+      "answer": "48.8 °C",
+      "llm_prediction": "what is victoria ' s highest monthly temperature? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "When was the heatwave in which Hopetoun recorded its highest temperature?",
+      "answer": "2009",
+      "llm_prediction": "2006"
+    },
+    {
+      "question": "What is the weather type of Hopetoun and Melbourne?",
+      "answer": null,
+      "llm_prediction": "spiritual home"
+    },
+    {
+      "question": "What is the median temperature in the winter?",
+      "answer": null,
+      "llm_prediction": "what is the median temperature in the winter? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "What is the median temperature in the summer?",
+      "answer": null,
+      "llm_prediction": "1956 summer olympics"
+    },
+    {
+      "question": "What is temperature does Hopetoun average in Feburary?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When was the heatwave in which Wimmera recorded its highest temperature?",
+      "answer": null,
+      "llm_prediction": "2006"
+    },
+    {
+      "question": "What are public schools in Victoria?",
+      "answer": "state or government",
+      "llm_prediction": "public schools"
+    },
+    {
+      "question": "What organization runs the public schools in Victoria? ",
+      "answer": "Victoria Department of Education",
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "Since students do not pay tuition, what do they have to pay for schooling in Victoria?",
+      "answer": "some extra costs",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games"
+    },
+    {
+      "question": "What church runs some private schools in Victoria?",
+      "answer": "Roman Catholic Church",
+      "llm_prediction": "what church"
+    },
+    {
+      "question": "What government set standards do all schools have to meet?",
+      "answer": "curriculum",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What are public banks in Victoria?",
+      "answer": null,
+      "llm_prediction": "public banks in victoria? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing constitute the majority of employment. victoria ' s total gross state product ( gsp ) is ranked second in australia, although victoria is ranked fourth in terms of gsp per capita because of its limited mining activity. culturally, melbourne is home to a number of museums, art galleries and theatres"
+    },
+    {
+      "question": "What organization runs the waste management in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is covered by the state in addition to tuition?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What church runs public schools in Victoria?",
+      "answer": null,
+      "llm_prediction": "what church"
+    },
+    {
+      "question": "What government set standards do only select schools have to meet?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What type of manufacturing plant is Victoria soon losing?",
+      "answer": "major car brands",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When has Toyota said it will close its Victoria plant?",
+      "answer": "2017",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When did Holden announce that it will close its Victoria plant?",
+      "answer": "May 2013",
+      "llm_prediction": "2006 commonwealth games. the ground is also considered the \" spiritual home \" of australian cricket and australian rules football, and hosts the grand final of the australian football league ( afl ) each year, usually drawing crowds of over 95, 000 people. victoria includes eight public universities, with the oldest, the university of melbourne, having been founded in 1853"
+    },
+    {
+      "question": "When will Ford's manufacturing plants close?",
+      "answer": "October 2016",
+      "llm_prediction": "will ford ' s manufacturing plants close? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "What brand of car is manufactured in Broadmeadows?",
+      "answer": "Ford",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What type of manufacturing plant is Victoria getting soon?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When has Toyota said it will change its Victoria plant into a plane factory?",
+      "answer": null,
+      "llm_prediction": "2006"
+    },
+    {
+      "question": "When did Holden announce that it will open its Victoria plant?",
+      "answer": null,
+      "llm_prediction": "1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home \" of australian cricket and australian rules football, and hosts the grand final of the australian football league ( afl ) each year, usually drawing crowds of over 95, 000 people. victoria includes eight public universities, with the oldest, the university of melbourne, having been founded in 1853"
+    },
+    {
+      "question": "When will Ford start building electric cars?",
+      "answer": null,
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "What brand of tractor is manufactured in Broadmeadows?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "How high are Victoria's alpine regions?",
+      "answer": "2,000 m",
+      "llm_prediction": "alpine"
+    },
+    {
+      "question": "What is the highest peak in Victoria?",
+      "answer": "Mount Bogong",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How high is Victoria's Mount Bogong?",
+      "answer": "1,986 m",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What type of topological systems are found in numbers in Victoria?",
+      "answer": "river systems",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What is the Victoria state bird?",
+      "answer": "helmeted honeyeater",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How high are Victoria's river regions?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the snowiest peak in Victoria?",
+      "answer": null,
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "How high is Victoria's Mount Gippsland? ",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the Victoria state fish?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the Victoria state color?",
+      "answer": null,
+      "llm_prediction": "what is the victoria state color"
+    },
+    {
+      "question": "Where is the coldest section of Victoria?",
+      "answer": "Victorian Alps",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Of what mountain system are the Victorian Alps a part?",
+      "answer": "Great Dividing Range",
+      "llm_prediction": "mountain system are the victorian alps"
+    },
+    {
+      "question": "In what direction does the mountain system extend?",
+      "answer": "east-west",
+      "llm_prediction": "in what direction does the mountain system"
+    },
+    {
+      "question": "What is the temperature in the highest portion of the mountain range in winter?",
+      "answer": "below 0 °C",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the lowest recorded temperature in Victoria?",
+      "answer": "−11.7 °C",
+      "llm_prediction": "what is the lowest recorded temperature in victoria? [SEP] the economy of victoria is highly diversified : service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "Where is the highest section of Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Of what mountain system are the Omeo Alps a part?",
+      "answer": null,
+      "llm_prediction": "omeo alps"
+    },
+    {
+      "question": "In what direction does the river system extend?",
+      "answer": null,
+      "llm_prediction": "in what direction does the river system extend? [SEP] the economy of victoria is highly diversified"
+    },
+    {
+      "question": "What is the temperature in the valley of the mountain range in winter?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the lowest recorded wind chill in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Who owns the rail lines in Victoria?",
+      "answer": "government-owned",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which rail line operates in Melbourne?",
+      "answer": "Metro Trains Melbourne",
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "What entity owns V/Line?",
+      "answer": "Victorian Government",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What type of rail line is Pacific National?",
+      "answer": "freight services",
+      "llm_prediction": "pacific national"
+    },
+    {
+      "question": "What kind of rail system is Metro Trains Melbourne?",
+      "answer": "passenger",
+      "llm_prediction": "metro trains melbourne"
+    },
+    {
+      "question": "Who owns the rail cars in Victoria?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which rail line operates Around the island?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What entity is sponsored by V/Line in the Olympics?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What operator transports cargo in Melbourne?",
+      "answer": null,
+      "llm_prediction": "australian cricket and australian rules football, and hosts the grand final of the australian football league ( afl ) each year, usually drawing crowds of over 95, 000 people. victoria includes eight public universities, with the oldest, the university of melbourne"
+    },
+    {
+      "question": "What operator is in mainland Australia?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "How many seats does Victoria have in the Australian House of Representatives?",
+      "answer": "37",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "How many seats does Victoria have in the Senate?",
+      "answer": "12",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the lower house of the Victorian parliament called?",
+      "answer": "Legislative Assembly",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the upper house of the Parliament of Victoria called?",
+      "answer": "Legislative Council",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "Who is the current Governor of Victoria?",
+      "answer": "Linda Dessau",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "How many seats does Australia have in the House of Representatives?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "How many seats does Australia have in the Senate?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the lower level of a the Australian House of Representatives called?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the upper level of the Australian House of Representatives called?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "Who is the current President of Victoria?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "On what date was Victoria declared independent from New South Wales?",
+      "answer": "1 July 1851",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "When was gold found near Ballarat?",
+      "answer": "1851",
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "What did the finding of gold in Victoria cause?",
+      "answer": "gold rush",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much did the population of Victoria increase in ten years after the discovery of gold?",
+      "answer": "sevenfold",
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "How much gold did Victoria produce in the years of 1851-1860?",
+      "answer": "20 million ounces",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When were writs issued for the election of the New South Wales president?",
+      "answer": null,
+      "llm_prediction": "2006"
+    },
+    {
+      "question": "When was gold found near Birmingham?",
+      "answer": null,
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "What did the new railroad in Victoria trigger?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much did the population New South Wales increase in ten years after the discovery of gold?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How much gold did Victoria produce in 1860?",
+      "answer": null,
+      "llm_prediction": "gold"
+    },
+    {
+      "question": "By August 2010 how many public schools did Victoria have?",
+      "answer": "1,548",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many Catholic schools were in Victoria?",
+      "answer": "489",
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How many students were enrolled in public schools in Victoria?",
+      "answer": "540,800",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many full time teachers does Victoria have?",
+      "answer": "63,519",
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "What percentage of private school students go to Catholic schools?",
+      "answer": "61",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "By August 2010 how many trade schools did Victoria have?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many Catholic schools got government assistance?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How many students were enrolled in public schools outside Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many full time janitors does Victoria have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What percentage of private school students go to Lutheran schools?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What state in Australia is the center of dairy farming?",
+      "answer": "Victoria",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many dairy cows are there in Australia?",
+      "answer": "3 million",
+      "llm_prediction": "how many dairy cows"
+    },
+    {
+      "question": "What percentage of Australia's dairy cattle are found in Victoria?",
+      "answer": "60%",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "How much of Australia's milk is produced in Victoria?",
+      "answer": "two-thirds",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "To where is most of the abalone and lobster caught in Victorian waters shipped?",
+      "answer": "Asia",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What state in Australia invented dairy farming?",
+      "answer": null,
+      "llm_prediction": "australia"
+    },
+    {
+      "question": "How many spotted dairy cows are there in Australia?",
+      "answer": null,
+      "llm_prediction": "how many spotted dairy cows"
+    },
+    {
+      "question": "What percentage of Australia's dairy farms are found in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What percentage of Australia's veal is comes from Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "To where is most of the milk and beef from Victoria exported to?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the gauge of the Victorian rail lines?",
+      "answer": "1,600 mm",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "To what gauge have some lines been changed in the west of Victoria?",
+      "answer": "1,435 mm",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What gauge of rail lines do two tourist lines use?",
+      "answer": "760 mm",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where were the narrow gauge rail lines built in Victoria?",
+      "answer": "mountainous areas",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many narrow gauge rail lines were previously government owned?",
+      "answer": "five",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What is the gauge of the Victorian power lines?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "To what gauge have some lines been changed north of Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What gauge of rail lines are used in small fright operators?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "Where were the narrow gauge rail lines demolished in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many narrow gauge rail lines were built before 1900?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When was the colony of New South Wales founded?",
+      "answer": "1788",
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "What was the name of the eastern half of the colony of 1788?",
+      "answer": "New South Wales",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What name was given to the western half of the colony?",
+      "answer": "New Holland",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where was the location of the colonial government that administered the new colony?",
+      "answer": "Sydney",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When did Captain Daniel Woodriff visit New South Wales?",
+      "answer": null,
+      "llm_prediction": "1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home \" of australian cricket and australian rules football, and hosts the grand final of the australian football league ( afl ) each year, usually drawing crowds of over 95, 000 people. victoria includes eight public universities, with the oldest, the university of melbourne, having been founded in 1853"
+    },
+    {
+      "question": "What name was given to the western half of Wales?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where was the location of the administration of Calcutta?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Who feared that Holland might establish their own settlement?",
+      "answer": null,
+      "llm_prediction": "holland"
+    },
+    {
+      "question": "When was there a armed protest at Ballarat about mining taxes?",
+      "answer": "1854",
+      "llm_prediction": "1956"
+    },
+    {
+      "question": "What was the incident over taxes at Ballarat called?",
+      "answer": "Eureka Stockade",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What armed group stopped the uprising at Ballarat?",
+      "answer": "British troops",
+      "llm_prediction": "what armed group"
+    },
+    {
+      "question": "What did colonial authorities  reduce because of the Ballarat revolt?",
+      "answer": "mining licence fees",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The passage of what act gave Victoria its own government?",
+      "answer": "Colony of Victoria Act",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "When was there a armed protest at Eureka Stockade about mining taxes?",
+      "answer": null,
+      "llm_prediction": "2006"
+    },
+    {
+      "question": "What armed group stopped the colonial authorities at Ballarat?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did colonial authorities reduce because of the Colony of Victoria Act of 1855?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games"
+    },
+    {
+      "question": "What did some leaders of the British rebellion become?",
+      "answer": null,
+      "llm_prediction": "sporting capital of australia \". the melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "Who protested against Parliament taxes?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "What does the Premier of Victoria need to lead in the Legislative Assembly? ",
+      "answer": "most seats",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who sets the legislative agenda in Victoria?",
+      "answer": "Premier",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who can be in the Victorian cabinet?",
+      "answer": "representatives",
+      "llm_prediction": "service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "Who is the current Premier of Victoria?",
+      "answer": "Daniel Andrews",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "How are Victorian cabinet members chosen?",
+      "answer": "elected",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the secretary need to lead in the Legislative Assembly?",
+      "answer": null,
+      "llm_prediction": "spiritual home"
+    },
+    {
+      "question": "Who sets the judicial agenda in Victoria?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who can be in the Victorian law enforcement?",
+      "answer": null,
+      "llm_prediction": "service sectors including financial and property services, health, education, wholesale, retail, hospitality and manufacturing"
+    },
+    {
+      "question": "Who is the first Premier of Victoria?",
+      "answer": null,
+      "llm_prediction": "who"
+    },
+    {
+      "question": "How are Victorian education members chosen?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much did the gross agricultural product increase from 2003-04?",
+      "answer": "$8.7 billion",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "What percentage was the increase of agricultural products in 2003-04?",
+      "answer": "17%",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "How many farms are there in Victoria?",
+      "answer": "32,463",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How much land do farms use in Victoria?",
+      "answer": "136,000 square kilometres",
+      "llm_prediction": "farms"
+    },
+    {
+      "question": "How much percentage of Victoria's land is taken up by farms?",
+      "answer": "60%",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much did the gross agricultural product increase since 2004?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What percentage was the increase of agricultural products since 2004?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "How many farms are there west of Melbourne?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How much land do farms crop rotate each year in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "How much percentage of Victoria's land is taken up by consumable crops?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground"
+    },
+    {
+      "question": "What part do events in Victoria's economy  play? ",
+      "answer": "tourism",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Besides cultural events, what other tourist attraction does Victoria have?",
+      "answer": "sports",
+      "llm_prediction": "manufacturing"
+    },
+    {
+      "question": "On where are most tourist attractions focused in Victoria?",
+      "answer": "Melbourne",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where do other tourist events happen in Victoria outside of Melbourne?",
+      "answer": "regional cities",
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia"
+    },
+    {
+      "question": "What event is held at Bells Beach in Victoria?",
+      "answer": "SurfClassic",
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "What part does fishing play in Victoria's economy play?",
+      "answer": null,
+      "llm_prediction": "melbourne cricket ground is the largest stadium in australia, and the host of the 1956 summer olympics and the 2006 commonwealth games. the ground is also considered the \" spiritual home"
+    },
+    {
+      "question": "Besides cultural events, what other television programs does Victoria have?",
+      "answer": null,
+      "llm_prediction": "number of museums, art galleries and theatres"
+    },
+    {
+      "question": "Where is the best Italian in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    },
+    {
+      "question": "Where do other religious experiences happen in Victoria outside of Melbourne?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What event is held at Port Sunshine in Victoria?",
+      "answer": null,
+      "llm_prediction": "melbourne"
+    }
+  ]
+}

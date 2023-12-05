@@ -1,0 +1,1631 @@
+{
+  "title": "Ctenophora",
+  "context": "Ctenophora (/tᵻˈnɒfərə/; singular ctenophore, /ˈtɛnəfɔːr/ or /ˈtiːnəfɔːr/; from the Greek κτείς kteis 'comb' and φέρω pherō 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide. Their most distinctive feature is the ‘combs’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. Adults of various species range from a few millimeters to 1.5 m (4 ft 11 in) in size. Like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. In ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. Some authors combined ctenophores and cnidarians in one phylum, Coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. Increasing awareness of the differences persuaded more recent authors to classify them as separate phyla.",
+  "qas": [
+    {
+      "question": "What is a ctenophora?",
+      "answer": "phylum of animals that live in marine waters",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does the ctenophora use to swim?",
+      "answer": "‘combs’ – groups of cilia",
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What does ctenophora use for digestion and respiration?",
+      "answer": "water flow through the body cavity",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "How large can ctenophora grow?",
+      "answer": "1.5 m (4 ft 11 in)",
+      "llm_prediction": "1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one"
+    },
+    {
+      "question": "What is the most distinctive feature of ctenophora?",
+      "answer": "‘combs’ – groups of cilia",
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What are ctenophora commonly known as?",
+      "answer": "comb jellies",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How big can ctenophora grow?",
+      "answer": "1.5 m (4 ft 11 in)",
+      "llm_prediction": "1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one"
+    },
+    {
+      "question": "What does ctenophora rely on for digestion and respiration?",
+      "answer": "water flow through the body cavity",
+      "llm_prediction": "water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What does ctenophora mean in Greek?",
+      "answer": "κτείς kteis 'comb' and φέρω pherō 'carry'",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Where do ctenophora live?",
+      "answer": "marine waters",
+      "llm_prediction": "in marine waters worldwide"
+    },
+    {
+      "question": "What are cnidarians commonly called?",
+      "answer": null,
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "What is the most distinctive feature of cnidarians?",
+      "answer": null,
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What do cnidarians use their combs for?",
+      "answer": null,
+      "llm_prediction": "swimming"
+    },
+    {
+      "question": "How are groups of cillia classified due to increasing awareness of differences?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many types of cnidarians have been discovered  worldwide?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many species of Ctenophora have been validated?",
+      "answer": "100–150 species",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are the little tentacles that cydippids have called?",
+      "answer": "tentilla",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How much food does a ctenophora eat in a day?",
+      "answer": "ten times their own weight",
+      "llm_prediction": "two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What do coastal beroids not have that other ctenophora have?",
+      "answer": "tentacles",
+      "llm_prediction": "what do coastal beroids not have that other ctenophora have? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What does coastal beriods use as teeth?",
+      "answer": "groups of large, stiffened cilia",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How much do ctenophore eat in a day?",
+      "answer": "ten times their own weight",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are the small tentacles on Cydippids called?",
+      "answer": "tentilla",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What do Beriods use as teeth?",
+      "answer": "groups of large, stiffened cilia",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What do Cydippids use to capture their prey?",
+      "answer": "colloblasts",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many different species of ctenohore are there?",
+      "answer": "100–150 species",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How do rotifers act as when looking for a meal?",
+      "answer": null,
+      "llm_prediction": "rotifers act as when looking for a meal? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "How much is a rotifer able to eat in one day?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many species of rotifers have been discovered?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many species of rotifers are yet to be named?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do some species of rotifers do instead of being predators?",
+      "answer": null,
+      "llm_prediction": "rely on water flow through the body cavity for both digestion and respiration"
+    },
+    {
+      "question": "What is unique about  a hermaphrodite?",
+      "answer": "can produce both eggs and sperm, meaning it can fertilize its own egg",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What can a simultaneous hermaphrodite do?",
+      "answer": "can produce both eggs and sperm at the same time",
+      "llm_prediction": "can a simultaneous hermaphrodite do? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep"
+    },
+    {
+      "question": "What type of hermaphrodite produces egg and sperm at different times?",
+      "answer": "sequential",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Which species eggs are fertilized and kept inside the parents body until hatched?",
+      "answer": "platyctenids",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What causes the population of ctenophora to grow at an explosive rate?",
+      "answer": "hermaphroditism and early reproduction",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a hermaphrodite?",
+      "answer": "a single animal can produce both eggs and sperm",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What is unique about  simultaneous hermaphrodites?",
+      "answer": "can produce both eggs and sperm at the same time.",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What is a trait of sequential hermaphrodites?",
+      "answer": "the eggs and sperm mature at different times",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which group keep the eggs are fertilized and kept inside the parent's body until they hatch?",
+      "answer": "platyctenids",
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "Which group has young that are born with no tentacles and a large mouth?",
+      "answer": "beroids",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How do plankton reproduce?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How do plankton fertilize their eggs?",
+      "answer": null,
+      "llm_prediction": "plankton fertilize their eggs? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep"
+    },
+    {
+      "question": "What happens to plankton when they mature?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "When are some juvenile plankton able to do before becoming an adult?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How quickly do plankton populations grow due to hermaphrodism and early reproduction?",
+      "answer": null,
+      "llm_prediction": "few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores"
+    },
+    {
+      "question": "What does the Beroe eat? ",
+      "answer": "other ctenophores",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What was introduces into the Black Sea?",
+      "answer": "Mnemiopsis",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does  mnemiopsis eat?",
+      "answer": "fish larvae and organisms",
+      "llm_prediction": "animals"
+    },
+    {
+      "question": "Where do ctenophores be found in large numbers?",
+      "answer": "In bays",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where can ctenophores be found in large amounts?",
+      "answer": "In bays",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are phytoplankton?",
+      "answer": "planktonic plants",
+      "llm_prediction": "phytoplankton"
+    },
+    {
+      "question": "What ctenophore was accidentally introduced into The Black Sea?",
+      "answer": "Mnemiopsis",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What event was blamed on the introduction of mnemiopsis into The Black Sea?",
+      "answer": "causing fish stocks to collapse",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What was done to counteract the overpopulation of mnemiopsis in The Black Sea?",
+      "answer": "introduction of Beroe",
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "When are copepod populations abundant?",
+      "answer": null,
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What areas do copepods like to live?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How common are copepods in other places?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What sea have copepods accidentially been released into?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What is one thing that copepods like to eat?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "When did the Cretaceous-Paleogene extinction happen?",
+      "answer": "66 million years ago",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Evidence indicates that Cydippids are not what?",
+      "answer": "monophyletic",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How old are the fossils found that represent ctenophhores ?",
+      "answer": "515 million years",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What were the fossils that were found to represent ctenphores missing that current ctenphora have?",
+      "answer": "tentacles",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Fossils found that were believed to be ctenophores were how old?",
+      "answer": "515 million years",
+      "llm_prediction": "a few millimeters to 1. 5 m ( 4 ft 11 in ) in size"
+    },
+    {
+      "question": "What event happened 66 million years ago?",
+      "answer": "Cretaceous–Paleogene extinction",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Cypiddids are not what?",
+      "answer": "monophyletic",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do current ctenophores have that fossils found did not have?",
+      "answer": "tentacles",
+      "llm_prediction": "what"
+    },
+    {
+      "question": "In what time period were lagerstatten first found?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do molecular biologists believe lagerstatten are closely related to?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What characteristics did the common ancestor of lagerstatten have?",
+      "answer": null,
+      "llm_prediction": "these layers are two cells deep"
+    },
+    {
+      "question": "After what event are lagerstatten thought to have appeared?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "What are lagerstatten considered to be descendants of?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Jellyfish ans sea anemones belong to what phylum?",
+      "answer": "cnidarians",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What makes ctenophores different from all other animals?",
+      "answer": "by having colloblasts",
+      "llm_prediction": "water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "Ctenophora are less complex than which other phylum?",
+      "answer": "bilaterians",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Which phylum is more complex than sponges?",
+      "answer": "Ctenophores",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does ctenophore use to capture prey?",
+      "answer": "colloblasts",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "Jellyfish and sea anemones belong to which group/",
+      "answer": "cnidarians",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What do ctenophores have that no other animals have?",
+      "answer": "colloblasts",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "What do ctenophore use to capture their prey?",
+      "answer": "colloblasts",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "Which two groups have cells bound by inter-cell connections and membranes, muscles, a nervous system and sensory organs?",
+      "answer": "ctenophores and cnidarians",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Ctenophores are less complex than what other group?",
+      "answer": "bilaterians",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What connections bind sponge cells?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What kind of organs do some sponges have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What distinguishes sponges from all other animals?",
+      "answer": null,
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What do sponges use their colloblasts to catch?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "What sticky cells used to capture prey are missing from a few sponge species?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the jelly-like susbtance called?",
+      "answer": "mesoglea",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Ctenophores and cnidarians are classified as what?",
+      "answer": "diploblastic",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "Which group has two layers of cells with a middle layer of mesoglea?",
+      "answer": "sponges and cnidarians, ctenophores",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Ctenophores, cnidarians and what other group are labelled diploblastic?",
+      "answer": "sponges",
+      "llm_prediction": "cnidarians"
+    },
+    {
+      "question": "Sponges have three main cell layers and no what?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Where does the jelly-like layer come from in complex animals?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are more complex animals labeled when they have a jelly-like layer?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What is the lack of a  jelly-like layer also called when in a complex animal?",
+      "answer": null,
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "How many layers of cells with a sandwiched jelly-like layer do complex animals have?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are the hairs on ctenophores called?",
+      "answer": "cilia",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What are cilia used for?",
+      "answer": "method of locomotion",
+      "llm_prediction": "swimming"
+    },
+    {
+      "question": "Comb like bands of cilia are called what?",
+      "answer": "ctenes",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What does ctenophore mean in Greek?",
+      "answer": "comb-bearing",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many types of cilia are there?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How long can the cillia grow on ctenophores?",
+      "answer": null,
+      "llm_prediction": "a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What do cilia use their bodies for?",
+      "answer": null,
+      "llm_prediction": "swimming"
+    },
+    {
+      "question": "What are the bodies of cilia also called?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What kind of animals are cilia considered?",
+      "answer": null,
+      "llm_prediction": "cilia"
+    },
+    {
+      "question": "Which cidippid is used as a description on ctenophores in most textbooks?",
+      "answer": "Pleurobrachia",
+      "llm_prediction": "cidippid"
+    },
+    {
+      "question": "Which group of ctenophore are are hardest to study?",
+      "answer": "oceanic species",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Why are coastal species tough?",
+      "answer": "to withstand waves and swirling sediment particles",
+      "llm_prediction": "their bodies consist of a mass of jelly"
+    },
+    {
+      "question": "Which ctenophora have been studies the most?",
+      "answer": "Pleurobrachia, Beroe and Mnemiopsis",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What kind of sediment particles are there?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "In what areas are sediment particles typically found?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What usually carries sediment particles from one place to another?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are three types of sediment partilces that have been found?",
+      "answer": null,
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "How many types of sediment particles have gained the most attention recently?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "The inside of a ctenophore is lined with what?",
+      "answer": "epithelium",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "What do photocytes produce?",
+      "answer": "bioluminescence",
+      "llm_prediction": "jelly"
+    },
+    {
+      "question": "What is the throat called?",
+      "answer": "pharynx",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does the internal cavity contain?",
+      "answer": "a mouth that can usually be closed by muscles; a pharynx (\"throat\"); a wider area in the center that acts as a stomach; and a system of internal canals.",
+      "llm_prediction": "jelly"
+    },
+    {
+      "question": "What are the most active parts of ctenophora?",
+      "answer": "the mouth and pharynx;",
+      "llm_prediction": "comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs"
+    },
+    {
+      "question": "What are the tentacles lined with?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What can the mesoglea be closed by?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What is the mesoglea situated along the underside of?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does the mesoglea terminate into?",
+      "answer": null,
+      "llm_prediction": "does the mesoglea terminate into? [SEP] ctenophora"
+    },
+    {
+      "question": "Where is the mesoglea different in other parts of the canal system?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What are the eight comb rows on the outer surface called?",
+      "answer": "swimming-plates",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Combs are called what?",
+      "answer": "also called \"ctenes\" or \"comb plates",
+      "llm_prediction": "combs"
+    },
+    {
+      "question": "What does the 9 +3 pattern of cilia thought to do?",
+      "answer": "supporting function",
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "What direction do ctenophore swim?",
+      "answer": "in the direction in which the mouth is pointing,",
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "Cilia can g ow up too what length?",
+      "answer": "2 millimeters (0.079 in)",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are flagella also called?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How many types of flagella are there?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "To what length can flagella grow to?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What direction do cilia usually swim?",
+      "answer": null,
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What kind of behavior are cilia participating in when they reverse direction with their flagella?",
+      "answer": null,
+      "llm_prediction": "comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "How do ctenophores control buoyancy?",
+      "answer": "osmotic pressure",
+      "llm_prediction": "control buoyancy"
+    },
+    {
+      "question": "Ciliary rosettes pump water into what to control buoyancy?",
+      "answer": "the mesoglea",
+      "llm_prediction": "two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What does pumping water into the mesoglea do?",
+      "answer": "increase its bulk and decrease its density",
+      "llm_prediction": "their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep"
+    },
+    {
+      "question": "What does the ciliary rosettes do to decease bulk and increase density?",
+      "answer": "pump water out of the mesoglea",
+      "llm_prediction": "do to decease bulk and increase density"
+    },
+    {
+      "question": "How do mesoglea control how brackish body fluids are?",
+      "answer": null,
+      "llm_prediction": "water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What do mesoglea adapt to when relying on brackish water?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What is volume normally as concentrated as?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does pumping in regular seawater do to  its bulk?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Why do do ciliary rosettes need to decrease density in seawater?",
+      "answer": null,
+      "llm_prediction": "need to decrease density in seawater? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata"
+    },
+    {
+      "question": "What is the largest sensory feature of the ctenophora?",
+      "answer": "aboral organ",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Where is the aboral organ located?",
+      "answer": "at the opposite end from the mouth",
+      "llm_prediction": "in marine waters"
+    },
+    {
+      "question": "What protects the statocyst?",
+      "answer": "a transparent dome made of long, immobile cilia",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What is the main component of the aboral organ?",
+      "answer": "a statocyst",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is a statocyst?",
+      "answer": "a balance sensor",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What is the largest feature in the mouth?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the nervous system protected by?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What is the nervous system made up of?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What does the cilia try to keep the transparent dome resting on?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What determines whether the tentacles are on the balancers or not?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the common coastal pleurobrachia called?",
+      "answer": "sea gooseberry",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does the pleurobrachia have on opposite sides of its body?",
+      "answer": "a pair of long, slender tentacles",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Cydippid are typically what shape?",
+      "answer": "more or less rounded",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "The long tentacles on the pleurbrachia are protected by what?",
+      "answer": "a sheath",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where is the mouth located on the pleuobrachia located?",
+      "answer": "at the narrow end",
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What is the mouth of a pleuobrachia kept in?",
+      "answer": null,
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What can the pleuobrachia do with its mouth when its in the way?",
+      "answer": null,
+      "llm_prediction": "do with its mouth"
+    },
+    {
+      "question": "What happens to some sheaths on cydippids to change their size?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Are sheaths wider or narrower in size near the mouth?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What is another name for the sheath the mouth can be withdrawn to?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What are the tentacles of cydipped ctenophores are usually fringed with?",
+      "answer": "tentilla",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are colloblasts?",
+      "answer": "specialized mushroom-shaped cells in the outer layer of the epidermis",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What makes the tentilla of euplokamis different from other cysippids?",
+      "answer": "they contain striated muscle,",
+      "llm_prediction": "ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "How many types of movements do euplokamis tentilla have?",
+      "answer": "three types of movement",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What does the euplokamis use the three types of movement for?",
+      "answer": "capturing prey",
+      "llm_prediction": "swimming"
+    },
+    {
+      "question": "What is the epidermis fringed with?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What shape are tentilla typically?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many components do tentilla have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What does the domed head of the tentilla have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do the vesticles on tentilla contain?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many rows of combs are there?",
+      "answer": "eight rows",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Where are the rows of combs located?",
+      "answer": "from near the mouth to the opposite end",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How are the combs spaced?",
+      "answer": "evenly round the body",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What runs from the balancer in the statocyst to the comb rows?",
+      "answer": "ciliary groove",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How many rows of statocysts are there?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What kind of rhythm do the statocysts have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How are the statocysts spaced?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are the statocysts alligned in when being evenly spaced?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does the statocyst split to connect with?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What does the lobata have pair of?",
+      "answer": "lobes",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are auricles?",
+      "answer": "gelatinous projections edged with cilia that produce water currents",
+      "llm_prediction": "layers are two cells"
+    },
+    {
+      "question": "How many auricles do most species have?",
+      "answer": "four",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do the auricles do?",
+      "answer": "help direct microscopic prey toward the mouth",
+      "llm_prediction": "their bodies consist of a mass of jelly"
+    },
+    {
+      "question": "What do lobates feed on?",
+      "answer": "suspended planktonic prey",
+      "llm_prediction": "lobates"
+    },
+    {
+      "question": "How many lobes do plankton have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How often do plankton need to feed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are lobata in plankton?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many auricles do plankton have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do the tentacles on plankton do to help them find prey?",
+      "answer": null,
+      "llm_prediction": "rely on water flow through the body cavity for both digestion and respiration"
+    },
+    {
+      "question": "What does the bathocyroe and ocyropsis do to escape danger?",
+      "answer": "by clapping their lobes",
+      "llm_prediction": "escape danger? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration"
+    },
+    {
+      "question": "What happens when bathocyroe and ocyropsis clap their lobes together?",
+      "answer": "jet of expelled water drives them backwards very quickly.",
+      "llm_prediction": "comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata"
+    },
+    {
+      "question": "The movements of the lobates combs are controlled by what?",
+      "answer": "nerves",
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "Cydippids combs are controlled by what?",
+      "answer": "water disturbances created by the cilia",
+      "llm_prediction": "cydippids combs are controlled by what? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep"
+    },
+    {
+      "question": "How many lobes do cilia have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How are most cilia when moving through the water?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What kind of auricles do cilia have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How do cilia and aboral escape from danger?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What happens when cilia and arbol clap their lobes?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Beroida are known by what other name?",
+      "answer": "Nuda",
+      "llm_prediction": "beroida are known by what other name? [SEP] ctenophora"
+    },
+    {
+      "question": "What group has no feeding appendages?",
+      "answer": "The Beroida",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Some species of beroe have a pair of strips of adhesive cells on the stomach wall. What does it do?",
+      "answer": "zip\" the mouth shut when the animal is not feeding,",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the beroe do when pursuing prey?",
+      "answer": "\"zip\" the mouth shut",
+      "llm_prediction": "these layers are two cells deep"
+    },
+    {
+      "question": "What does the beroida have instead of feeding appendages?",
+      "answer": "large pharynx",
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What is one thing cilia don't have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do ephithelial cells fill most of in the Nuda?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do epithelial cells have at the oral end?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are epithelial cells able do do if prey is too large to swallow?",
+      "answer": null,
+      "llm_prediction": "what are epithelial cells able do do if prey is too large to swallow? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration"
+    },
+    {
+      "question": "What does the large pharynx do in the Beroe when its not feeding?",
+      "answer": null,
+      "llm_prediction": "large pharynx do in the beroe when its not feeding? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly"
+    },
+    {
+      "question": "Which species are ribbon-shaped planktonic animals?",
+      "answer": "The Cestida",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What are cestida called?",
+      "answer": "belt animals",
+      "llm_prediction": "cestida called? [SEP] ctenophora"
+    },
+    {
+      "question": "How do cestids swim?",
+      "answer": "by undulating their bodies as well as by the beating of their comb-rows.",
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What is the largest ctenophore?",
+      "answer": "Cestum veneris",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Which species moves by a darting motion?",
+      "answer": "Velamen parallelum",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How long is the Aboral?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How does the Aboral move?",
+      "answer": null,
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "What is another name for the Aboral?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What shape does the Aboral usually have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Where is the mouth located on an Aboral?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do most platyctenida have on their aboral surface?",
+      "answer": "a pair of tentilla-bearing tentacles",
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "What do platyctenida use their pharynx for?",
+      "answer": "cling to and creep on surfaces",
+      "llm_prediction": "swimming"
+    },
+    {
+      "question": "What do all but one platycenida species lack?",
+      "answer": "comb-rows",
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "Where do platycenida live?",
+      "answer": "on rocks, algae, or the body surfaces of other invertebrates",
+      "llm_prediction": "in marine waters worldwide"
+    },
+    {
+      "question": "What does the Aboral use its comb rows as?",
+      "answer": null,
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "What body shape does the Aboral have?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How many tentacles does the Aboral have on its pharynx?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do all but one kind of Aboral lack?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Where do Aboral usually live?",
+      "answer": null,
+      "llm_prediction": "in marine waters worldwide"
+    },
+    {
+      "question": "How are eggs and sperm released?",
+      "answer": "via pores in the epidermis",
+      "llm_prediction": "‘ combs"
+    },
+    {
+      "question": "How do platyctenids reproduce?",
+      "answer": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What genus has self-fertilization been seen?",
+      "answer": "Mnemiopsis",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Where are the gonads located?",
+      "answer": "in the parts of the internal canal network under the comb rows",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Is fertilization  internal or exeternal in most species?",
+      "answer": "external",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do most species of the genus Ocryopsis function as at the same time?",
+      "answer": null,
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "In what kind of chamber do species in the genus Ocryopsis keep their eggs until they hatch?",
+      "answer": null,
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What is released by pores in the comb rows?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What has sometimes been seen in species of the genus Ocryopsis?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What are most species of the genus Ocryopsis thought to be?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Juvenile and adult  beroe lack what?",
+      "answer": "tentacles and tentacle sheaths",
+      "llm_prediction": "these layers are two cells deep"
+    },
+    {
+      "question": "Where do juvenile platyctenids live?",
+      "answer": "among the plankton",
+      "llm_prediction": "in marine waters worldwide"
+    },
+    {
+      "question": "When do juvenile develop into adults?",
+      "answer": "after dropping to the sea-floor",
+      "llm_prediction": "juvenile"
+    },
+    {
+      "question": "Juvenile platyctenids act like what?",
+      "answer": "more like true larvae",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Which genus lack tentacles and sheaths?",
+      "answer": "Beroe",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How does the larvae develop?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do bottom-dwelling platyctenids usually lack like the adults?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What do the juveniles behave like in the genus Beroe?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What does the genus Beroe usually live among as juveniles?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What kind of area do the genus Beroe juveniles live in that's different than their parents?",
+      "answer": null,
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "What do bathyctena chuni, euplokamis stationis and eurhamphaea vexilligera have in common?",
+      "answer": "they produce secretions (ink) that luminesce",
+      "llm_prediction": "comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores"
+    },
+    {
+      "question": "When do bathyctena chuni, euplokamis stationis and eurhamphaea vexilligera  excrete secretions?",
+      "answer": "are disturbed,",
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What are the secretions commonly called?",
+      "answer": "ink",
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "Do adults or juveniles secretions luminesce brighter?",
+      "answer": "Juveniles will luminesce more brightly",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do Bathyctena chuni, Euplokamis stationis and Euhamphaea veilligera produce only when they change color?",
+      "answer": null,
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "Are most ctenophores the same or a different color?",
+      "answer": null,
+      "llm_prediction": "the same or a different color? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What happens to ocean water when it absorbs certain wavelengths?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "What does ocean water do to luminescence from certain animals?",
+      "answer": null,
+      "llm_prediction": "ocean water do to luminescence from certain animals? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep"
+    },
+    {
+      "question": "What has been proven is released by ctenophores becaue of their environment?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Are ctenophores predators, vegetarian or parasitic?",
+      "answer": "Almost all ctenophores are predators",
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "Haeckelia prey mostly on what animal?",
+      "answer": "jellyfish",
+      "llm_prediction": "haeckelia"
+    },
+    {
+      "question": "What happens to the jellyfish nematocysts when they are eaten by the haeckelia?",
+      "answer": "incorporate their prey's nematocysts (stinging cells) into their own tentacles instead of colloblasts",
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "What does the bolinopsis generally eat?",
+      "answer": "smaller, weaker swimmers such as rotifers and mollusc and crustacean larvae.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the name of the two-tentacled cydippid that feedsentirely on salps called?",
+      "answer": "Lampea",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How much food can crustacean larvae eat per day?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What do zooplankton usually prey on?",
+      "answer": null,
+      "llm_prediction": "zooplankton usually prey on? [SEP] ctenophora"
+    },
+    {
+      "question": "What do Members of the genus Haeckelia usually capture the adult version of?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What smaller weaker swimmers do amphipods feed on?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What does Pleurobrachia incorporate into their own tentacles?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why was it thought that  ctenophores were a poor diet for other animals?",
+      "answer": "their low ratio of organic matter to salt and water",
+      "llm_prediction": "comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata"
+    },
+    {
+      "question": "What is the oncorhynchus also called?",
+      "answer": "chum salmon",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What do beroids typically eat?",
+      "answer": "ctenophores",
+      "llm_prediction": "jelly"
+    },
+    {
+      "question": "Where have herbivorous fishes been seen feeding on gelatinous zooplankton?",
+      "answer": "the Red Sea",
+      "llm_prediction": "where have herbivorous fishes been seen feeding on gelatinous zooplankton? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "Turtles and jellyfish can eat large quantities of what?",
+      "answer": "ctenophores,",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What did salmon used to be regarded as in marine food chains?",
+      "answer": null,
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "Where is it hard to identify the remains of salmon in?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How quickly do shrimp digest ctenophores as compared to other prey?",
+      "answer": null,
+      "llm_prediction": "few millimeters to 1. 5 m ( 4 ft 11 in )"
+    },
+    {
+      "question": "What kind of diet can salmon provide to other predators?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What kind of populations can be wiped out temporarily by shrimp?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What is blamed for causing the sharp drop in fish catches in the Black Sea and the Sea of Azov?",
+      "answer": "ctenophore Mnemiopsis leidyi",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How was the ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?",
+      "answer": "via the ballast tanks of ships",
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "When was ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?",
+      "answer": "in the late 1980s",
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "How was the population of mnemiopsis in The black Sea and the Sea of Azov brought under control?",
+      "answer": "by the accidental introduction of the Mnemiopsis-eating North American ctenophore Beroe ovata,",
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "How does cooling of the local environment affect the mnemiopsis?",
+      "answer": "significantly slowed the animal's metabolism",
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "When were fish larvae introduced into the Black Sea accidentally?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What other sea had fish larvae accidentially introduced into it?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How did fish larvae accidentally get introduced into the two bodies of water?",
+      "answer": null,
+      "llm_prediction": "ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What has the fish larvae caused a sharp drop in?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "How quickly can fish larvae grow?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why are ctenophores extremely rare as fossils?",
+      "answer": "Because of their soft, gelatinous bodies",
+      "llm_prediction": "ctenophores extremely rare"
+    },
+    {
+      "question": "Ediacaran eoandromeda can be regarded to represent what?",
+      "answer": "comb jelly.",
+      "llm_prediction": "ediacaran eoandromeda can be regarded to represent what? [SEP] ctenophora"
+    },
+    {
+      "question": "What was the period called that was 505 million years ago?",
+      "answer": "Cambrian period.",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "How many species were found in the Burgess Shale?",
+      "answer": "Three additional putative species",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What did the  fossils found in the Burgess Shale lack?",
+      "answer": "lacked tentacles",
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "When did the first tentacles form on ctenophores?",
+      "answer": null,
+      "llm_prediction": "phylum, coelenterata"
+    },
+    {
+      "question": "How many prominent tentacles were found 1996?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How long ago was the Ediacaran period?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What kind of structures are typical in living lagerstatten?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "In what year was the Edicaran Eoandromeda named?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How old were the fossils found in China?",
+      "answer": "515 million years",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What type of fossils were found in China?",
+      "answer": "Cambrian sessile frond-like fossil Stromatoveris",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Which genus is considered the \"aunt\" of ctenophores?",
+      "answer": "Stromatoveris",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Stromatoveris is similair to which genus?",
+      "answer": "Vendobionta",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Vendobionta lived during which period?",
+      "answer": "Ediacaran period",
+      "llm_prediction": "cnidarians"
+    },
+    {
+      "question": "What genus is considered the aunt of Vendobionta?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What period did the emergence of feeding mechanisms come from?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "What did Simon Conway find on the branches of lagerstatte?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "What did Vendobionta's descendants become?",
+      "answer": null,
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "What did Vendobionta's descendants change their cilia to?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Recent studies believe  that ctenophores are the sister lineage to what?",
+      "answer": "all other animals",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What do some researchers believe is the earliest-diverging animal phylum is?",
+      "answer": "Porifera",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "What do all other animal phyla lack?",
+      "answer": null,
+      "llm_prediction": "all other animal phyla"
+    },
+    {
+      "question": "How do other researchers believe Porifera evolved and developed its neural cells?",
+      "answer": null,
+      "llm_prediction": "two cells deep, while those in cnidarians are only one cell deep. some authors combined ctenophores and cnidarians in one phylum, coelenterata, as both groups rely on water flow through the body cavity for both digestion and respiration. increasing awareness of the differences persuaded more recent authors to classify them as separate phyla"
+    },
+    {
+      "question": "What is Cnidaria sometimes categorized as instead of Ctenophora?",
+      "answer": null,
+      "llm_prediction": "phyla"
+    },
+    {
+      "question": "What is the understanding of neural and muscle cell types important to our understanding of?",
+      "answer": null,
+      "llm_prediction": "comb jellies ) is a phylum of animals that live in marine waters worldwide. their most distinctive feature is the ‘ combs ’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. adults of various species range from a few millimeters to 1. 5 m ( 4 ft 11 in ) in size. like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. in ctenophores"
+    },
+    {
+      "question": "What has the presence of hox genes been the focus of for many years?",
+      "answer": null,
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "Which genus of ctenophores does not have cydipped-like larvae?",
+      "answer": "beroids",
+      "llm_prediction": "ctenophora"
+    },
+    {
+      "question": "A molecular phylogeny analysis confirmed that cydippid are not what?",
+      "answer": "monophyletic",
+      "llm_prediction": "cydippid are not what? [SEP] ctenophora"
+    },
+    {
+      "question": "When was the Cretaceous-Paleogen extinction occur?",
+      "answer": "65.5 million years ago",
+      "llm_prediction": "two cells deep"
+    },
+    {
+      "question": "Who did a morphologically analysis in 1985 that concluded cydippids are not monophyletic?",
+      "answer": "Richard Harbison",
+      "llm_prediction": "cydippids are not monophyletic? [SEP] ctenophora ( / [UNK] / ; singular ctenophore, / ˈtɛnəfɔːr / or / ˈtiːnəfɔːr / ; from the greek κτεις kteis ' comb ' and φερω phero ' carry ' ; commonly known as comb jellies"
+    },
+    {
+      "question": "What was concluded by Richard Harbison in 2001 about beroids?",
+      "answer": null,
+      "llm_prediction": "ctenophores"
+    },
+    {
+      "question": "What are beroids more similar to than other bilaterians?",
+      "answer": null,
+      "llm_prediction": "layers are two cells deep"
+    },
+    {
+      "question": "In what time period did the Lobata, Cestida and Thalassocalycida become extinct?",
+      "answer": null,
+      "llm_prediction": "few millimeters to 1. 5 m ( 4 ft 11 in )"
+    },
+    {
+      "question": "What kind of analysis did Harbison conclude in 2001 about the Lobata?",
+      "answer": null,
+      "llm_prediction": "comb jellies"
+    },
+    {
+      "question": "How many species of Cestida were found in 1985?",
+      "answer": null,
+      "llm_prediction": "two cells deep"
+    }
+  ]
+}

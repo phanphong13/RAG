@@ -1,0 +1,1826 @@
+{
+  "title": "Imperialism",
+  "context": "Imperialism is a type of advocacy of empire. Its name originated from the Latin word \"imperium\", which means to rule over large territories. Imperialism is \"a policy of extending a country's power and influence through colonization, use of military force, or other means\". Imperialism has greatly shaped the contemporary world. It has also allowed for the rapid spread of technologies and ideas. The term imperialism has been applied to Western (and Japanese) political and economic dominance especially in Asia and Africa in the 19th and 20th centuries. Its precise meaning continues to be debated by scholars. Some writers, such as Edward Said, use the term more broadly to describe any system of domination and subordination organised with an imperial center and a periphery.",
+  "qas": [
+    {
+      "question": "The word imperialism has it's origins in which ancient language? ",
+      "answer": "Latin",
+      "llm_prediction": ""
+    },
+    {
+      "question": "By what means is imperialism usually administered?",
+      "answer": "military force",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "The term imperialism has been applied to western countries, and which eastern county?",
+      "answer": "Japan",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Imperialism is responsible for the rapid spread of what?",
+      "answer": "technologies and ideas",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The word imperialism has it's origins in which modern language?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " By what means is imperialism never administered?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " In which century do most consider the beginning of imperialism?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The term imperialism has never been applied to western countries, and which eastern county?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " Imperialism is responsible for the slow spread of what?",
+      "answer": null,
+      "llm_prediction": "technologies and ideas"
+    },
+    {
+      "question": "Imperialism extends a country's power and what?",
+      "answer": "influence",
+      "llm_prediction": "influence"
+    },
+    {
+      "question": "colonial rule would be considered what type of imperialism?",
+      "answer": "\"Formal imperialism\"",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "imperialism often divides countries by using which technique?",
+      "answer": "othering",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Informal imperialism is still dominant; however, less what?",
+      "answer": "direct",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "Imperialism does not extend a country's power and what?",
+      "answer": null,
+      "llm_prediction": "influence"
+    },
+    {
+      "question": " colonial rule would not be considered what type of imperialism?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "The process of imperialism never focused on controlling which group of people?",
+      "answer": null,
+      "llm_prediction": "which group"
+    },
+    {
+      "question": " imperialism often unites countries by using which technique?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " Informal imperialism is still dominant; however, more what?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "A forced trade agreement between two countries would be an example of what?",
+      "answer": "\"informal\" imperialism",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "colonial rule, or physical occupation of a territory is an example of what kind of imperialism?",
+      "answer": "\"formal\"",
+      "llm_prediction": "empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Some have generalized the meaning of the word imperialism down to general-purpose what?",
+      "answer": "aggressiveness",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which is more costly, formal, or informal imperialism?",
+      "answer": "informal",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "What subtle tool can be used in an informal imperialistic situation to expand a controlled area?",
+      "answer": "ownership of private industries",
+      "llm_prediction": "imperialism"
+    },
+    {
+      "question": "A forced trade agreement between two countries is not an example of what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "colonial rule, or physical occupation of a territory is not an example of what kind of imperialism?",
+      "answer": null,
+      "llm_prediction": "colonial rule, or physical occupation of a territory is not an example of what kind of imperialism? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " Nobody has generalized the meaning of the word imperialism down to general-purpose what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " Which is less costly, formal, or informal imperialism?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "What subtle tool can not be used in an informal imperialistic situation to expand a controlled area?",
+      "answer": null,
+      "llm_prediction": "imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force"
+    },
+    {
+      "question": "The amount of land a country controls is its greatest what?",
+      "answer": "distinction",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Western Imperialism divided the globe according to which theory?",
+      "answer": "the world systems theory",
+      "llm_prediction": "western imperialism"
+    },
+    {
+      "question": "Who suggested that imperialism was the \"highest\" form of capitalism?",
+      "answer": "Lenin",
+      "llm_prediction": "edward"
+    },
+    {
+      "question": "One country's authority over a number of others would constitute the original country as what?",
+      "answer": "empires",
+      "llm_prediction": "imperialism"
+    },
+    {
+      "question": "Most imperialism was carried out using which method of transport?",
+      "answer": "seaborne",
+      "llm_prediction": "military force"
+    },
+    {
+      "question": "The amount of land a country controls is its worst what?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Western Imperialism united the globe according to which theory?",
+      "answer": null,
+      "llm_prediction": "western imperialism"
+    },
+    {
+      "question": "Who suggested that imperialism was the \"lowest\" form of capitalism?",
+      "answer": null,
+      "llm_prediction": "edward"
+    },
+    {
+      "question": "One country's authority over no others would constitute the original country as what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "No imperialism was carried out using which method of transport?",
+      "answer": null,
+      "llm_prediction": "military force"
+    },
+    {
+      "question": "Imperialism is confused with what other term?",
+      "answer": "colonialism",
+      "llm_prediction": "imperialism"
+    },
+    {
+      "question": "What does colonialism lack that imperialism has?",
+      "answer": "political focus",
+      "llm_prediction": "greatly shaped the contemporary world"
+    },
+    {
+      "question": "Colonialism as a policy is caused by financial and what other reasons?",
+      "answer": "ideological",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who besides the Russians are often left out of the colonialism debat?",
+      "answer": "Ottoman",
+      "llm_prediction": "the russians are often left out of the colonialism debat? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Imperialism and colonialism both assert a states dominance over what?",
+      "answer": "person or group of people",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "Imperialism is synonymous with what other term?",
+      "answer": null,
+      "llm_prediction": "imperialism is synonymous with what other term? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": " What does colonialism and imperialism share?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Colonialism as a policy is never caused by financial and what other reasons?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who besides the Russians are often included in the colonialism debat?",
+      "answer": null,
+      "llm_prediction": "the russians are often included in the colonialism debat? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Imperialism and colonialism don't assert a states dominance over what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "Political advantage is an attribute of which state policies?",
+      "answer": "Imperialism and colonialism",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Colonialism often means a country doing what?",
+      "answer": "taking physical control of another",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "How would one create an empire by means of Imperialism?",
+      "answer": "conquering the other state's lands",
+      "llm_prediction": "through colonization, use of military force, or other means"
+    },
+    {
+      "question": "what do conquering people pass down to native populations?",
+      "answer": "characteristics",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "What is colonialism's core meaning?",
+      "answer": "exploitation",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Political disadvantage is an attribute of which state policies?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Colonialism never means a country doing what?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " How would one create an empire by means of non-Imperialism?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " what do conquering people take away from native populations?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " What is colonialism's antithesis?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "what is the most controversial aspect of imperialism?",
+      "answer": "empire-building",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " J. A. Hobson wanted which races to develop the world?",
+      "answer": "highest 'social efficiency'",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Friedrich Ratzel thought what was needed for a state to survive?",
+      "answer": "imperialism",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which theory justifies imperialism in part?",
+      "answer": "theory of races",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "In Latin America what is the most revered skin color?",
+      "answer": "whiteness",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "what is the least controversial aspect of imperialism?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " J. A. Hobson didn't want which races to develop the world?",
+      "answer": null,
+      "llm_prediction": "which races"
+    },
+    {
+      "question": " Friedrich Ratzel thought what was not needed for a state to survive?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " Which theory does not justify imperialism in part?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " In America what is the most revered skin color?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Where was Friedrich Ratzel born?",
+      "answer": "Germany",
+      "llm_prediction": "where"
+    },
+    {
+      "question": "Where was Halford Mackinder born?",
+      "answer": "Britain",
+      "llm_prediction": "where was halford mackinder"
+    },
+    {
+      "question": "Halford Mackinder and Friedrich Ratzel where what kind of geographers?",
+      "answer": "Political",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "Friedrich Ratzel thought imperialism was what for the country?",
+      "answer": "geographical societies in Europe",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "How would the geographical societies in Europe support certain travelers?",
+      "answer": "fund",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "Where did Friedrich Ratzel work?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "Where did Halford Mackinder work?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "Halford Mackinder and Friedrich Ratzel where what kind of philosophers?",
+      "answer": null,
+      "llm_prediction": "scholars"
+    },
+    {
+      "question": " Friedrich Ratzel thought imperialism was not what for the country?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "How would the geographical societies in Europe reject certain travelers?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which theory suggested people in the tropics were uncivilized?",
+      "answer": "environmental determinism",
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "According to Ellen Churchill Semple what type of climate was necessary for humans to become fully human?",
+      "answer": "temperate",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Which book by Edward Said portrayed the east as being the \"others?\"",
+      "answer": "Orientalism",
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "According to certain Geographical theories what type of human does a tropical climate produce?",
+      "answer": "uncivilized",
+      "llm_prediction": ""
+    },
+    {
+      "question": "By justification certain racial and geographical theories, Europe thought of itself as what?",
+      "answer": "superior",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which theory suggested people in the tropics were civilized?",
+      "answer": null,
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "According to Ellen Churchill Semple what type of climate was unnecessary for humans to become fully human?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Which book by Edward Said portrayed the west as being the \"others?\"",
+      "answer": null,
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "According to certain Geographical theories what type of human does a non-tropical climate produce?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " By justification certain racial and geographical theories, Asia thought of itself as what?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Imperialism is most often associated with which sovereignty?",
+      "answer": "the British Empire",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "What law justified British imperialism?",
+      "answer": "Terra nullius",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "What were the native inhabitants of Australia called?",
+      "answer": "Aboriginal",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "When did Great Britain colonize Australia?",
+      "answer": "the eighteenth century",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Terra Nullius is a Latin expression meaning what in English?",
+      "answer": "empty land",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Imperialism is less often associated with which sovereignty?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": " What law did not justify British imperialism?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " What were the non-native inhabitants of Australia called?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " When did Great Britain colonize outside of Australia?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Terra Nullius is a French expression meaning what in English?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Orientalism refers to how the West developed a what of the East?",
+      "answer": "an imaginative geography",
+      "llm_prediction": "political and economic dominance"
+    },
+    {
+      "question": "Early Western texts referencing the East describe the people as being what?",
+      "answer": "irrational and backward",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "The West saw the East as what?",
+      "answer": "inferior",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What was used by the West to justify control over eastern territories?",
+      "answer": "Orientalism",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "The West saw themselves as what compared to the east?",
+      "answer": "progressive",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Orientalism refers to how the South developed a what of the North?",
+      "answer": null,
+      "llm_prediction": "orientalism"
+    },
+    {
+      "question": "Early Western texts referencing the North describe the people as being what?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "The North saw the South as what?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What was used by the North to justify control over western territories?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " The North saw themselves as what compared to the east?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "bassett focuses on what to illustrate his idea?",
+      "answer": "nineteenth-century maps",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "What provided an incentive to western empires to colonize Africa?",
+      "answer": "blank spaces on contemporary maps",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What were blank spaces used for on nineteenth-century maps?",
+      "answer": "unexplored territory",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What did Basset analyze before coming to his conclusions?",
+      "answer": "nineteenth-century cartographic techniques",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Who besides the british colonized Africa?",
+      "answer": "French",
+      "llm_prediction": "the british"
+    },
+    {
+      "question": " bassett doesn't focus on what to illustrate his idea?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What provided an incentive to eastern empires to colonize Africa?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What did Basset analyze after coming to his conclusions?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " Who besides the british colonized Asia?",
+      "answer": null,
+      "llm_prediction": "the british"
+    },
+    {
+      "question": "Who used imperialism during their rule of the Mongol Empire?",
+      "answer": "Genghis Khan",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "During which era did the Aztec and Incan empires thrive?",
+      "answer": "the pre-Columbian era",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "The Asante and Lunda Empires were in which region?",
+      "answer": "Sub-Saharan Africa",
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "How many Muslim empires have used imperialism?",
+      "answer": "dozens",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "Which is older the British Empire or the Ethiopian Empire?",
+      "answer": "Ethiopian Empire",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " Who didn't use imperialism during their rule of the Mongol Empire?",
+      "answer": null,
+      "llm_prediction": "rule of the mongol empire? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means \". imperialism has greatly shaped the contemporary world. it has also allowed for the rapid spread of technologies and ideas. the term imperialism has been applied to western ( and japanese ) political and economic dominance"
+    },
+    {
+      "question": " During which era did the Aztec and Incan empires not thrive?",
+      "answer": null,
+      "llm_prediction": "empires not thrive? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " The Asante and Lunda Empires were not in which region?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": " How many non-Muslim empires have used imperialism?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": " Which is younger the French Empire or the Ethiopian Empire?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "When imperialism impacts social norms of a state, what is it called?",
+      "answer": "Cultural imperialism",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is Cultural Imperialism often referred to as?",
+      "answer": "soft power",
+      "llm_prediction": "cultural imperialism"
+    },
+    {
+      "question": "Which American show changed the views of Romanians during the cold war?",
+      "answer": "Dallas",
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which historic empire used cultural imperialism to sway local elites?",
+      "answer": "Roman",
+      "llm_prediction": "historic empire"
+    },
+    {
+      "question": "How do regimes fight against cultural imperialism?",
+      "answer": "bans",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "When imperialism does not impact social norms of a state, what is it called?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " What is Cultural Imperialism never referred to as?",
+      "answer": null,
+      "llm_prediction": "cultural imperialism"
+    },
+    {
+      "question": "Which American did not show changed the views of Romanians during the cold war?",
+      "answer": null,
+      "llm_prediction": "which american did not show changed the views of romanians during the cold war? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Which historic empire used cultural imperialism to sway non-local elites?",
+      "answer": null,
+      "llm_prediction": "historic empire"
+    },
+    {
+      "question": " How do regimes not fight against cultural imperialism?",
+      "answer": null,
+      "llm_prediction": "through colonization, use of military force, or other means"
+    },
+    {
+      "question": "When did the age of Imperialism begin?",
+      "answer": "around 1700",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What were European countries doing during the 1700's?",
+      "answer": "colonizing",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "How many years have imperialistic practices existed?",
+      "answer": "thousands",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "When did the age of imperialism end?",
+      "answer": "middle of the 20th century",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What was the name of the imperialistic policy in China?",
+      "answer": "Open Door Policy",
+      "llm_prediction": "imperialistic policy"
+    },
+    {
+      "question": " When did the age of Imperialism end?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " What were European countries not doing during the 1700's?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " How many years have non-imperialistic practices existed?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " When did the age of imperialism begin?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " What was the name of the non-imperialistic policy in China?",
+      "answer": null,
+      "llm_prediction": "non - imperialistic policy"
+    },
+    {
+      "question": "When was John Gallagher born?",
+      "answer": "1919",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "When did Ronald Robinson die?",
+      "answer": "1999",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What profession were Ronald Robinson and John Gallagher?",
+      "answer": "historians",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "What grew on a global scale as a result of imperialism?",
+      "answer": "the world's economy",
+      "llm_prediction": "what grew on a global scale as a result of imperialism? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": "Who was made rich and prosperous prior to World War 1",
+      "answer": "many imperial powers",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Which historian was popular in the 21st century? ",
+      "answer": null,
+      "llm_prediction": "which historian was popular in the 21st century? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What profession did Ronald Robinson and John Gallagher not share?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "What grew on a global scale as a result of non-imperialism?",
+      "answer": null,
+      "llm_prediction": "what grew on a global scale as a result of non - imperialism? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": " Who was made rich and prosperous prior to World War 2?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "European imperialism was focused on what?",
+      "answer": "economic growth",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "What did European empires rely on to supply them with resources?",
+      "answer": "colonies",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "When did the colonization of India occur?",
+      "answer": "mid-18th century",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Who did Britain exploit in India?",
+      "answer": "the Mughal state",
+      "llm_prediction": "western ( and japanese )"
+    },
+    {
+      "question": "European imperialism was never focused on what?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " What did European empires not rely on to supply them with resources?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " When did the colonization of India not occur?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Who did Britain not exploit in India?",
+      "answer": null,
+      "llm_prediction": "britain"
+    },
+    {
+      "question": " What was made valid in the late 19th and 20th centuries?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What advancements besides military technology did Europe achieve?",
+      "answer": "communication",
+      "llm_prediction": "rapid spread of technologies and ideas"
+    },
+    {
+      "question": "What did European chemists make that could be used in warfare?",
+      "answer": "deadly explosives",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "what was invented in 1880 that revolutionized warfare?",
+      "answer": "the machine gun",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "What weapons were the Zulus using during the Anglo-Zulu War of 1879?",
+      "answer": "arrows, swords, and leather shields",
+      "llm_prediction": "what weapons"
+    },
+    {
+      "question": "Which region invented the machine gun?",
+      "answer": "European",
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "What advancements besides military technology did Europe not achieve?",
+      "answer": null,
+      "llm_prediction": "rapid spread of technologies and ideas"
+    },
+    {
+      "question": " What didn't European chemists make that could be used in warfare?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "what was invented in 1888 that revolutionized warfare?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " What weapons were the Zulus using during the Anglo-Zulu War of 1880?",
+      "answer": null,
+      "llm_prediction": "what weapons"
+    },
+    {
+      "question": "Which region did not invent the machine gun?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "Theories on imperialism use which country as a model?",
+      "answer": "British",
+      "llm_prediction": "which country as a model? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": "When did the term imperialism first come to be used by its current definition?",
+      "answer": "in the late 1870s",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": "What was the idealized value of imperialism?",
+      "answer": "philanthropy",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "According to Lenin why must capitalistic countries have an imperialistic policy?",
+      "answer": "to constantly expand investment",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Theories on imperialism don't use which country as a model?",
+      "answer": null,
+      "llm_prediction": "japanese"
+    },
+    {
+      "question": " When didn't the term imperialism first come to be used by its current definition?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " What wasn't the idealized value of imperialism?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " According to Lenin why must capitalistic countries not have an imperialistic policy?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " When is the latest most Marxists claim imperialism as an extension of capitalism has its roots",
+      "answer": null,
+      "llm_prediction": "extension of capitalism has its roots [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": "some debate that there is a correlation between capitalism, imperialism, and what?",
+      "answer": "aristocracy",
+      "llm_prediction": "capitalism, imperialism, and what? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "When were Joseph Schumpeter and Norman Angell at their most prolific writing period?",
+      "answer": "before World War I",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "When was the military-political complex reflected upon within the scope of understanding imperialism?",
+      "answer": "the 1950s",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Hobson argued that imperialism was an international what?",
+      "answer": "disease",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "How did Hobson argue to rid the world of imperialism?",
+      "answer": "taxation",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "There is some debate that there is a not correlation between capitalism, imperialism, and what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": " When weren't Joseph Schumpeter and Norman Angell at their most prolific writing period?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " When was the military-political complex reflected upon not within the scope of understanding imperialism?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Hobson argued that imperialism wasn't an international what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": " How did Hobson argue to not rid the world of imperialism?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What served as a justification for imposing imperialistic policies on certain peoples or regions?",
+      "answer": "environmental determinism",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was thought to decide a person's behavior?",
+      "answer": "the environment in which they lived",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Humans in tropical environments were considered what?",
+      "answer": "less civilized",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Europe first colonized the Americas, then Asia, but what continent was third?",
+      "answer": "Africa",
+      "llm_prediction": "asia"
+    },
+    {
+      "question": "What were the two forms of environmental determinism?",
+      "answer": "orientalism and tropicality",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "What did not serve as a justification for imposing imperialistic policies on certain peoples or regions?",
+      "answer": null,
+      "llm_prediction": "imperialism"
+    },
+    {
+      "question": " What was not thought to decide a person's behavior?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Humans in tropical environments were not considered what?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Europe first colonized the Americas, then Asia, but what continent was fourth?",
+      "answer": null,
+      "llm_prediction": "asia"
+    },
+    {
+      "question": " What were the three forms of environmental determinism?",
+      "answer": null,
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who thought the world could be split into climatic zones?",
+      "answer": "geographic scholars",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which regions have temperate climates?",
+      "answer": "Northern Europe and the Mid-Atlantic",
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "What did the the Europeans think the peoples in the tropics were in need of?",
+      "answer": "guidance",
+      "llm_prediction": "imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": "What was a similar view about the Asian continent called?",
+      "answer": "orientalism",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Who did the geographic scholars work for? ",
+      "answer": "colonizing empires",
+      "llm_prediction": "geographic scholars"
+    },
+    {
+      "question": " Who thought the world could not be split into climatic zones?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " Which regions have non-temperate climates?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": " What did the the Europeans not think the peoples in the tropics were in need of?",
+      "answer": null,
+      "llm_prediction": "empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "What was a similar view about the Asian continent not called?",
+      "answer": null,
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Who did the geographic scholars not work for?",
+      "answer": null,
+      "llm_prediction": "western ( and japanese ) political and economic dominance"
+    },
+    {
+      "question": "When is the earliest Britain had an imperialist policy?",
+      "answer": "the sixteenth century",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": "When was the British East India Company established?",
+      "answer": "1599",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Who chartered the British East India Company?",
+      "answer": "Queen Elizabeth",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "What happened to the East India Trading Company in 1767?",
+      "answer": "exploitation",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Which country had trading posts in India before Britain?",
+      "answer": "the Portuguese",
+      "llm_prediction": "? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "When is the latest Britain had an imperialist policy?",
+      "answer": null,
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": " When was the British East India Company unestablished?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Who did not charter the British East India Company?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What happened to the East India Trading Company in 1766?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Which country had trading posts in India after Britain?",
+      "answer": null,
+      "llm_prediction": "britain"
+    },
+    {
+      "question": "When did France take control of Algeria?",
+      "answer": "1830",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "When did France begin in earnest to rebuild its global empire?",
+      "answer": "1850",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Where did France focus its efforts to rebuild its empire?",
+      "answer": "Africa",
+      "llm_prediction": "where did france focus its efforts to rebuild its empire? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means \". imperialism has greatly shaped the contemporary world. it has also allowed for the rapid spread of technologies and ideas. the term imperialism has been applied to western ( and japanese ) political and economic dominance especially in asia and africa"
+    },
+    {
+      "question": "When did French Republicans back building the French empire?",
+      "answer": "when Germany started to build her own",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": "What religion did the French spread along with their imperialism? ",
+      "answer": "Catholicism",
+      "llm_prediction": "what religion did the french spread along with their imperialism? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "When did France take control of London?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " When did France begin in earnest to build its global empire for the first time?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Where did France focus its efforts to not rebuild its empire?",
+      "answer": null,
+      "llm_prediction": "where did france focus its efforts to not rebuild its empire? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " When did French Republicans back building the English empire?",
+      "answer": null,
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": " What religion did the English spread along with their imperialism?",
+      "answer": null,
+      "llm_prediction": "what religion"
+    },
+    {
+      "question": "Jules Ferry thought that the \"higher races\" have a duty to what?",
+      "answer": "civilize the inferior",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "What did France offer that was rare by imperial standards?",
+      "answer": "assimilation",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "How did france differ from Britain in managing its colonies?",
+      "answer": "small numbers of settlers",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "The French thought bringing what would uplift other regions?",
+      "answer": "Christianity and French culture",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Where did the French send a large number of settlers?",
+      "answer": "Algeria",
+      "llm_prediction": "where did the french send a large number of settlers? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means \". imperialism has greatly shaped the contemporary world. it has also allowed for the rapid spread of technologies and ideas. the term imperialism has been applied to western ( and japanese ) political and economic dominance especially in asia and africa"
+    },
+    {
+      "question": "Jules Ferry thought that the \"higher races\" don't have a duty to what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": " What did England offer that was rare by imperial standards?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "How was france the same as Britain in managing its colonies?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " The English thought bringing what would uplift other regions?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "Where did Charles de Gaulle and the Free French run operations during World War 2?",
+      "answer": "overseas colonies",
+      "llm_prediction": "where did charles de gaulle and the free french run operations during world war 2? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": "After 1945, what challenged the French empire?",
+      "answer": "anti-colonial movements",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "Where did France lose a war in the 1950's?",
+      "answer": "Vietnam",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where did France win a war in the 1950's",
+      "answer": "Algeria",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "By when did most of France's Colonies gain independence?",
+      "answer": "1960",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Where did Charles de Gaulle and the Free English run operations during World War 2?",
+      "answer": null,
+      "llm_prediction": "where did charles de gaulle and the free english run operations during world war 2? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": " After 1945, what challenged the British empire?",
+      "answer": null,
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": " Where did France lose a war in the 1940's?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " Where did France lose a war in the 1930's?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": " Where did France win a war in the 1970's",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Where were the Germanic tribes originally located?",
+      "answer": "Scandinavia",
+      "llm_prediction": "where were the germanic tribes originally located? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "When did the Germanic tribes claim territory in north and west Europe?",
+      "answer": "middle period of classical antiquity",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "By when did the Germanic tribes conquer the Celtic peoples?",
+      "answer": "800 CE",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What was the only region in Europe not conquered by the Germanic tribes?",
+      "answer": "Muslim Iberia",
+      "llm_prediction": "what was the only region in europe not conquered by the germanic tribes? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Germany referred to which area more so than an actual country?",
+      "answer": "central Europe",
+      "llm_prediction": "germany"
+    },
+    {
+      "question": "Where were the Germanic tribes not originally located?",
+      "answer": null,
+      "llm_prediction": "where were the germanic tribes not originally located? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " When did the Germanic tribes not claim territory in north and west Europe?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " By when did the Germanic tribes not conquer the Celtic peoples?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " What was the only region in Europe conquered by the Germanic tribes?",
+      "answer": null,
+      "llm_prediction": "what was the only region in europe conquered by the germanic tribes? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "Germany doesn't have an imperialistic past until when?",
+      "answer": "late 19th century",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": "When was Otto von Bismarck born?",
+      "answer": "1862",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "When was the the second German empire founded?",
+      "answer": "after the Franco-German War",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What was Germany's central interest?",
+      "answer": "Europe",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who caused the dissolution of the Holy Roman Empire?",
+      "answer": "Napoleon",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Germany doesn't have an imperialistic future until when?",
+      "answer": null,
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": " When did Otto von Bismarck die?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " When was the the third German empire founded?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " What wasn't Germany's central interest?",
+      "answer": null,
+      "llm_prediction": "what wasn ' t germany ' s central interest? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " Who didn't cause the dissolution of the Holy Roman Empire?",
+      "answer": null,
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Besides Africa, where did Germany have imperial interests?",
+      "answer": "the South Pacific",
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "Colonies were a sign of what amongst European countries?",
+      "answer": "prestige",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "What was the name of the first German settlement?",
+      "answer": "New Guinea",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "When did Germany found their first settlement?",
+      "answer": "1884",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Who influenced Bismark besides his neighbors?",
+      "answer": "Hamburg merchants and traders",
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " Besides Africa, where did Ireland have imperial interests?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": " Colonies were a sign of what amongst Asian countries?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": " What was the name of the second German settlement?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " Who influenced France besides his neighbors?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": "When was the first Sino-Japanese War?",
+      "answer": "1894",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What happened as a result of the Russo-Japanese War?",
+      "answer": "Japan took part of Sakhalin Island",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which area of China did Japan conquer in 1931?",
+      "answer": "Manchuria",
+      "llm_prediction": "area of china did japan conquer in 1931? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which country did Japan force into an alliance?",
+      "answer": "Thailand",
+      "llm_prediction": "japan"
+    },
+    {
+      "question": "When was the last Sino-Japanese War?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " What didn't happen as a result of the Russo-Japanese War?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Which area of China did Japan conquer in 1935?",
+      "answer": null,
+      "llm_prediction": "area of china did japan conquer in 1935? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Which country did Japan not force into an alliance?",
+      "answer": null,
+      "llm_prediction": "japan"
+    },
+    {
+      "question": "Who along with Russia supported post WW-II communist movements?",
+      "answer": "China",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "When was the Russian Policy \"Indigenization\" defunded?",
+      "answer": "1932",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": "Who asserted Russia's right to \"self-determination?\"",
+      "answer": "Lenin",
+      "llm_prediction": "russia ' s right to \" self - determination? \" [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "After WW-II where did Russia apply its old Tsarist regimes?",
+      "answer": "Eastern Europe",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who had established the Russian empire to its former glory prior to 1921?",
+      "answer": "Bolshevik leaders",
+      "llm_prediction": "who had established the russian empire to its former glory prior to 1921? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " Who along with Russia supported post WW-I communist movements?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " When was the Russian Policy \"Indigenization\" funded?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Who did not assert Russia's right to \"self-determination?\"",
+      "answer": null,
+      "llm_prediction": "russia ' s right to \" self - determination? \" [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Trotsky thought what was needed for a true Russian revolution.",
+      "answer": "a world revolution",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who wrote that imperialism is the highest stage of capitalism?",
+      "answer": "Lenin",
+      "llm_prediction": "edward"
+    },
+    {
+      "question": "What policy did Stalin implement shortly after Lenin's Death?",
+      "answer": "socialism in one country",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who was the leader of Russia in the 1960's?",
+      "answer": "Nikita Khrushchev",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who argued that the USSR had itself become an imperialist power?",
+      "answer": "Mao Zedong",
+      "llm_prediction": "edward"
+    },
+    {
+      "question": "Trotsky thought what was not needed for a true Russian revolution.",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Who wrote that imperialism is the lowest stage of capitalism?",
+      "answer": null,
+      "llm_prediction": "edward"
+    },
+    {
+      "question": " What policy did Stalin implement shortly after Lenin's birth?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What was the first British empire based on?",
+      "answer": "mercantilism",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "When did Great Britain lose its colonies in North America?",
+      "answer": "1776",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "When did the Spanish and Portuguese colonies gain their independance.",
+      "answer": "about 1820",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": "What policy gave Britain dominance in world trade?",
+      "answer": "free trade",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "When was the defeat of Napoleonic France?",
+      "answer": "1815",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "What wasn't the first British empire based on?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    },
+    {
+      "question": " When did Great Britain gain its colonies in North America?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " When did the Spanish and Portuguese colonies lose their independance.",
+      "answer": null,
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": " What policy took away Britain dominance in world trade?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "By the late 19th century, which country had the largest empire ever to exist in the world?",
+      "answer": "The British Empire",
+      "llm_prediction": "japanese"
+    },
+    {
+      "question": "What kinds of sciences were Social Darwinism and theories of race?",
+      "answer": "pseudo-sciences",
+      "llm_prediction": "social darwinism and theories of race? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "In which continent besides Asia were major gains made by the British Empire in the late 19th century?",
+      "answer": "Middle East",
+      "llm_prediction": "asia were major gains made by the british empire in the late 19th century? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means \". imperialism has greatly shaped the contemporary world. it has also allowed for the rapid spread of technologies and ideas. the term imperialism has been applied to western ( and japanese ) political and economic dominance especially in asia and africa"
+    },
+    {
+      "question": "Rudyard Kipling was an influential spokesman for what?",
+      "answer": "The British spirit of imperialism",
+      "llm_prediction": "empire"
+    },
+    {
+      "question": " By the late 19th century, which country had the smallest empire ever to exist in the world?",
+      "answer": null,
+      "llm_prediction": "japanese"
+    },
+    {
+      "question": " What kinds of literature were Social Darwinism and theories of race?",
+      "answer": null,
+      "llm_prediction": "social darwinism and theories of race? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " In which continent besides Asia were major gains made by the Asia Empire in the late 19th century?",
+      "answer": null,
+      "llm_prediction": "asia and africa"
+    },
+    {
+      "question": "How did the United States plan to subdue imperialistic tendencies? ",
+      "answer": "the Monroe Doctrine",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What was the name of Theodore Roosevelt’s policy of imperialism?",
+      "answer": "interventionism",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which country besides the Cuba did the United states try to annex in 1898?",
+      "answer": "the Philippines",
+      "llm_prediction": "cuba"
+    },
+    {
+      "question": "What caused the US public to condemn the occupation of the philippines?",
+      "answer": "a war erupted",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What did Smedley Butler call US foreign Policy?",
+      "answer": "a \"racket\"",
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "How did the United States plan to subdue non-imperialistic tendencies?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What was the name of Theodore Roosevelt’s policy of non-imperialism?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Which country besides the Cuba did the United states not try to annex in 1898?",
+      "answer": null,
+      "llm_prediction": "cuba"
+    },
+    {
+      "question": " What caused the US public to support the occupation of the philippines?",
+      "answer": null,
+      "llm_prediction": "extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who was the director of the American Geographical Society in 1914?",
+      "answer": "Isiah Bowman",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "When was Isiah Bowman appointed to President Wilson's Inquiry?",
+      "answer": "1917",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who besides Woodrow Wilson himself had the idea for the inquiry?",
+      "answer": "American delegation from the Paris Peace Conference",
+      "llm_prediction": "woodrow wilson"
+    },
+    {
+      "question": "What was the premise of Woodrow Wilson's inquiry?",
+      "answer": "U.S authorship of a 'new world'",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "What was Isiah Bowman nick name, as known by the public.",
+      "answer": "Wilson's geographer",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Who was the director of the American Geographical Society in 1917?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " When was Isiah Bowman not appointed to President Wilson's Inquiry?",
+      "answer": null,
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": " Who besides Woodrow Wilson himself did not have the idea for the inquiry?",
+      "answer": null,
+      "llm_prediction": "woodrow wilson"
+    },
+    {
+      "question": "Some people describe what between individuals or groups as imperialism or colonialism?",
+      "answer": "internal strife",
+      "llm_prediction": "colonialism"
+    },
+    {
+      "question": "the US expansion Westward could be viewed as what type of colonialism?",
+      "answer": "\"internal colonialism\"",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": "How many Africans were brought into the United States during the slave trade?",
+      "answer": "12 to 15 million",
+      "llm_prediction": "how many africans were brought into the united states during the slave trade? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who does Edward Said say is being attacked by US imperialism?",
+      "answer": "the contemporary Orient",
+      "llm_prediction": "who"
+    },
+    {
+      "question": "Some people describe what between individuals or groups as non-imperialism or non-colonialism?",
+      "answer": null,
+      "llm_prediction": "imperialism"
+    },
+    {
+      "question": " the US expansion Westward could be viewed as what type of non-colonialism?",
+      "answer": null,
+      "llm_prediction": "non - colonialism? [SEP] imperialism is a type of advocacy of empire"
+    },
+    {
+      "question": " How many Africans were brought into the United States during the non-slave trade?",
+      "answer": null,
+      "llm_prediction": "how many africans were brought into the united states during the non - slave trade? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "The strife between races in Canada is a unique form of what?",
+      "answer": null,
+      "llm_prediction": "empire"
+    },
+    {
+      "question": "When did the Ottoman Empire fall?",
+      "answer": "1923",
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": "Who reigned over the Ottoman empire when it was at its most powerful.",
+      "answer": "Suleiman the Magnificent",
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "How many provinces did the Ottoman empire contain in the 17th century?",
+      "answer": "32",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "The Ottoman empire controlled territory on three continents, Africa, Asia and which other?",
+      "answer": "Europe",
+      "llm_prediction": ""
+    },
+    {
+      "question": "When was the Ottoman empire at its height?",
+      "answer": "During the 16th and 17th centuries",
+      "llm_prediction": "in the 19th and 20th centuries"
+    },
+    {
+      "question": " When did the Ottoman Empire rise?",
+      "answer": null,
+      "llm_prediction": "19th and 20th centuries"
+    },
+    {
+      "question": " Who reigned over the Ottoman empire when it was at its most weak.",
+      "answer": null,
+      "llm_prediction": "imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " How many provinces did the Ottoman empire not contain in the 17th century?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": " The Ottoman empire controlled territory on four continents, Africa, Asia and which other?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the capital of the Ottoman empire?",
+      "answer": "Istanbul",
+      "llm_prediction": "colonization, use of military force, or other means"
+    },
+    {
+      "question": "Who did the Ottoman empire ally with in WW I?",
+      "answer": "Germany",
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "Which country today is a remnant of the Ottoman empire?",
+      "answer": "Turkey",
+      "llm_prediction": "the ottoman empire? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": "What ended Turkish imperial Ambitions?",
+      "answer": "World War I",
+      "llm_prediction": "extending a country ' s power and influence through colonization"
+    },
+    {
+      "question": " What was not the capital of the Ottoman empire?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Where was the less popular trading center for the Ottoman empire?",
+      "answer": null,
+      "llm_prediction": "where was the less popular trading center for the ottoman empire? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Who did the Ottoman empire ally with in WWII?",
+      "answer": null,
+      "llm_prediction": "the ottoman empire ally with in wwii? [SEP] imperialism is a type of advocacy of empire. its name originated from the latin word \" imperium \", which means to rule over large territories. imperialism is \" a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " Which country today is not a remnant of the Ottoman empire?",
+      "answer": null,
+      "llm_prediction": "a policy of extending a country ' s power and influence through colonization, use of military force, or other means"
+    },
+    {
+      "question": " What ended French imperial Ambitions?",
+      "answer": null,
+      "llm_prediction": "colonization"
+    }
+  ]
+}

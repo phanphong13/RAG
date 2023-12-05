@@ -1,0 +1,1316 @@
+{
+  "title": "Harvard_University",
+  "context": "Established originally by the Massachusetts legislature and soon thereafter named for John Harvard (its first benefactor), Harvard is the United States' oldest institution of higher learning, and the Harvard Corporation (formally, the President and Fellows of Harvard College) is its first chartered corporation. Although never formally affiliated with any denomination, the early College primarily trained Congregationalist and Unitarian clergy. Its curriculum and student body were gradually secularized during the 18th century, and by the 19th century Harvard had emerged as the central cultural establishment among Boston elites. Following the American Civil War, President Charles W. Eliot's long tenure (1869–1909) transformed the college and affiliated professional schools into a modern research university; Harvard was a founding member of the Association of American Universities in 1900. James Bryant Conant led the university through the Great Depression and World War II and began to reform the curriculum and liberalize admissions after the war. The undergraduate college became coeducational after its 1977 merger with Radcliffe College.",
+  "qas": [
+    {
+      "question": "What individual is the school named after?",
+      "answer": "John Harvard",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "When did the undergraduate program become coeducational?",
+      "answer": "1977",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the name of the leader through the Great Depression and World War II?",
+      "answer": "James Bryant Conant",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What organization did Harvard found in 1900?",
+      "answer": "Association of American Universities",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "What president of the university transformed it into a modern research university?",
+      "answer": "Charles W. Eliot",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What distinction does Radcliffe College have among universities?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "Who went to Radcliffe and was trained there as students in its early days?",
+      "answer": null,
+      "llm_prediction": "john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "When was Radcliffe's curriculum secularized?",
+      "answer": null,
+      "llm_prediction": "18th century"
+    },
+    {
+      "question": "What had Radcliffe been transformed into by the 19th century?",
+      "answer": null,
+      "llm_prediction": "a modern research university"
+    },
+    {
+      "question": "Who was President of Radcliffe from 1869-1909?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What is the worlds largest academic and private library system?",
+      "answer": "Harvard Library",
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "How many individual libraries make up the main school library?",
+      "answer": "79 individual libraries",
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How many volumes are contained in the library?",
+      "answer": "18 million volumes",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many US presidents are alumni of the school?",
+      "answer": "eight U.S. presidents",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many Nobel Laureates are among the school alumni?",
+      "answer": "150 Nobel laureates",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "What is the cost of living near Harvard?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Where can tourists go when they visit Cambridge?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How many public libraries are there in Cambridge?",
+      "answer": null,
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "How many US Presidents once campaigned in Cambridge?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How many billionaires are now living in Cambridge?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What is the major US city that the is the university located?",
+      "answer": "Boston metropolitan area",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the size of the school's endowment?",
+      "answer": "$37.6 billion",
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What river is located in the vicinity of the school?",
+      "answer": "Charles River",
+      "llm_prediction": "what river"
+    },
+    {
+      "question": "How many academic units make up the school?",
+      "answer": "eleven separate academic units",
+      "llm_prediction": "many"
+    },
+    {
+      "question": "What is the name of the area that the main campus is centered in Cambridge?",
+      "answer": "Harvard Yard",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "How much did it cost to build Harvard Stadium?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized"
+    },
+    {
+      "question": "How many academic units make up Radcliffe?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How large is the Allston neighborhood in Boston?",
+      "answer": null,
+      "llm_prediction": "allston neighborhood in boston? [SEP] established originally by the massachusetts legislature and soon thereafter named for john harvard"
+    },
+    {
+      "question": "Where is the Longwood Medical area located?",
+      "answer": null,
+      "llm_prediction": "longwood medical area"
+    },
+    {
+      "question": "How many sports are played at the athletics facilites?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "In what year was the school formed?",
+      "answer": "1636",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What organization arranged to founding of school?",
+      "answer": "Massachusetts Bay Colony",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "What year was North America's first printing press started?",
+      "answer": "1638",
+      "llm_prediction": "1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "In what year was the school renamed as Harvard College?",
+      "answer": "1639",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was the charter granted for Harvard Corporation?",
+      "answer": "1650",
+      "llm_prediction": "president and fellows of harvard college ) is its first chartered corporation"
+    },
+    {
+      "question": "What was the ship of John of London called?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did the Court of the Massachusetts Bay Colony vote for John Harvard to have in 1650?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Who founded Cambridge in 1650?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "When did John of London come to live in Cambridge?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What university was John of London an alum of?",
+      "answer": null,
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "Ministers of what faith were trained by the university in early years?",
+      "answer": "Puritan ministers",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "After what higher learning model was the school designed?",
+      "answer": "English university model",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Was the school officially associated with any denomination?",
+      "answer": "It was never affiliated with any particular denomination",
+      "llm_prediction": "never formally affiliated with any denomination"
+    },
+    {
+      "question": "What group was trained at Cambridge in 1643?",
+      "answer": null,
+      "llm_prediction": "what group was trained at cambridge in 1643? [SEP] established originally by the massachusetts legislature and soon thereafter named for john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy"
+    },
+    {
+      "question": "In what year was Cambridge founded?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the purpose of Cambridge when it was founded in 1643?",
+      "answer": null,
+      "llm_prediction": "secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What profession did many graduates of Cambridge become in 1643?",
+      "answer": null,
+      "llm_prediction": "a modern research university"
+    },
+    {
+      "question": "What churches were the graduates of Cambridge affiliated with after 1643?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "In what year did Harvard President Joseph Willard die?",
+      "answer": "1804",
+      "llm_prediction": "1869 – 1909"
+    },
+    {
+      "question": "What liberal succeeded Joseph Willard as president?",
+      "answer": "Samuel Webber",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year was Henry Ware elected to chair?",
+      "answer": "1805",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did Henry Ware die?",
+      "answer": null,
+      "llm_prediction": "1869 – 1909"
+    },
+    {
+      "question": "What happened after Henry Ware and Samuel Webber died?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized"
+    },
+    {
+      "question": "In what year was David Tappan elected to the chair?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "When did Calvinist parties and traditional ideas come to dominate universities?",
+      "answer": null,
+      "llm_prediction": "1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "What denomination was the Hollis Professor of Divinity connected to?",
+      "answer": null,
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "in 1846 who's natural history lectures were acclaimed in New York and Harvard?",
+      "answer": "Louis Agassiz",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "Agassiz's approach to science combined observation and what?",
+      "answer": "intuition",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Common Sense Realism of what Scottish philosophers did Agassiz incorporate in his dual view of knowedge?",
+      "answer": "Thomas Reid and Dugald Stewart",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Where were the writings of Plato acclaimed in 1846?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was Plato's approach considered?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What did Plato's perspective on science combine?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized"
+    },
+    {
+      "question": "What was the assumption behind Plato's writings?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "What evidence did Plato use to explain life-forms?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What president eliminated the Christian position in the curriculum?",
+      "answer": "Charles W. Eliot",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What conviction motivated Eliot to move towards secularization?",
+      "answer": "Transcendentalist Unitarian",
+      "llm_prediction": "secularization"
+    },
+    {
+      "question": "From whom were the movement that Eliot followed derived?",
+      "answer": "William Ellery Channing and Ralph Waldo Emerson",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "During what years was William Ellery Channing President of Harvard?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "When Channing eliminated Christianity from its former position in the curriculum what was allowed instead?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Channing was the most crucial figure to achieve what in US universities?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What ideas motivated Channing to remove Christianity as dominant in college curriculum?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What did Christianity in US curriculum focus on before it was changed?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Who lead the school back to leading research institution in 2oth century?",
+      "answer": "James Bryant Conant",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "How was the school able to bring aboard the best talented students?",
+      "answer": "identify, recruit",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "In what year of 20th century, did Harvard release an important document about education in America?",
+      "answer": "1945",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Who had a main goal of attracting the wealthy to Harvard?",
+      "answer": null,
+      "llm_prediction": "john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What would it guarantee for Harvard if they attracted wealthy students?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What was college considered a vehicle of for the wealthy in 1945?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What did Conant develop to attract wealthy students to the school in 1933?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is one thing that wealthy students needed when they first came to Harvard in 1945?",
+      "answer": null,
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What was the ratio of men to women at Harvard/Radcliffe?",
+      "answer": "about four men attending Harvard College for every woman studying at Radcliffe",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "In what year did Harvard and Radcliffe admissions merge?",
+      "answer": "1977",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the trend of female student population from 1970s and deyond?",
+      "answer": "the proportion of female undergraduates steadily increased, mirroring a trend throughout higher education in the United States",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "During what period were women not banned from being admitted to Radcliffe?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "What college was founded during World War II?",
+      "answer": null,
+      "llm_prediction": "what college was founded during world war ii? [SEP] established originally by the massachusetts legislature and soon thereafter named for john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii and began to reform the curriculum and liberalize admissions after the war. the undergraduate college became coeducational after its 1977 merger with radcliffe college"
+    },
+    {
+      "question": "What happened to Radcliffe's graduate schools during WWII?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "During what period did Radcliffe become prominent as a university?",
+      "answer": null,
+      "llm_prediction": "18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "How many campuses affiliated with Harvard existed in 1977?",
+      "answer": null,
+      "llm_prediction": "many"
+    },
+    {
+      "question": "How far from state house in downtown Boston is Harvard Yard?",
+      "answer": "3 miles",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many residential dorms house upper class, sophomore, Jr, and Sr students?",
+      "answer": "twelve residential Houses",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Along what geographic feature are nine residential houses located?",
+      "answer": "Charles River",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How far from the Yard is the Quad located?",
+      "answer": "half a mile northwest of the Yard",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "How many acres of land is the State House situated on?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What neighborhood is Edward Harkness formerly from?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "Who were formerly housed at Sever Hall?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "Why did Radcliffe College students stop residing at Sever Hall?",
+      "answer": null,
+      "llm_prediction": "following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "Where is the office of Edward Harkness located?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Where is Harvard stadium located?",
+      "answer": "Allston",
+      "llm_prediction": "where is harvard stadium"
+    },
+    {
+      "question": "What is the name of the bridge that joins parts of the campus of the Charles River?",
+      "answer": "The John W. Weeks Bridge",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Where are the Harvard medical, Dental and school of Public Health located?",
+      "answer": "Longwood Medical and Academic Area",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the name of the bridge over the Longwood Medical and Academic area?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "How wide of an area does the Charles River run through?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many miles will a person walk when they cross the John W. Weeks Bridge?",
+      "answer": null,
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What is the circumference of Harvard Stadium?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What medical school is located in Allston?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "How much more land does the school own in Allston than Cambridge?",
+      "answer": "approximately fifty percent",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What are some proposals to connect campuses?",
+      "answer": "new and enlarged bridges, a shuttle service and/or a tram.",
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What additional benefits are there to surrounding community of expansion?",
+      "answer": "enhanced transit infrastructure, possible shuttles open to the public, and park space which will also be publicly accessible.",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What has Cambridge purchased in Allston?",
+      "answer": null,
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "Why has Cambridge purchased land in Allston?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "How much land does Cambridge own in Allston?",
+      "answer": null,
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "Who does Cambridge say the expansion will benefit?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What infrastructure will be improved in Storrow Drive?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the total number of professors, instructors, and lecturers at Harvard?",
+      "answer": "2,400",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What is the enrollment of undergraduates at Harvard?",
+      "answer": "7,200",
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "How many graduate students does Harvard have?",
+      "answer": "14,000",
+      "llm_prediction": "how many"
+    },
+    {
+      "question": "When was the color crimson adopted at Harvard as official color?",
+      "answer": "1875",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What year is the earliest traces of the color Crimson at Harvard?",
+      "answer": "1858",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "When did The Harvard Crimson publish its first issue?",
+      "answer": null,
+      "llm_prediction": "18th century"
+    },
+    {
+      "question": "How many people were at a Harvard sponsored regatta in 1875?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many people usually go to see Harvard sports teams play each year?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many students did Charles William Eliot teach throughout his tenure at Harvard?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What did Eliot handing out The Harvard Crimson at a regatta do for the school in 1875?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was the Harvard endowment total in 2011?",
+      "answer": "$32 billion",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "How great were the losses suffered in the the financial crisis of 2008-09 to Harvard endowment?",
+      "answer": "30% loss",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What project did Harvard halt due to the financial crisis?",
+      "answer": "Allston Science Complex",
+      "llm_prediction": "harvard"
+    },
+    {
+      "question": "What are Harvard's Pell grant reserves?",
+      "answer": "$4.093 million",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "What is Harvard's total financial aid reserves?",
+      "answer": "$159 million",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "What amount did Harvard cut from their 2012 financial aid reserve?",
+      "answer": null,
+      "llm_prediction": "financial aid"
+    },
+    {
+      "question": "How much did Forbes donate to charity in 2009?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation"
+    },
+    {
+      "question": "How much of a loss did Forbes suffer in 2008?",
+      "answer": null,
+      "llm_prediction": "never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century"
+    },
+    {
+      "question": "What did Forbes halt the construction of in 2008?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What did local residents do when Forbes announced budget cuts in 2011?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "When was the divestment from South Africa movement? ",
+      "answer": "late 1980s",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What South African Vice Consul did Harvard students blockade the speech of? ",
+      "answer": "South African Vice Consul Duke Kent-Brown.",
+      "llm_prediction": "charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "By how much did Harvard management reduce its South Africa holdings in response to pressure?",
+      "answer": "$230 million",
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what year did South African Vice Consul Duke Kent-Brown take office?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What was erected in South Africa by Duke Kent-Brown to protest Harvard?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What did Kent-Brown do to interrupt a speech by Harvard?",
+      "answer": null,
+      "llm_prediction": "interrupt"
+    },
+    {
+      "question": "What amount of money did Kent-Brown have invested in Harvard?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "By how much did Kent-Brown reduce his investment in Harvard?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the applicant admission rate for class of 2019?",
+      "answer": "accepted 5.3% of applicants",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "In what year did Harvard end its early admission program?",
+      "answer": "2007",
+      "llm_prediction": ""
+    },
+    {
+      "question": "Why did Harvard end its early admission program?",
+      "answer": "disadvantage low-income and under-represented minority applicants",
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "In what year was an early admission program reintroduced?",
+      "answer": "2016",
+      "llm_prediction": ""
+    },
+    {
+      "question": "How is admission to the Early Action program characterized?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "What acceptance rate does the Early Action program have for 2019?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What rank does the Early Action program have among all others?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "When did the Carnegie Foundation start managing statistics for university admissions?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What applicants does the Carnegie Foundation want to have more support for?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Between 1978 an d2008 four year full time undergraduate students were required to complete how many classes outside of their concentration?",
+      "answer": "core curriculum of seven classes",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Post 2008 undergraduate students are required to complete how many general education classes towards degree?",
+      "answer": "eight General Education categories",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What criticism in NY times article that impacts the quality of Education at Harvard?",
+      "answer": "reliance on teaching fellows",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "How many classes outside of their concentration did the Carnegie Foundation require in 2007?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What kind of enrollments did the Ethical Reasoning program have in 2007?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What kind of focus has the Ethical Reasoning program had since 2007?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Since 1978 how many courses have students in the Ethical Reasoning program needed to take?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "Who does the Carnegie Foundation depend on for some aspects of undergraduate education?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What is the duration of Harvard Academic year?",
+      "answer": "beginning in early September and ending in mid-May",
+      "llm_prediction": "john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "How many courses must undergraduates maintain for full time status?",
+      "answer": "four-course rate average",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What are the top 4-5% graduating students honored with?",
+      "answer": "summa cum laude",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "From 2004 to 2005 Harvard reduced the number of students earning Latin honors from 90% to what?",
+      "answer": "60%",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What does a basic program also require?",
+      "answer": null,
+      "llm_prediction": "a modern research university"
+    },
+    {
+      "question": "What percentage of the student body is accepted to the Phi Beta Kappa honor society each year?",
+      "answer": null,
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What percentage of the student body was affected by grade inflation in 2004?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What increased about Harvard's student body in 2005?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What two honors were given out more frequently in 2005?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is tuition for 2012 - 13 year at Harvard? ",
+      "answer": "$38,000",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the total cost of attendance in 2012-13?",
+      "answer": "$57,000",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "After 2007 how much do student from families earning less than $60,000 pay for school?",
+      "answer": "nothing for their children to attend, including room and board",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "In 2009 what was the total of Grants awarded from Harvard?",
+      "answer": "$414 million",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What percentage of total financial aid for undergraduates from Harvard was in the form of grants?",
+      "answer": "88%",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What did families with incomes below $38,000 pay for tuition in 2009?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What else were families with incomes below $38,000 not required to pay for in 2009?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How much did students pay in total to go to Harvard in 2007?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many student loans can you apply for in four years at Harvard?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many student dorms were there in use at Harvard in 2012?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the center library in the Harvard library system?",
+      "answer": "Widener Library",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many total volumes are in the Harvard library system?",
+      "answer": "18 million volumes",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What are the 3 post popular libraries for undergraduates in the Harvard system?",
+      "answer": "Cabot Science Library, Lamont Library, and Widener Library",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "Where are America's oldest collection of maps, gazettes, and atlases housed?",
+      "answer": "Pusey Library",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Where is the American Library Association located?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "How many books are endorsed by the American Library Association?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the size of the Lamont Library that gives it a unique distinction?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What is the status of the Harvard University Archives with undergraduates?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What kind of access for undergraduates do the Harvard University Archives have?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many museums comprise Harvard Art Museums?",
+      "answer": "three museums.",
+      "llm_prediction": "many"
+    },
+    {
+      "question": "What does the Fogg Museum of Art cover?",
+      "answer": "Western art from the Middle Ages to the present",
+      "llm_prediction": "fogg museum of art cover? [SEP] established originally by the massachusetts legislature and soon thereafter named for john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What museum specializes in cultural history and civilizations of the Western Hemisphere?",
+      "answer": "Peabody Museum of Archaeology and Ethnology",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What is the former name of the Arthur M. Sackler Museum?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many museums does the Busch-Reisinger Museum comprise?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Who designed the Fogg Museum of Art?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What kind of French art is kept at the Arthur M. Sackler Museum?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What glass flowers exhibit is included in the Busch-Reisinger Museum?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "Starting in what year has Harvard topped the Academic Rankings of World Universities?",
+      "answer": "2003",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Beginning in what year was Harvard on top of the World Reputation Rankings?",
+      "answer": "2011",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "According to the Princeton Review where has Harvard ranked as a \"Dream College\" in 2013",
+      "answer": "second most commonly",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Since what year has the ARWU ranked academic performance?",
+      "answer": null,
+      "llm_prediction": "1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "During what years did Harvard roll out a new undergraduate program?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "What news magazine transitioned to being exclusively online in 2009?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "How was The Princeton Review ranked by students in 2013 for being most informative?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii and began to reform the curriculum and liberalize admissions after the war. the undergraduate college became coeducational after its 1977 merger with radcliffe college"
+    },
+    {
+      "question": "How was US News and World Report ranked in terms of CEO positions in 2011?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "How many intercollegiate sports does Harvard compete in NCAA division I",
+      "answer": "42",
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What is Harvard's most intense rival?",
+      "answer": "Yale University",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "At what time is the Harvard-Yale rivalry set aside?",
+      "answer": "every two years when the Harvard and Yale Track and Field teams come together to compete against a combined Oxford University and Cambridge University team",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many sports does Yale compete  in in the NCAA Division I Ivy League?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What kind of rivalry do Oxford and Cambridge have?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized"
+    },
+    {
+      "question": "What event does the Oxford-Cambridge rivalry culminate in?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How often do Oxford and Cambridge put aside their rivalry?",
+      "answer": null,
+      "llm_prediction": "never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century"
+    },
+    {
+      "question": "How old is the NCAA Division I Ivy League competition?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What was the first year that Yale and Harvard played football?",
+      "answer": "1875",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "In what year did Harvard Stadium become the first ever concrete reinforced stadium in the country?",
+      "answer": "1903",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "In what year was a set of significant rule changes introduced including the forward pass?",
+      "answer": "1906",
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What school was Walter Camp a captain for the football team?",
+      "answer": "former captain of the Yale football team",
+      "llm_prediction": "harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What event was won by Yale in 1920?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii and began to reform the curriculum and liberalize admissions after the war. the undergraduate college became coeducational after its 1977 merger with radcliffe college"
+    },
+    {
+      "question": "What stadium was built in 1920?",
+      "answer": null,
+      "llm_prediction": "harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii and began to reform the curriculum and liberalize admissions after the war. the undergraduate college became coeducational after its 1977 merger with radcliffe college"
+    },
+    {
+      "question": "How did Yale introduce a new era in football?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "What position was Walter Camp on Harvard's football team?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What newly legalized move did Harvard's football team support in 1920?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What is the name of Harvard's basketball facility?",
+      "answer": "Lavietes Pavilion",
+      "llm_prediction": "harvard corporation"
+    },
+    {
+      "question": "What is the name of Harvard's primary recreational sports facility?",
+      "answer": "Malkin Athletic Center",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many weight rooms are in the Malkin Athletic Center",
+      "answer": "three weight rooms",
+      "llm_prediction": ""
+    },
+    {
+      "question": "At what building do Olympic athletes train?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Lavietes Pavillion serve as a satellite location for?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many stories doe the Lavietes Pavillion have?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "How many cardio rooms are at the Lavietes Pavillion?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What kind of swimming pool is at the Lavietes Pavillion?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "Harvard - Yale Regatta predates \"The Game\" by how many years?",
+      "answer": "23 years",
+      "llm_prediction": "1869"
+    },
+    {
+      "question": "In what body of water is the Harvard - Yale Regatta held?",
+      "answer": "Thames River",
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Who is the primary rival of the Harvard Crimson hockey team?",
+      "answer": "strong rivalry against Cornell",
+      "llm_prediction": "harvard crimson hockey team? [SEP] established originally by the massachusetts legislature and soon thereafter named for john harvard ( its first benefactor ), harvard is the united states ' oldest institution of higher learning, and the harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "In what year did Harvard win an Intercolleiate Sailing Association National Championship?",
+      "answer": "2003",
+      "llm_prediction": "1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "In what state is Yale located?",
+      "answer": null,
+      "llm_prediction": "in what state is yale located? [SEP] established originally by the massachusetts"
+    },
+    {
+      "question": "What river is located near Cornell University?",
+      "answer": null,
+      "llm_prediction": "what river"
+    },
+    {
+      "question": "How is the Yale rowing crew ranked?",
+      "answer": null,
+      "llm_prediction": "secularized"
+    },
+    {
+      "question": "What event did Cornell win in 2003?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant led the university through the great depression and world war ii"
+    },
+    {
+      "question": "In what month does the Harvard Crimson men's ice hockey team play?",
+      "answer": null,
+      "llm_prediction": "month"
+    },
+    {
+      "question": "What UN secretary went to Harvard?",
+      "answer": "General Ban Ki-moon",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What Columbia President went to Harvard?",
+      "answer": "Juan Manuel Santos",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "Who is the Costa Rican President that went to Harvard?",
+      "answer": "José María Figueres",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What Harvard Alumni was the Palestine Prime Minister?",
+      "answer": "Benjamin Netanyahu",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "At what venue did Benjamin Netanyahu give a speech recently?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What office was held by George W. Bush?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what office has Barack Obama recently served his last term?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "Where did Barack Obama give his last speech in 2016?",
+      "answer": null,
+      "llm_prediction": "harvard corporation ( formally, the president and fellows of harvard college ) is its first chartered corporation. although never formally affiliated with any denomination, the early college primarily trained congregationalist and unitarian clergy. its curriculum and student body were gradually secularized during the 18th century, and by the 19th century harvard had emerged as the central cultural establishment among boston elites. following the american civil war, president charles w. eliot ' s long tenure ( 1869 – 1909 ) transformed the college and affiliated professional schools into a modern research university"
+    },
+    {
+      "question": "What Union is Antonis Samaras a part of?",
+      "answer": null,
+      "llm_prediction": "modern research university"
+    },
+    {
+      "question": "What tv host and writer went to Harvard?",
+      "answer": "Conan O'Brien",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What famous conductor went to Harvard?",
+      "answer": "Leonard Bernstein",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What is the name of world renowned cellist is a former Harvard student?",
+      "answer": "Yo Yo Ma",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What famous civil rights leader called Harvard home?",
+      "answer": "W. E. B. Du Bois",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "Who was the former host of Late Night with Conan O'Brien?",
+      "answer": null,
+      "llm_prediction": "modern research university ; harvard was a founding member of the association of american universities in 1900. james bryant conant"
+    },
+    {
+      "question": "What actor starred in the Movie Saving Private Ryan?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "Who is a player on the Tampa Bay Buccaneers?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What actor starred in The Men in Black?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "Who was the directer of Noah in 2014?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What Fields Medal winning Mathematician is a faculty member at Harvard?",
+      "answer": "Shing-Tung Yau",
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What prestigious legal scholars are faculty members at Harvard?",
+      "answer": "Alan Dershowitz and Lawrence Lessig",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What Shakespeare Scholar is a faculty member at Harvard?",
+      "answer": "Stephen Greenblatt",
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What scientist published \"The Better Angels of Our Nature\" in 2011?",
+      "answer": null,
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What chemist won the Nobel prize in Chemstry in 1986?",
+      "answer": null,
+      "llm_prediction": "charles w. eliot"
+    },
+    {
+      "question": "What author is best known for his book The Metaphysical Club?",
+      "answer": null,
+      "llm_prediction": "james bryant conant"
+    },
+    {
+      "question": "What British citizen stands with and supports liberal democrats?",
+      "answer": null,
+      "llm_prediction": "john harvard"
+    },
+    {
+      "question": "What political scientist is one of the founders of the theory of neoliberalism?",
+      "answer": null,
+      "llm_prediction": "charles w. eliot"
+    }
+  ]
+}

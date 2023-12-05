@@ -1,0 +1,1546 @@
+{
+  "title": "Prime_number",
+  "context": "A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself. A natural number greater than 1 that is not a prime number is called a composite number. For example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. The fundamental theorem of arithmetic establishes the central role of primes in number theory: any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. The uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e.g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3.",
+  "qas": [
+    {
+      "question": "What is the only divisor besides 1 that a prime number can have?",
+      "answer": "itself",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What are numbers greater than 1 that can be divided by 3 or more numbers called?",
+      "answer": "composite number",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What theorem defines the main role of primes in number theory?",
+      "answer": "The fundamental theorem of arithmetic",
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Any number larger than 1 can be represented as a product of what?",
+      "answer": "a product of primes",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "Why must one be excluded in order to preserve the uniqueness of the fundamental theorem?",
+      "answer": "because one can include arbitrarily many instances of 1 in any factorization",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the only divisor besides 1 that a product can have?",
+      "answer": null,
+      "llm_prediction": "5"
+    },
+    {
+      "question": "What are numbers greater than 1 that can be divided by 6 or more numbers called?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What can any number larger than 6 can be represented as?",
+      "answer": null,
+      "llm_prediction": "6"
+    },
+    {
+      "question": "A number larger than -3 can be represented as a product of what?",
+      "answer": null,
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Why must -1 be excluded in order to preserve the uniqueness of the fundamental theorem?",
+      "answer": null,
+      "llm_prediction": "a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of the property that designates a number as being prime or not?",
+      "answer": "primality",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of the process which confirms the primality of a number n?",
+      "answer": "trial division",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of one algorithm useful for conveniently testing the primality of large numbers? ",
+      "answer": "the Miller–Rabin primality test",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another algorithm useful for conveniently testing the primality of large numbers? ",
+      "answer": "the AKS primality test",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "As of January 2016 how many digits does the largest known prime consist of?",
+      "answer": "22,338,618 decimal digits",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What is the name of the property that designates a number as being efficient or not?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of the process which confirms the primality of a decimal digits?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of one algorithm useful for conveniently testing the primality of decimal digits?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another algorithm useful for conveniently testing the primality of decimal digits?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "As of January 2016 how many primalities does the largest known prime consists of?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "How many prime numbers exist?",
+      "answer": "infinitely many",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "Who established the amount of prime numbers in existence?",
+      "answer": "Euclid",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of behavior in primes is it possible to determine?",
+      "answer": "the statistical behaviour",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What theorem states that the probability that a number n is prime is inversely proportional to its logarithm?",
+      "answer": "the prime number theorem",
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "When was the prime number theorem proven?",
+      "answer": "at the end of the 19th century",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "How many chosen numbers exist?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "Who established the amount of chosen numbers in existence?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of behavior in chosens is it possible to determine?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What theorem states that the probability that a number n is prime is inversely proportional to its direction?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "When was the random number theorem proven?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is the name of the supposition that any number larger than 2 can be represented as the sum of two primes?",
+      "answer": "Goldbach's conjecture",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of the supposition that there are infinite pairs of primes whose difference is 2?",
+      "answer": "the twin prime conjecture",
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "Besides the analytic property of numbers, what other property of numbers does number theory focus on?",
+      "answer": "algebraic aspects",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the application of prime numbers used in information technology which utilizes the fact that factoring very large prime numbers is very challenging?",
+      "answer": "public-key cryptography",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of one algebraic generalization prime numbers have inspired?",
+      "answer": "prime ideals",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is the name of the supposition that any number larger than 1 can be represented as the sum of two primes?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of the supposition that there are infinite pairs of primes whose difference is prime?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "Besides the analytic property of Goldbach's conjecture, what other property of Goldbach's conjecture does number theory focus on?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the application of prime numbers used in information technology which utilizes the fact that factoring very large prime numbers is expressed in the sum of two primes?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What is the name of one algebraic generalization Goldbach's conjecture has inspired?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": " Any even number larger than what cannot be considered prime?",
+      "answer": "2",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What are the specific divisors of all even numbers larger than 2?",
+      "answer": "1, 2, and n",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What name is given to any prime number larger than 2?",
+      "answer": "odd prime",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Besides 1,3 and 7, what other number must all primes greater than 5 end with?",
+      "answer": "9",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of numbers are always multiples of 2?",
+      "answer": "even numbers",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Any even number larger than what cannot be considered distinct?",
+      "answer": null,
+      "llm_prediction": "a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "What are the specific divisors of all even numbers larger than 1?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What name is given to any prime number larger than 1?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Besides 1,3, and 7, what other number must all distinct divisors greater than 5 end with?",
+      "answer": null,
+      "llm_prediction": "5"
+    },
+    {
+      "question": "What type of numbers are always multiples of distinct divisors?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What number did early Greeks not regard as a true number?",
+      "answer": "1",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "Who included 1 as the first prime number in the mid 18th century?",
+      "answer": "Christian Goldbach",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "In the mid 18th century, who did not concur that 1 should be the first prime number?",
+      "answer": "Leonhard Euler",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "How many primes were included in Derrick Norman Lehmer's list of prime numbers?",
+      "answer": "10,006,721",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What type of number do modern mathematicians consider 1 to be?",
+      "answer": "its own special category as a \"unit\"",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What number did Henri Lebesgue not regard as a true number?",
+      "answer": null,
+      "llm_prediction": "1"
+    },
+    {
+      "question": "Who included 1 as the first prime number in the mid 20th century?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "In the mid 20th century, who did not concur that 1 should be the first prime number?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "How many primes were included in the early Greek's list of prime numbers?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What type of number did the early Greeks consider 1 to be?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "Which theorem would be invalid if the number 1 were considered prime?",
+      "answer": "Euclid's fundamental theorem of arithmetic",
+      "llm_prediction": ""
+    },
+    {
+      "question": "The sieve of Eratosthenes would not be valid if what were true?",
+      "answer": "if 1 were considered a prime",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is one function that prime numbers have that 1 does not?",
+      "answer": "the sum of divisors function",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is another function that primes have that the number 1 does not?",
+      "answer": "Euler's totient function",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "If 1 were to be considered as prime what would the sieve of Eratosthenes yield for all other numbers?",
+      "answer": "only the single number 1",
+      "llm_prediction": "1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Which theorem would be invalid if the number 15 were considered prime?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "The sieve of Euler would not be valid if what were true?",
+      "answer": null,
+      "llm_prediction": "sieve of euler would not be valid if what were true? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is one function that prime numbers have that 15 does not?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is another function that primes have that the number 15 does not?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "If 15 were to be considered as prime what would the sieve of Eratosthenes yield for all other numbers?",
+      "answer": null,
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What is the name of the Egyptian papyrus that suggests that they may have had knowledge of prime numbers?",
+      "answer": "the Rhind papyrus",
+      "llm_prediction": "what is the name of the egyptian papyrus that suggests that they may have had knowledge of prime numbers? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What civilization was the first known to clearly study prime numbers?",
+      "answer": "the Ancient Greeks",
+      "llm_prediction": "what civilization"
+    },
+    {
+      "question": "What work from around 300 BC has significant theorems about prime numbers?",
+      "answer": "Euclid's Elements",
+      "llm_prediction": "what work from around 300 bc has significant theorems about prime numbers? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Who demonstrated how to create a perfect number from a Mersenne prime?",
+      "answer": "Euclid",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Sieve of Eratosthenes do?",
+      "answer": "compute primes",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is the name of the Egyptian papyrus that suggests that they may have had knowledge of infinite numbers?",
+      "answer": null,
+      "llm_prediction": "what is the name of the egyptian papyrus that suggests that they may have had knowledge of infinite numbers? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What civilization was the first known to clearly study infinite numbers?",
+      "answer": null,
+      "llm_prediction": "what civilization"
+    },
+    {
+      "question": "What work from around 3000BC has significant theorems about infinite numbers?",
+      "answer": null,
+      "llm_prediction": "what work from around 3000bc has significant theorems about infinite numbers? [SEP] a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "Who demonstrated how to create an infinite number from a Mersenne prime?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does the Sieve of Euclid do?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "In what year did Pierre de Fermat declare Fermat's little theorem?",
+      "answer": "In 1640",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Besides Leibniz, what other mathematician proved the validity of Fermat's little theorem?",
+      "answer": "Euler",
+      "llm_prediction": "leibniz"
+    },
+    {
+      "question": "Of what form do Fermat numbers take?",
+      "answer": "22n + 1",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "To what extent did Fermat confirm the validity of Fermat numbers?",
+      "answer": "up to n = 4 (or 216 + 1)",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Of what form do Mersenne primes take?",
+      "answer": "2p − 1",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "In what year did Pierre de Fermat declare Euler's little theorem?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Besides Beibniz, what other mathematician proved the validity of Euler's little theorem?",
+      "answer": null,
+      "llm_prediction": "beibniz"
+    },
+    {
+      "question": "Of what form do Euler numbers take?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "To what extent did Fermat confirm the validity of Euler numbers?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Of what form do Euler primes take?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is the most elemental way to test the primality of any integer n?",
+      "answer": "trial division",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What makes the method of trial division more efficient?",
+      "answer": "if a complete list of primes up to  is known",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Trial division involves dividing n by every integer m greater than what?",
+      "answer": "greater than 1",
+      "llm_prediction": "1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1"
+    },
+    {
+      "question": "What must the integer m be less than or equal to when performing trial division?",
+      "answer": "less than or equal to the square root of n",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "How many divisions are required to verify the primality of the number 37?",
+      "answer": "only three divisions",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What is the most elemental way to test the primality of any division?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What makes the method of primality more efficient?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Trial division involves dividing n by every integer m less than what?",
+      "answer": null,
+      "llm_prediction": "1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1"
+    },
+    {
+      "question": "What must the integer m be greater than or equal to when performing trial division?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "How many divisions are required to verify the division of the number 37?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "How many modern types of primality tests for general numbers n are there? ",
+      "answer": "two main classes",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What is the name of one type of modern primality test?",
+      "answer": "probabilistic (or \"Monte Carlo\")",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is the name of another type of modern primality test?",
+      "answer": "deterministic",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of algorithm is trial division?",
+      "answer": "deterministic",
+      "llm_prediction": "trial division"
+    },
+    {
+      "question": "When using a probabilistic algorithm, how is the probability that the number is composite expressed mathematically?",
+      "answer": "1/(1-p)n",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "How many modern types of algorithm tests for general numbers n are there?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is the name of one type of modern algorithm test?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another type of modern algorithm test?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What type of algorithm is probability division?",
+      "answer": null,
+      "llm_prediction": "probability division"
+    },
+    {
+      "question": "When using a probalistic primality, how is the probability that the number is composite expressed mathematically?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What is one straightforward case of a probabilistic test?",
+      "answer": "the Fermat primality test,",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What does the Fermat primality test depend upon?",
+      "answer": "np≡n (mod p)",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of numbers demonstrate a flaw with the Fermat primality test?",
+      "answer": "composite numbers (the Carmichael numbers)",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of one impressive continuation of the Fermat primality test?",
+      "answer": "Baillie-PSW",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another compelling continuation of the Fermat primality test?",
+      "answer": "Solovay-Strassen tests",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is one straightforward case of a Carmichael test?",
+      "answer": null,
+      "llm_prediction": "prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What does the Carmichael primality test depend on?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of numbers demonstrate a flaw with the Carmichael primality test?",
+      "answer": null,
+      "llm_prediction": "what type of numbers demonstrate a flaw with the carmichael primality test? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of one impressive continuation of the Carmichael primality test?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another compelling continuation of the Carmichael primality test?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Of what form are Sophie Germain primes?",
+      "answer": "2p + 1",
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Of what form are Mersenne primes?",
+      "answer": "2p − 1",
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What test is especially useful for numbers of the form 2p - 1?",
+      "answer": "The Lucas–Lehmer test",
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is the name of one type of prime where p+1 or p-1 takes a certain shape?",
+      "answer": "primorial primes",
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another type of prime here p+1 or p-1 takes a certain shape?",
+      "answer": "Fermat primes",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Of what form are Sophie Germain tests?",
+      "answer": null,
+      "llm_prediction": "what form are sophie germain tests? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Of what form are Mersenne tests?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What test is especially useful for tests of the form 2p-1?",
+      "answer": null,
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is the name of one type of test where p+1 or p-1 takes a certain shape?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of another type of test where p+1 or p-1 takes a certain shape?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the name of one type of computing method that is used to find prime numbers?",
+      "answer": "distributed computing",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "In what year was the Great Internet Mersenne Prime Search project conducted?",
+      "answer": "In 2009",
+      "llm_prediction": ""
+    },
+    {
+      "question": "the Great Internet Mersenne Prime Search, what was the prize for finding a prime with at least 10 million digits?",
+      "answer": "US$100,000",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What organization offers monetary awards for identifying primes with at least 100 million digits?",
+      "answer": "The Electronic Frontier Foundation",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "In what interval are some of the greatest primes without a distinct form discovered in?",
+      "answer": "[256kn + 1, 256k(n + 1) − 1]",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is the name of one type of computing method that is used to find 100 million primes?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "In what year were 10 million projects conducted?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "In the Great Internet Mersenne Prime Search hat was the prize for finding a prime with at least 150,000 digits?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What organization offers monetary awards for identifying primes with at least 150,000 digits?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "In what interval are some of the greatest primes without a distinct digit discovered in?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is name of the function used for the largest integer not greater than the number in question?",
+      "answer": "the floor function",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Who first proved Bertrand's postulate?",
+      "answer": "Chebyshev",
+      "llm_prediction": "bertrand"
+    },
+    {
+      "question": "For what size natural number does Bertrand's postulate hold?",
+      "answer": "any natural number n > 3",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "How is the prime number p in Bertrand's postulate expressed mathematically?",
+      "answer": "n < p < 2n − 2",
+      "llm_prediction": "as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "On what theorem is the formula that frequently generates the number 2 and all other primes precisely once based on?",
+      "answer": "Wilson's theorem",
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is the name of the function used for the smallest integer not greater than the number in question?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "Who first proved Bertrands prime?",
+      "answer": null,
+      "llm_prediction": "bertrands prime"
+    },
+    {
+      "question": "For what size natural number does Chebyshev's postulate hold?",
+      "answer": null,
+      "llm_prediction": "1"
+    },
+    {
+      "question": "How is the prime number p in Chebyshev's postulate expressed mathematically?",
+      "answer": null,
+      "llm_prediction": "as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "On what theorem is the formula that frequently generates the number 2 and all other primes precisely twice based on?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is another way to state the condition that infinitely many primes can exist only if a and q are coprime?",
+      "answer": "their greatest common divisor is one",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "If a and q are coprime, which theorem holds that an arithmetic progression has an infinite number of primes?",
+      "answer": "Dirichlet's theorem",
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is the density of all primes compatible with a modulo 9?",
+      "answer": "1/6",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "If q=9 and a=3,6 or 9, how many primes would be in the progression?",
+      "answer": "at most one prime number",
+      "llm_prediction": "9 and a = 3, 6 or 9, how many primes would be in the progression? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "If q=9 and a=1,2,4,5,7, or 8, how many primes would be in a progression?",
+      "answer": "infinitely many prime numbers",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What is another way to state the condition that infinitely many rows can exist only if a and q are coprime?",
+      "answer": null,
+      "llm_prediction": "1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "If a and q are coprime, which theorem holds that an arithmetic progression has an infinite number of wraps?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is the density of all wraps compatible with a modulo 9?",
+      "answer": null,
+      "llm_prediction": "1"
+    },
+    {
+      "question": "If q=9 and a=3, 6 or 9, how many wraps would be in the progression?",
+      "answer": null,
+      "llm_prediction": "9 and a = 3, 6 or 9, how many wraps would be in the progression? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "If q=9 and a=1,2,4,5, 7, or 8, how many wraps would be in a progression?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What function is related to prime numbers?",
+      "answer": "The zeta function",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of value would the zeta function have if there were finite primes?",
+      "answer": "a finite value",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What property of the harmonic series 1 + 1/2 + 1/3 + 1/4 + ... shows that there is an infinite number of primes?",
+      "answer": "diverges",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What does it mean when a harmonic series diverges?",
+      "answer": "exceeds any given number",
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Of what mathematical nature is the Basel problem?",
+      "answer": "identity",
+      "llm_prediction": "what mathematical nature is the basel problem? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What function is related to Basel numbers?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of value would the Basel function have if there were finite primes?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What property of the harmonic series 1 + 1/2 + 1/3 +1/4 ... shows that there is an infinite number of Basels?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What does it mean when a Basel series diverges?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Of what mathematical nature is the prime problem?",
+      "answer": null,
+      "llm_prediction": "what mathematical nature is the prime problem? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "When was the Riemann hypothesis proposed?",
+      "answer": "1859",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "According to the Riemann hypothesis, all zeroes of the ζ-function have real part equal to 1/2 except for what values of s?",
+      "answer": "s = −2, −4, ...,",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What does the Riemann hypothesis state the source of irregularity in the distribution of points comes from?",
+      "answer": "random noise",
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What type of prime distribution does the Riemann hypothesis propose is also true for short intervals near X?",
+      "answer": "asymptotic distribution",
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What type of prime distribution is characterized about x/log x of numbers less than x?",
+      "answer": "asymptotic distribution",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "When was the function hypothesis proposed?",
+      "answer": null,
+      "llm_prediction": "5"
+    },
+    {
+      "question": "According to the function hypothesis, all zeroes of the ζ-function have real part equal to 1/2 except for what values of s?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What does the Riemann hypothesis state the source of irregularity in the distribution of math zeroes from?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What type of zero distribution does the Riemann hypothesis propose is also true for short intervals near X?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What type of zero distribution is characterized about x/log x of numbers less than x?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "When did Landau propose his four conjectural problems?",
+      "answer": "1912",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Which conjecture holds that every even integer n greater than 2 can be expressed as a sum of two primes?",
+      "answer": "Goldbach's conjecture",
+      "llm_prediction": "fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "As of February 2011, how many numbers has Goldbach's conjecture been proven to?",
+      "answer": "all numbers up to n = 2 · 1017",
+      "llm_prediction": "1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Which theorem states that all large odd integers can be expressed as a sum of three primes?",
+      "answer": "Vinogradov's theorem",
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Which theorem states that every large even integer can be written as a prime summed with a semiprime?",
+      "answer": "Chen's theorem",
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "When did Vinogradov propose his four conjectural problems?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Which conjecture holds that every odd integer n greater than 2 can be expressed as a sum of two primes?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "As of February 2017, how many numbers has Goldbach's conjecture been proven to?",
+      "answer": null,
+      "llm_prediction": "1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Which theorem states that all large even integers can be expressed as a sum of three primes?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Which theorem states that every large odd integer can be written as a prime summed with a semiprime?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What conjecture holds that there is an infinite amount of twin primes?",
+      "answer": "twin prime conjecture",
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is a twin prime?",
+      "answer": "pairs of primes with difference 2",
+      "llm_prediction": "5"
+    },
+    {
+      "question": "Which conjecture holds that for any positive integer n, there is an infinite amount of pairs of consecutive primes differing by 2n?",
+      "answer": "Polignac's conjecture",
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Of what form is the infinite amount of primes that comprise the special cases of Schinzel's hypothesis?",
+      "answer": "n2 + 1",
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What conjecture holds that there are always a minimum of 4 primes  between the squares of consecutive primes greater than 2?",
+      "answer": "Brocard's conjecture",
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What conjecture holds that there is an infinite amount of twin positives?",
+      "answer": null,
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What is a twin positive?",
+      "answer": null,
+      "llm_prediction": "5"
+    },
+    {
+      "question": "Which conjecture holds that for any negative integer n, there is an infinite amount of pairs of consecutive primes differing by 2n?",
+      "answer": null,
+      "llm_prediction": "the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Of what form is the infinite amount of positives that comprise the special cases of Schinzel's hypothesis?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "What conjecture holds that there are always a minimum of 1 prime between the squares of consecutive primes greater than 2?",
+      "answer": null,
+      "llm_prediction": "fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Besides the study of prime numbers, what general theory was considered the official example of pure mathematics?",
+      "answer": "number theory",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What British mathematician took pride in doing work that he felt had no military benefit?",
+      "answer": "G. H. Hardy",
+      "llm_prediction": "what british mathematician took pride in doing work that he felt had no military benefit? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "When was it discovered that prime numbers could applied to the creation of public key cryptography algorithms?",
+      "answer": "the 1970s",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Besides public key cryptography, what is another application for prime numbers?",
+      "answer": "hash tables",
+      "llm_prediction": "public key cryptography"
+    },
+    {
+      "question": "What type of number generators make use of prime numbers?",
+      "answer": "pseudorandom number generators",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Besides the study of prime numbers, what general theory was considered the official example of the military?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What British mathematician took pride in doing work that he felt had no mathematical benefit?",
+      "answer": null,
+      "llm_prediction": "what british mathematician took pride in doing work that he felt had no mathematical benefit? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "When was it discovered that prime numbers could be applied to the creation of public key military algorithms?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Besides public key cryptography what is another application for military gear?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of number generators make use of military gear?",
+      "answer": null,
+      "llm_prediction": "what type of number generators make use of military gear? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Assuming p is a prime other than 2 or 5, then, according to Fermat's theorem, what type of decimal will 1/p always be?",
+      "answer": "a recurring decimal",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "According to Fermat's theorem, what period does 1/p always have assuming p is prime that is not 2 or 5?",
+      "answer": "p − 1",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "According to Wilson's theorem, what factorial must be divisible by p if some integer p > 1 is to be considered prime?",
+      "answer": "(p − 1)! + 1",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "According to Wilson's theorem, what factorial must be divisible by n if some integer n > 4 is to be considered composite?",
+      "answer": "(n − 1)!",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What condition what must be satisfied in order for 1/p to be expressed in base q instead of base 10 and still have a period of p - 1?",
+      "answer": "p is not a prime factor of q",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "Assuming p is a prime other than 2 or 5, then according to Gluga's theorem, what type of decimal wil 1/p always be?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "According to Gluga's theorem, what period does 1/p always have assuming p is a prime that is not 2 or 5?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "According to Giuga's theorem, what factorial must be divisible by p if some integer p > 1 is to be considered prime?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "According to Gluga's theorem, what factorial must be divisible by n if some integer n > 4 is to be considered composite?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What condition must be satisfied in order for p to be expressed in base 1 instead of base 10 and still have a period of p-1?",
+      "answer": null,
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What is one type of public key cryptography algorithm?",
+      "answer": "RSA",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is another type of public key cryptography algorithm?",
+      "answer": "the Diffie–Hellman key exchange",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "How many bits are often in the primes used for RSA public key cryptography algorithms?",
+      "answer": "512-bit",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "On what type of exponentiation does the Diffie–Hellman key exchange depend on?",
+      "answer": "modular exponentiation",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "How many bits are typically used in the primes for the Diffie–Hellman key exchange?",
+      "answer": "1024-bit",
+      "llm_prediction": "1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is one type of private key cryptography algorithm?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is another type of private key cryptography algorithm?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "How many bits are often in the primes used for RSA private key cryptography algorithms?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "On what type of exponentiation does the prime logarithm key exchange depend on?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "How many bits are typically used in the key exchange logarithms for for the Diffie-Hellman key exchange?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What type of insect employs the use of prime numbers in its evolutionary strategy?",
+      "answer": "cicadas",
+      "llm_prediction": "what type of insect"
+    },
+    {
+      "question": "Where do cicadas spend the majority of their lives?",
+      "answer": "as grubs underground",
+      "llm_prediction": "cicadas spend the majority of their lives? [SEP] a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "Other than 7 and 13, what other year interval do cicadas pupate? ",
+      "answer": "17 years",
+      "llm_prediction": "13, what other year interval do cicadas pupate? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is the logic behind the cicadas prime number evolutionary strategy?",
+      "answer": "make it very difficult for predators to evolve that could specialize as predators",
+      "llm_prediction": "a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "How much larger would cicada predator populations be if cicada outbreaks occurred at 14 and 15 year intervals?",
+      "answer": "up to 2% higher",
+      "llm_prediction": "1"
+    },
+    {
+      "question": "What type of insect employs the use of Magicicadas in its evolutionary strategy?",
+      "answer": null,
+      "llm_prediction": "magicicadas"
+    },
+    {
+      "question": "Where do predators spend the majority of their lives?",
+      "answer": null,
+      "llm_prediction": "where do predators spend the majority of their lives? [SEP] a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "Other than 7 and 13, what other year interval do predators pupate?",
+      "answer": null,
+      "llm_prediction": "13"
+    },
+    {
+      "question": "What is the logic behind the cicadas outbreak?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "How much larger would cicada populations be if predator outbreaks occurred at 14 and 15 year intervals?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What does the word prime generally suggest?",
+      "answer": "indecomposability",
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "For a field F containing 0 and 1, what would be the prime field?",
+      "answer": "the smallest subfield",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What does it mean for a knot to be considered indecomposable?",
+      "answer": "it cannot be written as the knot sum of two nontrivial knots",
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "How can any knot be distinctively indicated?",
+      "answer": "as a connected sum of prime knots",
+      "llm_prediction": "as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is an additional meaning intended when the word prime is used?",
+      "answer": "any object can be, essentially uniquely, decomposed into its prime components",
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What does the word component generally suggest?",
+      "answer": null,
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "For a field F containing 0 and 1, what would be the prime knot field?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What does it mean for a knot to be considered a p element?",
+      "answer": null,
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "How can any knot be a field of F?",
+      "answer": null,
+      "llm_prediction": "as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is an additional meaning intended when the word component is used?",
+      "answer": null,
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is the name of an algebraic structure in which addition, subtraction and multiplication are defined?",
+      "answer": "commutative ring R",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What is one general concept that applies to elements of commutative rings?",
+      "answer": "prime elements",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is another general concept that applies to elements of commutative rings?",
+      "answer": "irreducible elements",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is one condition that an element p of R must satisfy in order to be considered a prime element?",
+      "answer": "it is neither zero nor a unit",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "Under what condition is an element irreducible?",
+      "answer": "cannot be written as a product of two ring elements that are not units",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is the name of an integer in which addition, subtraction, and multiplication are defined?",
+      "answer": null,
+      "llm_prediction": "a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What is one general concept that applies to elements of general xy?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is another general concept that applies to elements of general xy?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What is one condition that an element p of $ must satisfy in order to be considered a multiplicative inverse?",
+      "answer": null,
+      "llm_prediction": "are all valid factorizations of 3"
+    },
+    {
+      "question": "Under what condition is an element a general xy?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What theorem remains valid in unique factorization domains?",
+      "answer": "The fundamental theorem of arithmetic",
+      "llm_prediction": "what theorem remains valid in unique factorization domains? [SEP] a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "What is one example of a unique factorization domain?",
+      "answer": "the Gaussian integers Z[i]",
+      "llm_prediction": "5"
+    },
+    {
+      "question": "What form do complex Gaussian integers have? ",
+      "answer": "a + bi",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What do a and b represent in a Gaussian integer expression? ",
+      "answer": "arbitrary integers",
+      "llm_prediction": "a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Of what form are rational primes?",
+      "answer": "4k + 3",
+      "llm_prediction": "unique up to ordering"
+    },
+    {
+      "question": "What theorem remains valid in unique Gaussian primes?",
+      "answer": null,
+      "llm_prediction": "what theorem remains valid in unique gaussian primes? [SEP] a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "What is one example of unique rational primes?",
+      "answer": null,
+      "llm_prediction": "a prime number ( or a prime ) is a natural number greater than 1"
+    },
+    {
+      "question": "What form do complex rational primes have?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What do a and b represent in a rational prime expression?",
+      "answer": null,
+      "llm_prediction": "a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Of what form are rational Gaussians?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "In what theory is the idea of a number exchanged with that of an ideal?",
+      "answer": "In ring theory",
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What type of ideals generalize prime elements?",
+      "answer": "Prime ideals",
+      "llm_prediction": ""
+    },
+    {
+      "question": "What type of number theory utilizes and studies prime ideals?",
+      "answer": "algebraic number theory",
+      "llm_prediction": "what type of number theory utilizes and studies prime ideals? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Which theorem can be simplified to the Lasker–Noether theorem?",
+      "answer": "The fundamental theorem of arithmetic",
+      "llm_prediction": "the lasker – noether theorem"
+    },
+    {
+      "question": "What type of commutative ring does the Lasker–Noether theorem express every ideal as an intersection of primary ideals in?",
+      "answer": "a Noetherian commutative ring",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "In what theory is the idea of a number exchanged with that of Noetherian arithmetic?",
+      "answer": null,
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "What type of ideals generalize Noetherian arithmetic?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What type of number theory utilizes and studies Noetherian arithmetic?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Which theorem can be simplified to the prime ideals theorem?",
+      "answer": null,
+      "llm_prediction": "prime ideals theorem"
+    },
+    {
+      "question": "What type of commutative ring does the prime ideals theorem express every ideal as an intersection of Noetherian arithmetic in?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "What are the points of algebro-geometric objects?",
+      "answer": "Prime ideals",
+      "llm_prediction": "3, 1 · 3, 1 · 1 · 3"
+    },
+    {
+      "question": "What does factorization of prime ideals approximate?",
+      "answer": "ramification in geometry",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "In what type of ring can prime ideals be used for validating quadratic reciprocity?",
+      "answer": "ring of integers of quadratic number fields",
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What does quadratic reciprocity seek to achieve?",
+      "answer": "the solvability of quadratic equations",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What are the points of quadratic objects?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What does factorization of quadratic equations approximate?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "In what type of ring can prime ideals be used for validating number theory?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What does geometry ramification seek to achieve?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What exist both in quadratic equations and integers?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What happens to the norm when a number is multiplied by p?",
+      "answer": "norm gets smaller",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "To what may general global fields be transferred to or from?",
+      "answer": "completed (or local) fields",
+      "llm_prediction": "1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Completing Q with respect to what will produce the field of real numbers?",
+      "answer": "the absolute value",
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What principle highlights the significance of primes in number theory",
+      "answer": "local-global principle",
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What happens to the norm when a number is multiplied by Q?",
+      "answer": null,
+      "llm_prediction": "any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "To what may general arithmetic questions be transferred to or from?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "Completing p with respect to what will produce the field of real numbers?",
+      "answer": null,
+      "llm_prediction": "3"
+    },
+    {
+      "question": "What principle highlights the significance of real numbers?",
+      "answer": null,
+      "llm_prediction": ""
+    },
+    {
+      "question": "What gets smaller when a number is prime?",
+      "answer": null,
+      "llm_prediction": "a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "Which French composer wrote ametrical music using prime numbers?",
+      "answer": "Olivier Messiaen",
+      "llm_prediction": "which"
+    },
+    {
+      "question": "What is one work by Olivier Messiaen?",
+      "answer": "La Nativité du Seigneur",
+      "llm_prediction": "what is one work by olivier messiaen? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is another piece created by Olivier Messiaen?",
+      "answer": "Quatre études de rythme",
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "In which etude of Neumes rythmiques do the primes 41, 43, 47 and 53 appear in?",
+      "answer": "the third étude",
+      "llm_prediction": "etude of neumes rythmiques do the primes 41, 43, 47 and 53 appear in? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    },
+    {
+      "question": "Messiaen says that composition with prime numbers was inspired by what?",
+      "answer": "the movements of nature",
+      "llm_prediction": "the fundamental theorem of arithmetic"
+    },
+    {
+      "question": "Which French composer wrote metrical music using prime numbers?",
+      "answer": null,
+      "llm_prediction": "which"
+    },
+    {
+      "question": "What is one work by Neumes?",
+      "answer": null,
+      "llm_prediction": "what is one work by neumes? [SEP] a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "What is another piece created by Neumes?",
+      "answer": null,
+      "llm_prediction": "5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering"
+    },
+    {
+      "question": "IN which etude of Neumes rythmiques does the prime 19 appear in?",
+      "answer": null,
+      "llm_prediction": "all valid factorizations of 3"
+    },
+    {
+      "question": "What does Neumes say that composition with prime numbers was inspired by?",
+      "answer": null,
+      "llm_prediction": "the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3"
+    }
+  ]
+}
