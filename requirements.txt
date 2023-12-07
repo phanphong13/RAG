@@ -1,14 +1,25 @@
-langchain
-torch
-transformers
-sentence-transformers
-datasets
-faiss-cpu
-tiktoken 
-chromadb 
-pypdf 
-InstructorEmbedding
-accelerate 
-bitsandbytes 
-sentencepiece 
-Xformers
+# langchain
+# torch
+# transformers
+# sentence-transformers
+# datasets
+# faiss-cpu
+# tiktoken 
+# chromadb 
+# pypdf 
+# InstructorEmbedding
+# accelerate 
+# bitsandbytes 
+# sentencepiece 
+# Xformers
+
+evaluate
+rouge_score
+importlib-metadata
+datasets==2.10.1 
+git+https://github.com/google-research/bleurt.git
+sacrebleu
+bert_score==0.3.9
+sacremoses
+jiwer==2.5.1
+Cython 

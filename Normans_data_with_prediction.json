@@ -1,0 +1,1046 @@
+{
+  "title": "Normans",
+  "context": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.",
+  "qas": [
+    {
+      "question": "In what country is Normandy located?",
+      "answer": "France",
+      "llm_prediction": "<pad>  France.\n"
+    },
+    {
+      "question": "When were the Normans in Normandy?",
+      "answer": "10th and 11th centuries",
+      "llm_prediction": "<pad> The  Normans  were  in  Normandy  in  the  10th  and  11th  centuries.\n"
+    },
+    {
+      "question": "From which countries did the Norse originate?",
+      "answer": "Denmark, Iceland and Norway",
+      "llm_prediction": "<pad> The  Norse  originated  from  Scandinavia.\n"
+    },
+    {
+      "question": "Who was the Norse leader?",
+      "answer": "Rollo",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "What century did the Normans first gain their separate identity?",
+      "answer": "10th century",
+      "llm_prediction": "<pad> The  first  half  of  the  10th  century.\n"
+    },
+    {
+      "question": "Who gave their name to Normandy in the 1000's and 1100's",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  gave  their  name  to  Normandy  in  the  1000's  and  1100's.\n"
+    },
+    {
+      "question": "What is France a region of?",
+      "answer": null,
+      "llm_prediction": "<pad>  Europe.\n"
+    },
+    {
+      "question": "Who did King Charles III swear fealty to?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "When did the Frankish identity emerge?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Frankish  identity  emerged  in  the  5th  century.\n"
+    },
+    {
+      "question": "Who was the duke in the battle of Hastings?",
+      "answer": "William the Conqueror",
+      "llm_prediction": "<pad> Duke  William  II  of  Normandy.\n"
+    },
+    {
+      "question": "Who ruled the duchy of Normandy",
+      "answer": "Richard I",
+      "llm_prediction": "<pad> The  Dukes  of  Normandy  ruled  the  duchy  of  Normandy.\n"
+    },
+    {
+      "question": "What religion were the Normans",
+      "answer": "Catholic",
+      "llm_prediction": "<pad> The  Normans  were  descended  from  Norse  (\"Norman\"  comes  from  \"Norseman\")  raiders  and  pirates  from  Denmark,  Iceland  and  Norway  who,  under  their  leader  Rollo,  agreed  to  swear  fealty  to  King  Charles  III  of  West  Francia.  Therefore,  they  were  not  Christian.\n"
+    },
+    {
+      "question": "What type of major impact did the Norman dynasty have on modern Europe?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Norman  dynasty  had  a  major  impact  on  medieval  Europe  and  even  the  Near  East,  but  it  did  not  have  a  major  impact  on  modern  Europe.  The  Normans  were  a  medieval  dynasty  and  their  impact  on  medieval  Europe  and  the  Near  East  was  limited  to  medieval  Europe  and  the  Near  East.  They  did  not  have  a  major  impact  on  modern  Europe.\n"
+    },
+    {
+      "question": "Who was famed for their Christian spirit?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  mentioned  in  the  context.\n"
+    },
+    {
+      "question": "Who assimilted the Roman language?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Roman  language  was  assimilated  by  the  Romans  themselves.\n"
+    },
+    {
+      "question": "Who ruled the country of Normandy?",
+      "answer": null,
+      "llm_prediction": "<pad> King  Charles  III  of  West  Francia  and  the  famed  Viking  ruler  Rollo.\n"
+    },
+    {
+      "question": "What principality did William the conquerer found?",
+      "answer": null,
+      "llm_prediction": "<pad>  Normandy.\n"
+    },
+    {
+      "question": "What is the original meaning of the word Norman?",
+      "answer": "Viking",
+      "llm_prediction": "<pad> The  original  meaning  of  the  word  Norman  is  \"Norseman,  Viking\".\n"
+    },
+    {
+      "question": "When was the Latin version of the word Norman first recorded?",
+      "answer": "9th century",
+      "llm_prediction": "<pad> The  Latin  version  of  the  word  Norman  was  first  recorded  in  Medieval  Latin,  9th  century.\n"
+    },
+    {
+      "question": "What name comes from the English words Normans/Normanz?",
+      "answer": null,
+      "llm_prediction": "<pad> No  name  comes  from  the  English  words  Normans/Normanz.\n"
+    },
+    {
+      "question": "When was the French version of the word Norman first recorded?",
+      "answer": null,
+      "llm_prediction": "<pad> The  French  version  of  the  word  Norman  was  first  recorded  in  Medieval  Latin,  9th  century.\n"
+    },
+    {
+      "question": "When was the Duchy of Normandy founded?",
+      "answer": "911",
+      "llm_prediction": "<pad>  In  911.\n"
+    },
+    {
+      "question": "Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?",
+      "answer": "King Charles III",
+      "llm_prediction": "<pad> King  Charles  III  of  West  Francia.\n"
+    },
+    {
+      "question": "What river originally bounded the Duchy",
+      "answer": "Seine",
+      "llm_prediction": "<pad> The  river  that  originally  bounded  the  Duchy  of  Anjou  is  not  mentioned  in  the  context.\n"
+    },
+    {
+      "question": "when did Nors encampments ivolve into destructive incursions?",
+      "answer": null,
+      "llm_prediction": "<pad>  The  question  does  not  provide  enough  context  for  an  answer.  The  context  only  mentions  the  Norse  encampments  and  the  Appalachian  orogeny,  but  does  not  provide  information  on  when  Norse  encampments  evolved  into  destructive  incursions.  The  question  is  not  clear  or  specific  enough  to  answer  with  confidence.\n"
+    },
+    {
+      "question": "What treaty was established in the 9th century?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  The  9th  century  is  not  mentioned  in  the  context  provided.\n"
+    },
+    {
+      "question": "Who established a treaty with King Charles the third of France?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  Napoleon  III.\n"
+    },
+    {
+      "question": "What did the French promises to protect Rollo and his men from?",
+      "answer": null,
+      "llm_prediction": "<pad> The  French  government  did  not  promise  to  protect  Rollo  and  his  men  from  any  specific  enemy.  The  French  strategy  was  to  let  colonies  defend  themselves  or  would  offer  only  minimal  help  (sending  them  limited  numbers  of  troops  or  inexperienced  soldiers),  anticipating  that  fights  for  the  colonies  would  most  likely  be  lost  anyway.  The  French  government  did  not  have  the  resources  to  protect  Rollo  and  his  men  from  any  specific  enemy.\n"
+    },
+    {
+      "question": "Who upon arriving gave the original viking settlers a common identity?",
+      "answer": "Rollo",
+      "llm_prediction": "<pad> Not  mentioned  in  the  context.\n"
+    },
+    {
+      "question": "When did Rollo begin to arrive in Normandy?",
+      "answer": null,
+      "llm_prediction": "<pad> Rollo  began  to  arrive  in  Normandy  in  the  10th  century.\n"
+    },
+    {
+      "question": "What Viking groups were conquered by Rollo?",
+      "answer": null,
+      "llm_prediction": "<pad> Danes,  Norwegians,  Norse–Gaels,  Orkney  Vikings,  possibly  Swedes,  and  Anglo-Danes  from  the  English  Danelaw  under  Norse  control.\n"
+    },
+    {
+      "question": "What was the Norman religion?",
+      "answer": "Catholicism",
+      "llm_prediction": "<pad> The  context  does  not  provide  information  about  the  Norman  religion.\n"
+    },
+    {
+      "question": "What part of France were the Normans located?",
+      "answer": "north",
+      "llm_prediction": "<pad> The  Normans  were  located  in  the  region  of  Normandy  in  France.\n"
+    },
+    {
+      "question": "What was replace with the Norse religion?",
+      "answer": null,
+      "llm_prediction": "<pad>  The  Norse  religion  did  not  replace  any  religion.\n"
+    },
+    {
+      "question": "What did maternal Old Norse traditions merge with?",
+      "answer": null,
+      "llm_prediction": "<pad>  maternal  Old  Norse  traditions  merged  with  Old  English.\n"
+    },
+    {
+      "question": "What language replaced the Gallo-Romance language?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Castilian  Language  (known  as  Spanish)  slowly  over  the  centuries  began  influencing  the  Gallo-Romance  language  and  then  trying  to  replace  it.  The  same  thing  happened  to  Astur-Leonese  Language  to  the  point  where  it  is  greatly  reduced  or  completely  replaced  by  the  Castilian  (Spanish  Language).\n"
+    },
+    {
+      "question": "What was one of the Norman's major exports?",
+      "answer": "fighting horsemen",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Who adopted the fuedel doctrines of the Normans?",
+      "answer": null,
+      "llm_prediction": "<pad> The  feudal  doctrines  of  the  Normans  were  adopted  by  other  European  countries  and  regions.\n"
+    },
+    {
+      "question": "What was one of the Norman's major imports?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Who's arristocracy eventually served as avid Crusaders?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  provided.\n"
+    },
+    {
+      "question": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?",
+      "answer": "Seljuk Turks",
+      "llm_prediction": "<pad> The  Normans'  main  enemy  in  Italy,  the  Byzantine  Empire  and  Armenia  was  the  Pechenegs,  the  Bulgars,  and  especially  the  Seljuk  Turks.\n"
+    },
+    {
+      "question": "Who entered Italy soon after the Byzantine Empire?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Who did the Normans fight in Italy?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  did  not  fight  in  Italy.\n"
+    },
+    {
+      "question": "Who did the Normans encourage to come to the south?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "During what campaign did the Vargian and Lombard fight?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Varangian  and  Lombard  fought  during  the  Sicilian  campaign  of  George  Maniaces  in  1038–40.\n"
+    },
+    {
+      "question": "When did Herve serve as a Byzantine general?",
+      "answer": "1050s",
+      "llm_prediction": "<pad>  in  the  1050s.\n"
+    },
+    {
+      "question": "When did Robert Crispin go up against the Turks?",
+      "answer": "1060s",
+      "llm_prediction": "<pad>  In  the  1060s.\n"
+    },
+    {
+      "question": "Who ruined Roussel de Bailleul's plans for an independent state?",
+      "answer": "Alexius Komnenos",
+      "llm_prediction": "<pad> Not  provided.\n"
+    },
+    {
+      "question": "Who was the first Byzantine mercenary to serve with the Normans?",
+      "answer": null,
+      "llm_prediction": "<pad> No  one  is  mentioned  as  the  first  Byzantine  mercenary  to  serve  with  the  Normans.\n"
+    },
+    {
+      "question": "When did Herve serve as a Norman general?",
+      "answer": null,
+      "llm_prediction": "<pad>  In  the  1050s.\n"
+    },
+    {
+      "question": "Who ruined Alexius Komnenos plans for an independent state?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "When did Herve go up against the Turks?",
+      "answer": null,
+      "llm_prediction": "<pad> Herve  did  not  go  up  against  the  Turks  during  World  War  I.\n"
+    },
+    {
+      "question": "What was the name of the Norman castle?",
+      "answer": "Afranji",
+      "llm_prediction": "<pad>  Trim  Castle.\n"
+    },
+    {
+      "question": "Who was the leader when the Franks entered the Euphrates valley?",
+      "answer": "Oursel",
+      "llm_prediction": "<pad> The  leader  when  the  Franks  entered  the  Euphrates  valley  was  Raimbaud.\n"
+    },
+    {
+      "question": "Who did the Normans team up with in Anatolia?",
+      "answer": "Turkish forces",
+      "llm_prediction": "<pad> The  Normans  teamed  up  with  Turkish  forces  in  Anatolia.\n"
+    },
+    {
+      "question": "Who joined Norman forces in the destruction of the Armenians?",
+      "answer": null,
+      "llm_prediction": "<pad> Turkish  forces.\n"
+    },
+    {
+      "question": "Who did the Turks take up service with?",
+      "answer": null,
+      "llm_prediction": "<pad> You  don't  know,  you  can't  answer  the  question  without  more  context.\n"
+    },
+    {
+      "question": "What Frank led Norman forces?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Where did Oursel lead the Franks?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  In  northern  Gaul.\n"
+    },
+    {
+      "question": "What were the origins of the Raouliii family?",
+      "answer": "Norman mercenary",
+      "llm_prediction": "<pad> The  origins  of  the  Raouliii  family  were  Norman  mercenary  origin.\n"
+    },
+    {
+      "question": "Where were several Norman mercenary familes originate from?",
+      "answer": null,
+      "llm_prediction": "<pad> It  is  not  clear  where  several  Norman  mercenary  families  originate  from.  It  is  possible  that  they  originated  from  Norman  Italy,  but  it  is  also  possible  that  they  originated  from  other  places  in  France  or  other  parts  of  Europe.  It  is  also  possible  that  some  of  the  Norman  mercenaries  in  Greek  service  were  not  actually  Normans  but  rather  Frenchmen.\n"
+    },
+    {
+      "question": "Who did the Normans serve under in the 10th century?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  served  under  King  Charles  III  of  West  Francia  in  the  10th  century.\n"
+    },
+    {
+      "question": "What expedition did George Maniaces lead in the 10th century?",
+      "answer": null,
+      "llm_prediction": "<pad> George  Maniaces  did  not  lead  an  expedition  in  the  10th  century.\n"
+    },
+    {
+      "question": "What was the name of the count of Apulia ",
+      "answer": "Robert Guiscard",
+      "llm_prediction": "<pad> Answer:  Count  of  Oeiras\n"
+    },
+    {
+      "question": "When did Dyrrachium  fall to the Normans?",
+      "answer": "1082",
+      "llm_prediction": "<pad> February  1082.\n"
+    },
+    {
+      "question": "How many men were in Robert's army?",
+      "answer": "30,000",
+      "llm_prediction": "<pad> Answer:  400,000  men.\n"
+    },
+    {
+      "question": "Who ultimatly drove the Byzantines out of Europe?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Crusades  drove  the  Byzantines  out  of  Europe  with  their  Sack  of  Constantinople  in  1204.  The  Byzantine  Empire  was  re-established  after  the  Sack  of  Constantinople,  but  it  never  recovered  its  former  glory  and  was  eventually  driven  out  of  Europe.\n"
+    },
+    {
+      "question": "What pope opposed Roberts campaign?",
+      "answer": null,
+      "llm_prediction": "<pad> No  pope  opposed  Roberts'  campaign.\n"
+    },
+    {
+      "question": "What fell to the Normans in the 10th century?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  gave  their  name  to  Normandy,  a  region  in  France  in  the  10th  century.\n"
+    },
+    {
+      "question": "How many men did Roberts army face?",
+      "answer": null,
+      "llm_prediction": "<pad> Roberts  army  faced  a  total  of  60,000  men.\n"
+    },
+    {
+      "question": "Where did the Normans and Byzantines sign the peace treaty?",
+      "answer": "Deabolis",
+      "llm_prediction": "<pad> The  context  does  not  provide  information  on  where  the  Normans  and  Byzantines  signed  the  peace  treaty.  The  Normans  entered  the  Byzantine  Empire  and  then  Armenia,  fighting  against  the  Pechenegs,  the  Bulgars,  and  especially  the  Seljuk  Turks.  The  peace  treaty  was  likely  signed  in  the  Byzantine  capital  of  Constantinople.\n"
+    },
+    {
+      "question": "Who was Robert's son?",
+      "answer": "Bohemond",
+      "llm_prediction": "<pad> Robert  was  the  father  of  Lewis  Carroll.\n"
+    },
+    {
+      "question": "What river was Petrela located by?",
+      "answer": "Deabolis",
+      "llm_prediction": "<pad> Deabolis.\n"
+    },
+    {
+      "question": "Who did the Normans besiege in the 11th century?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  did  not  besiege  anyone  in  the  11th  century.\n"
+    },
+    {
+      "question": "Who did Robert lead agains Dyrrachium in 1107?",
+      "answer": null,
+      "llm_prediction": "<pad> No  one.  Robert  died  in  1085,  before  leading  the  Normans  against  Dyrrachium  in  1107.\n"
+    },
+    {
+      "question": "Who was Bohemond's son?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "When did the Normans attack Dyrrachium?",
+      "answer": "1185",
+      "llm_prediction": "<pad> 1185.\n"
+    },
+    {
+      "question": "What was the naval base called?",
+      "answer": "Dyrrachium",
+      "llm_prediction": "<pad> The  naval  base  was  called  Guantánamo  Bay  Naval  Base.\n"
+    },
+    {
+      "question": "Where was Dyrrachium located?",
+      "answer": "the Adriatic",
+      "llm_prediction": "<pad> Dyrrachium  was  located  in  the  Adriatic.\n"
+    },
+    {
+      "question": "Who attacked Dyrrachium in the 11th century?",
+      "answer": null,
+      "llm_prediction": "<pad> No  one  attacked  Dyrrachium  in  the  11th  century.\n"
+    },
+    {
+      "question": "Who betrayed the Normans?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  provided.\n"
+    },
+    {
+      "question": "What naval base fell to the Normans?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  Devonport  Dockyard.\n"
+    },
+    {
+      "question": "Who did Emma Marry?",
+      "answer": "King Ethelred II",
+      "llm_prediction": "<pad>  Emma  did  not  marry  anyone.\n"
+    },
+    {
+      "question": "Who was Emma's brother?",
+      "answer": "Duke Richard II",
+      "llm_prediction": "<pad> Duke  Richard  II  of  Normandy.\n"
+    },
+    {
+      "question": "To where did Ethelred flee?",
+      "answer": "Normandy",
+      "llm_prediction": "<pad>  Normandy.\n"
+    },
+    {
+      "question": "Who kicked Ethelred out?",
+      "answer": "Sweyn Forkbeard",
+      "llm_prediction": "<pad> Sweyn  Forkbeard.\n"
+    },
+    {
+      "question": "Who married Cnut the Great?",
+      "answer": null,
+      "llm_prediction": "<pad> I  don't  know,  I  don't  have  enough  information  to  answer  the  question.\n"
+    },
+    {
+      "question": "When did Richard II flee to Normandy?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  mentioned  in  the  context.\n"
+    },
+    {
+      "question": "Who's major ports were controlled by the English?",
+      "answer": null,
+      "llm_prediction": "<pad> London's  major  ports  were  controlled  by  the  English.\n"
+    },
+    {
+      "question": "Who was Edward the Confessor's half-brother?",
+      "answer": "Harthacnut",
+      "llm_prediction": "<pad> Harthacnut.\n"
+    },
+    {
+      "question": "When did Edward return?",
+      "answer": "1041",
+      "llm_prediction": "<pad>  1041.\n"
+    },
+    {
+      "question": "Who did Edward make archbishop of Canterbury?",
+      "answer": "Robert of Jumièges",
+      "llm_prediction": "<pad>  Robert  of  Jumièges.\n"
+    },
+    {
+      "question": "When did Edward the Confessor's son return from his fathers refuge?",
+      "answer": null,
+      "llm_prediction": "<pad>  1041.\n"
+    },
+    {
+      "question": "What kind of force did Harthacnut establish?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  enough  information  given.  Could  you  please  provide  more  context  or  clarify  the  question?\n"
+    },
+    {
+      "question": "Who made Robert of Jumieges earl of Hereford?",
+      "answer": null,
+      "llm_prediction": "<pad> Edward  the  Confessor.\n"
+    },
+    {
+      "question": "Where did Harold II die?",
+      "answer": "Battle of Hastings",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Who killed Harold II? ",
+      "answer": "William II",
+      "llm_prediction": "<pad> Not  provided.\n"
+    },
+    {
+      "question": "When was the Battle of Hastings?",
+      "answer": "1066",
+      "llm_prediction": "<pad> The  Battle  of  Hastings  was  fought  in  1066.\n"
+    },
+    {
+      "question": "Who was the ruling class ahead of the Normans?",
+      "answer": "Anglo-Saxons",
+      "llm_prediction": "<pad> The  ruling  class  ahead  of  the  Normans  was  the  Carolingian-based  cultures  of  West  Francia.\n"
+    },
+    {
+      "question": "When did King Harold II conquer England?",
+      "answer": null,
+      "llm_prediction": "<pad>  King  Harold  II  did  not  conquer  England.\n"
+    },
+    {
+      "question": "What battle took place in the 10th century?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  The  Battle  of  Vercellae  and  the  Battle  of  Aquae  Sextiae  took  place  in  the  10th  century.\n"
+    },
+    {
+      "question": "Who replaced the Normans as the ruling class?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Anglo-Saxons  replaced  the  Normans  as  the  ruling  class.\n"
+    },
+    {
+      "question": "Who considered their land on the continent their most important holding?",
+      "answer": null,
+      "llm_prediction": "<pad> No  one  considered  their  land  on  the  continent  their  most  important  holding.\n"
+    },
+    {
+      "question": "What was the Anglo-Norman language's final form?",
+      "answer": "Modern English",
+      "llm_prediction": "<pad> The  Anglo-Norman  language  was  eventually  absorbed  into  the  Anglo-Saxon  language  of  their  subjects  (see  Old  English)  and  influenced  it,  helping  (along  with  the  Norse  language  of  the  earlier  Anglo-Norse  settlers  and  the  Latin  used  by  the  church)  in  the  development  of  Middle  English.  It  in  turn  evolved  into  Modern  English.\n"
+    },
+    {
+      "question": "Who identified themselves as French during the Hundred Years War?",
+      "answer": null,
+      "llm_prediction": "<pad> The  French  kings  and  their  supporters  identified  themselves  as  French  during  the  Hundred  Years  War.\n"
+    },
+    {
+      "question": "What was absorbed into the Anglo-Norman language?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Anglo-Saxon  language  was  absorbed  into  the  Anglo-Norman  language.\n"
+    },
+    {
+      "question": "Who made fun of the Latin language?",
+      "answer": null,
+      "llm_prediction": "<pad> I  don't  know,  it  is  not  mentioned  in  the  context  provided.\n"
+    },
+    {
+      "question": "In what year did the Norman's invade at Bannow Bay?",
+      "answer": "1169",
+      "llm_prediction": "<pad> It  is  not  clear  from  the  context  provided  what  year  the  Norman's  invaded  at  Bannow  Bay.  The  question  is  asking  for  a  specific  year  and  the  context  does  not  provide  any  information  on  that  specific  year.\n"
+    },
+    {
+      "question": "What country did the Normans invade in 1169?",
+      "answer": "Ireland",
+      "llm_prediction": "<pad> Answer:  Iberia.\n"
+    },
+    {
+      "question": "What culture did the Normans combine with in Ireland?",
+      "answer": "Irish",
+      "llm_prediction": "<pad> The  Normans  combined  with  Irish  culture  in  Ireland.\n"
+    },
+    {
+      "question": "Where did the Normans invade in the 11th century?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  invaded  Normandy,  a  region  in  France,  in  the  11th  century.\n"
+    },
+    {
+      "question": "Who did the Irish culture have a profound effect on?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Irish  culture  had  a  profound  effect  on  the  Kennedys,  Tip  O'Neill,  and  John  F.  Fitzgerald.\n"
+    },
+    {
+      "question": "What castles were built by the Irish?",
+      "answer": null,
+      "llm_prediction": "<pad> No  castles  were  built  by  the  Irish.\n"
+    },
+    {
+      "question": "Who was Margaret's brother?",
+      "answer": "Edgar",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Who was Margaret's husband?",
+      "answer": "King Malcolm III of Scotland",
+      "llm_prediction": "<pad> Antony  Armstrong-Jones.\n"
+    },
+    {
+      "question": "When was Scotland invaded by William?",
+      "answer": "1072",
+      "llm_prediction": "<pad>  1072.\n"
+    },
+    {
+      "question": "Who was the hostage?",
+      "answer": "Duncan",
+      "llm_prediction": "<pad> 52  personnel  and  citizens.\n"
+    },
+    {
+      "question": "Who did Edgar marry?",
+      "answer": null,
+      "llm_prediction": "<pad> No,  Edgar  did  not  marry.\n"
+    },
+    {
+      "question": "Who invaded Scotland in the 10th century?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  Viking  invasions  began  in  the  9th  century,  followed  by  more  permanent  settlements  and  political  change—primarily  in  England.\n"
+    },
+    {
+      "question": "Who did the Scotish king take hostage?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  The  Scotish  king  took  hostage  William  de  Braose.\n"
+    },
+    {
+      "question": "Who did Alexander I marry?",
+      "answer": "Sybilla of Normandy",
+      "llm_prediction": "<pad> Answer:  Alexander  I  did  not  marry.\n"
+    },
+    {
+      "question": "What culture's arrival in Scotland is know as the \"Davidian Revolution\"?",
+      "answer": "Norman",
+      "llm_prediction": "<pad>  Norman  culture's  arrival  in  Scotland  is  known  as  the  \"Davidian  Revolution\".\n"
+    },
+    {
+      "question": "Who did King David I of Scotland Marry?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "What did Sybilla of Normandy introduce to Scotland?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  enough  information  provided.  Could  you  please  provide  more  context  or  clarify  the  question?\n"
+    },
+    {
+      "question": "Where was Ralph earl of?",
+      "answer": "Hereford",
+      "llm_prediction": "<pad> You  don't  know,  Ralph  Earl  of  is  not  mentioned  in  the  context  provided.\n"
+    },
+    {
+      "question": "Who was Ralph in charge of being at war with?",
+      "answer": "the Welsh",
+      "llm_prediction": "<pad> The  Welsh.\n"
+    },
+    {
+      "question": "Who made Ralph earl?",
+      "answer": "Edward the Confessor",
+      "llm_prediction": "<pad> Edward  the  Confessor.\n"
+    },
+    {
+      "question": "Who came into contact with Wales after the conquest of England?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  came  into  contact  with  Wales  after  the  conquest  of  England.\n"
+    },
+    {
+      "question": "Who made Edward the Confessor Earl?",
+      "answer": null,
+      "llm_prediction": "<pad> No  one.\n"
+    },
+    {
+      "question": "What country was under the control of Norman barons?",
+      "answer": "Wales",
+      "llm_prediction": "<pad> The  Marches.\n"
+    },
+    {
+      "question": "What came under Williams dominace before the conquest?",
+      "answer": null,
+      "llm_prediction": "<pad> Before  the  conquest,  the  Canarian  islands  of  Lanzarote,  Fuerteventura  and  El  Hierro  were  under  Williams  dominance.\n"
+    },
+    {
+      "question": "What Welsh lords did William conquer?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  mentioned  in  the  context.\n"
+    },
+    {
+      "question": "What year did Roger de Tosny fail to accomplish what he set out to do?",
+      "answer": "1018",
+      "llm_prediction": "<pad> Answer:  Roger  de  Tosny  failed  to  accomplish  what  he  set  out  to  do  in  the  year  1872.\n"
+    },
+    {
+      "question": "Who was in charge of the papal army in the War of Barbastro?",
+      "answer": "William of Montreuil",
+      "llm_prediction": "<pad> William  of  Montreuil.\n"
+    },
+    {
+      "question": "Where did the Normans carve out a principality before the First Crusade?",
+      "answer": null,
+      "llm_prediction": "<pad> Before  the  First  Crusade,  the  Normans  carved  out  a  principality  in  Antioch.\n"
+    },
+    {
+      "question": "What did the Normans take part in in the 10th century?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  gave  their  name  to  Normandy,  a  region  in  France  in  the  10th  century.\n"
+    },
+    {
+      "question": "Who carved out a state for himself from Moorish lands?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  John  carved  out  a  state  for  himself  from  Moorish  lands.\n"
+    },
+    {
+      "question": "What war occured in the 1oth century?",
+      "answer": null,
+      "llm_prediction": "<pad> No  war  occurred  in  the  1oth  century.\n"
+    },
+    {
+      "question": "When did the Siege of Antioch take place?",
+      "answer": "1097",
+      "llm_prediction": "<pad>  The  answer  is  210.\n"
+    },
+    {
+      "question": "What was the name of Bohemond's nephew?",
+      "answer": "Tancred",
+      "llm_prediction": "<pad>  Tancred.\n"
+    },
+    {
+      "question": "What major conquest did Tancred play a roll in?",
+      "answer": "Jerusalem",
+      "llm_prediction": "<pad> The  conquest  of  Jerusalem.\n"
+    },
+    {
+      "question": "When did Tancred lay siege to Antioch?",
+      "answer": null,
+      "llm_prediction": "<pad> 1097.\n"
+    },
+    {
+      "question": "What was the name of Tancred's nephew?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "How long did Western Europe control Cyprus?",
+      "answer": "380 years",
+      "llm_prediction": "<pad> Over  three  centuries  of  Ottoman  rule  between  1571  and  1878  (de  jure  until  1914).\n"
+    },
+    {
+      "question": "Who defeated Anglo-Norman forces during the third Crusade?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  The  third  Crusade  did  not  involve  defeating  Anglo-Norman  forces.\n"
+    },
+    {
+      "question": "Who dominated Western Europe for 380 years?",
+      "answer": null,
+      "llm_prediction": "<pad> Charlemagne  dominated  Western  Europe  for  380  years.\n"
+    },
+    {
+      "question": "What ruined Richard's plans to reach Acre?",
+      "answer": "a storm",
+      "llm_prediction": "<pad> Not  provided  in  the  context.\n"
+    },
+    {
+      "question": "Who was Richard's fiancee?",
+      "answer": "Berengaria",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "What year did the storm hit Richard's fleet?",
+      "answer": "1191",
+      "llm_prediction": "<pad>  1191.\n"
+    },
+    {
+      "question": "Who ruled Cyprus in 1191?",
+      "answer": "Isaac Komnenos",
+      "llm_prediction": "<pad> Answer:  The  Venetians.\n"
+    },
+    {
+      "question": "Who left Messina in the 11th century?",
+      "answer": null,
+      "llm_prediction": "<pad> You  don't  know,  the  context  doesn't  provide  enough  information  to  answer  the  question.\n"
+    },
+    {
+      "question": "What year did Richards fleet avoid a storm?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  provided.\n"
+    },
+    {
+      "question": "Who ruled Cyprus in the 11th century?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  The  11th  century  was  ruled  by  the  Arab  caliphates  for  a  short  period.\n"
+    },
+    {
+      "question": "Who was Guy's Rival?",
+      "answer": "Conrad of Montferrat",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "What were Isaac's chains made out of?",
+      "answer": "silver",
+      "llm_prediction": "<pad>  I  don't  know,  I  don't  know  what  Isaac's  chains  were  made  out  of.\n"
+    },
+    {
+      "question": "Who led Richard's troops when Cyprus was conquered?",
+      "answer": "Guy de Lusignan",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "Who's chains were made out of copper?",
+      "answer": null,
+      "llm_prediction": "<pad>  I  don't  know,  I  don't  know  who's  chains  were  made  out  of  copper.\n"
+    },
+    {
+      "question": "Who led Issacs troops to Cyprus?",
+      "answer": null,
+      "llm_prediction": "<pad> I  don't  know,  I  don't  know  who  led  Issacs  troops  to  Cyprus.\n"
+    },
+    {
+      "question": "Who offered Issac his daughter?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  Antiochus  II.\n"
+    },
+    {
+      "question": "What continent are the Canarian Islands off the coast of?",
+      "answer": "Africa",
+      "llm_prediction": "<pad>  Europe.\n"
+    },
+    {
+      "question": "Who conquered the Canary Island in the 14th century?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  Henry  III  of  Castile.\n"
+    },
+    {
+      "question": "What Islands are of the coast of Asia?",
+      "answer": null,
+      "llm_prediction": "<pad> No  Islands  are  of  the  coast  of  Asia.\n"
+    },
+    {
+      "question": "Who became the King of the Canary Islands?",
+      "answer": "Bethencourt",
+      "llm_prediction": "<pad> Bethencourt  became  the  King  of  the  Canary  Islands.\n"
+    },
+    {
+      "question": "Who bought the rights?",
+      "answer": "Enrique Pérez de Guzmán",
+      "llm_prediction": "<pad> Warner.\n"
+    },
+    {
+      "question": "Who sold the rights?",
+      "answer": "Maciot de Bethencourt",
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "What title did Henry II take in the Canary Island?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  Henry  II  of  Castile  did  not  take  any  title  in  the  Canary  Islands.\n"
+    },
+    {
+      "question": "Who sold the rights to the island in the 14th century?",
+      "answer": null,
+      "llm_prediction": "<pad> Jean's  nephew  Maciot  de  Bethencourt  sold  the  rights  to  the  islands  in  the  14th  century.\n"
+    },
+    {
+      "question": "Where are Jersey and Guernsey",
+      "answer": "Channel Islands",
+      "llm_prediction": "<pad> In  the  Channel  Islands.\n"
+    },
+    {
+      "question": "How many customaries does Norman customary law have?",
+      "answer": "two",
+      "llm_prediction": "<pad>  Two  customaries.\n"
+    },
+    {
+      "question": "What Norman law wasdeveloped between 1000 and 1300?",
+      "answer": null,
+      "llm_prediction": "<pad> No  Norman  law  was  developed  between  1000  and  1300.\n"
+    },
+    {
+      "question": "What law has 3 customeries?",
+      "answer": null,
+      "llm_prediction": "<pad>  Contract  law  has  3  customeries:  express,  implied,  and  common  law.\n"
+    },
+    {
+      "question": "What was authored in the 12th century?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Decretum,  the  standard  text  of  canon  law,  was  authored  in  the  12th  century.\n"
+    },
+    {
+      "question": "What is the Norman architecture idiom?",
+      "answer": "Romanesque",
+      "llm_prediction": "<pad> The  Norman  architecture  idiom  is  the  Romanesque  idiom.\n"
+    },
+    {
+      "question": "What kind of arches does Norman architecture have?",
+      "answer": "rounded",
+      "llm_prediction": "<pad> Round  arches.\n"
+    },
+    {
+      "question": "What type of arch did the Normans invent?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  did  not  invent  any  type  of  arch.  They  were  known  for  their  use  of  rounded  arches,  particularly  over  windows  and  doorways.\n"
+    },
+    {
+      "question": "What architecture type came after Norman in England?",
+      "answer": "Early Gothic",
+      "llm_prediction": "<pad> Early  Gothic.\n"
+    },
+    {
+      "question": "What architecture type came before Norman in England?",
+      "answer": "Anglo-Saxon",
+      "llm_prediction": "<pad> Anglo-Saxon  architecture  came  before  Norman  in  England.\n"
+    },
+    {
+      "question": "What place had the Norman Arab architectural style?",
+      "answer": "Sicily",
+      "llm_prediction": "<pad> The  Kingdom  of  Sicily.\n"
+    },
+    {
+      "question": "What precedes the period of Anglo-Saxon architecture?",
+      "answer": null,
+      "llm_prediction": "<pad> The  period  of  Norman  architecture  precedes  the  period  of  Anglo-Saxon  architecture.\n"
+    },
+    {
+      "question": "What architecture type came after Early Gothic?",
+      "answer": null,
+      "llm_prediction": "<pad>  Renaissance  architecture.\n"
+    },
+    {
+      "question": "Who incorperated Islamic, LOmbard, and Byzantine building techniques in England?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  incorporated  Islamic,  Lombard,  and  Byzantine  building  techniques  in  Italy,  but  they  did  not  incorporate  them  in  England.\n"
+    },
+    {
+      "question": "When did the church reform begin?",
+      "answer": "early 11th century",
+      "llm_prediction": "<pad> The  church  reform  began  as  the  Dissolution  of  the  Monasteries  was  put  into  effect.\n"
+    },
+    {
+      "question": "Who used the church to unify themselves?",
+      "answer": "dukes",
+      "llm_prediction": "<pad> You  don't  know,  the  church  is  not  mentioned  in  the  context  provided.\n"
+    },
+    {
+      "question": "What kind of art did the Normans have a rich tradition of?",
+      "answer": null,
+      "llm_prediction": "<pad> The  Normans  had  a  rich  tradition  of  embroidery.\n"
+    },
+    {
+      "question": "Who began a program of church reform in the 1100s",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  You  don't  know,  the  context  does  not  provide  enough  information  to  answer  this  question.\n"
+    },
+    {
+      "question": "Who was divided by the church?",
+      "answer": null,
+      "llm_prediction": "<pad> The  religious  and  the  worldly  realms  were  divided  by  the  church.\n"
+    },
+    {
+      "question": "Who experienced aa golden age in the 1100s and 1200s",
+      "answer": null,
+      "llm_prediction": "<pad> The  1100s  and  1200s  were  not  a  golden  age  for  any  civilization.\n"
+    },
+    {
+      "question": "When were the French wars of religion?",
+      "answer": "16th century",
+      "llm_prediction": "<pad>  The  French  Wars  of  Religion  were  in  the  16th  century.\n"
+    },
+    {
+      "question": "What wars did France fight in the 1600s?",
+      "answer": null,
+      "llm_prediction": "<pad> Answer:  France  did  not  fight  any  wars  in  the  1600s.\n"
+    },
+    {
+      "question": "What revolution was fought in the 1899's?",
+      "answer": null,
+      "llm_prediction": "<pad> No  revolution  was  fought  in  the  1899's.\n"
+    },
+    {
+      "question": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+      "answer": "embroidery",
+      "llm_prediction": "<pad> Embroidery.\n"
+    },
+    {
+      "question": "What is Norman art's most well known piece?",
+      "answer": "Bayeux Tapestry",
+      "llm_prediction": "<pad> The  Bayeux  Tapestry.\n"
+    },
+    {
+      "question": "Who commissioned the Tapestry?",
+      "answer": "Odo",
+      "llm_prediction": "<pad> Odo,  the  Bishop  of  Bayeux  and  first  Earl  of  Kent.\n"
+    },
+    {
+      "question": "What is the oldest work of Norman art?",
+      "answer": null,
+      "llm_prediction": "<pad> The  oldest  work  of  Norman  art  is  the  Bayeux  Tapestry.\n"
+    },
+    {
+      "question": "Who commissioned Danish vikings to create the Bayeux Tapestry?",
+      "answer": null,
+      "llm_prediction": "<pad> No  one.  The  Bayeux  Tapestry  was  commissioned  by  Odo,  the  Bishop  of  Bayeux  and  first  Earl  of  Kent,  who  employed  natives  from  Kent  who  were  learned  in  the  Nordic  traditions  imported  in  the  previous  half  century  by  the  Danish  Vikings.\n"
+    },
+    {
+      "question": "What is the most important type of Norman art preserved in churches?",
+      "answer": "mosaics",
+      "llm_prediction": "<pad> The  most  important  type  of  Norman  art  preserved  in  churches  is  the  Bayeux  Tapestry,  which  is  not  a  tapestry  but  a  work  of  embroidery.\n"
+    },
+    {
+      "question": "How has British art survived in Normandy?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  enough  information  provided.  Could  you  please  provide  more  context  or  clarify  the  question?\n"
+    },
+    {
+      "question": "What is the most common form of Norman art in churches?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    },
+    {
+      "question": "What was a centre of ivorywork in the 1100s?",
+      "answer": null,
+      "llm_prediction": "<pad> Lombard  Salerno.\n"
+    },
+    {
+      "question": "In what century did important classical music developments occur in Normandy?",
+      "answer": "11th",
+      "llm_prediction": "<pad>  The  11th  century.\n"
+    },
+    {
+      "question": "Who were the two abbots at Fécamp Abbey?",
+      "answer": "William of Volpiano and John of Ravenna",
+      "llm_prediction": "<pad> Answer:  The  two  abbots  at  Fécamp  Abbey  were  the  Benedictines  of  Westminster.\n"
+    },
+    {
+      "question": "What developed in Normandy during the 1100s?",
+      "answer": null,
+      "llm_prediction": "<pad> Normandy  experienced  a  golden  age  of  illustrated  manuscripts.\n"
+    },
+    {
+      "question": "What was Fecamp Abby the center of?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  provided.\n"
+    },
+    {
+      "question": "Where did the monks flee to?",
+      "answer": "southern Italy",
+      "llm_prediction": "<pad> The  monks  did  not  flee  to  any  specific  place.  They  were  sent  by  the  Yongle  Emperor  to  Tibet  to  seek  out  the  Karmapa.\n"
+    },
+    {
+      "question": "What monastery did the Saint-Evroul monks establish in Italy?",
+      "answer": "Latin monastery at Sant'Eufemia.",
+      "llm_prediction": "<pad> The  Saint-Evroul  monks  established  a  Latin  monastery  at  Sant'Eufemia  in  Italy.\n"
+    },
+    {
+      "question": "Who patronized the monks in Italy? ",
+      "answer": "Robert Guiscard",
+      "llm_prediction": "<pad> Not  provided  in  the  context.\n"
+    },
+    {
+      "question": "What tradition were the Saint-Evroul monks known for?",
+      "answer": "singing",
+      "llm_prediction": "<pad> The  Saint-Evroul  monks  were  known  for  their  tradition  of  singing.\n"
+    },
+    {
+      "question": "Who fled from southern Italy?",
+      "answer": null,
+      "llm_prediction": "<pad> Not  specified.\n"
+    }
+  ]
+}

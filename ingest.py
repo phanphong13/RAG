@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, pipeline
 from langchain import HuggingFacePipeline
 from langchain.chains import RetrievalQA
 
-DB_FAISS_PATH = "vectorstores1/db_faiss/"
+DB_FAISS_PATH = "vectorstores/db_faiss/"
 
 
 dataset_name = "databricks/databricks-dolly-15k"
